@@ -19,6 +19,32 @@ def _escape(text: str) -> str:
     return text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
 
+def _sectioned_items(groups: dict[str, list[NewsItem]]) -> list[NewsItem]:
+    used_ids = set()
+    ordered: list[NewsItem] = []
+
+    for key in ["military", "diplomatic", "economic"]:
+        count = 0
+        for item in groups.get(key, []):
+            if item.item_id in used_ids:
+                continue
+            ordered.append(item)
+            used_ids.add(item.item_id)
+            count += 1
+            if count >= MAX_ITEMS_PER_SECTION:
+                break
+
+    for item in groups.get("minor", []):
+        if item.item_id in used_ids:
+            continue
+        ordered.append(item)
+        used_ids.add(item.item_id)
+        if len([x for x in ordered if x.primary_category() == "minor"]) >= 5:
+            break
+
+    return ordered
+
+
 def build_digest(groups: dict[str, list[NewsItem]]) -> str:
     lines: List[str] = [f"🕘 <b>{_escape(APP_NAME)}</b> | {now_local_str()}", ""]
     used_ids = set()
@@ -72,8 +98,10 @@ def build_breaking(item: NewsItem) -> str:
     ])
 
 
-def digest_hash(text: str) -> str:
-    return hashlib.sha256(text.encode("utf-8")).hexdigest()
+def digest_hash(groups: dict[str, list[NewsItem]]) -> str:
+    items = _sectioned_items(groups)
+    raw = "|".join(f"{item.item_id}:{item.score}" for item in items)
+    return hashlib.sha256(raw.encode("utf-8")).hexdigest()
 
 
 def _targets() -> list[str]:

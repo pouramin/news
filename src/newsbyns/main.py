@@ -8,6 +8,16 @@ from .telegram import build_breaking, build_digest, digest_hash, send_message
 from .utils import now_iso_utc
 
 
+ORDERED_KEYS = ["military", "diplomatic", "economic", "minor"]
+
+
+def _only_unsent(groups, sent_ids: set[str]) -> dict[str, list]:
+    return {
+        key: [item for item in groups.get(key, []) if item.item_id not in sent_ids]
+        for key in ORDERED_KEYS
+    }
+
+
 def main() -> None:
     state = load_state()
     sent_ids = set(state.get("sent_ids", []))
@@ -16,7 +26,7 @@ def main() -> None:
     fetched = fetch_all_items()
     groups = process_items(fetched)
 
-    # Breaking alerts first
+    # Send breaking alerts only once, and mark them as already sent
     new_breaking = []
     for key in ["military", "diplomatic", "economic"]:
         for item in groups.get(key, []):
@@ -26,24 +36,18 @@ def main() -> None:
     for item in new_breaking[:5]:
         send_message(build_breaking(item))
         breaking_ids.add(item.item_id)
+        sent_ids.add(item.item_id)
 
-    # Digest only if there is at least one unsent item in the digest groups
-    unsent_present = False
-    for key in ["military", "diplomatic", "economic", "minor"]:
-        for item in groups.get(key, []):
-            if item.item_id not in sent_ids:
-                unsent_present = True
-                break
-        if unsent_present:
-            break
-
-    digest_text = build_digest(groups)
-    current_hash = digest_hash(digest_text)
+    # Build digest only from truly unseen items
+    unsent_groups = _only_unsent(groups, sent_ids)
+    unsent_present = any(unsent_groups.get(key) for key in ORDERED_KEYS)
+    current_hash = digest_hash(unsent_groups)
 
     if unsent_present and current_hash != state.get("last_digest_hash", ""):
+        digest_text = build_digest(unsent_groups)
         send_message(digest_text)
-        for key in ["military", "diplomatic", "economic", "minor"]:
-            for item in groups.get(key, []):
+        for key in ORDERED_KEYS:
+            for item in unsent_groups.get(key, []):
                 sent_ids.add(item.item_id)
         state["last_digest_hash"] = current_hash
 
@@ -57,8 +61,11 @@ def main() -> None:
         {
             "fetched_count": len(fetched),
             "group_counts": {k: len(v) for k, v in groups.items()},
+            "unsent_group_counts": {k: len(v) for k, v in unsent_groups.items()},
             "new_breaking_ids": [x.item_id for x in new_breaking],
             "digest_hash": current_hash,
+            "state_sent_ids_count": len(state["sent_ids"]),
+            "state_breaking_ids_count": len(state["breaking_ids"]),
         },
     )
 

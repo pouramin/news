@@ -1,0 +1,13 @@
+{
+  "rss": [
+    {"name": "Reuters World", "url": "https://feeds.reuters.com/Reuters/worldNews", "weight": 10},
+    {"name": "Reuters Top News", "url": "https://feeds.reuters.com/reuters/topNews", "weight": 10},
+    {"name": "AP News", "url": "https://apnews.com/hub/ap-top-news?output=rss", "weight": 8},
+    {"name": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml", "weight": 8},
+    {"name": "BBC World", "url": "http://feeds.bbci.co.uk/news/world/rss.xml", "weight": 8},
+    {"name": "Times of Israel", "url": "https://www.timesofisrael.com/feed/", "weight": 7},
+    {"name": "Jerusalem Post", "url": "https://www.jpost.com/rss/rssfeedsfrontpage.aspx", "weight": 6},
+    {"name": "The National", "url": "https://www.thenationalnews.com/rss", "weight": 6},
+    {"name": "Defense News", "url": "https://www.defensenews.com/arc/outboundfeeds/rss/category/global/?outputType=xml", "weight": 7}
+  ]
+}

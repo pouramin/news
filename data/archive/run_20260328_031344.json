@@ -1,0 +1,14 @@
+{
+  "fetched_count": 92,
+  "group_counts": {
+    "military": 32,
+    "economic": 3,
+    "diplomatic": 7,
+    "minor": 6
+  },
+  "new_breaking_ids": [
+    "288594465d0a7564d1c992b2"
+  ],
+  "digest_hash": "4bb9a0e15206f904a13fa449c2c63296a48afb139a6837be74440e1c01987426",
+  "archived_at": "2026-03-28T03:13:44.038401+00:00"
+}

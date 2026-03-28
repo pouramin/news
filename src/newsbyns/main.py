@@ -1,74 +1,74 @@
 from __future__ import annotations
-from datetime import datetime
-
-from .fetchers import fetch_all_items
-from .pipeline import process_items
-from .storage import archive_payload, load_state, save_state
+from collections import defaultdict
+from .fetchers import fetch_all
+from .processor import enrich, semantic_dedupe, unseen_items, split_groups, pick_breaking, sort_items
+from .storage import load_state, save_state, write_archive
 from .telegram import build_breaking, build_digest, digest_hash, send_message
-from .utils import now_iso_utc
+from .translator import translate_cached
+from .utils import iso_now
 
-
-ORDERED_KEYS = ["military", "diplomatic", "economic", "minor"]
-
-
-def _only_unsent(groups, sent_ids: set[str]) -> dict[str, list]:
-    return {
-        key: [item for item in groups.get(key, []) if item.item_id not in sent_ids]
-        for key in ORDERED_KEYS
-    }
-
-
-def main() -> None:
+def run():
     state = load_state()
-    sent_ids = set(state.get("sent_ids", []))
-    breaking_ids = set(state.get("breaking_ids", []))
+    raw = fetch_all()
+    enriched = enrich(raw)
+    deduped = semantic_dedupe(enriched)
+    fresh = unseen_items(deduped, state)
+    fresh = sort_items(fresh)
 
-    fetched = fetch_all_items()
-    groups = process_items(fetched)
+    # translate only fresh titles, cached
+    for item in fresh:
+        item.title_fa = translate_cached(item.title, state)
 
-    # Send breaking alerts only once, and mark them as already sent
-    new_breaking = []
-    for key in ["military", "diplomatic", "economic"]:
-        for item in groups.get(key, []):
-            if item.is_breaking and item.item_id not in breaking_ids:
-                new_breaking.append(item)
+    sent_now = []
+    breaking_sent = []
 
-    for item in new_breaking[:5]:
+    # breaking first
+    for item in pick_breaking(fresh, state):
         send_message(build_breaking(item))
-        breaking_ids.add(item.item_id)
-        sent_ids.add(item.item_id)
+        state["breaking_ids"].append(item.item_id)
+        state["sent_ids"].append(item.item_id)
+        state["sent_signatures"].append(item.signature)
+        breaking_sent.append(item)
+        sent_now.append(item)
 
-    # Build digest only from truly unseen items
-    unsent_groups = _only_unsent(groups, sent_ids)
-    unsent_present = any(unsent_groups.get(key) for key in ORDERED_KEYS)
-    current_hash = digest_hash(unsent_groups)
+    remaining = [i for i in fresh if i.item_id not in set(state.get("sent_ids", []))]
+    groups = split_groups(remaining)
+    digest_items = []
+    for key in ["military", "diplomatic", "economic", "minor"]:
+        digest_items.extend(groups.get(key, []))
 
-    if unsent_present and current_hash != state.get("last_digest_hash", ""):
-        digest_text = build_digest(unsent_groups)
+    d_hash = digest_hash(digest_items) if digest_items else ""
+    digest_text = build_digest(groups) if digest_items else ""
+
+    digest_sent = False
+    if digest_items and digest_text and d_hash != state.get("last_digest_hash", ""):
         send_message(digest_text)
-        for key in ORDERED_KEYS:
-            for item in unsent_groups.get(key, []):
-                sent_ids.add(item.item_id)
-        state["last_digest_hash"] = current_hash
+        digest_sent = True
+        state["last_digest_hash"] = d_hash
+        for item in digest_items:
+            state["sent_ids"].append(item.item_id)
+            state["sent_signatures"].append(item.signature)
+            sent_now.append(item)
 
-    state["sent_ids"] = sorted(sent_ids)[-5000:]
-    state["breaking_ids"] = sorted(breaking_ids)[-5000:]
-    state["last_run_iso"] = now_iso_utc()
+    state["last_run_iso"] = iso_now()
+    if breaking_sent:
+        state["last_breaking_run_iso"] = state["last_run_iso"]
+
     save_state(state)
 
-    archive_payload(
-        datetime.utcnow().strftime("run_%Y%m%d_%H%M%S"),
-        {
-            "fetched_count": len(fetched),
-            "group_counts": {k: len(v) for k, v in groups.items()},
-            "unsent_group_counts": {k: len(v) for k, v in unsent_groups.items()},
-            "new_breaking_ids": [x.item_id for x in new_breaking],
-            "digest_hash": current_hash,
-            "state_sent_ids_count": len(state["sent_ids"]),
-            "state_breaking_ids_count": len(state["breaking_ids"]),
-        },
-    )
-
+    write_archive({
+        "run_iso": state["last_run_iso"],
+        "raw_count": len(raw),
+        "enriched_count": len(enriched),
+        "deduped_count": len(deduped),
+        "fresh_count": len(fresh),
+        "breaking_sent_count": len(breaking_sent),
+        "digest_sent": digest_sent,
+        "digest_item_count": len(digest_items),
+        "sent_now_count": len(sent_now),
+        "sent_now_ids": [i.item_id for i in sent_now],
+        "remaining_unsent_count": max(len(fresh) - len(sent_now), 0),
+    })
 
 if __name__ == "__main__":
-    main()
+    run()

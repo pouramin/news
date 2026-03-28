@@ -1,10 +1,8 @@
 from __future__ import annotations
 import hashlib
 from typing import List
-
 import requests
-
-from .config import APP_NAME, MAX_ITEMS_PER_SECTION, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, TELEGRAM_CHANNEL_ID
+from .config import TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, TELEGRAM_CHANNEL_ID, MAX_ITEMS_PER_SECTION, MAX_MINOR_ITEMS, LOCAL_TZ
 from .models import NewsItem
 from .utils import now_local_str
 
@@ -14,95 +12,8 @@ CATEGORY_TITLES = {
     "economic": "🟢 اقتصادی",
 }
 
-
 def _escape(text: str) -> str:
-    return text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
-
-
-def _sectioned_items(groups: dict[str, list[NewsItem]]) -> list[NewsItem]:
-    used_ids = set()
-    ordered: list[NewsItem] = []
-
-    for key in ["military", "diplomatic", "economic"]:
-        count = 0
-        for item in groups.get(key, []):
-            if item.item_id in used_ids:
-                continue
-            ordered.append(item)
-            used_ids.add(item.item_id)
-            count += 1
-            if count >= MAX_ITEMS_PER_SECTION:
-                break
-
-    for item in groups.get("minor", []):
-        if item.item_id in used_ids:
-            continue
-        ordered.append(item)
-        used_ids.add(item.item_id)
-        if len([x for x in ordered if x.primary_category() == "minor"]) >= 5:
-            break
-
-    return ordered
-
-
-def build_digest(groups: dict[str, list[NewsItem]]) -> str:
-    lines: List[str] = [f"🕘 <b>{_escape(APP_NAME)}</b> | {now_local_str()}", ""]
-    used_ids = set()
-    total = 0
-
-    for key in ["military", "diplomatic", "economic"]:
-        section = []
-        for item in groups.get(key, []):
-            if item.item_id in used_ids:
-                continue
-            section.append(item)
-            used_ids.add(item.item_id)
-            if len(section) >= MAX_ITEMS_PER_SECTION:
-                break
-        if not section:
-            continue
-        lines.append(f"<b>{CATEGORY_TITLES[key]}</b>")
-        for item in section:
-            lines.append(f"• [{item.score}] {_escape(item.title)}")
-            lines.append(f"  منبع: {_escape(item.source)}")
-            lines.append(f"  لینک: {item.url}")
-            lines.append("")
-            total += 1
-
-    minor = [x for x in groups.get("minor", []) if x.item_id not in used_ids][:5]
-    if minor:
-        lines.append("<b>⚪️ نکات قابل توجه</b>")
-        for item in minor:
-            lines.append(f"• [{item.score}] {_escape(item.title)}")
-            lines.append(f"  منبع: {_escape(item.source)}")
-            lines.append(f"  لینک: {item.url}")
-            lines.append("")
-            total += 1
-
-    if total == 0:
-        lines.append("خبر قابل توجه تازه‌ای در این اجرا پیدا نشد.")
-    return "\n".join(lines).strip()
-
-
-def build_breaking(item: NewsItem) -> str:
-    cat_map = {"military": "نظامی", "diplomatic": "دیپلماتیک", "economic": "اقتصادی", "minor": "عمومی"}
-    cats = " / ".join(cat_map.get(c, c) for c in item.categories) if item.categories else "عمومی"
-    return "\n".join([
-        f"🚨 <b>خبر فوری | {_escape(APP_NAME)}</b>",
-        "",
-        f"دسته: {cats}",
-        f"امتیاز: {item.score}",
-        f"منبع: {_escape(item.source)}",
-        f"عنوان: {_escape(item.title)}",
-        f"لینک: {item.url}",
-    ])
-
-
-def digest_hash(groups: dict[str, list[NewsItem]]) -> str:
-    items = _sectioned_items(groups)
-    raw = "|".join(f"{item.item_id}:{item.score}" for item in items)
-    return hashlib.sha256(raw.encode("utf-8")).hexdigest()
-
+    return (text or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
 def _targets() -> list[str]:
     targets = []
@@ -112,6 +23,66 @@ def _targets() -> list[str]:
         targets.append(TELEGRAM_CHANNEL_ID)
     return targets
 
+def build_digest(groups: dict) -> str:
+    lines: List[str] = [f"🕘 <b>News By NS</b> | {now_local_str(LOCAL_TZ)}", ""]
+    total_added = 0
+    for key in ["military", "diplomatic", "economic"]:
+        items: List[NewsItem] = groups.get(key, [])[:MAX_ITEMS_PER_SECTION]
+        if not items:
+            continue
+        lines.append(f"<b>{CATEGORY_TITLES[key]}</b>")
+        for item in items:
+            title = item.title_fa or item.title
+            if item.title_fa and item.title_fa != item.title:
+                lines.append(f"• [{item.score}] {_escape(title)}")
+                lines.append(f"  EN: {_escape(item.title)}")
+            else:
+                lines.append(f"• [{item.score}] {_escape(title)}")
+            lines.append(f"  منبع: {_escape(item.source)}")
+            lines.append(f"  لینک: {item.url}")
+            lines.append("")
+            total_added += 1
+
+    minor = groups.get("minor", [])[:MAX_MINOR_ITEMS]
+    if minor:
+        lines.append("<b>⚪️ نکات قابل توجه</b>")
+        for item in minor:
+            title = item.title_fa or item.title
+            if item.title_fa and item.title_fa != item.title:
+                lines.append(f"• [{item.score}] {_escape(title)}")
+                lines.append(f"  EN: {_escape(item.title)}")
+            else:
+                lines.append(f"• [{item.score}] {_escape(title)}")
+            lines.append(f"  منبع: {_escape(item.source)}")
+            lines.append(f"  لینک: {item.url}")
+            lines.append("")
+            total_added += 1
+
+    if total_added == 0:
+        return ""
+    return "\n".join(lines).strip()
+
+def build_breaking(item: NewsItem) -> str:
+    cat_map = {"military": "نظامی", "diplomatic": "دیپلماتیک", "economic": "اقتصادی"}
+    category_fa = " / ".join(cat_map.get(x, x) for x in item.categories) if item.categories else "عمومی"
+    title = item.title_fa or item.title
+    lines = [
+        "🚨 <b>خبر فوری | News By NS</b>",
+        "",
+        f"دسته: {category_fa}",
+        f"امتیاز: {item.score}",
+        f"منبع: {_escape(item.source)}",
+        f"عنوان: {_escape(title)}",
+    ]
+    if item.title_fa and item.title_fa != item.title:
+        lines.append(f"EN: {_escape(item.title)}")
+    lines.append(f"لینک: {item.url}")
+    return "\n".join(lines)
+
+def digest_hash(items: list[NewsItem]) -> str:
+    # time-independent hash: only content IDs/signatures
+    raw = "|".join(sorted(f"{i.item_id}:{i.signature}:{i.score}" for i in items))
+    return hashlib.sha256(raw.encode("utf-8")).hexdigest()
 
 def send_message(text: str) -> list[dict]:
     if not TELEGRAM_BOT_TOKEN:
@@ -120,7 +91,7 @@ def send_message(text: str) -> list[dict]:
     if not targets:
         raise RuntimeError("Missing TELEGRAM_CHAT_ID / TELEGRAM_CHANNEL_ID")
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
-    out = []
+    results = []
     for chat_id in targets:
         payload = {
             "chat_id": chat_id,
@@ -128,7 +99,7 @@ def send_message(text: str) -> list[dict]:
             "parse_mode": "HTML",
             "disable_web_page_preview": True,
         }
-        res = requests.post(url, data=payload, timeout=20)
-        res.raise_for_status()
-        out.append(res.json())
-    return out
+        response = requests.post(url, data=payload, timeout=20)
+        response.raise_for_status()
+        results.append(response.json())
+    return results

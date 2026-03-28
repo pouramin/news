@@ -1,6 +1,9 @@
 {
   "sent_ids": [],
+  "sent_signatures": [],
   "breaking_ids": [],
   "last_digest_hash": "",
-  "last_run_iso": ""
+  "last_run_iso": "",
+  "last_breaking_run_iso": "",
+  "translator_cache": {}
 }

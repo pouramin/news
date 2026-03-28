@@ -36,17 +36,17 @@ jobs:
         run: |
           mkdir -p data
           mkdir -p data/archive
-          [ -f data/state.json ] || echo '{"sent_ids": [], "breaking_ids": [], "last_digest_hash": "", "last_run_iso": ""}' > data/state.json
 
       - name: Run bot
         env:
-          APP_NAME: News By NS
-          TIMEZONE_NAME: Europe/Rome
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
           NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
           GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
+          AZURE_TRANSLATOR_KEY: ${{ secrets.AZURE_TRANSLATOR_KEY }}
+          AZURE_TRANSLATOR_REGION: ${{ secrets.AZURE_TRANSLATOR_REGION }}
+          AZURE_TRANSLATOR_ENDPOINT: ${{ secrets.AZURE_TRANSLATOR_ENDPOINT }}
         run: |
           python -m src.newsbyns.main
 

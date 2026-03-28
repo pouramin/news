@@ -1,12 +1,14 @@
-Cloudflare Worker Variables:
-APP_NAME=News By NS
-GITHUB_OWNER=YOUR_GITHUB_USERNAME
-GITHUB_REPO=YOUR_REPO_NAME
-WORKFLOW_FILE=hourly_digest.yml
-DEFAULT_REF=main
-TELEGRAM_ALLOWED_CHAT_ID=YOUR_PERSONAL_CHAT_ID
+Set these in Cloudflare Worker dashboard:
 
-Cloudflare Worker Secrets:
-TELEGRAM_BOT_TOKEN
-TELEGRAM_WEBHOOK_SECRET
-GITHUB_PAT
+Variables:
+- APP_NAME = News By NS
+- GITHUB_OWNER = your-github-username
+- GITHUB_REPO = your-repo-name
+- WORKFLOW_FILE = hourly_digest.yml
+- DEFAULT_REF = main
+- TELEGRAM_ALLOWED_CHAT_ID = your-personal-chat-id
+
+Secrets:
+- TELEGRAM_BOT_TOKEN
+- TELEGRAM_WEBHOOK_SECRET
+- GITHUB_PAT

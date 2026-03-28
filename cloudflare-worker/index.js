@@ -1,7 +1,8 @@
-const json = (data, status = 200) => new Response(JSON.stringify(data), {
-  status,
-  headers: { "content-type": "application/json; charset=utf-8" },
-});
+const json = (data, status = 200) =>
+  new Response(JSON.stringify(data), {
+    status,
+    headers: { "content-type": "application/json; charset=utf-8" },
+  });
 
 async function tg(method, body, env) {
   const res = await fetch(`https://api.telegram.org/bot${env.TELEGRAM_BOT_TOKEN}/${method}`, {
@@ -32,64 +33,6 @@ async function dispatchWorkflow(env) {
   }
 }
 
-async function handleCommand(message, env) {
-  const chatId = String(message.chat.id);
-  const text = (message.text || "").trim();
-  if (env.TELEGRAM_ALLOWED_CHAT_ID && chatId !== String(env.TELEGRAM_ALLOWED_CHAT_ID)) {
-    await tg("sendMessage", { chat_id: chatId, text: "این چت برای اجرای دستی مجاز نیست." }, env);
-    return;
-  }
-  if (text.startsWith("/new")) {
-    await dispatchWorkflow(env);
-    await tg("sendMessage", {
-      chat_id: chatId,
-      text: "درخواست ثبت شد. GitHub workflow اجرا می‌شود و اگر خبر جدید باشد منتشر خواهد شد.",
-      reply_markup: { inline_keyboard: [[{ text: "🔄 اجرای دوباره", callback_data: "run_now" }]] }
-    }, env);
-    return;
-  }
-  if (text.startsWith("/status")) {
-    await tg("sendMessage", {
-      chat_id: chatId,
-      text: `${env.APP_NAME || "News By NS"} worker is online.`
-    }, env);
-  }
-}
-
-async function handleCallback(callbackQuery, env) {
-  const callbackId = callbackQuery.id;
-  const chatId = callbackQuery.message?.chat?.id;
-  if (callbackQuery.data === "run_now") {
-    await dispatchWorkflow(env);
-    await tg("answerCallbackQuery", {
-      callback_query_id: callbackId,
-      text: "اجرای فوری ثبت شد",
-      show_alert: false
-    }, env);
-    if (chatId) {
-      await tg("sendMessage", {
-        chat_id: chatId,
-        text: "درخواست اجرای فوری به GitHub ارسال شد."
-      }, env);
-    }
-    return;
-  }
-  await tg("answerCallbackQuery", {
-    callback_query_id: callbackId,
-    text: "دستور ناشناخته بود",
-    show_alert: false
-  }, env);
-}
-
-async function registerCommands(env) {
-  return tg("setMyCommands", {
-    commands: [
-      { command: "new", description: "اجرای فوری خبرها" },
-      { command: "status", description: "نمایش وضعیت ربات" }
-    ]
-  }, env);
-}
-
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
@@ -99,7 +42,12 @@ export default {
     }
 
     if (request.method === "POST" && url.pathname === "/register-commands") {
-      await registerCommands(env);
+      await tg("setMyCommands", {
+        commands: [
+          { command: "new", description: "اجرای فوری خبرها" },
+          { command: "status", description: "نمایش وضعیت ربات" }
+        ]
+      }, env);
       return json({ ok: true });
     }
 
@@ -108,10 +56,52 @@ export default {
       if (env.TELEGRAM_WEBHOOK_SECRET && secret !== env.TELEGRAM_WEBHOOK_SECRET) {
         return json({ ok: false, error: "invalid secret" }, 401);
       }
+
       const update = await request.json();
+      const message = update.message;
+      const callback = update.callback_query;
+
       try {
-        if (update.message?.text) await handleCommand(update.message, env);
-        else if (update.callback_query) await handleCallback(update.callback_query, env);
+        if (message?.text) {
+          const chatId = String(message.chat.id);
+          if (env.TELEGRAM_ALLOWED_CHAT_ID && chatId !== String(env.TELEGRAM_ALLOWED_CHAT_ID)) {
+            await tg("sendMessage", { chat_id: chatId, text: "این چت مجاز نیست." }, env);
+            return json({ ok: true });
+          }
+
+          const text = message.text.trim();
+          if (text.startsWith("/new")) {
+            await dispatchWorkflow(env);
+            await tg("sendMessage", {
+              chat_id: chatId,
+              text: "درخواست اجرای فوری ثبت شد.",
+              reply_markup: {
+                inline_keyboard: [[
+                  { text: "🔄 اجرای دوباره", callback_data: "run_now" }
+                ]]
+              }
+            }, env);
+          } else if (text.startsWith("/status")) {
+            await tg("sendMessage", {
+              chat_id: chatId,
+              text: `${env.APP_NAME || "News By NS"} worker is online.`,
+            }, env);
+          }
+          return json({ ok: true });
+        }
+
+        if (callback) {
+          if (callback.data === "run_now") {
+            await dispatchWorkflow(env);
+            await tg("answerCallbackQuery", {
+              callback_query_id: callback.id,
+              text: "اجرای فوری ثبت شد",
+              show_alert: false
+            }, env);
+          }
+          return json({ ok: true });
+        }
+
         return json({ ok: true });
       } catch (err) {
         return json({ ok: false, error: String(err) }, 500);

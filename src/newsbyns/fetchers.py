@@ -1,130 +1,104 @@
 from __future__ import annotations
-from datetime import datetime, timezone
-from typing import Iterable, List
-
-import feedparser
 import requests
-
-from .config import FEEDS, GNEWS_API_KEY, LOOKBACK_HOURS, NEWSAPI_KEY
+import feedparser
+from typing import Iterable, List
+from .config import FEEDS, NEWSAPI_KEY, GNEWS_API_KEY, USER_AGENT
 from .models import NewsItem
-from .utils import clean_text, hours_ago, parse_dt, stable_id
+from .utils import parse_dt, clean_ws
 
+HEADERS = {"User-Agent": USER_AGENT}
 
-HEADERS = {"User-Agent": "NewsByNS/1.0"}
-
-
-def fetch_rss_items() -> List[NewsItem]:
-    items: list[NewsItem] = []
-    cutoff = hours_ago(LOOKBACK_HOURS)
+def fetch_rss() -> List[NewsItem]:
+    items: List[NewsItem] = []
     for feed in FEEDS.get("rss", []):
+        source = feed.get("source", "Unknown")
+        url = feed.get("url")
+        if not url:
+            continue
         try:
-            parsed = feedparser.parse(feed["url"], request_headers=HEADERS)
+            parsed = feedparser.parse(url, request_headers=HEADERS)
         except Exception:
             continue
-        for entry in parsed.entries[:30]:
-            title = clean_text(getattr(entry, "title", ""))
-            url = getattr(entry, "link", "")
-            summary = clean_text(getattr(entry, "summary", ""))
-            published_raw = (
-                getattr(entry, "published", None)
-                or getattr(entry, "updated", None)
-                or getattr(entry, "created", None)
-            )
-            published_at = parse_dt(published_raw)
-            if published_at < cutoff:
+        for entry in parsed.entries[:20]:
+            title = clean_ws(entry.get("title", ""))
+            link = clean_ws(entry.get("link", ""))
+            summary = clean_ws(entry.get("summary", "") or entry.get("description", ""))
+            published = parse_dt(entry.get("published") or entry.get("updated"))
+            if not title or not link:
                 continue
-            if not title or not url:
-                continue
-            items.append(
-                NewsItem(
-                    item_id=stable_id(feed["name"], title, url),
-                    title=title,
-                    url=url,
-                    source=feed["name"],
-                    published_at=published_at,
-                    summary=summary,
-                )
-            )
+            items.append(NewsItem(source=source, title=title, url=link, summary=summary, published_at=published))
     return items
 
-
-def _newsapi_request(url: str, params: dict) -> dict | None:
-    try:
-        res = requests.get(url, params=params, headers=HEADERS, timeout=20)
-        if not res.ok:
-            return None
-        return res.json()
-    except Exception:
-        return None
-
-
-def fetch_newsapi_items() -> List[NewsItem]:
+def fetch_newsapi() -> List[NewsItem]:
     if not NEWSAPI_KEY:
         return []
-    q = '(Iran OR Israel OR Gaza OR Lebanon OR Syria OR Iraq OR Yemen OR Houthi OR "Middle East" OR "Red Sea" OR Hormuz)'
-    data = _newsapi_request(
-        "https://newsapi.org/v2/everything",
-        {
-            "apiKey": NEWSAPI_KEY,
-            "q": q,
-            "language": "en",
-            "sortBy": "publishedAt",
-            "pageSize": 25,
-        },
-    )
-    if not data or not data.get("articles"):
+    query = "Iran OR Israel OR Lebanon OR Hezbollah OR Houthis OR Yemen OR Syria OR Iraq OR Hormuz"
+    url = "https://newsapi.org/v2/everything"
+    params = {
+        "q": query,
+        "language": "en",
+        "sortBy": "publishedAt",
+        "pageSize": 20,
+        "apiKey": NEWSAPI_KEY,
+    }
+    try:
+        r = requests.get(url, params=params, headers=HEADERS, timeout=25)
+        r.raise_for_status()
+        data = r.json()
+    except Exception:
         return []
-    cutoff = hours_ago(LOOKBACK_HOURS)
-    items: list[NewsItem] = []
-    for article in data["articles"]:
-        title = clean_text(article.get("title", ""))
-        url = article.get("url", "")
-        summary = clean_text(article.get("description", "") or article.get("content", ""))
-        published_at = parse_dt(article.get("publishedAt"))
-        if published_at < cutoff or not title or not url:
+    out = []
+    for art in data.get("articles", [])[:20]:
+        title = clean_ws(art.get("title", ""))
+        link = clean_ws(art.get("url", ""))
+        if not title or not link:
             continue
-        source = clean_text((article.get("source") or {}).get("name", "NewsAPI")) or "NewsAPI"
-        items.append(NewsItem(stable_id(source, title, url), title, url, source, published_at, summary=summary))
-    return items
+        out.append(
+            NewsItem(
+                source=clean_ws((art.get("source") or {}).get("name", "NewsAPI")),
+                title=title,
+                url=link,
+                summary=clean_ws(art.get("description", "") or ""),
+                published_at=parse_dt(art.get("publishedAt")),
+            )
+        )
+    return out
 
-
-def fetch_gnews_items() -> List[NewsItem]:
+def fetch_gnews() -> List[NewsItem]:
     if not GNEWS_API_KEY:
         return []
-    data = _newsapi_request(
-        "https://gnews.io/api/v4/search",
-        {
-            "apikey": GNEWS_API_KEY,
-            "q": 'Iran OR Israel OR Gaza OR Lebanon OR Syria OR Iraq OR Yemen OR Houthi OR "Middle East" OR "Red Sea" OR Hormuz',
-            "lang": "en",
-            "max": 20,
-        },
-    )
-    if not data or not data.get("articles"):
+    url = "https://gnews.io/api/v4/search"
+    params = {
+        "q": "Iran OR Israel OR Lebanon OR Hezbollah OR Houthis OR Yemen OR Syria OR Iraq OR Hormuz",
+        "lang": "en",
+        "max": 20,
+        "token": GNEWS_API_KEY,
+    }
+    try:
+        r = requests.get(url, params=params, headers=HEADERS, timeout=25)
+        r.raise_for_status()
+        data = r.json()
+    except Exception:
         return []
-    cutoff = hours_ago(LOOKBACK_HOURS)
-    items: list[NewsItem] = []
-    for article in data["articles"]:
-        title = clean_text(article.get("title", ""))
-        url = article.get("url", "")
-        summary = clean_text(article.get("description", ""))
-        published_at = parse_dt(article.get("publishedAt"))
-        if published_at < cutoff or not title or not url:
+    out = []
+    for art in data.get("articles", [])[:20]:
+        title = clean_ws(art.get("title", ""))
+        link = clean_ws(art.get("url", ""))
+        if not title or not link:
             continue
-        source = clean_text((article.get("source") or {}).get("name", "GNews")) or "GNews"
-        items.append(NewsItem(stable_id(source, title, url), title, url, source, published_at, summary=summary))
+        out.append(
+            NewsItem(
+                source=clean_ws((art.get("source") or {}).get("name", "GNews")),
+                title=title,
+                url=link,
+                summary=clean_ws(art.get("description", "") or ""),
+                published_at=parse_dt(art.get("publishedAt")),
+            )
+        )
+    return out
+
+def fetch_all() -> List[NewsItem]:
+    items: List[NewsItem] = []
+    for getter in (fetch_rss, fetch_newsapi, fetch_gnews):
+        items.extend(getter())
     return items
-
-
-def fetch_all_items() -> list[NewsItem]:
-    all_items = []
-    all_items.extend(fetch_rss_items())
-    all_items.extend(fetch_newsapi_items())
-    all_items.extend(fetch_gnews_items())
-    # Deduplicate raw fetched items by ID while keeping newest summary-rich copy.
-    merged: dict[str, NewsItem] = {}
-    for item in all_items:
-        prev = merged.get(item.item_id)
-        if prev is None or (len(item.summary) > len(prev.summary)):
-            merged[item.item_id] = item
-    return list(merged.values())

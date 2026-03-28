@@ -1,20 +1,10 @@
-# Cloudflare Worker setup
+Use the Cloudflare dashboard, not Wrangler.
 
-Create a Worker in the Cloudflare dashboard and paste `index.js`.
-
-## Variables
-Add the values from `variables.txt` in Settings -> Variables and Secrets.
-
-## Telegram webhook
-After deploy, set the webhook:
-
-```text
-https://api.telegram.org/bot<YOUR_BOT_TOKEN>/setWebhook?url=https://<YOUR-WORKER>.workers.dev/telegram-webhook&secret_token=<YOUR_SECRET>
-```
-
-## Register bot commands
-Send a POST request to:
-
-```text
-https://<YOUR-WORKER>.workers.dev/register-commands
-```
+1. Create a Worker
+2. Paste `index.js` into the editor
+3. Add Variables and Secrets from `variables.txt`
+4. Deploy
+5. Set Telegram webhook to:
+   https://YOUR-WORKER.workers.dev/telegram-webhook
+6. Register commands with:
+   POST https://YOUR-WORKER.workers.dev/register-commands

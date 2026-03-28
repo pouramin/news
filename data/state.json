@@ -34,7 +34,11 @@
     "a6295584e8b09dee39855784",
     "8dec0b2a58bdc15da974bdd2",
     "6dc1211cf74b931bc4419a14",
-    "8b63f746312c0cffaa95b1af"
+    "8b63f746312c0cffaa95b1af",
+    "80212926aeecad7c817d1b4f",
+    "1389ea903385f37a2ae93b9e",
+    "41111827e0a442872ca30491",
+    "a6e28a2859b570b76c69dbeb"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -71,7 +75,11 @@
     "ad7e667e77eab0416a9c62a9",
     "7c0d27c4573ed823c304a692",
     "dbdceb21c3c3e2f2fae74e00",
-    "7a41d4c8c20c2a476765e45a"
+    "7a41d4c8c20c2a476765e45a",
+    "64eda3c78a981ef91248484c",
+    "c1896cdf3dda485c4a4d66ca",
+    "f8e356a297887bff546e8598",
+    "cec649e392b4b44e658cf0ee"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -79,8 +87,8 @@
     "258c297c6342c827b2c61860",
     "8b63f746312c0cffaa95b1af"
   ],
-  "last_digest_hash": "5cdd24bf74a7b48189696a92cc800293ae5d376597c5dc1c004cbc1111b7494f",
-  "last_run_iso": "2026-03-28T10:47:45.867813+00:00",
+  "last_digest_hash": "b1f8517ec49cbd54c136365ce1824a03a2eadfb9833769ee418dbde34bef7940",
+  "last_run_iso": "2026-03-28T11:38:18.574956+00:00",
   "last_breaking_run_iso": "2026-03-28T10:47:45.867813+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -117,6 +125,10 @@
     "France's Armed Forces Minister reaffirms no weapons being sold to Israel": "France's Armed Forces Minister reaffirms no weapons being sold to Israel",
     "Milwaukee rabbi and son ordered to pay $1,000 for destroying anti-Israel mural": "Milwaukee rabbi and son ordered to pay $1,000 for destroying anti-Israel mural",
     "IDF Arabic Spokesperson Avichay Adraee issues evacuation notice to residents north of Gaza City": "IDF Arabic Spokesperson Avichay Adraee issues evacuation notice to residents north of Gaza City",
-    "2 soldiers seriously hurt in Lebanon clashes as Hezbollah rockets and drones pound north": "دو سرباز در درگیری های لبنان به شدت زخمی شدند در حالی که راکت ها و پهپادهای حزب الله به سمت شمال حمله می کنند"
+    "2 soldiers seriously hurt in Lebanon clashes as Hezbollah rockets and drones pound north": "دو سرباز در درگیری های لبنان به شدت زخمی شدند در حالی که راکت ها و پهپادهای حزب الله به سمت شمال حمله می کنند",
+    "Russian strikes on Ukraine kill 4 as deal to end war dims": "حملات روسیه به اوکراین چهار نفر را کشت و توافق پایان جنگ را کم رنگ کرد",
+    "The war on Iran faces a MAGA backlash": "جنگ علیه ایران با واکنش منفی MAGA مواجه است",
+    "12-year-old Israeli girl killed, others injured in bus accident at French ski resort": "دختر ۱۲ ساله اسرائیلی در تصادف اتوبوس در پیست اسکی فرانسه کشته و دیگران زخمی شدند",
+    "How the US and Israel are making the Islamic republic stronger": "چگونه آمریکا و اسرائیل جمهوری اسلامی را قوی تر می کنند"
   }
 }

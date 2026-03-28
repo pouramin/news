@@ -57,7 +57,10 @@
     "e74e7c260f52d0649c20f41e",
     "c0b8636c62d4bbfa0010c702",
     "701caa4f7868fa786b6a561d",
-    "a0f8d1536048bc0fc7c4c301"
+    "a0f8d1536048bc0fc7c4c301",
+    "0ca86850fa07ddd5c789c8b3",
+    "3879031816e236e43f527479",
+    "41ce9b5e20e8d68a20f7d84c"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -117,7 +120,10 @@
     "93ea8702916307ce5a1a73af",
     "b17dbe194dd2df48060032ca",
     "55072942e3c1d606fbb5f7aa",
-    "e027b334e74a7a391ae8aab7"
+    "e027b334e74a7a391ae8aab7",
+    "3665dbd70ec3a7d00e9dcdc9",
+    "8dc33f5846dbd5e08fc544c9",
+    "ce5acd3a34dc1f0a6db7b2b6"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -125,11 +131,12 @@
     "258c297c6342c827b2c61860",
     "8b63f746312c0cffaa95b1af",
     "171e837811690c99179b28b6",
-    "bcd7c22dc67c96a8058cd117"
+    "bcd7c22dc67c96a8058cd117",
+    "0ca86850fa07ddd5c789c8b3"
   ],
-  "last_digest_hash": "1529db99884bf0ea57993d07991924074594c67454249455c77ebc457221641f",
-  "last_run_iso": "2026-03-28T18:57:52.192648+00:00",
-  "last_breaking_run_iso": "2026-03-28T13:17:11.210324+00:00",
+  "last_digest_hash": "bc26c68703dedd5f69c823b5cffb7535c64f553810473dddcb55f40dca6f8460",
+  "last_run_iso": "2026-03-28T19:39:59.095090+00:00",
+  "last_breaking_run_iso": "2026-03-28T19:39:59.095090+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -188,6 +195,9 @@
     "CNN crew say troops assaulted them, detained them, then trumpeted far-right ideology": "خدمه سی ان ان می گویند نیروها به آن ها حمله کردند، بازداشت شان کردند و سپس ایدئولوژی راست افراطی را تبلیغ کردند",
     "Ukraine’s Zelenskyy signs air defence deals with UAE, Qatar on Gulf tour": "زلنسکی اوکراین قراردادهای دفاع هوایی با امارات و قطر در تور خلیج فارس امضا کرد",
     "Three Lebanese journalists killed in Israeli strike, say broadcasters": "سه خبرنگار لبنانی در حمله اسرائیل کشته شدند، به گفته پخش کنندگان",
-    "As war rages, Iranian politicians push for exit from nuclear weapons treaty": "در حالی که جنگ ادامه دارد، سیاستمداران ایرانی برای خروج از پیمان سلاح هسته ای تلاش می کنند"
+    "As war rages, Iranian politicians push for exit from nuclear weapons treaty": "در حالی که جنگ ادامه دارد، سیاستمداران ایرانی برای خروج از پیمان سلاح هسته ای تلاش می کنند",
+    "Houthi missile attack on Israel stokes fears of renewed strikes on Red Sea shipping": "حمله موشکی حوثی ها به اسرائیل نگرانی ها درباره حملات مجدد به کشتی های دریای سرخ را افزایش می دهد",
+    "Several hurt as Iranian missile hits Jerusalem-area town; Hezbollah continues to strike north": "چندین نفر زخمی شدند وقتی موشک ایران به شهری در منطقه اورشلیم اصابت کرد؛ حزب الله همچنان به شمال حمله می کند",
+    "Iran-backed Houthis join war with attack against Israel": "حوثی های مورد حمایت ایران با حمله به اسرائیل وارد جنگ شدند"
   }
 }

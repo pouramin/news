@@ -61,7 +61,13 @@
     "0ca86850fa07ddd5c789c8b3",
     "3879031816e236e43f527479",
     "41ce9b5e20e8d68a20f7d84c",
-    "9ab99a3a91634507cd1c5299"
+    "9ab99a3a91634507cd1c5299",
+    "37e7074b3e53c9a000d368ac",
+    "1ed6594258cc503d3a83d005",
+    "ad83c61006cc32da39656b3f",
+    "5a77c20cf2049d87eda5d182",
+    "cdc657edd9c98f85c9064136",
+    "47f441b38965da95a1fd3445"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -125,7 +131,13 @@
     "3665dbd70ec3a7d00e9dcdc9",
     "8dc33f5846dbd5e08fc544c9",
     "ce5acd3a34dc1f0a6db7b2b6",
-    "4986090322dbc7dcb77d148b"
+    "4986090322dbc7dcb77d148b",
+    "b34fc49a87659d39a631fddb",
+    "164ce4e024d9a0299886b5fb",
+    "228258d856f6ca9439218445",
+    "bb2f0b5ef16063b33e428716",
+    "ace96b746fdb794746d6c975",
+    "d3e863d3d28544bdb8f2080e"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -136,8 +148,8 @@
     "bcd7c22dc67c96a8058cd117",
     "0ca86850fa07ddd5c789c8b3"
   ],
-  "last_digest_hash": "321b02b04b3cf0251b658701f0f3c7c34cf6f14730a2e1195320647d61033b40",
-  "last_run_iso": "2026-03-28T20:47:13.651143+00:00",
+  "last_digest_hash": "002bb33d3e207087a2f6bd7f6c245f9a74f8d3cf8953629b6166204398ac7e96",
+  "last_run_iso": "2026-03-28T21:41:18.782101+00:00",
   "last_breaking_run_iso": "2026-03-28T19:39:59.095090+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -201,6 +213,12 @@
     "Houthi missile attack on Israel stokes fears of renewed strikes on Red Sea shipping": "حمله موشکی حوثی ها به اسرائیل نگرانی ها درباره حملات مجدد به کشتی های دریای سرخ را افزایش می دهد",
     "Several hurt as Iranian missile hits Jerusalem-area town; Hezbollah continues to strike north": "چندین نفر زخمی شدند وقتی موشک ایران به شهری در منطقه اورشلیم اصابت کرد؛ حزب الله همچنان به شمال حمله می کند",
     "Iran-backed Houthis join war with attack against Israel": "حوثی های مورد حمایت ایران با حمله به اسرائیل وارد جنگ شدند",
-    "Missiles hit southern Israeli city of Eilat": "موشک ها شهر ایلات در جنوب اسرائیل را هدف قرار دادند"
+    "Missiles hit southern Israeli city of Eilat": "موشک ها شهر ایلات در جنوب اسرائیل را هدف قرار دادند",
+    "Settlers attack several Palestinian villages, 2 reported injured; no arrests made": "شهرک نشینان به چندین روستای فلسطینی حمله می کنند، دو روستا زخمی گزارش شده اند؛ هیچ دستگیری صورت نگرفت",
+    "Kuwait airport hit by Iranian drone strikes": "فرودگاه کویت هدف حملات پهپادی ایران قرار گرفت",
+    "Could Ukraine’s drone expertise serve Gulf countries?": "آیا تخصص پهپادی اوکراین می تواند به کشورهای خلیج فارس خدمت کند؟",
+    "21 arrested in Tel Aviv, Haifa during mounting protests against Iran war": "۲۱ نفر در تل آویو، حیفا در جریان اعتراضات فزاینده علیه جنگ ایران بازداشت شدند",
+    "‘No Kings’ anti-Trump rallies take place across US amid anger over Iran war": "تجمعات ضد ترامپ «No Kings» در سراسر آمریکا در میان خشم نسبت به جنگ ایران برگزار می شود",
+    "Urging US to ‘stay the course’ in Iran, exiled prince wins ovation from conservatives": "شاهزاده تبعیدی در ایران از آمریکا می خواهد «مسیر خود را ادامه دهد» و تشویق محافظه کاران را به دست می آورد"
   }
 }

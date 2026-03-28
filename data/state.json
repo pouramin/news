@@ -55,7 +55,9 @@
     "2597139f424730ff3ebe29d9",
     "3bdebf113fbf3e0b9b6f6b95",
     "e74e7c260f52d0649c20f41e",
-    "c0b8636c62d4bbfa0010c702"
+    "c0b8636c62d4bbfa0010c702",
+    "701caa4f7868fa786b6a561d",
+    "a0f8d1536048bc0fc7c4c301"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -113,7 +115,9 @@
     "07f73c2ec04113510b1eba51",
     "9682d4d199de290b2cd8446a",
     "93ea8702916307ce5a1a73af",
-    "b17dbe194dd2df48060032ca"
+    "b17dbe194dd2df48060032ca",
+    "55072942e3c1d606fbb5f7aa",
+    "e027b334e74a7a391ae8aab7"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -123,8 +127,8 @@
     "171e837811690c99179b28b6",
     "bcd7c22dc67c96a8058cd117"
   ],
-  "last_digest_hash": "497f7f5c4954daf6dfb7e0599538d9a0dcce951d204090cc6b4e1b04f5ebe84c",
-  "last_run_iso": "2026-03-28T17:42:18.918591+00:00",
+  "last_digest_hash": "1529db99884bf0ea57993d07991924074594c67454249455c77ebc457221641f",
+  "last_run_iso": "2026-03-28T18:57:52.192648+00:00",
   "last_breaking_run_iso": "2026-03-28T13:17:11.210324+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -182,6 +186,8 @@
     "One month in, disapproval high but US lawmakers take no action on Iran war": "یک ماه بعد، نارضایتی بالا است اما قانون گذاران آمریکا هیچ اقدامی درباره جنگ ایران انجام نمی دهند",
     "Paris cops thwart suspected terrorist bombing near Bank of America": "پلیس پاریس بمب گذاری تروریستی مشکوک نزدیک بانک آو آمریکا را خنثی کرد",
     "CNN crew say troops assaulted them, detained them, then trumpeted far-right ideology": "خدمه سی ان ان می گویند نیروها به آن ها حمله کردند، بازداشت شان کردند و سپس ایدئولوژی راست افراطی را تبلیغ کردند",
-    "Ukraine’s Zelenskyy signs air defence deals with UAE, Qatar on Gulf tour": "زلنسکی اوکراین قراردادهای دفاع هوایی با امارات و قطر در تور خلیج فارس امضا کرد"
+    "Ukraine’s Zelenskyy signs air defence deals with UAE, Qatar on Gulf tour": "زلنسکی اوکراین قراردادهای دفاع هوایی با امارات و قطر در تور خلیج فارس امضا کرد",
+    "Three Lebanese journalists killed in Israeli strike, say broadcasters": "سه خبرنگار لبنانی در حمله اسرائیل کشته شدند، به گفته پخش کنندگان",
+    "As war rages, Iranian politicians push for exit from nuclear weapons treaty": "در حالی که جنگ ادامه دارد، سیاستمداران ایرانی برای خروج از پیمان سلاح هسته ای تلاش می کنند"
   }
 }

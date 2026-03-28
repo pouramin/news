@@ -47,7 +47,12 @@
     "e1f005d3b5450031412b2016",
     "9323fa235cebd7163647475a",
     "7ed12aa89ec814f2b82af65e",
-    "57f231d74ed626d73dbe4427"
+    "57f231d74ed626d73dbe4427",
+    "3650bc7dca2a7c96a4319d1a",
+    "fbb183ef01db58c49b37ac63",
+    "ca0d7af91843708e0f65f5cb",
+    "00a314334f33d29a63a27709",
+    "2597139f424730ff3ebe29d9"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -97,7 +102,12 @@
     "66b08a1c8069214aaeb755f9",
     "5b879c0400e4132414d52181",
     "af310c9214f8d472f7ba5c1d",
-    "d70acd6979cb37e9b8a0302e"
+    "d70acd6979cb37e9b8a0302e",
+    "6b0449c81d71a6b276c339f6",
+    "55f1c74b11b1a05ce99757e4",
+    "902820416ec2959c40cf8996",
+    "e1ea57f019fd1b5bff23ce5d",
+    "07f73c2ec04113510b1eba51"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -107,8 +117,8 @@
     "171e837811690c99179b28b6",
     "bcd7c22dc67c96a8058cd117"
   ],
-  "last_digest_hash": "603627116143253b85a8f00a413d0d27f7933570dd299849b7aff27aaa675811",
-  "last_run_iso": "2026-03-28T15:44:13.171348+00:00",
+  "last_digest_hash": "6aa35a5faef06e7efc43faa366783d8c371c2042cd59a7d91c367d6c6af2eee0",
+  "last_run_iso": "2026-03-28T16:49:12.497549+00:00",
   "last_breaking_run_iso": "2026-03-28T13:17:11.210324+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -158,6 +168,11 @@
     "‘No dreams, no joy’: Iranians struggle amid war, economic collapse, regime controls": "«بدون رویا، بدون شادی»: ایرانیان در میان جنگ، فروپاشی اقتصادی و کنترل رژیم مبارزه می کنند",
     "Former US defence chief says more war won’t bring peace to Middle East": "رئیس سابق دفاع آمریکا می گوید جنگ بیشتر صلح را به خاورمیانه نخواهد آورد",
     "Iran warns neighbours not to let ‘enemies run the war’ from their land": "ایران به همسایگان هشدار داد که اجازه ندهند «دشمنان جنگ را از سرزمین خود اداره کنند»",
-    "IDF kills Hezbollah-linked journalist, says he was part of elite Radwan Force": "ارتش اسرائیل خبرنگار مرتبط با حزب الله را کشت و گفت او عضو نیروی نخبه ردوان بوده است"
+    "IDF kills Hezbollah-linked journalist, says he was part of elite Radwan Force": "ارتش اسرائیل خبرنگار مرتبط با حزب الله را کشت و گفت او عضو نیروی نخبه ردوان بوده است",
+    "Israeli forces intensify attacks on Beirut": "نیروهای اسرائیلی حملات به بیروت را تشدید کردند",
+    "German city wary as Volkswagen weighs shifting car plant to Iron Dome production": "شهر آلمانی محتاط است در حالی که فولکس واگن در حال بررسی انتقال کارخانه خودرو به تولید گنبد آهنین است",
+    "Tears and defiance as Lebanese family bury child, 11, killed in Israeli strike": "اشک و سرکشی در حالی که خانواده لبنانی فرزند ۱۱ ساله کشته شده در حمله اسرائیل را به خاک می سپارند",
+    "Three journalists killed in Israeli strike on marked press car in Lebanon": "سه خبرنگار در حمله اسرائیل به خودروی مطبوعاتی علامت گذاری شده در لبنان کشته شدند",
+    "One month in, disapproval high but US lawmakers take no action on Iran war": "یک ماه بعد، نارضایتی بالا است اما قانون گذاران آمریکا هیچ اقدامی درباره جنگ ایران انجام نمی دهند"
   }
 }

@@ -45,7 +45,8 @@
     "309d0dc3fde0ffedc649647c",
     "f8b5e0202a1e1598dd434f8f",
     "e1f005d3b5450031412b2016",
-    "9323fa235cebd7163647475a"
+    "9323fa235cebd7163647475a",
+    "7ed12aa89ec814f2b82af65e"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -93,7 +94,8 @@
     "a358486df3250c9bc0fa15af",
     "91c6c4250211e4649324f8b5",
     "66b08a1c8069214aaeb755f9",
-    "5b879c0400e4132414d52181"
+    "5b879c0400e4132414d52181",
+    "af310c9214f8d472f7ba5c1d"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -103,8 +105,8 @@
     "171e837811690c99179b28b6",
     "bcd7c22dc67c96a8058cd117"
   ],
-  "last_digest_hash": "72ec221a8a69cddd53c06379b79a88a84738c612a60d9af579a5c3eef34a64d5",
-  "last_run_iso": "2026-03-28T13:17:11.210324+00:00",
+  "last_digest_hash": "d5d7bffd0d2657a2557b06610ff39c28578f0f06fcc25b444e739bc56284380e",
+  "last_run_iso": "2026-03-28T14:47:25.605846+00:00",
   "last_breaking_run_iso": "2026-03-28T13:17:11.210324+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -152,6 +154,7 @@
     "USS Gerald Ford docks in Croatia for ‘scheduled visit and maintenance’ after laundry fire": "ناو USS Gerald Ford پس از آتش سوزی لباسشویی برای «بازدید برنامه ریزی شده و تعمیرات» در کرواسی پهلو گرفت",
     "Protests in Yemen against US-Israeli attacks as Houthis warn of action": "اعتراضات در یمن علیه حملات آمریکا و اسرائیل در حالی که حوثی ها هشدار به اقدام دادند",
     "‘No dreams, no joy’: Iranians struggle amid war, economic collapse, regime controls": "«بدون رویا، بدون شادی»: ایرانیان در میان جنگ، فروپاشی اقتصادی و کنترل رژیم مبارزه می کنند",
-    "Former US defence chief says more war won’t bring peace to Middle East": "رئیس سابق دفاع آمریکا می گوید جنگ بیشتر صلح را به خاورمیانه نخواهد آورد"
+    "Former US defence chief says more war won’t bring peace to Middle East": "رئیس سابق دفاع آمریکا می گوید جنگ بیشتر صلح را به خاورمیانه نخواهد آورد",
+    "Iran warns neighbours not to let ‘enemies run the war’ from their land": "ایران به همسایگان هشدار داد که اجازه ندهند «دشمنان جنگ را از سرزمین خود اداره کنند»"
   }
 }

@@ -33,7 +33,8 @@
     "55049f7e752eff11948871dd",
     "a6295584e8b09dee39855784",
     "8dec0b2a58bdc15da974bdd2",
-    "6dc1211cf74b931bc4419a14"
+    "6dc1211cf74b931bc4419a14",
+    "8b63f746312c0cffaa95b1af"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -69,16 +70,18 @@
     "47efe236dc5c7f23c7bbb5f5",
     "ad7e667e77eab0416a9c62a9",
     "7c0d27c4573ed823c304a692",
-    "dbdceb21c3c3e2f2fae74e00"
+    "dbdceb21c3c3e2f2fae74e00",
+    "7a41d4c8c20c2a476765e45a"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
     "e31d3cd40e14cd5335ea59ce",
-    "258c297c6342c827b2c61860"
+    "258c297c6342c827b2c61860",
+    "8b63f746312c0cffaa95b1af"
   ],
   "last_digest_hash": "5cdd24bf74a7b48189696a92cc800293ae5d376597c5dc1c004cbc1111b7494f",
-  "last_run_iso": "2026-03-28T09:50:37.801500+00:00",
-  "last_breaking_run_iso": "2026-03-28T09:50:37.801500+00:00",
+  "last_run_iso": "2026-03-28T10:47:45.867813+00:00",
+  "last_breaking_run_iso": "2026-03-28T10:47:45.867813+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -113,6 +116,7 @@
     "Twenty live hostages, two undetermined, 33 dead, says Israeli source": "Twenty live hostages, two undetermined, 33 dead, says Israeli source",
     "France's Armed Forces Minister reaffirms no weapons being sold to Israel": "France's Armed Forces Minister reaffirms no weapons being sold to Israel",
     "Milwaukee rabbi and son ordered to pay $1,000 for destroying anti-Israel mural": "Milwaukee rabbi and son ordered to pay $1,000 for destroying anti-Israel mural",
-    "IDF Arabic Spokesperson Avichay Adraee issues evacuation notice to residents north of Gaza City": "IDF Arabic Spokesperson Avichay Adraee issues evacuation notice to residents north of Gaza City"
+    "IDF Arabic Spokesperson Avichay Adraee issues evacuation notice to residents north of Gaza City": "IDF Arabic Spokesperson Avichay Adraee issues evacuation notice to residents north of Gaza City",
+    "2 soldiers seriously hurt in Lebanon clashes as Hezbollah rockets and drones pound north": "دو سرباز در درگیری های لبنان به شدت زخمی شدند در حالی که راکت ها و پهپادهای حزب الله به سمت شمال حمله می کنند"
   }
 }

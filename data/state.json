@@ -60,7 +60,8 @@
     "a0f8d1536048bc0fc7c4c301",
     "0ca86850fa07ddd5c789c8b3",
     "3879031816e236e43f527479",
-    "41ce9b5e20e8d68a20f7d84c"
+    "41ce9b5e20e8d68a20f7d84c",
+    "9ab99a3a91634507cd1c5299"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -123,7 +124,8 @@
     "e027b334e74a7a391ae8aab7",
     "3665dbd70ec3a7d00e9dcdc9",
     "8dc33f5846dbd5e08fc544c9",
-    "ce5acd3a34dc1f0a6db7b2b6"
+    "ce5acd3a34dc1f0a6db7b2b6",
+    "4986090322dbc7dcb77d148b"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -134,8 +136,8 @@
     "bcd7c22dc67c96a8058cd117",
     "0ca86850fa07ddd5c789c8b3"
   ],
-  "last_digest_hash": "bc26c68703dedd5f69c823b5cffb7535c64f553810473dddcb55f40dca6f8460",
-  "last_run_iso": "2026-03-28T19:39:59.095090+00:00",
+  "last_digest_hash": "321b02b04b3cf0251b658701f0f3c7c34cf6f14730a2e1195320647d61033b40",
+  "last_run_iso": "2026-03-28T20:47:13.651143+00:00",
   "last_breaking_run_iso": "2026-03-28T19:39:59.095090+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -198,6 +200,7 @@
     "As war rages, Iranian politicians push for exit from nuclear weapons treaty": "در حالی که جنگ ادامه دارد، سیاستمداران ایرانی برای خروج از پیمان سلاح هسته ای تلاش می کنند",
     "Houthi missile attack on Israel stokes fears of renewed strikes on Red Sea shipping": "حمله موشکی حوثی ها به اسرائیل نگرانی ها درباره حملات مجدد به کشتی های دریای سرخ را افزایش می دهد",
     "Several hurt as Iranian missile hits Jerusalem-area town; Hezbollah continues to strike north": "چندین نفر زخمی شدند وقتی موشک ایران به شهری در منطقه اورشلیم اصابت کرد؛ حزب الله همچنان به شمال حمله می کند",
-    "Iran-backed Houthis join war with attack against Israel": "حوثی های مورد حمایت ایران با حمله به اسرائیل وارد جنگ شدند"
+    "Iran-backed Houthis join war with attack against Israel": "حوثی های مورد حمایت ایران با حمله به اسرائیل وارد جنگ شدند",
+    "Missiles hit southern Israeli city of Eilat": "موشک ها شهر ایلات در جنوب اسرائیل را هدف قرار دادند"
   }
 }

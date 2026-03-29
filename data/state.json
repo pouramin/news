@@ -83,7 +83,15 @@
     "a2ec6f510db924de0c3823d4",
     "07fd5e9d8f429f4ead9d4ec7",
     "4fa1ce88f22d8d4a1c3c4180",
-    "190ee41b72218081d16f2ccb"
+    "190ee41b72218081d16f2ccb",
+    "b092fc508c14a59ece8e49ad",
+    "880dbefa0d7b9d86047dbf03",
+    "46d09c281edd06fbf135139f",
+    "942b584a6f68b9b5ad44a2a1",
+    "70b4a19c82d7333989ef54ef",
+    "c6d89d35ef4d9455fdc18e2c",
+    "e0c3e3c8821dde5092e4f1a8",
+    "c1e9d8e56f378c6ed30644d2"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -169,7 +177,15 @@
     "540e8ae32461da7383dfb153",
     "32afceee8cbad0ac5e176646",
     "8cfcf701fe74fa9303c3c357",
-    "755f3fb963e09b708f3ef589"
+    "755f3fb963e09b708f3ef589",
+    "d19547979f677dce79b16367",
+    "fcee5ee10c318b8d2027b5d0",
+    "a73a6b2cbb4cdfdbc82354b3",
+    "3e6b13131254eae792e65ac7",
+    "c29b413b855d53761b90d4a3",
+    "ce8f31a0cc6284cb039d578a",
+    "65590045f93e21362f4a029d",
+    "b41a8739509955a1fe80aae3"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -181,11 +197,12 @@
     "0ca86850fa07ddd5c789c8b3",
     "7ad6357e7cfcd6a3d471754b",
     "a2ec6f510db924de0c3823d4",
-    "4fa1ce88f22d8d4a1c3c4180"
+    "4fa1ce88f22d8d4a1c3c4180",
+    "b092fc508c14a59ece8e49ad"
   ],
-  "last_digest_hash": "ac9fde6b08a19c6ea6c13fa30f42fa93e9f936e3df5011f3b76e3228b6e90c82",
-  "last_run_iso": "2026-03-29T07:17:48.120416+00:00",
-  "last_breaking_run_iso": "2026-03-29T07:17:48.120416+00:00",
+  "last_digest_hash": "f447d5df229eddd9d1fea576e9981e9ef0fe30f05486fe51342be4f127ed4d64",
+  "last_run_iso": "2026-03-29T08:55:55.910482+00:00",
+  "last_breaking_run_iso": "2026-03-29T08:55:55.910482+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -270,6 +287,14 @@
     "As Iran war grinds on, rising toll on global economy has many worried about recovery": "در حالی که جنگ ایران ادامه دارد، افزایش هزینه ها بر اقتصاد جهانی بسیاری را نگران بهبود یافته است",
     "What happens in the occupied West Bank under the shadow of the Iran war": "آنچه در کرانه باختری اشغالی تحت سایه جنگ ایران رخ می دهد",
     "Pentagon said prepping weeks-long ground operation in Iran, short of full invasion": "پنتاگون اعلام کرد که برای عملیات زمینی چند هفته ای در ایران، پیش از حمله کامل، آماده می شود",
-    "Israel Adesanya knocked out by Joe Pyfer at UFC Fight Night in Seattle": "اسرائیل آدسانیا توسط جو پایفر در شب مبارزه UFC در سیاتل ناک اوت شد"
+    "Israel Adesanya knocked out by Joe Pyfer at UFC Fight Night in Seattle": "اسرائیل آدسانیا توسط جو پایفر در شب مبارزه UFC در سیاتل ناک اوت شد",
+    "IDF soldier Moshe Yitzchak Katz, 22, from Connecticut, killed in south Lebanon": "سرباز ارتش اسرائیل موشه ییتسحاق کاتز، ۲۲ ساله از کنتیکت، در جنوب لبنان کشته شد",
+    "‘Trump has to open the Strait of Hormuz’ with ground forces": "«ترامپ باید تنگه هرمز را با نیروهای زمینی باز کند»",
+    "Pakistan hosts top Saudi, Turkish, Egyptian diplomats over war in Iran": "پاکستان میزبان دیپلمات های ارشد سعودی، ترکیه و مصر درباره جنگ در ایران است",
+    "Iran’s IRGC claims attacks on UAE, Bahrain aluminium facilities": "سپاه پاسداران ایران ادعای حمله به تأسیسات آلومینیومی امارات و بحرین را بر عهده دارد",
+    "Toddler rescued after US-Israeli strike on Iran": "کودک نوپا پس از حمله آمریکا و اسرائیل به ایران نجات یافت",
+    "Living in the dark: Gaza’s struggle for electricity": "زندگی در تاریکی: مبارزه غزه برای برق",
+    "Thick plumes of smoke rise over Iraq’s Mosul after strikes": "دود غلیظ پس از حملات بر فراز موصل عراق بلند می شود",
+    "Lebanese resident stays behind with pet monkey despite evacuation orders": "یک ساکن لبنانی با وجود دستور تخلیه، همراه با میمون خانگی اش مانده است"
   }
 }

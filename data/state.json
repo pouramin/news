@@ -135,7 +135,8 @@
     "0094899c8be7d29c65c32fe5",
     "9c5b8c7bbdb2947dd16fc812",
     "db16e39b3d50965998c16cc3",
-    "4b96e5eaa076d949a7510db5"
+    "4b96e5eaa076d949a7510db5",
+    "b6f157ffc48ac5840c0f0c62"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -273,7 +274,8 @@
     "664561f9dc870ad4aef6ec64",
     "cecce153ef1a54a935c9ed3d",
     "79104b30211a1511306702c0",
-    "525b723b7a7bf4d06ed44c7b"
+    "525b723b7a7bf4d06ed44c7b",
+    "c24cd85e55389a282a425f64"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -288,8 +290,8 @@
     "4fa1ce88f22d8d4a1c3c4180",
     "b092fc508c14a59ece8e49ad"
   ],
-  "last_digest_hash": "690e4ed6aec3f989a243cc5f35bfacf064d51a8e37bfb29bc39251e133e5d3d9",
-  "last_run_iso": "2026-03-29T19:00:12.915157+00:00",
+  "last_digest_hash": "2a51a8b9d539afa37bcab4b6adcd90a3e6bf3f7f41bc20fbe06be74e02c8b3c1",
+  "last_run_iso": "2026-03-29T19:42:36.983828+00:00",
   "last_breaking_run_iso": "2026-03-29T08:55:55.910482+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -427,6 +429,7 @@
     "What do we owe the stranger- with Seyla Benhabib - Sponsored Content": "چه مدیونیم به غریبه - با سیلا بن حبیب - محتوای حمایت شده",
     "Zelenskyy arrives in Jordan to bolster security ties": "زلنسکی برای تقویت روابط امنیتی وارد اردن می شود",
     "Herzog’s office requests additional materials from Justice Ministry on PM’s pardon request": "دفتر هرتزوگ درخواست مدارک بیشتری از وزارت دادگستری درباره درخواست عفو نخست وزیر دارد",
-    "The WHY of this year’s Passover – with Rachel Goldberg-Polin - Sponsored Content": "دلیل پسح امسال – با ریچل گلدبرگ-پولین – محتوای حمایت شده"
+    "The WHY of this year’s Passover – with Rachel Goldberg-Polin - Sponsored Content": "دلیل پسح امسال – با ریچل گلدبرگ-پولین – محتوای حمایت شده",
+    "Republican Mace says Congress must approve any US troop deployment to Iran": "میس جمهوری خواه می گوید کنگره باید هرگونه اعزام نیروهای آمریکایی به ایران را تأیید کند"
   }
 }

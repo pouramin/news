@@ -146,7 +146,9 @@
     "f8e82bbde30d969c2e4d3e76",
     "62e5db561942f936842d7a68",
     "cdaf5b48fe51fb74f159bec1",
-    "78bf16a0085d73e1d24b664d"
+    "78bf16a0085d73e1d24b664d",
+    "1146d5ebd5da67c513a70bca",
+    "1f2c3526848953a85b9217c7"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -295,7 +297,9 @@
     "67a455cbc7540caacda6effe",
     "2ab0c2421213ab278158f0be",
     "e19bc9a4b83e090dde689342",
-    "c9779f36b890b219016b6c45"
+    "c9779f36b890b219016b6c45",
+    "a7d720a4be36ade2eae8e972",
+    "8ae7fbd5b94674e57a56d456"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -311,8 +315,8 @@
     "b092fc508c14a59ece8e49ad",
     "4a9b01db3428292f3f9a1b38"
   ],
-  "last_digest_hash": "726a5797f354eaf52c24fd8dbff23b62031606d98756fe0d5db7d9bcbeee02db",
-  "last_run_iso": "2026-03-29T22:48:27.300996+00:00",
+  "last_digest_hash": "bc11bdad1a9a95de03582b341e7b116be066e8542742b95ecba04e1c2399ad75",
+  "last_run_iso": "2026-03-29T23:46:35.985308+00:00",
   "last_breaking_run_iso": "2026-03-29T20:48:30.487896+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -461,6 +465,8 @@
     "Lebanon’s Catholics observe Palm Sunday under looming threat of war": "کاتولیک های لبنان یکشنبه نخل را زیر تهدید قریب الوقوع جنگ گرامی می دارند",
     "Israeli police bar priest from Jerusalem’s Holy Sepulchre on Palm Sunday": "کشیش پلیس اسرائیل از قبر مقدس اورشلیم در یکشنبه نخل",
     "Iran accuses US of plotting ground attack, as Israel steps up bombardment": "ایران آمریکا را به طرح ریزی حمله زمینی متهم می کند، در حالی که اسرائیل بمباران خود را افزایش می دهد",
-    "Latest message purportedly from Iran’s new supreme leader thanks Iraq for war support": "آخرین پیام ظاهرا از سوی رهبر جدید ایران از عراق برای حمایت های جنگی تشکر می کند"
+    "Latest message purportedly from Iran’s new supreme leader thanks Iraq for war support": "آخرین پیام ظاهرا از سوی رهبر جدید ایران از عراق برای حمایت های جنگی تشکر می کند",
+    "How will the Houthis’ involvement shape the war?": "دخالت حوثی ها چگونه بر جنگ تأثیر خواهد گذاشت؟",
+    "European nations criticise Israel’s death penalty plans": "کشورهای اروپایی برنامه های اعدام اسرائیل را نقد می کنند"
   }
 }

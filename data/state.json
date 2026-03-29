@@ -79,7 +79,9 @@
     "00d5e12765e190c37a41a805",
     "e557e1721e46eeeab37fa837",
     "28c44dc03ee4e2bbeef63585",
-    "f9140335e02494814ca02b8d"
+    "f9140335e02494814ca02b8d",
+    "a2ec6f510db924de0c3823d4",
+    "07fd5e9d8f429f4ead9d4ec7"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -161,7 +163,9 @@
     "c2e2f64e9d581f0b9872de46",
     "6b87ad31dfd03bf503173ef8",
     "c8cc9fea8067c54863bb9460",
-    "2579f10a774b944324ff45c3"
+    "2579f10a774b944324ff45c3",
+    "540e8ae32461da7383dfb153",
+    "32afceee8cbad0ac5e176646"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -171,11 +175,12 @@
     "171e837811690c99179b28b6",
     "bcd7c22dc67c96a8058cd117",
     "0ca86850fa07ddd5c789c8b3",
-    "7ad6357e7cfcd6a3d471754b"
+    "7ad6357e7cfcd6a3d471754b",
+    "a2ec6f510db924de0c3823d4"
   ],
-  "last_digest_hash": "51db678b528513a2c3f9853d5ba2ba31e0ab5ac6b91351b0c1f9a4cec4bd0b62",
-  "last_run_iso": "2026-03-29T03:32:38.202236+00:00",
-  "last_breaking_run_iso": "2026-03-29T03:32:38.202236+00:00",
+  "last_digest_hash": "445ffe620bcb41d7c50d1ddd7ac77859b0e32c067fd8c137362b7cd6ce388479",
+  "last_run_iso": "2026-03-29T05:49:02.783564+00:00",
+  "last_breaking_run_iso": "2026-03-29T05:49:02.783564+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -256,6 +261,8 @@
     "As war on Iran enters second month, Yemen’s Houthis open new front": "با ورود جنگ با ایران به ماه دوم، حوثی های یمن جبهه جدیدی را گشودند",
     "Trump is waging war based on instinct and it isn't working": "ترامپ بر اساس غریزه جنگ می کند و این کار جواب نمی دهد",
     "Iran shuts down popular Tehran coffee shop chain over ‘suspicious’ cup designs": "ایران زنجیره کافی شاپ محبوب تهران را به دلیل طرح های «مشکوک» فنجان ها تعطیل کرد",
-    "Tens of thousands turn out for central London rally against the far-right": "ده ها هزار نفر در تجمع مرکزی لندن علیه راست افراطی شرکت کردند"
+    "Tens of thousands turn out for central London rally against the far-right": "ده ها هزار نفر در تجمع مرکزی لندن علیه راست افراطی شرکت کردند",
+    "As Iran war grinds on, rising toll on global economy has many worried about recovery": "در حالی که جنگ ایران ادامه دارد، افزایش هزینه ها بر اقتصاد جهانی بسیاری را نگران بهبود یافته است",
+    "What happens in the occupied West Bank under the shadow of the Iran war": "آنچه در کرانه باختری اشغالی تحت سایه جنگ ایران رخ می دهد"
   }
 }

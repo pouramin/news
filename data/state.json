@@ -81,7 +81,9 @@
     "28c44dc03ee4e2bbeef63585",
     "f9140335e02494814ca02b8d",
     "a2ec6f510db924de0c3823d4",
-    "07fd5e9d8f429f4ead9d4ec7"
+    "07fd5e9d8f429f4ead9d4ec7",
+    "4fa1ce88f22d8d4a1c3c4180",
+    "190ee41b72218081d16f2ccb"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -165,7 +167,9 @@
     "c8cc9fea8067c54863bb9460",
     "2579f10a774b944324ff45c3",
     "540e8ae32461da7383dfb153",
-    "32afceee8cbad0ac5e176646"
+    "32afceee8cbad0ac5e176646",
+    "8cfcf701fe74fa9303c3c357",
+    "755f3fb963e09b708f3ef589"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -176,11 +180,12 @@
     "bcd7c22dc67c96a8058cd117",
     "0ca86850fa07ddd5c789c8b3",
     "7ad6357e7cfcd6a3d471754b",
-    "a2ec6f510db924de0c3823d4"
+    "a2ec6f510db924de0c3823d4",
+    "4fa1ce88f22d8d4a1c3c4180"
   ],
-  "last_digest_hash": "445ffe620bcb41d7c50d1ddd7ac77859b0e32c067fd8c137362b7cd6ce388479",
-  "last_run_iso": "2026-03-29T05:49:02.783564+00:00",
-  "last_breaking_run_iso": "2026-03-29T05:49:02.783564+00:00",
+  "last_digest_hash": "ac9fde6b08a19c6ea6c13fa30f42fa93e9f936e3df5011f3b76e3228b6e90c82",
+  "last_run_iso": "2026-03-29T07:17:48.120416+00:00",
+  "last_breaking_run_iso": "2026-03-29T07:17:48.120416+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -263,6 +268,8 @@
     "Iran shuts down popular Tehran coffee shop chain over ‘suspicious’ cup designs": "ایران زنجیره کافی شاپ محبوب تهران را به دلیل طرح های «مشکوک» فنجان ها تعطیل کرد",
     "Tens of thousands turn out for central London rally against the far-right": "ده ها هزار نفر در تجمع مرکزی لندن علیه راست افراطی شرکت کردند",
     "As Iran war grinds on, rising toll on global economy has many worried about recovery": "در حالی که جنگ ایران ادامه دارد، افزایش هزینه ها بر اقتصاد جهانی بسیاری را نگران بهبود یافته است",
-    "What happens in the occupied West Bank under the shadow of the Iran war": "آنچه در کرانه باختری اشغالی تحت سایه جنگ ایران رخ می دهد"
+    "What happens in the occupied West Bank under the shadow of the Iran war": "آنچه در کرانه باختری اشغالی تحت سایه جنگ ایران رخ می دهد",
+    "Pentagon said prepping weeks-long ground operation in Iran, short of full invasion": "پنتاگون اعلام کرد که برای عملیات زمینی چند هفته ای در ایران، پیش از حمله کامل، آماده می شود",
+    "Israel Adesanya knocked out by Joe Pyfer at UFC Fight Night in Seattle": "اسرائیل آدسانیا توسط جو پایفر در شب مبارزه UFC در سیاتل ناک اوت شد"
   }
 }

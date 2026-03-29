@@ -95,7 +95,8 @@
     "5099c47a94531871b32754af",
     "2c4ab4e417ef03872bf675a1",
     "e7068f90255773e6a02718a3",
-    "32a8b4efc764bfedc9b2915b"
+    "32a8b4efc764bfedc9b2915b",
+    "6e9c46429ad4ed7e2d6f14ab"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -193,7 +194,8 @@
     "e29bb5734109d721df2943ce",
     "59349ae7d2574278a19019f6",
     "ed27d4911729ecad607f18f0",
-    "4ff150280bca2cc25c6c942e"
+    "4ff150280bca2cc25c6c942e",
+    "1704c4983559631033c214a2"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -208,8 +210,8 @@
     "4fa1ce88f22d8d4a1c3c4180",
     "b092fc508c14a59ece8e49ad"
   ],
-  "last_digest_hash": "e838a8b56b7adec15998643822509f4acb037882660a710fb524a6ed5ea7f8d3",
-  "last_run_iso": "2026-03-29T09:50:25.038735+00:00",
+  "last_digest_hash": "f8ae4b3a19a7598271f50361d93ced6a9c26970fe071e89ec724750e2ea5f03c",
+  "last_run_iso": "2026-03-29T10:50:20.901060+00:00",
   "last_breaking_run_iso": "2026-03-29T08:55:55.910482+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -307,6 +309,7 @@
     "US-Israel war on Iran: What’s happening on day 30 of attacks?": "جنگ آمریکا و اسرائیل علیه ایران: در روز سی ام حملات چه اتفاقی می افتد؟",
     "Pentagon readies for weeks of US ground operations in Iran: Report": "پنتاگون برای هفته ها عملیات زمینی آمریکا در ایران آماده می شود: گزارش",
     "Analyst says that Iran’s interest is in an extended war": "تحلیلگر می گوید منافع ایران در جنگی طولانی مدت است",
-    "Dozens detained in Tel Aviv as anti-war protest turns violent": "ده ها نفر در تل آویو بازداشت شدند در حالی که اعتراضات ضد جنگ به خشونت کشیده شده اند"
+    "Dozens detained in Tel Aviv as anti-war protest turns violent": "ده ها نفر در تل آویو بازداشت شدند در حالی که اعتراضات ضد جنگ به خشونت کشیده شده اند",
+    "Iranian attack on Saudi air base heavily damages key US surveillance aircraft": "حمله ایران به پایگاه هوایی عربستان به شدت به هواپیماهای کلیدی نظارتی آمریکا آسیب رساند"
   }
 }

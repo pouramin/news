@@ -143,7 +143,8 @@
     "9443b13900a07dfebd78eef6",
     "0ffbc82caa1cab2f992a39ee",
     "c6fa02da5fbce0f933de2a41",
-    "f8e82bbde30d969c2e4d3e76"
+    "f8e82bbde30d969c2e4d3e76",
+    "62e5db561942f936842d7a68"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -289,7 +290,8 @@
     "cdf91f78449accb2246176b7",
     "d5a3641c7eb2b58c8cc74dec",
     "9132c9b7c108dc09713e2164",
-    "67a455cbc7540caacda6effe"
+    "67a455cbc7540caacda6effe",
+    "2ab0c2421213ab278158f0be"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -305,8 +307,8 @@
     "b092fc508c14a59ece8e49ad",
     "4a9b01db3428292f3f9a1b38"
   ],
-  "last_digest_hash": "1c6c375b4070d2c08d0d14a3a0f445cc3f0124ed7c5d9d77ffd6997437d5053d",
-  "last_run_iso": "2026-03-29T20:48:30.487896+00:00",
+  "last_digest_hash": "33a9309d5fecbf466ce88a95dd3f8e4c81b56efdb4aa520c83f946dfb3cef77c",
+  "last_run_iso": "2026-03-29T21:45:11.416411+00:00",
   "last_breaking_run_iso": "2026-03-29T20:48:30.487896+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -452,6 +454,7 @@
     "IDF probe finds ‘no negligence’ by troops in accidental killing of farmer in north": "تحقیقات ارتش اسرائیل «هیچ کوتاهی» از سوی نیروها در قتل تصادفی کشاورز در شمال را نشان می دهد",
     "Qatari TV station hit in Iran": "ایستگاه تلویزیونی قطری موفق در ایران",
     "High Court orders freeze to proactive monitoring by Ben Gvir’s new ‘anti-incitement’ body": "دیوان عالی دستور توقف نظارت پیشگیرانه توسط نهاد جدید «ضد تحریک» بن گویر را صادر کرد",
-    "Lebanon’s Catholics observe Palm Sunday under looming threat of war": "کاتولیک های لبنان یکشنبه نخل را زیر تهدید قریب الوقوع جنگ گرامی می دارند"
+    "Lebanon’s Catholics observe Palm Sunday under looming threat of war": "کاتولیک های لبنان یکشنبه نخل را زیر تهدید قریب الوقوع جنگ گرامی می دارند",
+    "Israeli police bar priest from Jerusalem’s Holy Sepulchre on Palm Sunday": "کشیش پلیس اسرائیل از قبر مقدس اورشلیم در یکشنبه نخل"
   }
 }

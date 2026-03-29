@@ -106,7 +106,11 @@
     "ca35d43552d79215c90abd88",
     "43453d07ae3e277d1188c6ae",
     "7c86f8b5c2a26073b3795238",
-    "28ede1f8da65d5190b33d1a9"
+    "28ede1f8da65d5190b33d1a9",
+    "80b73427df74bd2a2cba7c54",
+    "1d54d41c36dbb7dcf8051c54",
+    "abb008e3937493f4a9f547a8",
+    "20789a633d1abdb009fe603b"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -215,7 +219,11 @@
     "97fb0c1cbc4f5a9b74d8e772",
     "e78dc126067883387d7f17b3",
     "a9524f8e4ec26a95ed8c9054",
-    "cee91d389cb58df064b861a3"
+    "cee91d389cb58df064b861a3",
+    "7dd908b4392d2d095145799c",
+    "7f55baf92d62ca528b6d34e2",
+    "28cac7c7ee24372aef3c6d75",
+    "271c4fe3b568524601626ef7"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -230,8 +238,8 @@
     "4fa1ce88f22d8d4a1c3c4180",
     "b092fc508c14a59ece8e49ad"
   ],
-  "last_digest_hash": "21085b5542098c944bfb7ad3184239e61ce118603f6ffb300e6bebdd828b8952",
-  "last_run_iso": "2026-03-29T13:18:19.203719+00:00",
+  "last_digest_hash": "dde8698392441fe810de2324f61b9cbc49d3231e6ebf7f4cfbe5514eb6730f9e",
+  "last_run_iso": "2026-03-29T14:49:04.073120+00:00",
   "last_breaking_run_iso": "2026-03-29T08:55:55.910482+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -340,6 +348,10 @@
     "Iranian attacks across Gulf continue as major industrial sites hit": "حملات ایران در سراسر خلیج ادامه دارد و سایت های صنعتی بزرگ مورد حمله قرار می گیرند",
     "The US-Israeli war on humanity": "جنگ آمریکا و اسرائیل علیه بشریت",
     "Man arrested for attempted murder after car hits pedestrians in UK, wounding 7": "مردی به اتهام تلاش برای قتل پس از برخورد خودرو با عابران پیاده در بریتانیا دستگیر شد و ۷ نفر زخمی شدند",
-    "JD Vance’s Jewish chief of staff seems unfazed by GOP antisemitism – though he’s a target": "رئیس دفتر یهودی جی دی ونس، به نظر نمی رسد از یهودستیزی جمهوری خواهان ناراحت باشد – هرچند هدف قرار گرفته است"
+    "JD Vance’s Jewish chief of staff seems unfazed by GOP antisemitism – though he’s a target": "رئیس دفتر یهودی جی دی ونس، به نظر نمی رسد از یهودستیزی جمهوری خواهان ناراحت باشد – هرچند هدف قرار گرفته است",
+    "Iran ‘hits’ US AWACS, air tankers: What else has it targeted in past month?": "ایران به هواپیماهای AWACS و تانکر های هوایی آمریکا «اصابت» کرد: در ماه گذشته چه چیزهای دیگری را هدف قرار داده است؟",
+    "Knesset set to hold final 2 votes on passing 2026 state budget": "کنست قرار است دو رأی نهایی برای تصویب بودجه دولت ۲۰۲۶ برگزار کند",
+    "Police stop top Catholic figures from reaching Holy Sepulchre for Palm Sunday Mass": "پلیس مانع رسیدن چهره های برجسته کاتولیک به قبر مقدس برای مراسم یکشنبه نخل شد",
+    "‘Nowhere is really safe’: Iranian dissidents grapple with US war in Iran": "«هیچ جا واقعا امن نیست»: مخالفان ایرانی با جنگ آمریکا در ایران دست و پنجه نرم می کنند"
   }
 }

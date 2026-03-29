@@ -115,7 +115,15 @@
     "a55f52adf1611fa0bfd54c20",
     "b8f7162ae8ddbf5df65cb49d",
     "062e3b8c452c79bda4b915b8",
-    "519dec3a8135d31bf7fbb263"
+    "519dec3a8135d31bf7fbb263",
+    "6fa9e16018269977ddf9953d",
+    "a9895f7feab14b995cfd65ec",
+    "68552d6dee69972759727e36",
+    "34ec66b34ba5beabd0ead3cd",
+    "b5ef0bec19b0276707bdb35d",
+    "594a1464824d8f941d9cbe40",
+    "671e5dd19c60eebcab738548",
+    "4dfb211df4b82432ddad4182"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -233,7 +241,15 @@
     "618cceb1946ded442d69891e",
     "038ede850f168cd57e0a4c76",
     "776ae3f724174f9f71b8fa49",
-    "865149189f807a46f1089b23"
+    "865149189f807a46f1089b23",
+    "6c9da7f970cc5e3c1621696a",
+    "cd8d1228d84bcbd93c70da4a",
+    "5a391262c327a7ab006b81c0",
+    "0cfb70c0af592afe46cfec02",
+    "ece4d422856d5995371529da",
+    "88013ec2c191ea9ed1cc0e7a",
+    "1f61eb27de5310fae997f141",
+    "753dd8f2d63b17baddfedc7a"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -248,8 +264,8 @@
     "4fa1ce88f22d8d4a1c3c4180",
     "b092fc508c14a59ece8e49ad"
   ],
-  "last_digest_hash": "6ab1580a328182387360b7d3c680140c1d8dafed68942c45677d13ede85bd1c5",
-  "last_run_iso": "2026-03-29T15:44:00.409777+00:00",
+  "last_digest_hash": "996d51151614ed2e4e98155aa2b95ec0fe1dbe47e1ece9777024e18d1e2c873d",
+  "last_run_iso": "2026-03-29T16:49:57.065840+00:00",
   "last_breaking_run_iso": "2026-03-29T08:55:55.910482+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -367,6 +383,14 @@
     "30 Days of War - Sponsored Content": "۳۰ روز جنگ - محتوای حمایت شده",
     "How the US memeifies its war on Iran": "چگونه آمریکا جنگ خود علیه ایران را به تصویر می کشد",
     "Over 5,000 still in need of food for Pesach - Sponsored Content": "بیش از ۵۰۰۰ نفر هنوز به غذا برای عید پسح نیاز دارند - محتوای حمایت شده",
-    "UK’s Green Party fails to pass ‘Zionism is Racism’ motion after infighting, tech issues": "حزب سبز بریتانیا پس از اختلافات داخلی و مسائل فناوری، نتوانست طرح «صهیونیسم نژادپرستی است» را تصویب کند"
+    "UK’s Green Party fails to pass ‘Zionism is Racism’ motion after infighting, tech issues": "حزب سبز بریتانیا پس از اختلافات داخلی و مسائل فناوری، نتوانست طرح «صهیونیسم نژادپرستی است» را تصویب کند",
+    "What the Iran War reveals about missile warfare - Sponsored Content": "آنچه جنگ ایران درباره جنگ موشکی آشکار می کند - محتوای حمایت شده",
+    "Israeli police block Catholic cardinal from Holy Sepulchre on Palm Sunday": "پلیس اسرائیل مانع ورود کاردینال کاتولیک به قبر مقدس در یکشنبه نخل شد",
+    "Two Australian states offer free public transport as war pushes up fuel prices": "دو ایالت استرالیا حمل ونقل عمومی رایگان ارائه می دهند در حالی که جنگ قیمت سوخت را افزایش داده است",
+    "Israeli police block Latin Patriarch from Palm Sunday mass in Jerusalem": "پلیس اسرائیل مانع حضور پاتریارک لاتین در مراسم یکشنبه نخل در اورشلیم شد",
+    "Funeral held for Lebanese journalists killed in Israeli strike": "مراسم خاکسپاری برای خبرنگاران لبنانی کشته شده در حمله اسرائیل برگزار شد",
+    "Houthis open new front in Iran war: Will Yemeni group block Bab al-Mandeb?": "حوثی ها جبهه جدیدی در جنگ ایران گشودند: آیا گروه یمنی مانع باب المندب خواهد شد؟",
+    "Iran hits industrial zone in southern Israel": "ایران به منطقه صنعتی جنوب اسرائیل حمله می کند",
+    "Keeping Your Heart Open- Alice Miller - Sponsored Content": "قلب خود را باز نگه دارید - آلیس میلر - محتوای حمایت شده"
   }
 }

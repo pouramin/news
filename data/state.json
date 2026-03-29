@@ -71,7 +71,15 @@
     "6f51b5df223623a9ac28fbfd",
     "e9731c95debcd02fd5e24268",
     "7c28d43e527c0b11eb402679",
-    "1c746d232c006895150bce69"
+    "1c746d232c006895150bce69",
+    "7ad6357e7cfcd6a3d471754b",
+    "fadd659cb769d30c9e4ce714",
+    "07536e3edf5b6497050480cb",
+    "a4aecdc7a28788ac087af976",
+    "00d5e12765e190c37a41a805",
+    "e557e1721e46eeeab37fa837",
+    "28c44dc03ee4e2bbeef63585",
+    "f9140335e02494814ca02b8d"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -145,7 +153,15 @@
     "7d094ade2ef9944b21df1073",
     "2937dc5c0cfa2b3c3ac5d6ee",
     "f5548dca97a3913c1be6d2e4",
-    "1135df158e382565d4774ca6"
+    "1135df158e382565d4774ca6",
+    "fc3fcff1144bca32ff1e69b0",
+    "04362b7f5a8642c443fc6cc4",
+    "99f402e4ce0837a579308f7a",
+    "08367784476bbac808c623f8",
+    "c2e2f64e9d581f0b9872de46",
+    "6b87ad31dfd03bf503173ef8",
+    "c8cc9fea8067c54863bb9460",
+    "2579f10a774b944324ff45c3"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -154,11 +170,12 @@
     "8b63f746312c0cffaa95b1af",
     "171e837811690c99179b28b6",
     "bcd7c22dc67c96a8058cd117",
-    "0ca86850fa07ddd5c789c8b3"
+    "0ca86850fa07ddd5c789c8b3",
+    "7ad6357e7cfcd6a3d471754b"
   ],
-  "last_digest_hash": "35a56995821326e650491b639e27dc97136e730e167f085a88adae857b88073c",
-  "last_run_iso": "2026-03-28T23:43:04.411837+00:00",
-  "last_breaking_run_iso": "2026-03-28T19:39:59.095090+00:00",
+  "last_digest_hash": "51db678b528513a2c3f9853d5ba2ba31e0ab5ac6b91351b0c1f9a4cec4bd0b62",
+  "last_run_iso": "2026-03-29T03:32:38.202236+00:00",
+  "last_breaking_run_iso": "2026-03-29T03:32:38.202236+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -231,6 +248,14 @@
     "Pakistan secures Iran deal to send 20 ships through Strait of Hormuz": "پاکستان توافق با ایران برای اعزام ۲۰ کشتی از تنگه هرمز را به دست آورد",
     "Reza Pahlavi pledges to ‘make Iran great again’ at 2026 CPAC conference": "رضا پهلوی در کنفرانس CPAC ۲۰۲۶ متعهد شد که «ایران را دوباره بزرگ کند»",
     "Key moments in first month of US-Israeli war on Iran": "لحظات کلیدی در ماه اول جنگ آمریکا و اسرائیل علیه ایران",
-    "Air strikes in Iraq kill three PMF fighters, two police": "حملات هوایی در عراق سه جنگجوی حشد مردمی و دو پلیس را کشت"
+    "Air strikes in Iraq kill three PMF fighters, two police": "حملات هوایی در عراق سه جنگجوی حشد مردمی و دو پلیس را کشت",
+    "Iran threatens to hit US universities in region as retaliation for alleged strike on two universities": "ایران تهدید کرد که به عنوان تلافی حمله ادعایی به دو دانشگاه، دانشگاه های آمریکا را در منطقه هدف قرار خواهد داد",
+    "Iran war live: Tehran warns US, Israeli universities; Houthis fire missiles": "جنگ ایران زنده: تهران به دانشگاه های آمریکا و اسرائیل هشدار می دهد؛ حوثی ها موشک شلیک می کنند",
+    "IDF says almost done targeting ‘critical’ Iranian military sites as waves of strikes hit Tehran": "ارتش اسرائیل می گوید تقریبا هدف قرار دادن پایگاه های نظامی «حیاتی» ایران را به پایان رسانده است، چرا که موج های حملات به تهران می رسد",
+    "In Israel’s shelters, an ‘underground’ entertainment scene is born under missile fire": "در پناهگاه های اسرائیل، صحنه سرگرمی «زیرزمینی» زیر آتش موشک ها شکل می گیرد",
+    "As war on Iran enters second month, Yemen’s Houthis open new front": "با ورود جنگ با ایران به ماه دوم، حوثی های یمن جبهه جدیدی را گشودند",
+    "Trump is waging war based on instinct and it isn't working": "ترامپ بر اساس غریزه جنگ می کند و این کار جواب نمی دهد",
+    "Iran shuts down popular Tehran coffee shop chain over ‘suspicious’ cup designs": "ایران زنجیره کافی شاپ محبوب تهران را به دلیل طرح های «مشکوک» فنجان ها تعطیل کرد",
+    "Tens of thousands turn out for central London rally against the far-right": "ده ها هزار نفر در تجمع مرکزی لندن علیه راست افراطی شرکت کردند"
   }
 }

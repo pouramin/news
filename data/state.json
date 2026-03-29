@@ -136,7 +136,14 @@
     "9c5b8c7bbdb2947dd16fc812",
     "db16e39b3d50965998c16cc3",
     "4b96e5eaa076d949a7510db5",
-    "b6f157ffc48ac5840c0f0c62"
+    "b6f157ffc48ac5840c0f0c62",
+    "4a9b01db3428292f3f9a1b38",
+    "31a91e0bc7aa572baee7889e",
+    "08dd1c3ecdfcc0c3c479c6cc",
+    "9443b13900a07dfebd78eef6",
+    "0ffbc82caa1cab2f992a39ee",
+    "c6fa02da5fbce0f933de2a41",
+    "f8e82bbde30d969c2e4d3e76"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -275,7 +282,14 @@
     "cecce153ef1a54a935c9ed3d",
     "79104b30211a1511306702c0",
     "525b723b7a7bf4d06ed44c7b",
-    "c24cd85e55389a282a425f64"
+    "c24cd85e55389a282a425f64",
+    "3e442a443eaa66e7c17bcabd",
+    "4e163defd457f7e0725610ed",
+    "af083eafe6318565c568d50f",
+    "cdf91f78449accb2246176b7",
+    "d5a3641c7eb2b58c8cc74dec",
+    "9132c9b7c108dc09713e2164",
+    "67a455cbc7540caacda6effe"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -288,11 +302,12 @@
     "7ad6357e7cfcd6a3d471754b",
     "a2ec6f510db924de0c3823d4",
     "4fa1ce88f22d8d4a1c3c4180",
-    "b092fc508c14a59ece8e49ad"
+    "b092fc508c14a59ece8e49ad",
+    "4a9b01db3428292f3f9a1b38"
   ],
-  "last_digest_hash": "2a51a8b9d539afa37bcab4b6adcd90a3e6bf3f7f41bc20fbe06be74e02c8b3c1",
-  "last_run_iso": "2026-03-29T19:42:36.983828+00:00",
-  "last_breaking_run_iso": "2026-03-29T08:55:55.910482+00:00",
+  "last_digest_hash": "1c6c375b4070d2c08d0d14a3a0f445cc3f0124ed7c5d9d77ffd6997437d5053d",
+  "last_run_iso": "2026-03-29T20:48:30.487896+00:00",
+  "last_breaking_run_iso": "2026-03-29T20:48:30.487896+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -430,6 +445,13 @@
     "Zelenskyy arrives in Jordan to bolster security ties": "زلنسکی برای تقویت روابط امنیتی وارد اردن می شود",
     "Herzog’s office requests additional materials from Justice Ministry on PM’s pardon request": "دفتر هرتزوگ درخواست مدارک بیشتری از وزارت دادگستری درباره درخواست عفو نخست وزیر دارد",
     "The WHY of this year’s Passover – with Rachel Goldberg-Polin - Sponsored Content": "دلیل پسح امسال – با ریچل گلدبرگ-پولین – محتوای حمایت شده",
-    "Republican Mace says Congress must approve any US troop deployment to Iran": "میس جمهوری خواه می گوید کنگره باید هرگونه اعزام نیروهای آمریکایی به ایران را تأیید کند"
+    "Republican Mace says Congress must approve any US troop deployment to Iran": "میس جمهوری خواه می گوید کنگره باید هرگونه اعزام نیروهای آمریکایی به ایران را تأیید کند",
+    "PM says Israel to expand south Lebanon buffer zone as IDF pushes deeper into territory": "نخست وزیر می گوید اسرائیل قصد دارد منطقه حائل جنوب لبنان را گسترش دهد، در حالی که ارتش اسرائیل به عمق خاک پیشروی می کند",
+    "Iranian missile attack sparks blaze in chemical plant, fears of hazardous leak": "حمله موشکی ایران آتش سوزی در کارخانه شیمیایی را شعله ور کرد، نگرانی از نشت خطرناک",
+    "Iran’s envoy to remain in Lebanon in defiance of expulsion by Beirut — diplomatic source": "فرستاده ایران در لبنان باقی می ماند در حالی که اخراج بیروت را به چالش می کشد — منبع دیپلماتیک",
+    "IDF probe finds ‘no negligence’ by troops in accidental killing of farmer in north": "تحقیقات ارتش اسرائیل «هیچ کوتاهی» از سوی نیروها در قتل تصادفی کشاورز در شمال را نشان می دهد",
+    "Qatari TV station hit in Iran": "ایستگاه تلویزیونی قطری موفق در ایران",
+    "High Court orders freeze to proactive monitoring by Ben Gvir’s new ‘anti-incitement’ body": "دیوان عالی دستور توقف نظارت پیشگیرانه توسط نهاد جدید «ضد تحریک» بن گویر را صادر کرد",
+    "Lebanon’s Catholics observe Palm Sunday under looming threat of war": "کاتولیک های لبنان یکشنبه نخل را زیر تهدید قریب الوقوع جنگ گرامی می دارند"
   }
 }

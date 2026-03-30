@@ -176,7 +176,20 @@
     "9a035ab6b8d3270bfffe007f",
     "63b0d04815030e8a98c9a99d",
     "16c1584c953e92c578cd1b09",
-    "30ac50c00fc1730cf1d438d7"
+    "30ac50c00fc1730cf1d438d7",
+    "b14e2b922e2b296fc1b9b07d",
+    "73c1f68629dbd1f531654fb9",
+    "1221fceec621af2c99671772",
+    "3e54459295264f6b9bcae2b6",
+    "a66df4bc924797bb18fcf500",
+    "b7db298bed5466f683bbb3a6",
+    "46b43885b45baf82012137fa",
+    "890489acd914f96340f14d06",
+    "44db165fb65b6227aa7965b9",
+    "f95d04db7254f5e33fff964f",
+    "d69dae8bc062ba3f0ae1a520",
+    "3bcfcc6ec0ceef9b69d17e02",
+    "9d86886588cc8d950b2eb144"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -355,7 +368,20 @@
     "c04137c1db010f49e497ca78",
     "1f9364f2878fa5b4a9c91098",
     "d007806dc9f656cf8f13e413",
-    "1403c1f85fed68438b0a1c31"
+    "1403c1f85fed68438b0a1c31",
+    "6bceb2ea03a1fa6cd6885b78",
+    "d2df55753e53bb27a0967cd5",
+    "92533d63f58e5be261af5bd0",
+    "30c86bfa204012e9ccc4b125",
+    "0771b8f4c9f068ca8033b059",
+    "07c1bdc63e9a3c595ad88b66",
+    "807b7772d498481fd56d90fc",
+    "3ff74fcec21f14ce546bda0a",
+    "963f4bee37c7626341e4b70e",
+    "ebee23aed5a6e83dba2f69fe",
+    "f8ff37aa19189ce686817ede",
+    "fddaf9c93f3099a7189285d7",
+    "48c1d23901cfede5a12db0c6"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -370,11 +396,12 @@
     "4fa1ce88f22d8d4a1c3c4180",
     "b092fc508c14a59ece8e49ad",
     "4a9b01db3428292f3f9a1b38",
-    "a5055bc4c116decc150ec131"
+    "a5055bc4c116decc150ec131",
+    "b14e2b922e2b296fc1b9b07d"
   ],
-  "last_digest_hash": "1f4f80a11b9790a1768eb23c23ec590f6821deee22d8eae2c56450ff4852746f",
-  "last_run_iso": "2026-03-30T09:44:48.761446+00:00",
-  "last_breaking_run_iso": "2026-03-30T03:35:22.372082+00:00",
+  "last_digest_hash": "2a9429ac092f46d75df99890faa4bbb2f2fd1c8c6d8bc4bfb1e2843d6373c42a",
+  "last_run_iso": "2026-03-30T11:16:00.059103+00:00",
+  "last_breaking_run_iso": "2026-03-30T11:16:00.059103+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -552,6 +579,19 @@
     "Did Israel miscalculate in launching the war on Iran?": "آیا اسرائیل در آغاز جنگ علیه ایران اشتباه کرد؟",
     "Trump wants to invade Iran to seize oil, calls US objectors ‘stupid people’": "ترامپ می خواهد به ایران حمله کند تا نفت را تصاحب کند و معترضان آمریکایی را «مردم احمق» خواند",
     "UN peacekeeper killed in southern Lebanon as Israeli invasion intensifies": "یک حافظ صلح سازمان ملل در جنوب لبنان کشته شد در حالی که تهاجم اسرائیل شدت می گیرد",
-    "‘This is a nightmare scenario if it escalates further.’": "«اگر بدتر شود، این یک سناریوی کابوس وار است.»"
+    "‘This is a nightmare scenario if it escalates further.’": "«اگر بدتر شود، این یک سناریوی کابوس وار است.»",
+    "IDF hammers Iranian weapons production sites; Iran files salvos of missiles at south": "ارتش اسرائیل سایت های تولید سلاح ایرانی را بمباران می کند؛ ایران شلیک موشک هایی به سمت جنوب انجام داد",
+    "Daily Briefing Mar. 30 – IDF set to vastly expand buffer zone in Lebanon": "گزارش روزانه ۳۰ مارس – ارتش اسرائیل قصد دارد منطقه حائل خود را در لبنان به طور چشمگیری گسترش دهد",
+    "Iraq risks Arab ties as Iran-aligned groups strike Gulf nations": "عراق روابط با عرب ها را به خطر می اندازد در حالی که گروه های همسو با ایران به کشورهای خلیج فارس حمله می کنند",
+    "Palestine aIly Ireland under fire for allowing weapons transfers to Israel": "فلسطین و ایرلند به خاطر اجازه دادن به انتقال سلاح به اسرائیل زیر فشار هستند",
+    "Schools, water, industry: What civilian targets have US, Israel, Iran hit?": "مدارس، آب، صنعت: آمریکا، اسرائیل و ایران به چه اهداف غیرنظامی حمله کرده اند؟",
+    "Smoke rise from Beirut suburbs following Israeli attack": "دود از حومه بیروت پس از حمله اسرائیل بلند می شود",
+    "Land Day in Gaza: Between memory and the fight for what remains": "روز زمین در غزه: میان حافظه و مبارزه برای آنچه باقی مانده",
+    "IDF chief: Detention, alleged assault of CNN crew in West Bank ‘grave ethical incident’": "رئیس ارتش اسرائیل: بازداشت، حمله ادعایی به خدمه سی ان ان در کرانه باختری «حادثه جدی اخلاقی»",
+    "Israel’s new immigrants find purpose in volunteering as war continues - Sponsored Content": "مهاجران جدید اسرائیل در حالی که جنگ ادامه دارد، هدفی از داوطلبی پیدا می کنند - محتوای حمایت شده",
+    "Beirut apartment damaged in Israeli strike": "آپارتمان بیروت در حمله اسرائیل آسیب دید",
+    "Syria’s al-Sharaa visits Germany to talk reconstruction, return of refugees": "الشعاره سوریه به آلمان سفر می کند تا درباره بازسازی و بازگشت پناهندگان گفتگو کند",
+    "Green and Yellow: Two lines that separate me from my land": "سبز و زرد: دو خطی که مرا از سرزمینم جدا می کنند",
+    "Why does the US have Iran's Kharg Island in its sights?": "چرا آمریکا جزیره خارگ ایران را هدف قرار داده است؟"
   }
 }

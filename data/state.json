@@ -238,7 +238,15 @@
     "81076802ff17d15a7c6e1750",
     "3f894f39001e1bc8f995d4df",
     "ccec0bea81469592aa3b08c1",
-    "7e57852db8938c6596106bab"
+    "7e57852db8938c6596106bab",
+    "124ddab3fd447dbeab7f9b43",
+    "e6550d52d9eacae1ffcc9b82",
+    "0594932fa8cca5726d58dd51",
+    "094fc7ecd559627d92312cae",
+    "370e744baa30f6a26f585c0c",
+    "b9dc10b4fd9ae6951c7527e7",
+    "e615626106396d93ce6e22f6",
+    "f49479cb2b8f2d6704ab1fdf"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -479,7 +487,15 @@
     "a0e694348d932e117bf46921",
     "9a4c6a4251f47da19d84a404",
     "66973a97e41629b7d85e5c91",
-    "43197a413dc950003c7f2d51"
+    "43197a413dc950003c7f2d51",
+    "f12a5e82420ddd656433b4b6",
+    "a118e8cb5a6615de6aa171a7",
+    "e690be3cbb53ed37192a2782",
+    "834897787d8f1219781a745f",
+    "e79df08d04d0ea713f5b8a73",
+    "6934e7169413b3b1ddef01ef",
+    "84567f05ac0bd44cf7f9baed",
+    "030696cbdfcc57917fce27dd"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -499,8 +515,8 @@
     "36319b373d991cd718cba00a",
     "dde58855d96012bc5d9b1d95"
   ],
-  "last_digest_hash": "72135902a416d6048f37e69454aadbb27e296a054b0189f1a8982e51a2782275",
-  "last_run_iso": "2026-03-30T20:58:58.920074+00:00",
+  "last_digest_hash": "a7ff97c0eb598b9235785148adc9128b6008319c3a8466cf2b2fe6a4e7398dee",
+  "last_run_iso": "2026-03-30T21:54:36.963170+00:00",
   "last_breaking_run_iso": "2026-03-30T15:20:12.589852+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -741,6 +757,14 @@
     "French police make two more arrests over foiled attack on Bank of America": "پلیس فرانسه دو نفر دیگر را به دلیل ناکام شدن حمله به بانک آمریکا بازداشت کرد",
     "Two Indonesian UN peacekeepers killed in explosion in Lebanon": "دو حافظ صلح سازمان ملل اندونزی در انفجاری در لبنان کشته شدند",
     "What we know about attack on key Israeli oil refinery": "آنچه درباره حمله به پالایشگاه کلیدی نفت اسرائیل می دانیم",
-    "Bennett vows to investigate ‘sabotage of Haredi enlistment’ if elected PM": "بنت قول داد در صورت انتخاب به نخست وزیری، «خرابکاری در ثبت نام حریدی ها» را بررسی کند"
+    "Bennett vows to investigate ‘sabotage of Haredi enlistment’ if elected PM": "بنت قول داد در صورت انتخاب به نخست وزیری، «خرابکاری در ثبت نام حریدی ها» را بررسی کند",
+    "‘We have to destroy Iran’s ability to launch missiles’, Rubio says": "روبیو می گوید: «باید توانایی ایران برای پرتاب موشک را نابود کنیم»",
+    "UN condemns killing of Indonesian peacekeepers in Lebanon": "سازمان ملل قتل نیروهای حافظ صلح اندونزی در لبنان را محکوم کرد",
+    "Palestinians convicted of deadly attacks face death penalty under new Israeli law": "فلسطینی هایی که به حملات مرگبار محکوم شده اند، طبق قانون جدید اسرائیل با مجازات اعدام مواجه اند",
+    "Israel’s parliament passes death penalty bill targeting Palestinians": "پارلمان اسرائیل لایحه مجازات اعدام فلسطینی ها را تصویب کرد",
+    "The war in Iran: Key takeaways from Al Jazeera’s interview with Marco Rubio": "جنگ در ایران: نکات کلیدی از مصاحبه الجزیره با مارکو روبیو",
+    "‘Dangerous escalation’: World reacts to Israel passing death penalty law": "«تشدید خطرناک»: واکنش جهان به تصویب قانون اعدام توسط اسرائیل",
+    "Israeli Knesset approves death penalty for Palestinians": "کنست اسرائیل مجازات اعدام فلسطینی ها را تصویب کرد",
+    "Knesset passes death penalty law for Palestinians convicted of deadly acts of terror": "کنست قانون مجازات اعدام را برای فلسطینیان محکوم به اعمال تروریستی مرگبار تصویب کرد"
   }
 }

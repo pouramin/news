@@ -233,7 +233,12 @@
     "1e919a484425eee721aacead",
     "45616c4863841c11960d0a9c",
     "443376d2af781cb4e00e95a9",
-    "002d015227b4eec0965e6f81"
+    "002d015227b4eec0965e6f81",
+    "1e904f881d483d4d26c1afb2",
+    "81076802ff17d15a7c6e1750",
+    "3f894f39001e1bc8f995d4df",
+    "ccec0bea81469592aa3b08c1",
+    "7e57852db8938c6596106bab"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -469,7 +474,12 @@
     "6275c62fb97a293e1b79ad31",
     "77cddd465ac286aef6282b4b",
     "e807cc322eb2e4730d080c45",
-    "a05146d8ad8c8454e7e5c7fc"
+    "a05146d8ad8c8454e7e5c7fc",
+    "bf9a8b935d864fec1dbc95f5",
+    "a0e694348d932e117bf46921",
+    "9a4c6a4251f47da19d84a404",
+    "66973a97e41629b7d85e5c91",
+    "43197a413dc950003c7f2d51"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -489,8 +499,8 @@
     "36319b373d991cd718cba00a",
     "dde58855d96012bc5d9b1d95"
   ],
-  "last_digest_hash": "586a284a6231a67c902ac34d950b247b9336ac94161af1f733c1d34e44686df3",
-  "last_run_iso": "2026-03-30T19:16:47.903605+00:00",
+  "last_digest_hash": "72135902a416d6048f37e69454aadbb27e296a054b0189f1a8982e51a2782275",
+  "last_run_iso": "2026-03-30T20:58:58.920074+00:00",
   "last_breaking_run_iso": "2026-03-30T15:20:12.589852+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -726,6 +736,11 @@
     "Two more UN peacekeepers killed in southern Lebanon: UNIFIL": "دو حافظ صلح دیگر سازمان ملل در جنوب لبنان کشته شدند: یونیفیل",
     "Most Syrian refugees in Germany expected to return home in three years, Merz says": "مرز می گوید بیشتر پناهندگان سوری در آلمان انتظار دارند ظرف سه سال به خانه بازگردند",
     "AG halts transfer of budget funds for Haredi institutions after contentious vote": "دادستان کل انتقال بودجه برای مؤسسات حریدی را پس از رأی گیری جنجالی متوقف کرد",
-    "What is the ‘Greater Israel’ project?": "پروژه «اسرائیل بزرگ» چیست؟"
+    "What is the ‘Greater Israel’ project?": "پروژه «اسرائیل بزرگ» چیست؟",
+    "Rubio says NATO must be re-examined after Spain blocks US operation on Iran": "روبیو می گوید پس از آنکه اسپانیا عملیات آمریکا علیه ایران را مسدود کرد، ناتو باید مجددا مورد بازنگری قرار گیرد",
+    "French police make two more arrests over foiled attack on Bank of America": "پلیس فرانسه دو نفر دیگر را به دلیل ناکام شدن حمله به بانک آمریکا بازداشت کرد",
+    "Two Indonesian UN peacekeepers killed in explosion in Lebanon": "دو حافظ صلح سازمان ملل اندونزی در انفجاری در لبنان کشته شدند",
+    "What we know about attack on key Israeli oil refinery": "آنچه درباره حمله به پالایشگاه کلیدی نفت اسرائیل می دانیم",
+    "Bennett vows to investigate ‘sabotage of Haredi enlistment’ if elected PM": "بنت قول داد در صورت انتخاب به نخست وزیری، «خرابکاری در ثبت نام حریدی ها» را بررسی کند"
   }
 }

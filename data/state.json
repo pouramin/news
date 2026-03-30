@@ -251,7 +251,10 @@
     "2fc51d380789ebe491775116",
     "e77b835af046e7139ea90e4d",
     "a7f2b1a4f81667f784d17795",
-    "bb616d6813f2cd9b1052a2ec"
+    "bb616d6813f2cd9b1052a2ec",
+    "cb132451466d38224a6cd1fb",
+    "dad12f7117222fb3f8de2890",
+    "d6efd48120480ed0bae2cf37"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -505,7 +508,10 @@
     "7bc82827f7d275f5e00caf3b",
     "632e21e0c583c71bc30d2a45",
     "2b1b957575785e97a889bb8b",
-    "753aa5c70878b6514e1e1234"
+    "753aa5c70878b6514e1e1234",
+    "1dfa4e625ef6e09f1ec2dc53",
+    "940a5bb88ed1c15b5b2eccba",
+    "2983a1d985ff40bab524c70b"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -525,8 +531,8 @@
     "36319b373d991cd718cba00a",
     "dde58855d96012bc5d9b1d95"
   ],
-  "last_digest_hash": "d61eff12d350c2ee8ff86ae2f89892ef30241cd01ae0344efdba8e7a09296e7b",
-  "last_run_iso": "2026-03-30T22:53:15.811652+00:00",
+  "last_digest_hash": "72de31975bae2bcd15133e5e66f86a59d74ed13a78e1207854f93cf877ab3527",
+  "last_run_iso": "2026-03-30T23:49:24.146885+00:00",
   "last_breaking_run_iso": "2026-03-30T15:20:12.589852+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -780,6 +786,9 @@
     "US says Trump ‘interested’ in asking Arab countries to pay for war on Iran": "آمریکا می گوید ترامپ «علاقه مند» است که از کشورهای عربی بخواهد هزینه جنگ با ایران را بپردازند",
     "Key moments from Marco Rubio’s interview with Al Jazeera": "لحظات کلیدی از مصاحبه مارکو روبیو با الجزیره",
     "Facing a resurgent Hezbollah, Israel slouches back to a security zone in Lebanon": "در مواجهه با حزب الله احیا شده، اسرائیل به منطقه امنیتی لبنان بازمی گردد",
-    "FBI: Armed man who rammed pickup into Michigan synagogue was inspired by Hezbollah": "اف بی آی: مرد مسلحی که وانت را به کنیسه میشیگان کوبید، از حزب الله الهام گرفته بود"
+    "FBI: Armed man who rammed pickup into Michigan synagogue was inspired by Hezbollah": "اف بی آی: مرد مسلحی که وانت را به کنیسه میشیگان کوبید، از حزب الله الهام گرفته بود",
+    "Iran’s foreign ministry rejects US ceasefire demands": "وزارت امور خارجه ایران درخواست های آتش بس آمریکا را رد کرد",
+    "Gazan mother reunited with evacuated daughter after two years": "مادر غزه ای پس از دو سال با دختر تخلیه شده دوباره دیدار کرد",
+    "US raises concern over Israel’s closure of Jerusalem holy sites": "آمریکا نگرانی خود را درباره بسته شدن اماکن مقدس اورشلیم توسط اسرائیل ابراز کرد"
   }
 }

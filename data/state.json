@@ -159,7 +159,12 @@
     "d93d6acdde45ce91a4e6214d",
     "196f822019e817c6344c6b04",
     "c6243ec7fed8a40a1b604e83",
-    "7f37926e869d3a39704f4c29"
+    "7f37926e869d3a39704f4c29",
+    "c2e4a978c29d5afb0cbfaace",
+    "a844accb29955007d67c5d56",
+    "47907f0b753441446197d5c5",
+    "ff3c1be76d0490015fe97a03",
+    "93d6a438868bebbf247f54b1"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -321,7 +326,12 @@
     "d1b1cd09773933cf4ab0be5c",
     "a0abefd2d6b41ad37ee1fff6",
     "6e6d0ba37c903e36dd990142",
-    "96b7237493ef3867bc635e31"
+    "96b7237493ef3867bc635e31",
+    "72fc9022785fcee99eefd489",
+    "64c952e1800e121e297425eb",
+    "b6c823bb5543de04546e80e3",
+    "91d6fcf6c6662e9586537a45",
+    "0fbf9382b46a78e86d386fdf"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -338,8 +348,8 @@
     "4a9b01db3428292f3f9a1b38",
     "a5055bc4c116decc150ec131"
   ],
-  "last_digest_hash": "e203427b590914759bf7c1da565db9a6e23cf71fe76d39d69db88f3ede82decb",
-  "last_run_iso": "2026-03-30T03:35:22.372082+00:00",
+  "last_digest_hash": "d19af89f6121fae90dac56422ea15d529d48ee91403a159d3c9f1676681b2013",
+  "last_run_iso": "2026-03-30T06:06:10.077291+00:00",
   "last_breaking_run_iso": "2026-03-30T03:35:22.372082+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -501,6 +511,11 @@
     "Knesset approves 2026 budget, Israel’s largest ever, sending billions to Haredi institutions": "کنست بودجه ۲۰۲۶ را تصویب کرد، که بزرگ ترین بودجه اسرائیل تا آن زمان بود و میلیاردها دلار به نهادهای حریدی ارسال می کند",
     "Oil tops $116 a barrel as Iran accuses US of preparing invasion": "قیمت نفت به مرز ۱۱۶ دلار در هر بشکه رسید در حالی که ایران آمریکا را به آماده سازی برای تهاجم متهم می کند",
     "Police, Catholic patriarchate reach agreement on prayer at Holy Sepulchre after cardinal blocked": "پلیس و پاتریارک کاتولیک پس از مسدود شدن کاردینال، بر سر دعا در مقبره مقدس به توافق رسیدند",
-    "Netanyahu orders deeper Israeli invasion into Lebanon": "نتانیاهو دستور حمله عمیق تر اسرائیل به لبنان را صادر کرد"
+    "Netanyahu orders deeper Israeli invasion into Lebanon": "نتانیاهو دستور حمله عمیق تر اسرائیل به لبنان را صادر کرد",
+    "Trump says Iran’s ‘had regime change’ as he describes ‘boatloads of oil’": "ترامپ می گوید ایران «تغییر رژیم داشته است» همان طور که او «قایق های پر از نفت» را توصیف می کند",
+    "Indonesian peacekeeper killed in Lebanon explosion, 2nd critically injured": "حافظ صلح اندونزیایی در انفجار لبنان کشته شد، دومین نفر به شدت زخمی شدند",
+    "‘We’re killing them, bro’: Israelis correct Iranian online streamer": "«داریم می کشیمشون، داداش»: اسرائیلی ها استریمر آنلاین ایرانی را اصلاح می کنند",
+    "Canadian YouTuber captures congestion of dozens of ships in Hormuz Strait": "یوتیوبر کانادایی ازدحام ده ها کشتی را در تنگه هرمز ثبت کرد",
+    "IDF pulls battalion from West Bank action after alleged assault of CNN crew": "ارتش اسرائیل پس از حمله ادعایی به خدمه سی ان ان، گردان خود را از عملیات کرانه باختری خارج کرد"
   }
 }

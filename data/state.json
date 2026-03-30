@@ -209,7 +209,20 @@
     "c749c90c215c79cd507d7ec2",
     "3f2cb19a76214e39552aa3e2",
     "c3d6c21ac01bccf802478551",
-    "04eb184a9976f9d24e9da290"
+    "04eb184a9976f9d24e9da290",
+    "329789d66477f0bedac2552a",
+    "4c7c24094502a719fcbe048d",
+    "f908f9c2ab9bc0311671e2eb",
+    "4915865ae34b8107bf12ea05",
+    "260a5d2934a7ff517deec782",
+    "6da7110e0a9c01a509dd97fc",
+    "f43c36ecbf8c05f0c2796891",
+    "5acd89a9342f8b11727d5beb",
+    "c67b60030185e15513377389",
+    "9eb930ef326793a9130f6c68",
+    "4e8f429c49e0e9bf7982b4df",
+    "6e5cbc84342437eee5a96dcb",
+    "a8b0a593a05c520cdef8836e"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -421,7 +434,20 @@
     "1b92624736eafd807fd496ba",
     "e3f927d6fece7c080da88703",
     "1ba501e10ee14e1f7d517c69",
-    "dc276ce80bba959d66fa51e0"
+    "dc276ce80bba959d66fa51e0",
+    "6319a1d0d5cd3d6541bc3412",
+    "ec5fc83f7ce410a2f1d02ee7",
+    "176796adbe24a79bb158c6f9",
+    "e31771b1ee370dec080a46df",
+    "c22a6b19ce8e8e26890fa833",
+    "34396da505dcb49a8cbe5332",
+    "7f981ebd2939a3a0fc37299e",
+    "4ccfe2d701c4629b61678e5b",
+    "a0b1922ea0e96dad2c2db34b",
+    "508d8250bebfd844d1a73ef0",
+    "90fe176a4360e7b61f01e953",
+    "f139736343275d1fa1c8a327",
+    "975f66b14a6d93497a87bff2"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -441,8 +467,8 @@
     "36319b373d991cd718cba00a",
     "dde58855d96012bc5d9b1d95"
   ],
-  "last_digest_hash": "31ff5fdc4d7a93a29cdba98152810a0415c8aec5cb4e1b7a0327a98581e184df",
-  "last_run_iso": "2026-03-30T15:20:12.589852+00:00",
+  "last_digest_hash": "905e8033ddcd7bab08f8f21676a4950c12425a70da2b963fae12ba23f049ff4a",
+  "last_run_iso": "2026-03-30T17:11:52.045578+00:00",
   "last_breaking_run_iso": "2026-03-30T15:20:12.589852+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -654,6 +680,19 @@
     "Trump wants to ‘take Iran’s oil’: Can he, and what would that mean?": "ترامپ می خواهد «نفت ایران را بگیرد»: می تواند، و این چه معنایی خواهد داشت؟",
     "Rubio tells Al Jazeera Strait of Hormuz will reopen ‘one way or another’": "روبیو به تنگه الجزیره می گوید که هرمز «به هر طریقی که شده بازگشایی خواهد شد»",
     "Iran hangs two political prisoners from opposition group, activists say": "فعالان می گویند ایران دو زندانی سیاسی از گروه مخالف را به دار آویخت",
-    "Canada’s main progressive party taps anti-Zionist Jewish ex-journalist as new leader": "حزب پیشرو اصلی کانادا خبرنگار سابق یهودی ضدصهیونیست را به عنوان رهبر جدید انتخاب کرد"
+    "Canada’s main progressive party taps anti-Zionist Jewish ex-journalist as new leader": "حزب پیشرو اصلی کانادا خبرنگار سابق یهودی ضدصهیونیست را به عنوان رهبر جدید انتخاب کرد",
+    "Palestinian shot dead during alleged ramming attempt in the West Bank, IDF says": "ارتش اسرائیل می گوید فلسطینی در جریان تلاش ادعایی برای کوبیدن در کرانه باختری به ضرب گلوله کشته شد",
+    "Fire contained after missile attack on oil refinery in Israel’s Haifa": "آتش پس از حمله موشکی به پالایشگاه نفت در حیفای اسرائیل مهار شد",
+    "Drone purchases in Russia and Iran surge using crypto, report says": "گزارش می گوید خرید پهپاد در روسیه و ایران با استفاده از رمزارز افزایش یافته است",
+    "‘Loyalty campaign’: Iraqi armed groups in Iran as US talks of ground war": "«کمپین وفاداری»: گروه های مسلح عراقی در ایران در حالی که آمریکا درباره جنگ زمینی صحبت می کند",
+    "Trump threatens to ‘blow up’ desalination plants in Iran if no deal reached": "ترامپ تهدید کرد که اگر توافقی حاصل نشود، کارخانه های شیرین کن در ایران را «منفجر» خواهد کرد",
+    "Marco Rubio says President Trump prefers diplomatic solution to war on Iran": "مارکو روبیو می گوید رئیس جمهور ترامپ راه حل دیپلماتیک را به جنگ با ایران ترجیح می دهد",
+    "How the US could try to seize Iran's Kharg Island": "چگونه آمریکا می تواند تلاش کند جزیره خارگ ایران را تصرف کند",
+    "Egypt’s president urges Trump to stop war on Iran": "رئیس جمهور مصر از ترامپ خواست تا جنگ با ایران را متوقف کند",
+    "‘Strait of Hormuz will reopen one way or another’, Rubio tells Al Jazeera": "روبیو به الجزیره می گوید: «تنگه هرمز به هر طریقی دوباره باز خواهد شد»",
+    "We dug up medics in Gaza. A year later, international law remains buried": "ما امدادگران را در غزه پیدا کردیم. یک سال بعد، حقوق بین الملل همچنان مدفون است",
+    "Opposition MKs voted to allocate NIS 800 million for Haredi schools. How did it happen?": "نمایندگان مخالف به اختصاص ۸۰۰ میلیون شِکل به مدارس حریدی رأی دادند. چطور این اتفاق افتاد؟",
+    "Is the US ready to invade Iran? What Trump’s moves tell us so far": "آیا آمریکا آماده حمله به ایران است؟ اقدامات ترامپ تا اینجا چه چیزی را به ما نشان می دهد",
+    "‘Iran will never acquire nuclear weapons’ Rubio tells Al Jazeera": "روبیو به الجزیره گفت: «ایران هرگز به سلاح هسته ای دست نخواهد یافت"
   }
 }

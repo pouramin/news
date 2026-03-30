@@ -246,7 +246,12 @@
     "370e744baa30f6a26f585c0c",
     "b9dc10b4fd9ae6951c7527e7",
     "e615626106396d93ce6e22f6",
-    "f49479cb2b8f2d6704ab1fdf"
+    "f49479cb2b8f2d6704ab1fdf",
+    "293b23f1b859f05ed364d9f1",
+    "2fc51d380789ebe491775116",
+    "e77b835af046e7139ea90e4d",
+    "a7f2b1a4f81667f784d17795",
+    "bb616d6813f2cd9b1052a2ec"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -495,7 +500,12 @@
     "e79df08d04d0ea713f5b8a73",
     "6934e7169413b3b1ddef01ef",
     "84567f05ac0bd44cf7f9baed",
-    "030696cbdfcc57917fce27dd"
+    "030696cbdfcc57917fce27dd",
+    "217e0de9ac1bce2ea80779b0",
+    "7bc82827f7d275f5e00caf3b",
+    "632e21e0c583c71bc30d2a45",
+    "2b1b957575785e97a889bb8b",
+    "753aa5c70878b6514e1e1234"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -515,8 +525,8 @@
     "36319b373d991cd718cba00a",
     "dde58855d96012bc5d9b1d95"
   ],
-  "last_digest_hash": "a7ff97c0eb598b9235785148adc9128b6008319c3a8466cf2b2fe6a4e7398dee",
-  "last_run_iso": "2026-03-30T21:54:36.963170+00:00",
+  "last_digest_hash": "d61eff12d350c2ee8ff86ae2f89892ef30241cd01ae0344efdba8e7a09296e7b",
+  "last_run_iso": "2026-03-30T22:53:15.811652+00:00",
   "last_breaking_run_iso": "2026-03-30T15:20:12.589852+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -765,6 +775,11 @@
     "The war in Iran: Key takeaways from Al Jazeera’s interview with Marco Rubio": "جنگ در ایران: نکات کلیدی از مصاحبه الجزیره با مارکو روبیو",
     "‘Dangerous escalation’: World reacts to Israel passing death penalty law": "«تشدید خطرناک»: واکنش جهان به تصویب قانون اعدام توسط اسرائیل",
     "Israeli Knesset approves death penalty for Palestinians": "کنست اسرائیل مجازات اعدام فلسطینی ها را تصویب کرد",
-    "Knesset passes death penalty law for Palestinians convicted of deadly acts of terror": "کنست قانون مجازات اعدام را برای فلسطینیان محکوم به اعمال تروریستی مرگبار تصویب کرد"
+    "Knesset passes death penalty law for Palestinians convicted of deadly acts of terror": "کنست قانون مجازات اعدام را برای فلسطینیان محکوم به اعمال تروریستی مرگبار تصویب کرد",
+    "Is a peaceful settlement possible in Iran?": "آیا راه حل مسالمت آمیز در ایران ممکن است؟",
+    "US says Trump ‘interested’ in asking Arab countries to pay for war on Iran": "آمریکا می گوید ترامپ «علاقه مند» است که از کشورهای عربی بخواهد هزینه جنگ با ایران را بپردازند",
+    "Key moments from Marco Rubio’s interview with Al Jazeera": "لحظات کلیدی از مصاحبه مارکو روبیو با الجزیره",
+    "Facing a resurgent Hezbollah, Israel slouches back to a security zone in Lebanon": "در مواجهه با حزب الله احیا شده، اسرائیل به منطقه امنیتی لبنان بازمی گردد",
+    "FBI: Armed man who rammed pickup into Michigan synagogue was inspired by Hezbollah": "اف بی آی: مرد مسلحی که وانت را به کنیسه میشیگان کوبید، از حزب الله الهام گرفته بود"
   }
 }

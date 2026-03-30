@@ -222,7 +222,18 @@
     "9eb930ef326793a9130f6c68",
     "4e8f429c49e0e9bf7982b4df",
     "6e5cbc84342437eee5a96dcb",
-    "a8b0a593a05c520cdef8836e"
+    "a8b0a593a05c520cdef8836e",
+    "72acb2598188ad89f2703b04",
+    "739d7a6fbbc8eeb02a8970f6",
+    "9666b5a39fd03937b61b8d16",
+    "f3209f7715b482d90b386de7",
+    "a1d5676413c394491630ed1f",
+    "fef0798e76277ee6c8f1659b",
+    "f930cc019c21838dfd4390b6",
+    "1e919a484425eee721aacead",
+    "45616c4863841c11960d0a9c",
+    "443376d2af781cb4e00e95a9",
+    "002d015227b4eec0965e6f81"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -447,7 +458,18 @@
     "508d8250bebfd844d1a73ef0",
     "90fe176a4360e7b61f01e953",
     "f139736343275d1fa1c8a327",
-    "975f66b14a6d93497a87bff2"
+    "975f66b14a6d93497a87bff2",
+    "6773027d6a92e0d000cb6703",
+    "1c8fc44d0fb3ab5a5359413b",
+    "1f72e2ad8c08a9b796b146dd",
+    "791e8738be79766901092287",
+    "6d64e36162c6281f63621936",
+    "0c70d0ace3211d49219d39d5",
+    "a24463371b0218639b87cbc4",
+    "6275c62fb97a293e1b79ad31",
+    "77cddd465ac286aef6282b4b",
+    "e807cc322eb2e4730d080c45",
+    "a05146d8ad8c8454e7e5c7fc"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -467,8 +489,8 @@
     "36319b373d991cd718cba00a",
     "dde58855d96012bc5d9b1d95"
   ],
-  "last_digest_hash": "905e8033ddcd7bab08f8f21676a4950c12425a70da2b963fae12ba23f049ff4a",
-  "last_run_iso": "2026-03-30T17:12:37.264027+00:00",
+  "last_digest_hash": "586a284a6231a67c902ac34d950b247b9336ac94161af1f733c1d34e44686df3",
+  "last_run_iso": "2026-03-30T19:16:47.903605+00:00",
   "last_breaking_run_iso": "2026-03-30T15:20:12.589852+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -693,6 +715,17 @@
     "We dug up medics in Gaza. A year later, international law remains buried": "ما امدادگران را در غزه پیدا کردیم. یک سال بعد، حقوق بین الملل همچنان مدفون است",
     "Opposition MKs voted to allocate NIS 800 million for Haredi schools. How did it happen?": "نمایندگان مخالف به اختصاص ۸۰۰ میلیون شِکل به مدارس حریدی رأی دادند. چطور این اتفاق افتاد؟",
     "Is the US ready to invade Iran? What Trump’s moves tell us so far": "آیا آمریکا آماده حمله به ایران است؟ اقدامات ترامپ تا اینجا چه چیزی را به ما نشان می دهد",
-    "‘Iran will never acquire nuclear weapons’ Rubio tells Al Jazeera": "روبیو به الجزیره گفت: «ایران هرگز به سلاح هسته ای دست نخواهد یافت"
+    "‘Iran will never acquire nuclear weapons’ Rubio tells Al Jazeera": "روبیو به الجزیره گفت: «ایران هرگز به سلاح هسته ای دست نخواهد یافت",
+    "Israel shifts to hitting Iran’s economy, as it enters ‘completion phase’ of war": "اسرائیل به سمت ضربه زدن به اقتصاد ایران حرکت می کند، در حالی که وارد مرحله «تکمیل» جنگ می شود",
+    "Zelensky says allies asked him to scale back attacks on Russian energy": "زلنسکی می گوید متحدان از او خواسته اند حملات به انرژی روسیه را کاهش دهد",
+    "Iran blows hole in US aluminum supply chain with strikes on Gulf smelters": "ایران با حملات به کارخانه های ذوب خلیج فارس، زنجیره تأمین آلومینیوم آمریکا را به هم زد",
+    "Trump says he expects deal ‘shortly’ with Iran, threatens to ‘blow up’ power plants if not": "ترامپ می گوید انتظار دارد به زودی با ایران توافق شود و تهدید می کند که اگر نه، نیروگاه ها را «منفجر» خواهد کرد",
+    "Gulf states harden positions against Iran as economic toll of war mounts": "کشورهای خلیج مواضع خود را در برابر ایران سخت تر می کنند در حالی که هزینه اقتصادی جنگ رو به افزایش است",
+    "Bank of Israel slashes growth prospects as Iran war takes toll on economy": "بانک اسرائیل چشم انداز رشد اقتصادی را کاهش داد، در حالی که جنگ ایران اقتصاد را تحت تأثیر قرار داده است",
+    "Moshe Yitzchak Katz, Israeli-US soldier killed in Lebanon, laid to rest in Jerusalem": "موشه ییتسحاق کاتز، سرباز اسرائیلی-آمریکایی کشته شده در لبنان، در اورشلیم به خاک سپرده شد",
+    "Two more UN peacekeepers killed in southern Lebanon: UNIFIL": "دو حافظ صلح دیگر سازمان ملل در جنوب لبنان کشته شدند: یونیفیل",
+    "Most Syrian refugees in Germany expected to return home in three years, Merz says": "مرز می گوید بیشتر پناهندگان سوری در آلمان انتظار دارند ظرف سه سال به خانه بازگردند",
+    "AG halts transfer of budget funds for Haredi institutions after contentious vote": "دادستان کل انتقال بودجه برای مؤسسات حریدی را پس از رأی گیری جنجالی متوقف کرد",
+    "What is the ‘Greater Israel’ project?": "پروژه «اسرائیل بزرگ» چیست؟"
   }
 }

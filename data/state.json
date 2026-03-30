@@ -148,7 +148,18 @@
     "cdaf5b48fe51fb74f159bec1",
     "78bf16a0085d73e1d24b664d",
     "1146d5ebd5da67c513a70bca",
-    "1f2c3526848953a85b9217c7"
+    "1f2c3526848953a85b9217c7",
+    "a5055bc4c116decc150ec131",
+    "37ee65cc9e3254ceb31daf19",
+    "84e8f3b0341c0a7554c41b78",
+    "6647a78ca3934029f6aa298e",
+    "6fe761d784158d53acdd36d0",
+    "5b235bd0df7639c34a298fa6",
+    "29b542e703bbad38a3ad25d6",
+    "d93d6acdde45ce91a4e6214d",
+    "196f822019e817c6344c6b04",
+    "c6243ec7fed8a40a1b604e83",
+    "7f37926e869d3a39704f4c29"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -299,7 +310,18 @@
     "e19bc9a4b83e090dde689342",
     "c9779f36b890b219016b6c45",
     "a7d720a4be36ade2eae8e972",
-    "8ae7fbd5b94674e57a56d456"
+    "8ae7fbd5b94674e57a56d456",
+    "8c76b3480c0d38b52c9ecc86",
+    "d6f36d230adcebbeda4b3322",
+    "d553945f14d463c5efcdaa2d",
+    "6920a95da0e2cae9affe5b89",
+    "5b48ef1a571f64e87f506ec4",
+    "dada59f603bceb87217d61de",
+    "c1447db1cab97a53ee67fc5c",
+    "d1b1cd09773933cf4ab0be5c",
+    "a0abefd2d6b41ad37ee1fff6",
+    "6e6d0ba37c903e36dd990142",
+    "96b7237493ef3867bc635e31"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -313,11 +335,12 @@
     "a2ec6f510db924de0c3823d4",
     "4fa1ce88f22d8d4a1c3c4180",
     "b092fc508c14a59ece8e49ad",
-    "4a9b01db3428292f3f9a1b38"
+    "4a9b01db3428292f3f9a1b38",
+    "a5055bc4c116decc150ec131"
   ],
-  "last_digest_hash": "bc11bdad1a9a95de03582b341e7b116be066e8542742b95ecba04e1c2399ad75",
-  "last_run_iso": "2026-03-29T23:46:35.985308+00:00",
-  "last_breaking_run_iso": "2026-03-29T20:48:30.487896+00:00",
+  "last_digest_hash": "e203427b590914759bf7c1da565db9a6e23cf71fe76d39d69db88f3ede82decb",
+  "last_run_iso": "2026-03-30T03:35:22.372082+00:00",
+  "last_breaking_run_iso": "2026-03-30T03:35:22.372082+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -467,6 +490,17 @@
     "Iran accuses US of plotting ground attack, as Israel steps up bombardment": "ایران آمریکا را به طرح ریزی حمله زمینی متهم می کند، در حالی که اسرائیل بمباران خود را افزایش می دهد",
     "Latest message purportedly from Iran’s new supreme leader thanks Iraq for war support": "آخرین پیام ظاهرا از سوی رهبر جدید ایران از عراق برای حمایت های جنگی تشکر می کند",
     "How will the Houthis’ involvement shape the war?": "دخالت حوثی ها چگونه بر جنگ تأثیر خواهد گذاشت؟",
-    "European nations criticise Israel’s death penalty plans": "کشورهای اروپایی برنامه های اعدام اسرائیل را نقد می کنند"
+    "European nations criticise Israel’s death penalty plans": "کشورهای اروپایی برنامه های اعدام اسرائیل را نقد می کنند",
+    "Trump: Killing Iran’s leaders is ‘regime change,’ deal to end war ‘could be soon’": "ترامپ: کشتن رهبران ایران «تغییر رژیم» است، توافقی برای پایان دادن به جنگ «ممکن است به زودی باشد»",
+    "Iran war live: Trump says wants to take Iran’s oil; Kuwait power site hit": "جنگ ایران زنده: ترامپ می گوید می خواهد نفت ایران را بگیرد؛ محل برق کویت آسیب دید.",
+    "Blackouts hit parts of Tehran as Israel conducts strikes in Iran amid peace talks": "قطعی های برق بخش هایی از تهران را در حالی که اسرائیل در جریان مذاکرات صلح در ایران حملات انجام می دهد، فرا گرفته است",
+    "Iranian academic describes US-Israeli attacks on Iran’s universities": "یک استاد ایرانی حملات آمریکا-اسرائیل به دانشگاه های ایران را توصیف می کند",
+    "IAEA says Iran’s Khondab heavy water reactor no longer operational": "آژانس می گوید راکتور آب سنگین خنداب ایران دیگر عملیاتی نیست",
+    "Jewish National Fund-USA brotherhood mission shows solidarity with Israel during wartime - Sponsored Content": "مأموریت برادری صندوق ملی یهودی-آمریکا همبستگی خود را با اسرائیل در دوران جنگ نشان می دهد - محتوای حمایت شده",
+    "Iranian attack damages Kuwait power and desalination plant, kills worker": "حمله ایران به نیروگاه و تصفیه خانه شیرین کن کویت آسیب رساند و کارگر را کشت",
+    "Knesset approves 2026 budget, Israel’s largest ever, sending billions to Haredi institutions": "کنست بودجه ۲۰۲۶ را تصویب کرد، که بزرگ ترین بودجه اسرائیل تا آن زمان بود و میلیاردها دلار به نهادهای حریدی ارسال می کند",
+    "Oil tops $116 a barrel as Iran accuses US of preparing invasion": "قیمت نفت به مرز ۱۱۶ دلار در هر بشکه رسید در حالی که ایران آمریکا را به آماده سازی برای تهاجم متهم می کند",
+    "Police, Catholic patriarchate reach agreement on prayer at Holy Sepulchre after cardinal blocked": "پلیس و پاتریارک کاتولیک پس از مسدود شدن کاردینال، بر سر دعا در مقبره مقدس به توافق رسیدند",
+    "Netanyahu orders deeper Israeli invasion into Lebanon": "نتانیاهو دستور حمله عمیق تر اسرائیل به لبنان را صادر کرد"
   }
 }

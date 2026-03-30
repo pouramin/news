@@ -164,7 +164,14 @@
     "a844accb29955007d67c5d56",
     "47907f0b753441446197d5c5",
     "ff3c1be76d0490015fe97a03",
-    "93d6a438868bebbf247f54b1"
+    "93d6a438868bebbf247f54b1",
+    "c185c5d91403c96c9d43eb9d",
+    "26c34787d43ac7209d4815bb",
+    "9a6c022bfbeaf3fb2accc8a4",
+    "667bf592361a30a533a5dba9",
+    "fd89d780b0a9ce4d0eec25d1",
+    "7ce0f0a0a80a278353bdb7c6",
+    "6fb47dc3d7c36161d5d805a7"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -331,7 +338,14 @@
     "64c952e1800e121e297425eb",
     "b6c823bb5543de04546e80e3",
     "91d6fcf6c6662e9586537a45",
-    "0fbf9382b46a78e86d386fdf"
+    "0fbf9382b46a78e86d386fdf",
+    "e9709493325ae8bebab0a7f9",
+    "cda6d6e2bffe7c9b463c14f5",
+    "e6de5c0b3bef045338753d86",
+    "d71cc088c490b0ec3d38a645",
+    "70ac0ef47ec0622bdf25dd0d",
+    "ffb7c8265ac97723d30e9d6f",
+    "cdb28397c20d0ed2832c8bbb"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -348,8 +362,8 @@
     "4a9b01db3428292f3f9a1b38",
     "a5055bc4c116decc150ec131"
   ],
-  "last_digest_hash": "d19af89f6121fae90dac56422ea15d529d48ee91403a159d3c9f1676681b2013",
-  "last_run_iso": "2026-03-30T06:06:10.077291+00:00",
+  "last_digest_hash": "56c8d972a4d37c42f1be8b2a8bf44c4b479b09138128b125c35270d919413bee",
+  "last_run_iso": "2026-03-30T07:59:37.977863+00:00",
   "last_breaking_run_iso": "2026-03-30T03:35:22.372082+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -516,6 +530,13 @@
     "Indonesian peacekeeper killed in Lebanon explosion, 2nd critically injured": "حافظ صلح اندونزیایی در انفجار لبنان کشته شد، دومین نفر به شدت زخمی شدند",
     "‘We’re killing them, bro’: Israelis correct Iranian online streamer": "«داریم می کشیمشون، داداش»: اسرائیلی ها استریمر آنلاین ایرانی را اصلاح می کنند",
     "Canadian YouTuber captures congestion of dozens of ships in Hormuz Strait": "یوتیوبر کانادایی ازدحام ده ها کشتی را در تنگه هرمز ثبت کرد",
-    "IDF pulls battalion from West Bank action after alleged assault of CNN crew": "ارتش اسرائیل پس از حمله ادعایی به خدمه سی ان ان، گردان خود را از عملیات کرانه باختری خارج کرد"
+    "IDF pulls battalion from West Bank action after alleged assault of CNN crew": "ارتش اسرائیل پس از حمله ادعایی به خدمه سی ان ان، گردان خود را از عملیات کرانه باختری خارج کرد",
+    "US-Israel war on Iran: What’s happening on day 31 of attacks": "جنگ آمریکا و اسرائیل علیه ایران: در روز ۳۱ حملات چه اتفاقی می افتد",
+    "4 lions arrive at Haifa zoo amid species conservation efforts": "۴ شیر در میان تلاش های حفاظت از گونه ها به باغ وحش حیفا رسیدند",
+    "Land Day: What happened in Palestine on March 30, 1976?": "روز زمین: در ۳۰ مارس ۱۹۷۶ در فلسطین چه اتفاقی افتاد؟",
+    "Three top Israeli chefs share their winning wartime Passover shortcuts": "سه سرآشپز برجسته اسرائیلی میانبرهای موفق پسح دوران جنگ را به اشتراک گذاشتند",
+    "Settlers burn vehicles in town near Hebron": "مهاجران در شهر نزدیک الخلیل خودروها را آتش می زنند",
+    "By the 50th anniversary of Land Day, Palestinians lose most of their land": "تا پنجاهمین سالگرد روز زمین، فلسطینی ها بیشتر زمین های خود را از دست می دهند",
+    "Photos show heavily damaged US radar jet at Saudi base": "عکس ها نشان می دهند که جت راداری آمریکایی در پایگاه سعودی به شدت آسیب دیده است"
   }
 }

@@ -171,7 +171,12 @@
     "667bf592361a30a533a5dba9",
     "fd89d780b0a9ce4d0eec25d1",
     "7ce0f0a0a80a278353bdb7c6",
-    "6fb47dc3d7c36161d5d805a7"
+    "6fb47dc3d7c36161d5d805a7",
+    "0e789c1c7833110d4c46dd83",
+    "9a035ab6b8d3270bfffe007f",
+    "63b0d04815030e8a98c9a99d",
+    "16c1584c953e92c578cd1b09",
+    "30ac50c00fc1730cf1d438d7"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -345,7 +350,12 @@
     "d71cc088c490b0ec3d38a645",
     "70ac0ef47ec0622bdf25dd0d",
     "ffb7c8265ac97723d30e9d6f",
-    "cdb28397c20d0ed2832c8bbb"
+    "cdb28397c20d0ed2832c8bbb",
+    "0346ec435f5b723bd6d6242b",
+    "c04137c1db010f49e497ca78",
+    "1f9364f2878fa5b4a9c91098",
+    "d007806dc9f656cf8f13e413",
+    "1403c1f85fed68438b0a1c31"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -362,8 +372,8 @@
     "4a9b01db3428292f3f9a1b38",
     "a5055bc4c116decc150ec131"
   ],
-  "last_digest_hash": "56c8d972a4d37c42f1be8b2a8bf44c4b479b09138128b125c35270d919413bee",
-  "last_run_iso": "2026-03-30T07:59:37.977863+00:00",
+  "last_digest_hash": "1f4f80a11b9790a1768eb23c23ec590f6821deee22d8eae2c56450ff4852746f",
+  "last_run_iso": "2026-03-30T09:44:48.761446+00:00",
   "last_breaking_run_iso": "2026-03-30T03:35:22.372082+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -537,6 +547,11 @@
     "Three top Israeli chefs share their winning wartime Passover shortcuts": "سه سرآشپز برجسته اسرائیلی میانبرهای موفق پسح دوران جنگ را به اشتراک گذاشتند",
     "Settlers burn vehicles in town near Hebron": "مهاجران در شهر نزدیک الخلیل خودروها را آتش می زنند",
     "By the 50th anniversary of Land Day, Palestinians lose most of their land": "تا پنجاهمین سالگرد روز زمین، فلسطینی ها بیشتر زمین های خود را از دست می دهند",
-    "Photos show heavily damaged US radar jet at Saudi base": "عکس ها نشان می دهند که جت راداری آمریکایی در پایگاه سعودی به شدت آسیب دیده است"
+    "Photos show heavily damaged US radar jet at Saudi base": "عکس ها نشان می دهند که جت راداری آمریکایی در پایگاه سعودی به شدت آسیب دیده است",
+    "Trump insists killing of Iran’s leaders ‘truly is regime change,’ deal to end war ‘could be soon’": "ترامپ اصرار دارد که کشتن رهبران ایران «واقعا تغییر رژیم است» و توافقی برای پایان دادن به جنگ «ممکن است به زودی باشد»",
+    "Did Israel miscalculate in launching the war on Iran?": "آیا اسرائیل در آغاز جنگ علیه ایران اشتباه کرد؟",
+    "Trump wants to invade Iran to seize oil, calls US objectors ‘stupid people’": "ترامپ می خواهد به ایران حمله کند تا نفت را تصاحب کند و معترضان آمریکایی را «مردم احمق» خواند",
+    "UN peacekeeper killed in southern Lebanon as Israeli invasion intensifies": "یک حافظ صلح سازمان ملل در جنوب لبنان کشته شد در حالی که تهاجم اسرائیل شدت می گیرد",
+    "‘This is a nightmare scenario if it escalates further.’": "«اگر بدتر شود، این یک سناریوی کابوس وار است.»"
   }
 }

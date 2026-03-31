@@ -346,7 +346,16 @@
     "91fdff51e6defb2f50f6aa90",
     "43902957f351e1b4a836a9b9",
     "ca4aab66eeefe4c859c3bf6d",
-    "9c5c6dcdc355332355545a3e"
+    "9c5c6dcdc355332355545a3e",
+    "787256bed5c4f7fe1c482587",
+    "a79bbeca419a486ede2adfe5",
+    "e584477793498fa14a07b1ac",
+    "b5328dd08ad37843be13feae",
+    "26c408fb0fac79dd1a7c6b5a",
+    "867679b98a69d5a087be3daa",
+    "aadececd9c2d8d9b4739fa5d",
+    "24ffc8bb5ba5933aec465d95",
+    "35ec1af72b5e7136c89fb126"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -695,7 +704,16 @@
     "d83d7d08970ab7fe02afda82",
     "3461d50e1e3866899d62b271",
     "d1e4c457770b3acca9f74faf",
-    "c2587431d5cd9006db3cedb5"
+    "c2587431d5cd9006db3cedb5",
+    "9dc746d4ec873836b8cbb0a0",
+    "7e53f152d613e12134258fbe",
+    "c0c82f0df8223ecb13798316",
+    "e49f11fde247341d8b35fce4",
+    "14bd2a31b575294b0e39fa1a",
+    "4d6d773ecd3560c93e09e84a",
+    "60c5b1281a7f9bff52d5ab59",
+    "83ae3baacfb65298d745c2f2",
+    "4348a7ffbd52f4ae8e770592"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -720,8 +738,8 @@
     "0a27ad514df292d2c9c2341b",
     "8690ae76ddffeda325c6d3a5"
   ],
-  "last_digest_hash": "7ac1c2f84130ddde6196d0af30732b5c8e917fd11d7c3b916a7489dfcb8e37c1",
-  "last_run_iso": "2026-03-31T22:49:24.057518+00:00",
+  "last_digest_hash": "5ceae40d07f9ce9594bb9cc71ecac77b628701a4f7e69ae93f837244cb17a845",
+  "last_run_iso": "2026-03-31T23:47:29.231814+00:00",
   "last_breaking_run_iso": "2026-03-31T20:55:22.241269+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1070,6 +1088,15 @@
     "Israeli air attack kills father and two-year-old son in Gaza": "حمله هوایی اسرائیل پدر و پسر دو ساله ای را در غزه کشت",
     "US journalist Shelly Kittleson kidnapped in Baghdad": "روزنامه نگار آمریکایی شلی کیتلسون در بغداد ربوده شد",
     "Peacekeepers killed by roadside explosion in Lebanon, initial report finds": "نیروهای حافظ صلح بر اثر انفجار کنار جاده ای در لبنان کشته شدند، گزارش اولیه نشان می دهد",
-    "Iran ambassador refuses to leave Lebanon despite expulsion order": "سفیر ایران با وجود دستور اخراج از لبنان خودداری کرد"
+    "Iran ambassador refuses to leave Lebanon despite expulsion order": "سفیر ایران با وجود دستور اخراج از لبنان خودداری کرد",
+    "EU warns oil and gas prices won’t quickly return to normal after Iran war": "اتحادیه اروپا هشدار داد که قیمت نفت و گاز پس از جنگ ایران به سرعت به حالت عادی بازنخواهد گشت",
+    "Asia's migrant workers debate if Gulf jobs are worth deadly risk of Iran war": "کارگران مهاجر آسیا بحث می کنند که آیا مشاغل خلیج فارس ارزش ریسک مرگبار جنگ ایران را دارند یا نه",
+    "US exempts Gulf of Mexico oil drillers from endangered species protections": "ایالات متحده نفت کاران خلیج مکزیک را از حفاظت گونه های در معرض خطر معاف کرد",
+    "After Strait of Hormuz opens, turmoil would still last months, analysts say": "تحلیل گران می گویند پس از افتتاح تنگه هرمز، آشوب ها همچنان ماه ها ادامه خواهد داشت",
+    "Funerals held for 3 of the soldiers killed fighting Hezbollah in southern Lebanon": "مراسم خاکسپاری برای سه تن از سربازان کشته شده در جنگ با حزب الله در جنوب لبنان برگزار شد",
+    "'You're no longer my sister' - rows erupt as war divides Iranian families": "«تو دیگر خواهر من نیستی» - دعواهایی به وجود آمد که جنگ خانواده های ایرانی را از هم جدا کرده است",
+    "'A million things could go wrong' - why seizing Iran's uranium would be so risky for the US": "«میلیون ها چیز ممکن است اشتباه پیش برود» - چرا توقیف اورانیوم ایران برای آمریکا این قدر پرخطر است",
+    "Pope Leo urges Trump to end war on Iran": "پاپ لئو از ترامپ خواست تا جنگ با ایران را پایان دهد",
+    "Lapid: Netanyahu incapable of reaching victory, is dismantling Israel from within": "لاپید: نتانیاهو که قادر به رسیدن به پیروزی نیست، اسرائیل را از درون تجزیه می کند"
   }
 }

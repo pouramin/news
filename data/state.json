@@ -344,7 +344,9 @@
     "feab138c12237e5da19be617",
     "6df2a9cc2bcd9954c0d16e47",
     "91fdff51e6defb2f50f6aa90",
-    "43902957f351e1b4a836a9b9"
+    "43902957f351e1b4a836a9b9",
+    "ca4aab66eeefe4c859c3bf6d",
+    "9c5c6dcdc355332355545a3e"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -691,7 +693,9 @@
     "4eca1f676192585ba728d72a",
     "9cfe3f3511a451f57ff091d1",
     "d83d7d08970ab7fe02afda82",
-    "3461d50e1e3866899d62b271"
+    "3461d50e1e3866899d62b271",
+    "d1e4c457770b3acca9f74faf",
+    "c2587431d5cd9006db3cedb5"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -716,8 +720,8 @@
     "0a27ad514df292d2c9c2341b",
     "8690ae76ddffeda325c6d3a5"
   ],
-  "last_digest_hash": "29a7c670042067765928e256c332a460c5a3c004ce1be05c58dd39c98b2fd0ad",
-  "last_run_iso": "2026-03-31T21:52:06.673499+00:00",
+  "last_digest_hash": "7ac1c2f84130ddde6196d0af30732b5c8e917fd11d7c3b916a7489dfcb8e37c1",
+  "last_run_iso": "2026-03-31T22:49:24.057518+00:00",
   "last_breaking_run_iso": "2026-03-31T20:55:22.241269+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1064,6 +1068,8 @@
     "Israelis attempt to perform Passover sacrifice at Al-Aqsa": "اسرائیلی ها تلاش می کنند قربانی پسح را در الاقصی انجام دهند",
     "American journalist kidnapped in Baghdad; Iraq says manhunt underway, one detained": "خبرنگار آمریکایی که در بغداد ربوده شد؛ عراق اعلام کرد عملیات تعقیب و گریز در جریان است و یک نفر بازداشت شده است",
     "Israeli air attack kills father and two-year-old son in Gaza": "حمله هوایی اسرائیل پدر و پسر دو ساله ای را در غزه کشت",
-    "US journalist Shelly Kittleson kidnapped in Baghdad": "روزنامه نگار آمریکایی شلی کیتلسون در بغداد ربوده شد"
+    "US journalist Shelly Kittleson kidnapped in Baghdad": "روزنامه نگار آمریکایی شلی کیتلسون در بغداد ربوده شد",
+    "Peacekeepers killed by roadside explosion in Lebanon, initial report finds": "نیروهای حافظ صلح بر اثر انفجار کنار جاده ای در لبنان کشته شدند، گزارش اولیه نشان می دهد",
+    "Iran ambassador refuses to leave Lebanon despite expulsion order": "سفیر ایران با وجود دستور اخراج از لبنان خودداری کرد"
   }
 }

@@ -272,7 +272,16 @@
     "a47983e3086fa2918329ac44",
     "954f2b16ec8ee11476956d4e",
     "557ab8210dedad32b75e3df4",
-    "e01118cac7a364b5438f81d0"
+    "e01118cac7a364b5438f81d0",
+    "2424cebd1c482dced8276fa4",
+    "325f58b42cd1865372115bc8",
+    "266e9564c2f7ab17adba315b",
+    "4b9cf91bd81f451f4cc0918e",
+    "dfda1034d4b3ea8c4d3ee20f",
+    "080233ca3b9a9966bdd574fd",
+    "328272582ff08db7ca645f36",
+    "74b3d8e17c56aa53dfd5301e",
+    "ca381da5d2f66cf0e9cac5ba"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -547,7 +556,16 @@
     "85beb4891ed3e5b4d48f532c",
     "bfc09e5aca4535c4227e7d34",
     "6fc5b4f5b2a947aafb7165e6",
-    "43738e882e33f3f7553f57a5"
+    "43738e882e33f3f7553f57a5",
+    "473c67699a8adb3a1f8b9abf",
+    "e1c7e51ae052d0878a154161",
+    "bece473188c035d553b7358a",
+    "b3dba40e0a17ca4169d22495",
+    "cdde5ef065b87feba62e4a3e",
+    "8f239f9a41aa789ee63d7205",
+    "bede145d62e91120050dcc8e",
+    "15f1ee04fe3bfc2abb937fce",
+    "f9bfb727df291ada947015f3"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -567,11 +585,12 @@
     "36319b373d991cd718cba00a",
     "dde58855d96012bc5d9b1d95",
     "9c63201a50167563e7367871",
-    "6f670ee886c156ddcefcbd34"
+    "6f670ee886c156ddcefcbd34",
+    "2424cebd1c482dced8276fa4"
   ],
-  "last_digest_hash": "87e477cf48915fb4419b5c2023835f471afd6ee6cf24c5aa60dfa48e0f736885",
-  "last_run_iso": "2026-03-31T07:43:19.207055+00:00",
-  "last_breaking_run_iso": "2026-03-31T07:43:19.207055+00:00",
+  "last_digest_hash": "3910a387c51edb4b0d2226d1e6e205a7d128b32e35ebeea085781f18dada0d4b",
+  "last_run_iso": "2026-03-31T09:14:51.809677+00:00",
+  "last_breaking_run_iso": "2026-03-31T09:14:51.809677+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -845,6 +864,15 @@
     "Gulf allies privately pushing Trump to keep up war until Iran decisively defeated": "متحدان خلیج فارس به طور خصوصی ترامپ را تحت فشار قرار می دهند تا جنگ را ادامه دهد تا زمانی که ایران به طور قاطع شکست بخورد",
     "After backing Iran with Israel strike, Houthis avoid further escalation, for now": "پس از حمایت از ایران با حمله به اسرائیل، حوثی ها فعلا از تشدید بیشتر اجتناب می کنند",
     "Drone attack sparks fire on Kuwaiti tanker in UAE amid Iran’s Gulf attacks": "حمله پهپادی باعث آتش سوزی به نفتکش کویتی در امارات شد، در پی حملات ایران به خلیج فارس",
-    "What can nations do to make up for the ongoing energy shortfall?": "کشورها چه کاری می توانند انجام دهند تا کمبود انرژی جاری را جبران کنند؟"
+    "What can nations do to make up for the ongoing energy shortfall?": "کشورها چه کاری می توانند انجام دهند تا کمبود انرژی جاری را جبران کنند؟",
+    "Four soldiers killed, 2 wounded in south Lebanon clash with Hezbollah": "چهار سرباز کشته و ۲ زخمی در درگیری جنوب لبنان با حزب الله",
+    "Coalition to advance ultra-Orthodox draft exemption bill after pause due to Iran war": "ائتلاف برای پیشبرد لایحه معافیت از خدمت سربازی ارتدکس افراطی پس از توقف به دلیل جنگ ایران",
+    "Three scenarios for the Strait of Hormuz": "سه سناریو برای تنگه هرمز",
+    "Iran war wipes $120bn off Dubai, Abu Dhabi stock markets": "جنگ ایران ۱۲۰ میلیارد دلار را از بازارهای سهام دبی و ابوظبی پاک کرد",
+    "Israel says four soldiers killed as army pushes deeper into south Lebanon": "اسرائیل می گوید چهار سرباز کشته شده اند در حالی که ارتش به عمق جنوب لبنان پیشروی می کند",
+    "Iran war: What is happening on day 32 of US-Israel attacks?": "جنگ ایران: در روز ۳۲ حملات آمریکا و اسرائیل چه اتفاقی در حال رخ دادن است؟",
+    "South Korean president promises maximum response to energy crisis": "رئیس جمهور کره جنوبی وعده پاسخ حداکثری به بحران انرژی را داد",
+    "Palestine weekly wrap: Holy sites remain closed as deadly violence spreads": "خلاصه هفتگی فلسطین: اماکن مقدس همچنان بسته هستند در حالی که خشونت های مرگبار گسترش یافته اند",
+    "Video: Newborns evacuated from Gaza return as toddlers over two years later": "ویدئو: نوزادان تخلیه شده از غزه پس از بیش از دو سال به عنوان کودک نوپا بازمی گردند"
   }
 }

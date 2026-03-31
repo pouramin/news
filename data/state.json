@@ -322,7 +322,18 @@
     "c4e424da8da4ca79c722e2de",
     "b29791f9c0db81901d09f188",
     "2d828f83d1eca31437e04842",
-    "580e06ccf0bde9101029a99e"
+    "580e06ccf0bde9101029a99e",
+    "f9ad78919b5435d35b547eb0",
+    "0b677595811a2eb0720e59e4",
+    "1ba82f4480a653837a408978",
+    "945da19eddaa53f4c1f3d444",
+    "a85f2f308469d01dacdf88a2",
+    "27964b748d477c707622fc85",
+    "6abf6ca1c1bab2c54e750e67",
+    "8e2e4b784751da83c8de217e",
+    "08836a533ea609ee3ed0ce79",
+    "c4b40c4fe7da929998b54aec",
+    "f09cc74a47456ade419b4e17"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -647,7 +658,18 @@
     "c05b5e4275216eadf2950bfa",
     "d63b87bbf7bcdb683a800267",
     "82cae566c7cf48cf8ccf5918",
-    "3827d34d8d67081b048db54b"
+    "3827d34d8d67081b048db54b",
+    "b8e9dd870aa5034314b0aff7",
+    "1dd7b1d8c8818e36cde14b3c",
+    "671368c8b2568e8205442285",
+    "ab9a738cd7145dd9e0866444",
+    "cbdbb233927c7146185a72ae",
+    "4d63e7f19805c7d0e774c89a",
+    "8807c05ce69460f551836379",
+    "133f46940932634c91a3cec2",
+    "ba42202c1a03b05e213e9d70",
+    "c7d1cf64c3a099cc93e63a05",
+    "0c06fc38c7e8913230606608"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -671,8 +693,8 @@
     "2424cebd1c482dced8276fa4",
     "0a27ad514df292d2c9c2341b"
   ],
-  "last_digest_hash": "854f09914ed37f9a227220d25b1b8f985e9a51a12c6674464cbda48a9f180f11",
-  "last_run_iso": "2026-03-31T17:12:08.028962+00:00",
+  "last_digest_hash": "506debd04677401c61d307b66c87747c58aa5d54b4b8bb212e485edd0861bc09",
+  "last_run_iso": "2026-03-31T19:17:07.306530+00:00",
   "last_breaking_run_iso": "2026-03-31T13:58:41.348271+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -997,6 +1019,17 @@
     "For Jerusalem’s Haredim, it’s business as usual during wartime Passover shopping rush": "برای حریدی های اورشلیم، اوضاع در دوران شلوغی خرید عید فصح در زمان جنگ به روال عادی ادامه دارد",
     "How Pakistan won over Trump to become an unlikely mediator in the Iran war": "چگونه پاکستان توانست ترامپ را قانع کند تا به میانجی غیرمنتظره ای در جنگ ایران تبدیل شود",
     "NY candidate joins anti-Israel streamer’s show, sparking ire from Jewish-heavy district": "نامزد نیویورک به برنامه استریمر ضد اسرائیلی پیوست و خشم منطقه ای با جمعیت یهودی را برانگیخت",
-    "Mamdani heckled at NYC Passover Seder as some rail at his inclusion": "مامدانی در مراسم عید فصح نیویورک مسخره شد و برخی از حضور او را سرزنش کردند"
+    "Mamdani heckled at NYC Passover Seder as some rail at his inclusion": "مامدانی در مراسم عید فصح نیویورک مسخره شد و برخی از حضور او را سرزنش کردند",
+    "US-Israel launch major attacks as Iranian authorities maintain defiance": "آمریکا و اسرائیل حملات گسترده ای انجام می دهند در حالی که مقامات ایرانی همچنان سرپیچی می کنند",
+    "Iran’s FM confirms contact with US envoy Witkoff, denies talks under way": "وزیر امور خارجه ایران تماس خود را با نماینده آمریکا، ویتکوف، تأیید کرد و مذاکرات جاری را رد نمود",
+    "Qatar says ‘ready to help’ with US-Iran negotiations": "قطر می گوید «آماده کمک» در مذاکرات آمریکا و ایران است",
+    "One month of war on Iran cost Arab countries up to $194bn: UNDP": "یک ماه جنگ علیه ایران به کشورهای عربی تا ۱۹۴ میلیارد دلار هزینه داشت: برنامه توسعه سازمان ملل",
+    "US academic’s tirade calling Jewish professor ‘colonizer’ found to be antisemitic harassment": "حمله یک دانشگاهی آمریکایی به عنوان استاد یهودی به عنوان «استعمارگر» به عنوان آزار یهودستیزانه شناخته شد",
+    "On last day in office, UNRWA head urges probe into alleged IDF killing of nearly 400 workers": "در آخرین روز حضورش در دفتر، رئیس آنروا خواستار تحقیق درباره قتل احتمالی نزدیک به ۴۰۰ کارگر توسط ارتش اسرائیل شد",
+    "Iran’s regime remains defiant despite absorbing massive blows from Israel and the US": "رژیم ایران با وجود تحمل ضربات سنگین از اسرائیل و آمریکا، همچنان سرسخت باقی مانده است",
+    "Foreign journalist kidnapped in Iraq: Interior Ministry": "ربوده شدن خبرنگار خارجی در عراق: وزارت کشور",
+    "Why Iran believes it can outlast the US": "چرا ایران معتقد است می تواند از آمریکا پیشی بگیرد",
+    "Israeli strike hits building in Beirut’s southern suburbs": "حمله اسرائیل به ساختمانی در حومه جنوبی بیروت اصابت کرد",
+    "Palestinians in occupied West Bank protest Israel’s death penalty law": "فلسطینیان در کرانه باختری اشغالی به قانون اعدام اسرائیل اعتراض می کنند"
   }
 }

@@ -263,7 +263,11 @@
     "9b4ec1799007515c30cdd2d4",
     "1ee7a52372f9c1864c65e0eb",
     "2cdd5e8aa1a55945d6249af5",
-    "689a2e69c703100d0f74971b"
+    "689a2e69c703100d0f74971b",
+    "88e5c8e17930dbc25b68cea5",
+    "6935899487f2b03aabb460c9",
+    "031e1a33f37f16567a7e2c88",
+    "717347b9ad64dac159b8aadc"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -529,7 +533,11 @@
     "de0fa4b7e0d14e2b87557ffd",
     "7cedb11cf4b6b9cdf3d1b75a",
     "2c6c73f36f26d8a8356f2659",
-    "dc560644f7ef864af53e6701"
+    "dc560644f7ef864af53e6701",
+    "d309405dc34f64fbf600f334",
+    "dfb05d5c86ab912c2c3ed0dd",
+    "547614abc1723979752a1347",
+    "3536642a17b212657ed6cdc9"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -550,8 +558,8 @@
     "dde58855d96012bc5d9b1d95",
     "9c63201a50167563e7367871"
   ],
-  "last_digest_hash": "f3b5090f25aa7d56468283812cb2ef380bca925d098f7ad9de2d89d73d071d76",
-  "last_run_iso": "2026-03-31T03:26:46.892884+00:00",
+  "last_digest_hash": "358c581a09df50945f234ab0c2bcbd6a3035ca4387cbcd37db547b5a72cccc9b",
+  "last_run_iso": "2026-03-31T05:50:56.576734+00:00",
   "last_breaking_run_iso": "2026-03-31T03:26:46.892884+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -817,6 +825,10 @@
     "Zelensky: Putin helping Iran, yet Netanyahu wants to ‘balance’ between Russia and Ukraine": "زلنسکی: پوتین به ایران کمک می کند، اما نتانیاهو می خواهد بین روسیه و اوکراین «تعادل» برقرار کند",
     "Al Jazeera’s full interview with Marco Rubio on US war on Iran": "مصاحبه کامل الجزیره با مارکو روبیو درباره جنگ آمریکا علیه ایران",
     "War with Iran casts a shadow as Persian Jews mark Nowruz in New York City": "جنگ با ایران سایه ای می اندازد در حالی که یهودیان ایران نوروز را در نیویورک گرامی می دارند",
-    "Intense US-Israeli attacks on Iranian city of Isfahan cause column of fire": "حملات شدید آمریکا و اسرائیل به شهر اصفهان ایران باعث آتش شدید شد"
+    "Intense US-Israeli attacks on Iranian city of Isfahan cause column of fire": "حملات شدید آمریکا و اسرائیل به شهر اصفهان ایران باعث آتش شدید شد",
+    "Alleged Mossad spy escapes Hezbollah detention thanks to IDF strike in Beirut — report": "جاسوس مظنون موساد به لطف حمله ارتش اسرائیل در بیروت از بازداشت حزب الله فرار کرد — گزارش",
+    "Spain closes airspace to US warplanes involved in war on Iran": "اسپانیا حریم هوایی را به روی هواپیماهای جنگی آمریکایی که در جنگ با ایران دخیل هستند، بست",
+    "Children in Gaza reenact a funeral procession during play": "کودکان در غزه در حین بازی مراسم تشییع جنازه را بازسازی می کنند",
+    "Outrage and condemnation over Israel’s death penalty law for Palestinians": "خشم و محکومیت نسبت به قانون اعدام فلسطینی ها در اسرائیل"
   }
 }

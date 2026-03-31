@@ -281,7 +281,14 @@
     "080233ca3b9a9966bdd574fd",
     "328272582ff08db7ca645f36",
     "74b3d8e17c56aa53dfd5301e",
-    "ca381da5d2f66cf0e9cac5ba"
+    "ca381da5d2f66cf0e9cac5ba",
+    "d9f410498602700f854f9a89",
+    "60eca8484c4907c70f152ec1",
+    "fe87c0415fb6cb692d019995",
+    "0939bbae07bfe4bd0a117516",
+    "d0bd97fe5de635a9d6c1cb16",
+    "18dfd6f659c32f77ce03a088",
+    "c85081c3e9c97768598c26b6"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -565,7 +572,14 @@
     "8f239f9a41aa789ee63d7205",
     "bede145d62e91120050dcc8e",
     "15f1ee04fe3bfc2abb937fce",
-    "f9bfb727df291ada947015f3"
+    "f9bfb727df291ada947015f3",
+    "6f889a37c8b91e20488cadf3",
+    "948d938c83b201e3f6b6ba7d",
+    "fa01126f5b6e9464b75d9c5a",
+    "84b8b027b6881af174f992af",
+    "8afe14e2fbf8d923cd6e25b7",
+    "02c8bb7b259abfe7acfc728f",
+    "1f64ddc3db95f8c14bfab6b0"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -588,8 +602,8 @@
     "6f670ee886c156ddcefcbd34",
     "2424cebd1c482dced8276fa4"
   ],
-  "last_digest_hash": "3910a387c51edb4b0d2226d1e6e205a7d128b32e35ebeea085781f18dada0d4b",
-  "last_run_iso": "2026-03-31T09:14:51.809677+00:00",
+  "last_digest_hash": "83abbfdb68c9c24d682048967de4d697643b6c94f9d4d3c576ba75937e547ea1",
+  "last_run_iso": "2026-03-31T11:08:31.135354+00:00",
   "last_breaking_run_iso": "2026-03-31T09:14:51.809677+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -873,6 +887,13 @@
     "Iran war: What is happening on day 32 of US-Israel attacks?": "جنگ ایران: در روز ۳۲ حملات آمریکا و اسرائیل چه اتفاقی در حال رخ دادن است؟",
     "South Korean president promises maximum response to energy crisis": "رئیس جمهور کره جنوبی وعده پاسخ حداکثری به بحران انرژی را داد",
     "Palestine weekly wrap: Holy sites remain closed as deadly violence spreads": "خلاصه هفتگی فلسطین: اماکن مقدس همچنان بسته هستند در حالی که خشونت های مرگبار گسترش یافته اند",
-    "Video: Newborns evacuated from Gaza return as toddlers over two years later": "ویدئو: نوزادان تخلیه شده از غزه پس از بیش از دو سال به عنوان کودک نوپا بازمی گردند"
+    "Video: Newborns evacuated from Gaza return as toddlers over two years later": "ویدئو: نوزادان تخلیه شده از غزه پس از بیش از دو سال به عنوان کودک نوپا بازمی گردند",
+    "Italy denies the US military use of its air bases to attack Iran": "ایتالیا استفاده نظامی آمریکا از پایگاه های هوایی خود برای حمله به ایران را رد می کند",
+    "After uprooting Palestinian hamlets, extremist settlers set sights on West Bank-wide purge": "پس از ریشه کن کردن روستاهای فلسطینی، شهرک نشینان افراطی به پاکسازی سراسری کرانه باختری چشم دوخته اند",
+    "Iran warns of executions, asset seizures for spying or aiding ‘hostile states’": "ایران درباره اعدام ها، توقیف دارایی ها به دلیل جاسوسی یا کمک به «دولت های متخاصم» هشدار می دهد",
+    "PA, rights groups denounce death penalty law for Palestinians convicted of deadly terror": "تشکیلات خودگردان و گروه های حقوق بشری قانون مجازات اعدام برای فلسطینیان محکوم به ترور مرگبار را محکوم کردند",
+    "Gaza families reunite years after babies evacuated amid Israel’s war": "خانواده های غزه سال ها پس از تخلیه نوزادان در جریان جنگ اسرائیل دوباره به هم پیوستند",
+    "‘Iranians don’t consider Trump’s 15-point plan as beginning of diplomacy’": "«ایرانی ها طرح ۱۵ ماده ای ترامپ را آغاز دیپلماسی نمی دانند»",
+    "At 101, Holocaust survivor credits Spielberg for her ongoing fight against hatred": "در سن ۱۰۱ سالگی، بازمانده هولوکاست اسپیلبرگ را مدیون مبارزه مداومش با نفرت می داند"
   }
 }

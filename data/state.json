@@ -341,7 +341,10 @@
     "936f23698d43cef32375a04f",
     "28f181cff5abc65fd0fa7c88",
     "fe79431498805f7942100583",
-    "feab138c12237e5da19be617"
+    "feab138c12237e5da19be617",
+    "6df2a9cc2bcd9954c0d16e47",
+    "91fdff51e6defb2f50f6aa90",
+    "43902957f351e1b4a836a9b9"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -685,7 +688,10 @@
     "74552f783868b5402494a091",
     "67e3eb60c1b58cbb0770bcbd",
     "3f41d7762bca23086e79bbef",
-    "4eca1f676192585ba728d72a"
+    "4eca1f676192585ba728d72a",
+    "9cfe3f3511a451f57ff091d1",
+    "d83d7d08970ab7fe02afda82",
+    "3461d50e1e3866899d62b271"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -710,8 +716,8 @@
     "0a27ad514df292d2c9c2341b",
     "8690ae76ddffeda325c6d3a5"
   ],
-  "last_digest_hash": "d780faf3c27f2e14481eb522a3d9e446f5c578be1ebed3aaceff2b85c866b6a4",
-  "last_run_iso": "2026-03-31T20:55:22.241269+00:00",
+  "last_digest_hash": "29a7c670042067765928e256c332a460c5a3c004ce1be05c58dd39c98b2fd0ad",
+  "last_run_iso": "2026-03-31T21:52:06.673499+00:00",
   "last_breaking_run_iso": "2026-03-31T20:55:22.241269+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1055,6 +1061,9 @@
     "UN expert Albanese confronted by pro-Israeli protesters in Germany": "کارشناس سازمان ملل، آلبانیز، در مواجهه با معترضان طرفدار اسرائیل در آلمان",
     "US feds charge 6 with attacking Jewish man, conspiring to cover it up": "مقامات فدرال آمریکا ۶ نفر را به حمله به مرد یهودی و توطئه برای پنهان کاری متهم کردند",
     "Analysis: Hezbollah backs Iran ambassador as conflict deepens Lebanon rifts": "تحلیل: حزب الله از سفیر ایران حمایت می کند در حالی که اختلافات لبنان را عمیق تر می کند",
-    "Israelis attempt to perform Passover sacrifice at Al-Aqsa": "اسرائیلی ها تلاش می کنند قربانی پسح را در الاقصی انجام دهند"
+    "Israelis attempt to perform Passover sacrifice at Al-Aqsa": "اسرائیلی ها تلاش می کنند قربانی پسح را در الاقصی انجام دهند",
+    "American journalist kidnapped in Baghdad; Iraq says manhunt underway, one detained": "خبرنگار آمریکایی که در بغداد ربوده شد؛ عراق اعلام کرد عملیات تعقیب و گریز در جریان است و یک نفر بازداشت شده است",
+    "Israeli air attack kills father and two-year-old son in Gaza": "حمله هوایی اسرائیل پدر و پسر دو ساله ای را در غزه کشت",
+    "US journalist Shelly Kittleson kidnapped in Baghdad": "روزنامه نگار آمریکایی شلی کیتلسون در بغداد ربوده شد"
   }
 }

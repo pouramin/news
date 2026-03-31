@@ -310,7 +310,19 @@
     "cbba576327084dde7864b837",
     "d7bed4b0c32e8b66cf1cce10",
     "592991e25092ef0d07103af9",
-    "17bcff2ba5a7841fcb1e6d58"
+    "17bcff2ba5a7841fcb1e6d58",
+    "19ea23e63cf958fb404ef109",
+    "9eaba2b6e1629a422a3bd77b",
+    "5ec0b4b6d68c1e61c1ab21bc",
+    "e976cf5d3cd6de2774dc249c",
+    "61517cb044dd6775e88aff4c",
+    "e72b5fa5121070d60be6307f",
+    "5382ca4660f2b9d3d49504b6",
+    "8f43906b5dd4c9242ec8898a",
+    "c4e424da8da4ca79c722e2de",
+    "b29791f9c0db81901d09f188",
+    "2d828f83d1eca31437e04842",
+    "580e06ccf0bde9101029a99e"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -623,7 +635,19 @@
     "962daed8d16db78e13763523",
     "352c341da6a522c1aa867535",
     "51eaf15b228ee3c8f5f320b9",
-    "3340c220cf30d9e85198a525"
+    "3340c220cf30d9e85198a525",
+    "98ca1eea825ca643c99612ae",
+    "6d3b2fbb712a5a707b051e59",
+    "f5ebf74f332c153978696518",
+    "f61f3fb53ce8e0bb21d9b946",
+    "f1c3104fbb0894678b56abca",
+    "febec0e0df206e06d9ce2673",
+    "3da9c427c4f4f9992e28a78a",
+    "e248f8391181498d750ecaa1",
+    "c05b5e4275216eadf2950bfa",
+    "d63b87bbf7bcdb683a800267",
+    "82cae566c7cf48cf8ccf5918",
+    "3827d34d8d67081b048db54b"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -647,8 +671,8 @@
     "2424cebd1c482dced8276fa4",
     "0a27ad514df292d2c9c2341b"
   ],
-  "last_digest_hash": "13103dd6d3c871c050ba24031a32700090d2b81df6be047c847073fc6c7f6370",
-  "last_run_iso": "2026-03-31T15:19:05.777046+00:00",
+  "last_digest_hash": "854f09914ed37f9a227220d25b1b8f985e9a51a12c6674464cbda48a9f180f11",
+  "last_run_iso": "2026-03-31T17:12:08.028962+00:00",
   "last_breaking_run_iso": "2026-03-31T13:58:41.348271+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -961,6 +985,18 @@
     "A Gaza mother waits in agony: Did Israel kill her daughter, or arrest her?": "یک مادر غزه با درد منتظر است: آیا اسرائیل دخترش را کشته یا دستگیر کرده است؟",
     "Where to invest during Iran war? Ask – or don’t – Mohammad Bagher Ghalibaf": "در طول جنگ ایران کجا سرمایه گذاری کنیم؟ بپرسید – یا نکنید – محمد باقر قالیباف",
     "War on Iran: US’s history of making other nations pay for conflicts": "جنگ علیه ایران: تاریخ آمریکا در وادار کردن کشورهای دیگر به پرداخت هزینه درگیری ها",
-    "Reviewing massacre footage, Bondi hero’s daughter discovers more of her dad’s bravery": "دختر قهرمان باندی با بررسی تصاویر قتل عام، شجاعت بیشتری از پدرش را کشف می کند"
+    "Reviewing massacre footage, Bondi hero’s daughter discovers more of her dad’s bravery": "دختر قهرمان باندی با بررسی تصاویر قتل عام، شجاعت بیشتری از پدرش را کشف می کند",
+    "Iran using children in security roles in war, reports and witnesses say": "گزارش ها و شاهدان می گویند ایران از کودکان در نقش های امنیتی در جنگ استفاده می کند",
+    "Trump attacks NATO allies as pressure mounts over Strait of Hormuz": "ترامپ به متحدان ناتو حمله می کند در حالی که فشارها بر فراز تنگه هرمز افزایش می یابد",
+    "Qatar says Iran’s attacks on neighbours crossed ‘many red lines’": "قطر می گوید حملات ایران به همسایگان از «خطوط قرمز متعدد» عبور کرده است",
+    "UN aid chief warns of new Israeli occupation in southern Lebanon": "رئیس سازمان کمک های سازمان ملل درباره اشغال جدید اسرائیل در جنوب لبنان هشدار داد",
+    "Frustrated with allies, Trump tells countries needing fuel to go to Hormuz and ‘just take it’": "ترامپ که از متحدانش ناامید شده، به کشورهایی که به سوخت نیاز دارند می گوید به هرمز بروند و «فقط آن را بردارند»",
+    "As Trump signals retreat from war, Israel may have to keep fighting Iranian threat": "با اعلام عقب نشینی ترامپ از جنگ، اسرائیل ممکن است مجبور شود به مبارزه با تهدید ایران ادامه دهد",
+    "Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends": "اسرائیل می گوید پس از پایان جنگ با حزب الله کنترل بخشی از جنوب لبنان را حفظ خواهد کرد",
+    "Nearly half of tech firms struggling with worker shortages due to Iran war – survey": "تقریبا نیمی از شرکت های فناوری که به دلیل جنگ ایران با کمبود نیروی کار دست و پنجه نرم می کنند – نظرسنجی",
+    "For Jerusalem’s Haredim, it’s business as usual during wartime Passover shopping rush": "برای حریدی های اورشلیم، اوضاع در دوران شلوغی خرید عید فصح در زمان جنگ به روال عادی ادامه دارد",
+    "How Pakistan won over Trump to become an unlikely mediator in the Iran war": "چگونه پاکستان توانست ترامپ را قانع کند تا به میانجی غیرمنتظره ای در جنگ ایران تبدیل شود",
+    "NY candidate joins anti-Israel streamer’s show, sparking ire from Jewish-heavy district": "نامزد نیویورک به برنامه استریمر ضد اسرائیلی پیوست و خشم منطقه ای با جمعیت یهودی را برانگیخت",
+    "Mamdani heckled at NYC Passover Seder as some rail at his inclusion": "مامدانی در مراسم عید فصح نیویورک مسخره شد و برخی از حضور او را سرزنش کردند"
   }
 }

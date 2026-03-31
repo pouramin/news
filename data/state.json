@@ -267,7 +267,12 @@
     "88e5c8e17930dbc25b68cea5",
     "6935899487f2b03aabb460c9",
     "031e1a33f37f16567a7e2c88",
-    "717347b9ad64dac159b8aadc"
+    "717347b9ad64dac159b8aadc",
+    "6f670ee886c156ddcefcbd34",
+    "a47983e3086fa2918329ac44",
+    "954f2b16ec8ee11476956d4e",
+    "557ab8210dedad32b75e3df4",
+    "e01118cac7a364b5438f81d0"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -537,7 +542,12 @@
     "d309405dc34f64fbf600f334",
     "dfb05d5c86ab912c2c3ed0dd",
     "547614abc1723979752a1347",
-    "3536642a17b212657ed6cdc9"
+    "3536642a17b212657ed6cdc9",
+    "d22cd77cd3456fb777a98a49",
+    "85beb4891ed3e5b4d48f532c",
+    "bfc09e5aca4535c4227e7d34",
+    "6fc5b4f5b2a947aafb7165e6",
+    "43738e882e33f3f7553f57a5"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -556,11 +566,12 @@
     "b14e2b922e2b296fc1b9b07d",
     "36319b373d991cd718cba00a",
     "dde58855d96012bc5d9b1d95",
-    "9c63201a50167563e7367871"
+    "9c63201a50167563e7367871",
+    "6f670ee886c156ddcefcbd34"
   ],
-  "last_digest_hash": "358c581a09df50945f234ab0c2bcbd6a3035ca4387cbcd37db547b5a72cccc9b",
-  "last_run_iso": "2026-03-31T05:50:56.576734+00:00",
-  "last_breaking_run_iso": "2026-03-31T03:26:46.892884+00:00",
+  "last_digest_hash": "87e477cf48915fb4419b5c2023835f471afd6ee6cf24c5aa60dfa48e0f736885",
+  "last_run_iso": "2026-03-31T07:43:19.207055+00:00",
+  "last_breaking_run_iso": "2026-03-31T07:43:19.207055+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -829,6 +840,11 @@
     "Alleged Mossad spy escapes Hezbollah detention thanks to IDF strike in Beirut — report": "جاسوس مظنون موساد به لطف حمله ارتش اسرائیل در بیروت از بازداشت حزب الله فرار کرد — گزارش",
     "Spain closes airspace to US warplanes involved in war on Iran": "اسپانیا حریم هوایی را به روی هواپیماهای جنگی آمریکایی که در جنگ با ایران دخیل هستند، بست",
     "Children in Gaza reenact a funeral procession during play": "کودکان در غزه در حین بازی مراسم تشییع جنازه را بازسازی می کنند",
-    "Outrage and condemnation over Israel’s death penalty law for Palestinians": "خشم و محکومیت نسبت به قانون اعدام فلسطینی ها در اسرائیل"
+    "Outrage and condemnation over Israel’s death penalty law for Palestinians": "خشم و محکومیت نسبت به قانون اعدام فلسطینی ها در اسرائیل",
+    "Seizing Kharg Island would risk US troops and may not end Iran war, experts say": "کارشناسان می گویند تصرف جزیره خارق نیروهای آمریکایی را به خطر می اندازد و ممکن است جنگ ایران را پایان ندهد",
+    "Gulf allies privately pushing Trump to keep up war until Iran decisively defeated": "متحدان خلیج فارس به طور خصوصی ترامپ را تحت فشار قرار می دهند تا جنگ را ادامه دهد تا زمانی که ایران به طور قاطع شکست بخورد",
+    "After backing Iran with Israel strike, Houthis avoid further escalation, for now": "پس از حمایت از ایران با حمله به اسرائیل، حوثی ها فعلا از تشدید بیشتر اجتناب می کنند",
+    "Drone attack sparks fire on Kuwaiti tanker in UAE amid Iran’s Gulf attacks": "حمله پهپادی باعث آتش سوزی به نفتکش کویتی در امارات شد، در پی حملات ایران به خلیج فارس",
+    "What can nations do to make up for the ongoing energy shortfall?": "کشورها چه کاری می توانند انجام دهند تا کمبود انرژی جاری را جبران کنند؟"
   }
 }

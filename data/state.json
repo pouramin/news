@@ -254,7 +254,16 @@
     "bb616d6813f2cd9b1052a2ec",
     "cb132451466d38224a6cd1fb",
     "dad12f7117222fb3f8de2890",
-    "d6efd48120480ed0bae2cf37"
+    "d6efd48120480ed0bae2cf37",
+    "9c63201a50167563e7367871",
+    "af243ca54f18b5f9f439bc3c",
+    "62d21aa102e7a5ed2abc723d",
+    "a3afca38015d13b75eb464d9",
+    "8b0814fb2bff23d2e18fb250",
+    "9b4ec1799007515c30cdd2d4",
+    "1ee7a52372f9c1864c65e0eb",
+    "2cdd5e8aa1a55945d6249af5",
+    "689a2e69c703100d0f74971b"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -511,7 +520,16 @@
     "753aa5c70878b6514e1e1234",
     "1dfa4e625ef6e09f1ec2dc53",
     "940a5bb88ed1c15b5b2eccba",
-    "2983a1d985ff40bab524c70b"
+    "2983a1d985ff40bab524c70b",
+    "7f5a4b5a243d3faf05236d99",
+    "b8c52f40d8ee3fae19dec8f9",
+    "b401261ccd74895f687ae122",
+    "4d599523f5e1d89ef82e2bcd",
+    "05970b1aecb567746c17d822",
+    "de0fa4b7e0d14e2b87557ffd",
+    "7cedb11cf4b6b9cdf3d1b75a",
+    "2c6c73f36f26d8a8356f2659",
+    "dc560644f7ef864af53e6701"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -529,11 +547,12 @@
     "a5055bc4c116decc150ec131",
     "b14e2b922e2b296fc1b9b07d",
     "36319b373d991cd718cba00a",
-    "dde58855d96012bc5d9b1d95"
+    "dde58855d96012bc5d9b1d95",
+    "9c63201a50167563e7367871"
   ],
-  "last_digest_hash": "72de31975bae2bcd15133e5e66f86a59d74ed13a78e1207854f93cf877ab3527",
-  "last_run_iso": "2026-03-30T23:49:24.146885+00:00",
-  "last_breaking_run_iso": "2026-03-30T15:20:12.589852+00:00",
+  "last_digest_hash": "f3b5090f25aa7d56468283812cb2ef380bca925d098f7ad9de2d89d73d071d76",
+  "last_run_iso": "2026-03-31T03:26:46.892884+00:00",
+  "last_breaking_run_iso": "2026-03-31T03:26:46.892884+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -789,6 +808,15 @@
     "FBI: Armed man who rammed pickup into Michigan synagogue was inspired by Hezbollah": "اف بی آی: مرد مسلحی که وانت را به کنیسه میشیگان کوبید، از حزب الله الهام گرفته بود",
     "Iran’s foreign ministry rejects US ceasefire demands": "وزارت امور خارجه ایران درخواست های آتش بس آمریکا را رد کرد",
     "Gazan mother reunited with evacuated daughter after two years": "مادر غزه ای پس از دو سال با دختر تخلیه شده دوباره دیدار کرد",
-    "US raises concern over Israel’s closure of Jerusalem holy sites": "آمریکا نگرانی خود را درباره بسته شدن اماکن مقدس اورشلیم توسط اسرائیل ابراز کرد"
+    "US raises concern over Israel’s closure of Jerusalem holy sites": "آمریکا نگرانی خود را درباره بسته شدن اماکن مقدس اورشلیم توسط اسرائیل ابراز کرد",
+    "Iran war live: Kuwaiti oil tanker hit in Dubai port; 3 UN troops killed": "جنگ ایران زنده: نفتکش کویت در بندر دبی هدف قرار گرفت؛ ۳ سرباز سازمان ملل کشته شدند",
+    "3 UN observers killed within 24 hours in south Lebanon; IDF says it’s investigating": "۳ ناظر سازمان ملل در عرض ۲۴ ساعت در جنوب لبنان کشته شدند؛ ارتش اسرائیل می گوید در حال تحقیق است",
+    "Pentagon denies Hegseth’s broker sought defence investment before Iran war": "پنتاگون رد می کند که واسطه هگست پیش از جنگ ایران به دنبال سرمایه گذاری دفاعی بوده باشد",
+    "What do Trump’s threats to bomb Iran desalination plants mean for rest of Mideast?": "تهدیدهای ترامپ برای بمباران نیروگاه های آب شیرین کن ایران برای بقیه خاورمیانه چه معنایی دارد؟",
+    "Trump said to tell aides he’s willing to end Iran war without reopening Hormuz": "ترامپ گفت به دستیارانش بگوید حاضر است جنگ ایران را بدون بازگشایی هرمز پایان دهد",
+    "Zelensky: Putin helping Iran, yet Netanyahu wants to ‘balance’ between Russia and Ukraine": "زلنسکی: پوتین به ایران کمک می کند، اما نتانیاهو می خواهد بین روسیه و اوکراین «تعادل» برقرار کند",
+    "Al Jazeera’s full interview with Marco Rubio on US war on Iran": "مصاحبه کامل الجزیره با مارکو روبیو درباره جنگ آمریکا علیه ایران",
+    "War with Iran casts a shadow as Persian Jews mark Nowruz in New York City": "جنگ با ایران سایه ای می اندازد در حالی که یهودیان ایران نوروز را در نیویورک گرامی می دارند",
+    "Intense US-Israeli attacks on Iranian city of Isfahan cause column of fire": "حملات شدید آمریکا و اسرائیل به شهر اصفهان ایران باعث آتش شدید شد"
   }
 }

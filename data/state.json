@@ -307,7 +307,10 @@
     "6cb3dac993c3d0742b5356d6",
     "736de8ee2e959725e9d14270",
     "111da466f3b0f6e1e1725170",
-    "cbba576327084dde7864b837"
+    "cbba576327084dde7864b837",
+    "d7bed4b0c32e8b66cf1cce10",
+    "592991e25092ef0d07103af9",
+    "17bcff2ba5a7841fcb1e6d58"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -617,7 +620,10 @@
     "b9f38bc1f6d74ea9637d7157",
     "b3ce8c77c67e9a78953ec449",
     "4446124276ba71fa67e02be6",
-    "962daed8d16db78e13763523"
+    "962daed8d16db78e13763523",
+    "352c341da6a522c1aa867535",
+    "51eaf15b228ee3c8f5f320b9",
+    "3340c220cf30d9e85198a525"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -641,8 +647,8 @@
     "2424cebd1c482dced8276fa4",
     "0a27ad514df292d2c9c2341b"
   ],
-  "last_digest_hash": "407118d5ba5b3aad9515d859131cf794046e8e62c6e9d42cc3f499e4b626b006",
-  "last_run_iso": "2026-03-31T13:58:41.348271+00:00",
+  "last_digest_hash": "13103dd6d3c871c050ba24031a32700090d2b81df6be047c847073fc6c7f6370",
+  "last_run_iso": "2026-03-31T15:19:05.777046+00:00",
   "last_breaking_run_iso": "2026-03-31T13:58:41.348271+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -952,6 +958,9 @@
     "Long queues in Myanmar as Iran war fuel crisis deepens": "صف های طولانی در میانمار در حالی که بحران جنگ ایران عمیق تر شده است",
     "Hundreds rally in West Bank against Israeli death penalty for Palestinians": "صدها نفر در کرانه باختری علیه مجازات اعدام اسرائیلی برای فلسطینیان تجمع کردند",
     "Chatbot aims to help rescuers defuse acute anxiety, right after traumatic events": "چت بات هدف دارد به نجات دهندگان کمک کند تا اضطراب حاد را بلافاصله پس از رویدادهای آسیب زا کاهش دهند",
-    "A Gaza mother waits in agony: Did Israel kill her daughter, or arrest her?": "یک مادر غزه با درد منتظر است: آیا اسرائیل دخترش را کشته یا دستگیر کرده است؟"
+    "A Gaza mother waits in agony: Did Israel kill her daughter, or arrest her?": "یک مادر غزه با درد منتظر است: آیا اسرائیل دخترش را کشته یا دستگیر کرده است؟",
+    "Where to invest during Iran war? Ask – or don’t – Mohammad Bagher Ghalibaf": "در طول جنگ ایران کجا سرمایه گذاری کنیم؟ بپرسید – یا نکنید – محمد باقر قالیباف",
+    "War on Iran: US’s history of making other nations pay for conflicts": "جنگ علیه ایران: تاریخ آمریکا در وادار کردن کشورهای دیگر به پرداخت هزینه درگیری ها",
+    "Reviewing massacre footage, Bondi hero’s daughter discovers more of her dad’s bravery": "دختر قهرمان باندی با بررسی تصاویر قتل عام، شجاعت بیشتری از پدرش را کشف می کند"
   }
 }

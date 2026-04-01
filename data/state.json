@@ -418,7 +418,17 @@
     "f366934863bcf6a26d9f9595",
     "8fca757052124542f34e9aff",
     "677a0d638d7967882272521d",
-    "88618b175d49542c3a5df86f"
+    "88618b175d49542c3a5df86f",
+    "317348bf44f8c68a1e73faad",
+    "a3d0db98955bb7457e6330b1",
+    "f6ed03eaadf2631658288bdc",
+    "fdc3a86605805fb973d025b3",
+    "aab88fd95a167277d1d5a975",
+    "504be95737f0182b8c56f946",
+    "dff02553cc6f96cfc317494d",
+    "5748a380ff41a378e53bf940",
+    "37f7544bf9a812d9ded1ddad",
+    "1a1e54f0595d942bb9e48833"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -839,7 +849,17 @@
     "a842c7ef0c69b3605a4424ee",
     "f3939e684b9bbd41c10cd3d8",
     "0b4b16c81754c4c16ab9a9ec",
-    "e2b6da683d75f52ee0991c21"
+    "e2b6da683d75f52ee0991c21",
+    "65b0704d185168617740b6c1",
+    "3986f5e2440b8273c0edfcb8",
+    "5bc2d4b2256e4ba51b257948",
+    "993acdfe074b835cddbef14a",
+    "ac9c22186049a29202a4f3ed",
+    "5dba9f733558ad55c7164ddd",
+    "122bd41c29dee0709dafe617",
+    "3a9b18d8d24065d29106a457",
+    "25081b23caf326e1eedb71e5",
+    "cbf31de77afca7a1f69b03da"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -865,8 +885,8 @@
     "8690ae76ddffeda325c6d3a5",
     "4ef772f302153bd37e134391"
   ],
-  "last_digest_hash": "29c60a7870c9ea637f932a106dec5a3ad37adc29d8bdc944a523c208baa6b84e",
-  "last_run_iso": "2026-04-01T17:09:08.880749+00:00",
+  "last_digest_hash": "90e402d6797de929de11fc8c02a67882dc105c22726cfb578c643b5fda9517ea",
+  "last_run_iso": "2026-04-01T19:18:54.710762+00:00",
   "last_breaking_run_iso": "2026-04-01T03:38:32.619407+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1287,6 +1307,16 @@
     "What do Trump's latest comments on leaving Nato mean for the alliance?": "اظهارات اخیر ترامپ درباره خروج از ناتو چه معنایی برای این اتحاد دارد؟",
     "Iranian officials ‘laugh’ at Trump’s claim Iran wants a ceasefire": "مقامات ایرانی به ادعای ترامپ مبنی بر اینکه ایران خواهان آتش بس است، «می خندد»",
     "Mojtaba Khamenei’s rumoured injury or death won’t change Iran’s trajectory": "شایعه شده آسیب یا مرگ مجتبی خامنه ای مسیر ایران را تغییر نخواهد داد",
-    "Israeli lab decodes the building talents of a tropical ant": "آزمایشگاه اسرائیلی استعدادهای ساخت یک مورچه گرمسیری را رمزگشایی می کند"
+    "Israeli lab decodes the building talents of a tropical ant": "آزمایشگاه اسرائیلی استعدادهای ساخت یک مورچه گرمسیری را رمزگشایی می کند",
+    "Trump claims Iran wants truce, but set to say war will last 2-3 more weeks": "ترامپ ادعا می کند ایران خواهان آتش بس است، اما اعلام می کند جنگ ۲ تا ۳ هفته دیگر ادامه خواهد داشت",
+    "Why Iran says its universities are being targeted": "چرا ایران می گوید دانشگاه هایش هدف قرار گرفته اند",
+    "Iran authorities await war ‘victory’ as supporters mark 1979 anniversary": "مقامات ایران در انتظار «پیروزی» جنگ هستند در حالی که هواداران سالگرد ۱۹۷۹ را جشن می گیرند",
+    "Iraq coach says World Cup can help ‘change perception’ of country": "مربی عراق می گوید جام جهانی می تواند به «تغییر نگرش» نسبت به کشور کمک کند",
+    "After attack, Michigan synagogue calls to add Lego to Seder plate": "پس از حمله، کنیسه میشیگان درخواست افزودن لگو به بشقاب سدر را می کند",
+    "Palestinians in West Bank protest, strike against Israeli death penalty law": "فلسطینی ها در کرانه باختری اعتراض و اعتصاب علیه قانون مجازات اعدام اسرائیل",
+    "Memorial honours Indonesian UN peacekeeper killed in Lebanon": "یادبود به افتخار حافظ صلح اندونزی سازمان ملل که در لبنان کشته شد",
+    "AOC reportedly signals opposition to all Israel aid, including defensive spending": "گزارش شده است که AOC مخالفت خود را با تمام کمک های اسرائیل، از جمله هزینه های دفاعی، نشان می دهد",
+    "NY suspect indicted for ‘brutally assaulting’ Jewish man on subway": "مظنون نیویورک به اتهام «حمله وحشیانه» به مرد یهودی در مترو متهم شد",
+    "‘This is an apartheid regime’: Critics decry Israel’s new death penalty law": "«این یک رژیم آپارتاید است»: منتقدان قانون جدید مجازات اعدام اسرائیل را محکوم می کنند"
   }
 }

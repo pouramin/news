@@ -367,7 +367,11 @@
     "f1dc8bd5b731daa56c107ee7",
     "9567c3fcadb5ffef9deb1275",
     "bf95fe3f4a172d01f8b64686",
-    "11ec4d259d88ce51f081d802"
+    "11ec4d259d88ce51f081d802",
+    "0eaf09c4545921551442df65",
+    "5e53863cd6e40c796dfe7538",
+    "5e970a98a9a07e26ec05153a",
+    "be3cf231640cad5e47c9aac8"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -737,7 +741,11 @@
     "be9b9bc06140535e041b53da",
     "6b625fa19d216fdff2bafbc7",
     "97cc6f65559e6161765a4db6",
-    "4c87773948995d7c96eb83e5"
+    "4c87773948995d7c96eb83e5",
+    "268466451f7c3e883dd866ff",
+    "2c87b75c538226e7e9610120",
+    "a224099d2c23743174ee72f2",
+    "a44874a511678b9d37196958"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -763,8 +771,8 @@
     "8690ae76ddffeda325c6d3a5",
     "4ef772f302153bd37e134391"
   ],
-  "last_digest_hash": "0b6f8ea0e13125901174809009a75e6464951ab308dc4b757ab95bdfc3ffbd1c",
-  "last_run_iso": "2026-04-01T03:38:32.619407+00:00",
+  "last_digest_hash": "96cdb133986357b63b0f69691fb7d17da2a02a15864813bcf8e08a39dfce2061",
+  "last_run_iso": "2026-04-01T06:02:45.433784+00:00",
   "last_breaking_run_iso": "2026-04-01T03:38:32.619407+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1134,6 +1142,10 @@
     "US judge says Trump administration can demand list of Jews at Penn for antisemitism probe": "قاضی آمریکایی می گوید دولت ترامپ می تواند فهرست یهودیان دانشگاه پن را برای تحقیقات یهودستیزی مطالبه کند",
     "'My six-year-old has nosebleeds': Chiang Mai air pollution sparks health fears": "«فرزند شش ساله من خونریزی بینی دارد»: آلودگی هوای چیانگ مای نگرانی های سلامتی را برانگیخته است",
     "‘A law of death that only applies to Palestinians’": "«قانونی برای مرگ که فقط شامل فلسطینی ها می شود»",
-    "Angela Buchdahl: This Passover, have faith in the story of the Exodus": "آنجلا بوخدال: این عید فصح، به داستان خروج ایمان داشته باشید"
+    "Angela Buchdahl: This Passover, have faith in the story of the Exodus": "آنجلا بوخدال: این عید فصح، به داستان خروج ایمان داشته باشید",
+    "After meeting in the ICU, these bereaved mothers of IDF troops reunite via new initiative": "پس از دیدار در ICU، این مادران داغدار نیروهای ارتش اسرائیل از طریق ابتکار جدید دوباره گرد هم می آیند",
+    "Kentucky governor: Gaza ‘genocide’ claims shouldn’t be a litmus test for Democrats": "فرماندار کنتاکی: ادعاهای مربوط به «نسل کشی» غزه نباید آزمونی برای دموکرات ها باشد",
+    "Residents inspect drone damage near Erbil airport": "ساکنان خسارت پهپادها را در نزدیکی فرودگاه اربیل بررسی می کنند",
+    "Iraq defeat Bolivia 2-1 to qualify for FIFA World Cup 2026": "عراق بولیوی را ۲-۱ شکست داد تا به جام جهانی فیفا ۲۰۲۶ راه یابد"
   }
 }

@@ -428,7 +428,15 @@
     "dff02553cc6f96cfc317494d",
     "5748a380ff41a378e53bf940",
     "37f7544bf9a812d9ded1ddad",
-    "1a1e54f0595d942bb9e48833"
+    "1a1e54f0595d942bb9e48833",
+    "642dfa83594984a27c175e5b",
+    "017f0ccbecaad4f708095f55",
+    "53722d8d69f8438cae4c75de",
+    "a40fe3ad6213162e2ce8f5ad",
+    "5c14fe71e2a8dcb12ed814a4",
+    "c82e6a67bf1e6a211215d853",
+    "1a78d745092f7c475214673d",
+    "485a530202328ae25568aeb7"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -859,7 +867,15 @@
     "122bd41c29dee0709dafe617",
     "3a9b18d8d24065d29106a457",
     "25081b23caf326e1eedb71e5",
-    "cbf31de77afca7a1f69b03da"
+    "cbf31de77afca7a1f69b03da",
+    "971acaf6a750b0ef4c8f43ff",
+    "328942f14ee0573ba9a34165",
+    "b268bc4621494707568f84c8",
+    "4c8c13c8bc9aed66c01a6d46",
+    "f2b7b3c01aa6347bd772baeb",
+    "24dc1ed1c9e1dbcf4661738e",
+    "0a4d3ef5b654f761cb76f13f",
+    "4135b861dba6ec1fc89f36c9"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -885,8 +901,8 @@
     "8690ae76ddffeda325c6d3a5",
     "4ef772f302153bd37e134391"
   ],
-  "last_digest_hash": "90e402d6797de929de11fc8c02a67882dc105c22726cfb578c643b5fda9517ea",
-  "last_run_iso": "2026-04-01T19:18:54.710762+00:00",
+  "last_digest_hash": "c15fc450b5abb75853cbc31f0eac0d020d429283a03a596b024d66bc24018d2c",
+  "last_run_iso": "2026-04-01T20:59:02.414287+00:00",
   "last_breaking_run_iso": "2026-04-01T03:38:32.619407+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1317,6 +1333,14 @@
     "Memorial honours Indonesian UN peacekeeper killed in Lebanon": "یادبود به افتخار حافظ صلح اندونزی سازمان ملل که در لبنان کشته شد",
     "AOC reportedly signals opposition to all Israel aid, including defensive spending": "گزارش شده است که AOC مخالفت خود را با تمام کمک های اسرائیل، از جمله هزینه های دفاعی، نشان می دهد",
     "NY suspect indicted for ‘brutally assaulting’ Jewish man on subway": "مظنون نیویورک به اتهام «حمله وحشیانه» به مرد یهودی در مترو متهم شد",
-    "‘This is an apartheid regime’: Critics decry Israel’s new death penalty law": "«این یک رژیم آپارتاید است»: منتقدان قانون جدید مجازات اعدام اسرائیل را محکوم می کنند"
+    "‘This is an apartheid regime’: Critics decry Israel’s new death penalty law": "«این یک رژیم آپارتاید است»: منتقدان قانون جدید مجازات اعدام اسرائیل را محکوم می کنند",
+    "Fourth soldier killed in southern Lebanon clash on Monday laid to rest in Modiin": "چهارمین سرباز کشته شده در درگیری جنوب لبنان در روز دوشنبه در مودین به خاک سپرده شد",
+    "Artemis II ready for launch as NASA set to make 1st trip around moon in over 50 years": "آرتمیس ۲ آماده پرتاب است و ناسا برای اولین سفر به دور ماه در بیش از ۵۰ سال آماده است",
+    "SpaceX files for IPO, offering investors stake in Musk’s moon, Mars ambitions": "اسپیس ایکس برای عرضه اولیه سهام اقدام کرد و به سرمایه گذاران سهام در ماه ماسک و جاه طلبی های مریخ پیشنهاد داد",
+    "‘Which interests being served by war?’ Iran’s Pezeshkian asks US public": "«کدام منافع توسط جنگ تأمین می شوند؟» پزشکیان ایران از مردم آمریکا درخواست می کند",
+    "Central Israel hit by one of Iran’s largest missile barrages in weeks": "مرکز اسرائیل هدف یکی از بزرگ ترین حملات موشکی ایران در هفته های اخیر قرار گرفت",
+    "What are the consequences of Israel’s death penalty law for Palestinians?": "پیامدهای قانون مجازات اعدام اسرائیل برای فلسطینی ها چیست؟",
+    "Jewish former NBA star Amar’e Stoudemire reportedly heading to Hall of Fame": "ستاره سابق یهودی NBA، آماره استودمایر، ظاهرا به تالار مشاهیر راه یافته است",
+    "Crete turns orange as Saharan dust sweeps in": "کرت نارنجی می شود وقتی گرد و غبار صحرا وارد می شود"
   }
 }

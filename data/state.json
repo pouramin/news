@@ -438,7 +438,9 @@
     "1a78d745092f7c475214673d",
     "485a530202328ae25568aeb7",
     "cd833f89c06ffd3ef6799613",
-    "9dbf558392e3a6381e9a0767"
+    "9dbf558392e3a6381e9a0767",
+    "acc2ba476adc31ce8690eeef",
+    "15097287d9ea00307e2bd8ce"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -879,7 +881,9 @@
     "0a4d3ef5b654f761cb76f13f",
     "4135b861dba6ec1fc89f36c9",
     "39f8a5e1074334b35062d740",
-    "adcb2fe0cb89a80bb854144b"
+    "adcb2fe0cb89a80bb854144b",
+    "585c0238dfd1005f42bba7fd",
+    "2b7ef1f887f1df20b0e06680"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -905,8 +909,8 @@
     "8690ae76ddffeda325c6d3a5",
     "4ef772f302153bd37e134391"
   ],
-  "last_digest_hash": "92105d3d25274e7b853686a3748681b18669e83b0a7d1a1a7b504f44e8cf71bb",
-  "last_run_iso": "2026-04-01T21:54:52.591046+00:00",
+  "last_digest_hash": "bc5fdaff2bb9a7850dcbadf9d2840080f79b92dd4912863ed5aa5fb239b0f4f3",
+  "last_run_iso": "2026-04-01T22:54:38.118228+00:00",
   "last_breaking_run_iso": "2026-04-01T03:38:32.619407+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1347,6 +1351,8 @@
     "Jewish former NBA star Amar’e Stoudemire reportedly heading to Hall of Fame": "ستاره سابق یهودی NBA، آماره استودمایر، ظاهرا به تالار مشاهیر راه یافته است",
     "Crete turns orange as Saharan dust sweeps in": "کرت نارنجی می شود وقتی گرد و غبار صحرا وارد می شود",
     "NASA moon mission a ‘contrast’ to US war on Iran, says US senator": "مأموریت ماه ناسا «تضاد» با جنگ آمریکا علیه ایران است، سناتور آمریکایی می گوید",
-    "Smoke and embers seen over Iran’s Isfahan after strike": "دود و ذغال هایی که پس از حمله بر فراز اصفهان ایران دیده می شود"
+    "Smoke and embers seen over Iran’s Isfahan after strike": "دود و ذغال هایی که پس از حمله بر فراز اصفهان ایران دیده می شود",
+    "US intel agencies reportedly believe Iran unwilling to hold serious talks on ending war": "گزارش شده است که سازمان های اطلاعاتی آمریکا معتقدند ایران تمایلی به مذاکره جدی برای پایان دادن به جنگ ندارد",
+    "Suspect in foiled Paris bank attack hit with ‘terrorist criminal conspiracy’ charges": "مظنون به حمله خنثی شده بانک پاریس با اتهام «توطئه جنایی تروریستی» مواجه شد"
   }
 }

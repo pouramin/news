@@ -436,7 +436,9 @@
     "5c14fe71e2a8dcb12ed814a4",
     "c82e6a67bf1e6a211215d853",
     "1a78d745092f7c475214673d",
-    "485a530202328ae25568aeb7"
+    "485a530202328ae25568aeb7",
+    "cd833f89c06ffd3ef6799613",
+    "9dbf558392e3a6381e9a0767"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -875,7 +877,9 @@
     "f2b7b3c01aa6347bd772baeb",
     "24dc1ed1c9e1dbcf4661738e",
     "0a4d3ef5b654f761cb76f13f",
-    "4135b861dba6ec1fc89f36c9"
+    "4135b861dba6ec1fc89f36c9",
+    "39f8a5e1074334b35062d740",
+    "adcb2fe0cb89a80bb854144b"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -901,8 +905,8 @@
     "8690ae76ddffeda325c6d3a5",
     "4ef772f302153bd37e134391"
   ],
-  "last_digest_hash": "c15fc450b5abb75853cbc31f0eac0d020d429283a03a596b024d66bc24018d2c",
-  "last_run_iso": "2026-04-01T20:59:02.414287+00:00",
+  "last_digest_hash": "92105d3d25274e7b853686a3748681b18669e83b0a7d1a1a7b504f44e8cf71bb",
+  "last_run_iso": "2026-04-01T21:54:52.591046+00:00",
   "last_breaking_run_iso": "2026-04-01T03:38:32.619407+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1341,6 +1345,8 @@
     "Central Israel hit by one of Iran’s largest missile barrages in weeks": "مرکز اسرائیل هدف یکی از بزرگ ترین حملات موشکی ایران در هفته های اخیر قرار گرفت",
     "What are the consequences of Israel’s death penalty law for Palestinians?": "پیامدهای قانون مجازات اعدام اسرائیل برای فلسطینی ها چیست؟",
     "Jewish former NBA star Amar’e Stoudemire reportedly heading to Hall of Fame": "ستاره سابق یهودی NBA، آماره استودمایر، ظاهرا به تالار مشاهیر راه یافته است",
-    "Crete turns orange as Saharan dust sweeps in": "کرت نارنجی می شود وقتی گرد و غبار صحرا وارد می شود"
+    "Crete turns orange as Saharan dust sweeps in": "کرت نارنجی می شود وقتی گرد و غبار صحرا وارد می شود",
+    "NASA moon mission a ‘contrast’ to US war on Iran, says US senator": "مأموریت ماه ناسا «تضاد» با جنگ آمریکا علیه ایران است، سناتور آمریکایی می گوید",
+    "Smoke and embers seen over Iran’s Isfahan after strike": "دود و ذغال هایی که پس از حمله بر فراز اصفهان ایران دیده می شود"
   }
 }

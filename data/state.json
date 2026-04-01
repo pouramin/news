@@ -382,7 +382,14 @@
     "1dad80eaa05e17debb1add08",
     "6b80fff2281faa26e823779e",
     "1be8e61482dabd774e177a74",
-    "f44571b8a1dff80dd79c0b7b"
+    "f44571b8a1dff80dd79c0b7b",
+    "cf72a0c628963e886a3f4207",
+    "4b0e7abd7bf8aef05d1cad80",
+    "156039d115e5561f4684eb19",
+    "aa54072f5664a1b1a652c013",
+    "5eba8a6d1eb1397162953841",
+    "4e1e7d1ac50b098d7b56d359",
+    "d030903f48afa2191a71c294"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -767,7 +774,14 @@
     "ddf54d551a4bc1e3da4b7a92",
     "872a201d677ba4715ab9586d",
     "a46e8063bea52eb2b55e6348",
-    "d16a6a66f3aa850f8f4cfbcd"
+    "d16a6a66f3aa850f8f4cfbcd",
+    "e8428cb530566d96acd26ea7",
+    "4b4fdc1f8aec29a8090b9f81",
+    "808c6155c0e20ebe81ac49a0",
+    "3808b23df295ee648adcd8d6",
+    "8f50038601bc16d13f1308b8",
+    "dcce4160efb0e9220c10170e",
+    "2f51d54e29e532966751c931"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -793,8 +807,8 @@
     "8690ae76ddffeda325c6d3a5",
     "4ef772f302153bd37e134391"
   ],
-  "last_digest_hash": "e33f3183dbc9bb441fb4241bdcb34a1ac89184bd2df784bb241084035327c348",
-  "last_run_iso": "2026-04-01T09:20:44.135031+00:00",
+  "last_digest_hash": "682344cf4388a191750e4fd63fef8feeecd9a4ab73f7478ad270114149168366",
+  "last_run_iso": "2026-04-01T11:11:35.135486+00:00",
   "last_breaking_run_iso": "2026-04-01T03:38:32.619407+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1179,6 +1193,13 @@
     "Israeli police inspect damage on the road after missile impact": "پلیس اسرائیل خسارت جاده را پس از برخورد موشک بررسی می کند",
     "English mayor resigns after boosting claim Jewish ambulance arson was ‘false flag’": "شهردار انگلیس پس از تقویت ادعای اینکه آتش سوزی آمبولانس یهودی «پرچم جعلی» بوده، استعفا داد",
     "Four Palestinians said wounded by settler assailants in West Bank village of Tayasir": "چهار فلسطینی گفته اند که توسط مهاجمان شهرک نشین در روستای تایاسیر کرانه باختری زخمی شده اند",
-    "Say bye-bye to bitter herbs: Israeli researchers’ work aims to pass over tart tastes": "خداحافظی با گیاهان تلخ: پژوهش پژوهشگران اسرائیلی هدفش نادیده گرفتن طعم های ترش است"
+    "Say bye-bye to bitter herbs: Israeli researchers’ work aims to pass over tart tastes": "خداحافظی با گیاهان تلخ: پژوهش پژوهشگران اسرائیلی هدفش نادیده گرفتن طعم های ترش است",
+    "Girl critically hurt by Iranian cluster bomb as repeated salvos target center": "دختری به شدت مجروح بمب خوشه ای ایرانی شد در حالی که حملات مکرر هدف قرار گرفت",
+    "Houthis claim joint missile attack on Israel with Iran and Hezbollah": "حوثی ها ادعای حمله موشکی مشترک به اسرائیل با ایران و حزب الله را دارند",
+    "Israel kills 7 people in Beirut, Hezbollah fights invasion in south Lebanon": "اسرائیل ۷ نفر را در بیروت کشت، حزب الله در جنوب لبنان با تهاجم مبارزه می کند",
+    "Iran war economic shocks will last 'months', say Australia's PM": "جنگ ایران شوک های اقتصادی «ماه ها» طول خواهد کشید، نخست وزیر استرالیا می گوید",
+    "‘US attacking Iran’s nuclear facilities is a sign of endgame’": "«حمله آمریکا به تأسیسات هسته ای ایران نشانه پایان بازی است»",
+    "Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control": "اسرائیل حملات به لبنان را تشدید کرده و مناطقی را که تحت کنترل حزب الله نیستند هدف قرار می دهد",
+    "Daily Briefing April 1 – Is the war heading to a Trump no-deal ‘victory’?": "گزارش روزانه ۱ آوریل – آیا جنگ به سوی «پیروزی» بدون توافق ترامپ پیش می رود؟"
   }
 }

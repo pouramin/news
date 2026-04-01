@@ -373,7 +373,16 @@
     "5e970a98a9a07e26ec05153a",
     "be3cf231640cad5e47c9aac8",
     "0f47ba67d7e216a2340ee45d",
-    "fa50853af25636eb7694187b"
+    "fa50853af25636eb7694187b",
+    "5053b7d070a0a703b9f9e5e0",
+    "ce09f680448deb1f4f83866d",
+    "0c6cf49050bf0dfc5a9e50ab",
+    "202b9c3814e56c7e97d3fb79",
+    "46328cd138a383d34b6da867",
+    "1dad80eaa05e17debb1add08",
+    "6b80fff2281faa26e823779e",
+    "1be8e61482dabd774e177a74",
+    "f44571b8a1dff80dd79c0b7b"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -749,7 +758,16 @@
     "a224099d2c23743174ee72f2",
     "a44874a511678b9d37196958",
     "2ba1266bce23faf52b71475c",
-    "55327338bb2792b0d579b308"
+    "55327338bb2792b0d579b308",
+    "9ef53114c5971a52a0203b95",
+    "25819acac844febe3bfa4bf3",
+    "ae347e6629d212df2671790f",
+    "deb16798a10ab65e78492a39",
+    "2c46ed5832b578612a6207ad",
+    "ddf54d551a4bc1e3da4b7a92",
+    "872a201d677ba4715ab9586d",
+    "a46e8063bea52eb2b55e6348",
+    "d16a6a66f3aa850f8f4cfbcd"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -775,8 +793,8 @@
     "8690ae76ddffeda325c6d3a5",
     "4ef772f302153bd37e134391"
   ],
-  "last_digest_hash": "c17d4136665e6371c5d5e2d28513fb6644d6f0ea93bed8902616269017392a36",
-  "last_run_iso": "2026-04-01T07:50:46.608058+00:00",
+  "last_digest_hash": "e33f3183dbc9bb441fb4241bdcb34a1ac89184bd2df784bb241084035327c348",
+  "last_run_iso": "2026-04-01T09:20:44.135031+00:00",
   "last_breaking_run_iso": "2026-04-01T03:38:32.619407+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1152,6 +1170,15 @@
     "Residents inspect drone damage near Erbil airport": "ساکنان خسارت پهپادها را در نزدیکی فرودگاه اربیل بررسی می کنند",
     "Iraq defeat Bolivia 2-1 to qualify for FIFA World Cup 2026": "عراق بولیوی را ۲-۱ شکست داد تا به جام جهانی فیفا ۲۰۲۶ راه یابد",
     "Iran war: What is happening on day 33 of US-Israel attacks?": "جنگ ایران: در روز سی و سوم حملات آمریکا و اسرائیل چه اتفاقی در حال رخ دادن است؟",
-    "China is trying to play peacemaker in the Iran war - will it work?": "چین در جنگ ایران نقش صلح ساز را بازی می کند - آیا موفق خواهد شد؟"
+    "China is trying to play peacemaker in the Iran war - will it work?": "چین در جنگ ایران نقش صلح ساز را بازی می کند - آیا موفق خواهد شد؟",
+    "Why Israel is unlikely to join a US ground operation in Iran": "چرا اسرائیل بعید است به عملیات زمینی آمریکا در ایران بپیوندد",
+    "UAE said pushing for military op to reopen Strait of Hormuz, is willing to take part": "امارات اعلام کرد که برای عملیات نظامی جهت بازگشایی تنگه هرمز تلاش می کند و مایل به مشارکت است",
+    "War on Iran: Three key takeaways from Araghchi’s interview with Al Jazeera": "جنگ علیه ایران: سه نکته کلیدی از مصاحبه عراقچی با الجزیره",
+    "Iran attacks cause fire in Kuwait, Bahrain; kill man in UAE": "حملات ایران باعث آتش سوزی در کویت، بحرین؛ مردی را در امارات کشت",
+    "US messages via Witkoff and intermediaries are not negotiations: Araghchi": "پیام های آمریکا از طریق ویتکاف و واسطه ها مذاکره نیستند: آراغچی",
+    "Israeli police inspect damage on the road after missile impact": "پلیس اسرائیل خسارت جاده را پس از برخورد موشک بررسی می کند",
+    "English mayor resigns after boosting claim Jewish ambulance arson was ‘false flag’": "شهردار انگلیس پس از تقویت ادعای اینکه آتش سوزی آمبولانس یهودی «پرچم جعلی» بوده، استعفا داد",
+    "Four Palestinians said wounded by settler assailants in West Bank village of Tayasir": "چهار فلسطینی گفته اند که توسط مهاجمان شهرک نشین در روستای تایاسیر کرانه باختری زخمی شده اند",
+    "Say bye-bye to bitter herbs: Israeli researchers’ work aims to pass over tart tastes": "خداحافظی با گیاهان تلخ: پژوهش پژوهشگران اسرائیلی هدفش نادیده گرفتن طعم های ترش است"
   }
 }

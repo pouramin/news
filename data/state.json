@@ -402,7 +402,13 @@
     "44a51e35e8723cbe8d2cc055",
     "2d02a52813584229a217f268",
     "67b716f3d90a7360c02cad88",
-    "1c0bbd15976df65d86abd258"
+    "1c0bbd15976df65d86abd258",
+    "58e3836dd7214da91aff85e6",
+    "d484238657c7b85891480e5e",
+    "c201da8dd5090945dff34927",
+    "94a8e0da8131d0d11d94e927",
+    "07c24d334bc3f87df8c632d6",
+    "9edab1136c3bf77d4597f94b"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -807,7 +813,13 @@
     "05f8122875c6deaa3bda5101",
     "27c19e289afec591f8a70ae6",
     "33a417f427782982ce94e389",
-    "dac50a37630f489d57aa3c8e"
+    "dac50a37630f489d57aa3c8e",
+    "a225e56821561d2a7d22ec41",
+    "8330f6dd7c6bec05672fbf55",
+    "f716336a90e6d6a8302d3ac9",
+    "33ae1b7834f58eb026141567",
+    "8bc3c82497f3f8b68610cc43",
+    "280a0273a66e9388a12ecba1"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -833,8 +845,8 @@
     "8690ae76ddffeda325c6d3a5",
     "4ef772f302153bd37e134391"
   ],
-  "last_digest_hash": "6b80187d5b5208f8d3884ed65e164e1d78cc0132690d3facbc7f130498e9202a",
-  "last_run_iso": "2026-04-01T14:01:05.060228+00:00",
+  "last_digest_hash": "79da2f07807b40e5a764ddc321c14636743a15b18fbe3529c1eec66fe062e118",
+  "last_run_iso": "2026-04-01T15:23:14.051669+00:00",
   "last_breaking_run_iso": "2026-04-01T03:38:32.619407+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1239,6 +1251,12 @@
     "For Passover, an interactive map brings the haggadah down to earth": "برای عید فصح، یک نقشه تعاملی هگادا را به واقعیت می آورد",
     "How the Exodus story subverts pharaonic texts to mock ancient Egypt": "چگونه داستان خروج متون فرعونی را به تمسخر مصر باستان می کشد",
     "West Bank strikes over Palestinian-only death penalty": "اعتصابات کرانه باختری بر سر مجازات اعدام مختص فلسطینیان",
-    "Iraq celebrates qualification for FIFA World Cup 2026": "عراق صعود به جام جهانی فوتبال ۲۰۲۶ را جشن می گیرد"
+    "Iraq celebrates qualification for FIFA World Cup 2026": "عراق صعود به جام جهانی فوتبال ۲۰۲۶ را جشن می گیرد",
+    "Israel strikes drug factory in Iran, says it made fentanyl for chemical weapons R&D": "اسرائیل به کارخانه مواد مخدر در ایران حمله می کند و می گوید فنتانیل برای تحقیق و توسعه سلاح های شیمیایی تولید می کند",
+    "Top Hezbollah commander killed in Beirut as IDF presses deeper into Lebanon": "فرمانده ارشد حزب الله در بیروت کشته شد در حالی که ارتش اسرائیل به عمق لبنان پیشروی می کند",
+    "Slain soldier considered missing since 1948 found in mass grave in north — IDF": "سرباز کشته شده ای که از سال ۱۹۴۸ مفقود محسوب می شد، در گور دسته جمعی شمال پیدا شد — ارتش اسرائیل",
+    "Can Russia help fill the global energy gap?": "آیا روسیه می تواند به پر کردن شکاف انرژی جهانی کمک کند؟",
+    "French President Macron visits Japan to discuss the energy crisis": "رئیس جمهور فرانسه، مکرون، برای گفتگو درباره بحران انرژی به ژاپن سفر می کند",
+    "UK police arrest three more suspects in arson attack on Jewish community ambulances": "پلیس بریتانیا سه مظنون دیگر را در حمله آتش سوزی به آمبولانس های جامعه یهودی دستگیر کرد"
   }
 }

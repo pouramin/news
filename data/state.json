@@ -371,7 +371,9 @@
     "0eaf09c4545921551442df65",
     "5e53863cd6e40c796dfe7538",
     "5e970a98a9a07e26ec05153a",
-    "be3cf231640cad5e47c9aac8"
+    "be3cf231640cad5e47c9aac8",
+    "0f47ba67d7e216a2340ee45d",
+    "fa50853af25636eb7694187b"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -745,7 +747,9 @@
     "268466451f7c3e883dd866ff",
     "2c87b75c538226e7e9610120",
     "a224099d2c23743174ee72f2",
-    "a44874a511678b9d37196958"
+    "a44874a511678b9d37196958",
+    "2ba1266bce23faf52b71475c",
+    "55327338bb2792b0d579b308"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -771,8 +775,8 @@
     "8690ae76ddffeda325c6d3a5",
     "4ef772f302153bd37e134391"
   ],
-  "last_digest_hash": "96cdb133986357b63b0f69691fb7d17da2a02a15864813bcf8e08a39dfce2061",
-  "last_run_iso": "2026-04-01T06:02:45.433784+00:00",
+  "last_digest_hash": "c17d4136665e6371c5d5e2d28513fb6644d6f0ea93bed8902616269017392a36",
+  "last_run_iso": "2026-04-01T07:50:46.608058+00:00",
   "last_breaking_run_iso": "2026-04-01T03:38:32.619407+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1146,6 +1150,8 @@
     "After meeting in the ICU, these bereaved mothers of IDF troops reunite via new initiative": "پس از دیدار در ICU، این مادران داغدار نیروهای ارتش اسرائیل از طریق ابتکار جدید دوباره گرد هم می آیند",
     "Kentucky governor: Gaza ‘genocide’ claims shouldn’t be a litmus test for Democrats": "فرماندار کنتاکی: ادعاهای مربوط به «نسل کشی» غزه نباید آزمونی برای دموکرات ها باشد",
     "Residents inspect drone damage near Erbil airport": "ساکنان خسارت پهپادها را در نزدیکی فرودگاه اربیل بررسی می کنند",
-    "Iraq defeat Bolivia 2-1 to qualify for FIFA World Cup 2026": "عراق بولیوی را ۲-۱ شکست داد تا به جام جهانی فیفا ۲۰۲۶ راه یابد"
+    "Iraq defeat Bolivia 2-1 to qualify for FIFA World Cup 2026": "عراق بولیوی را ۲-۱ شکست داد تا به جام جهانی فیفا ۲۰۲۶ راه یابد",
+    "Iran war: What is happening on day 33 of US-Israel attacks?": "جنگ ایران: در روز سی و سوم حملات آمریکا و اسرائیل چه اتفاقی در حال رخ دادن است؟",
+    "China is trying to play peacemaker in the Iran war - will it work?": "چین در جنگ ایران نقش صلح ساز را بازی می کند - آیا موفق خواهد شد؟"
   }
 }

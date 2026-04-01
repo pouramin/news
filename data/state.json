@@ -389,7 +389,20 @@
     "aa54072f5664a1b1a652c013",
     "5eba8a6d1eb1397162953841",
     "4e1e7d1ac50b098d7b56d359",
-    "d030903f48afa2191a71c294"
+    "d030903f48afa2191a71c294",
+    "4466e2065defb90a39c52027",
+    "c07ddf98505bdbb45ae1cbdf",
+    "5922c65a0ecbe4f040a7edf3",
+    "bc195c31848f156a56f06baf",
+    "df08e582e0b3af1853afa70c",
+    "8caa0b7a0b9feef6411c62c9",
+    "ed2a4772bdb8bd064bb3b8ee",
+    "677d60e035b58427d010117c",
+    "1a054f495acf25b9b2a731d4",
+    "44a51e35e8723cbe8d2cc055",
+    "2d02a52813584229a217f268",
+    "67b716f3d90a7360c02cad88",
+    "1c0bbd15976df65d86abd258"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -781,7 +794,20 @@
     "3808b23df295ee648adcd8d6",
     "8f50038601bc16d13f1308b8",
     "dcce4160efb0e9220c10170e",
-    "2f51d54e29e532966751c931"
+    "2f51d54e29e532966751c931",
+    "acfd36277655e58079770873",
+    "d0ff609e72c0b3c43c4e5eb9",
+    "edd00fdd75fffcf24e9de9a7",
+    "918e86c3fe5f678470c7d1af",
+    "9512cd5b52defdcdb32527e9",
+    "34be83fa876a15d1a6436d5d",
+    "eea7f774e4403583be3d4177",
+    "af9cbcdd788a2d8c56ad9ec7",
+    "47f08f6e61be7200398fe3e7",
+    "05f8122875c6deaa3bda5101",
+    "27c19e289afec591f8a70ae6",
+    "33a417f427782982ce94e389",
+    "dac50a37630f489d57aa3c8e"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -807,8 +833,8 @@
     "8690ae76ddffeda325c6d3a5",
     "4ef772f302153bd37e134391"
   ],
-  "last_digest_hash": "682344cf4388a191750e4fd63fef8feeecd9a4ab73f7478ad270114149168366",
-  "last_run_iso": "2026-04-01T11:11:35.135486+00:00",
+  "last_digest_hash": "6b80187d5b5208f8d3884ed65e164e1d78cc0132690d3facbc7f130498e9202a",
+  "last_run_iso": "2026-04-01T14:01:05.060228+00:00",
   "last_breaking_run_iso": "2026-04-01T03:38:32.619407+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1200,6 +1226,19 @@
     "Iran war economic shocks will last 'months', say Australia's PM": "جنگ ایران شوک های اقتصادی «ماه ها» طول خواهد کشید، نخست وزیر استرالیا می گوید",
     "‘US attacking Iran’s nuclear facilities is a sign of endgame’": "«حمله آمریکا به تأسیسات هسته ای ایران نشانه پایان بازی است»",
     "Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control": "اسرائیل حملات به لبنان را تشدید کرده و مناطقی را که تحت کنترل حزب الله نیستند هدف قرار می دهد",
-    "Daily Briefing April 1 – Is the war heading to a Trump no-deal ‘victory’?": "گزارش روزانه ۱ آوریل – آیا جنگ به سوی «پیروزی» بدون توافق ترامپ پیش می رود؟"
+    "Daily Briefing April 1 – Is the war heading to a Trump no-deal ‘victory’?": "گزارش روزانه ۱ آوریل – آیا جنگ به سوی «پیروزی» بدون توافق ترامپ پیش می رود؟",
+    "Russia imposing ban on all gasoline exports due to Iran war": "روسیه به دلیل جنگ ایران، ممنوعیت صادرات تمام بنزین را اعمال کرد",
+    "‘Permanent scar’: Iran minister on US-Israeli attacks on monuments": "«زخم دائمی»: وزیر ایران درباره حملات آمریکا و اسرائیل به بناهای تاریخی",
+    "Lebanon faces growing displacement crisis": "لبنان با بحران فزاینده آوارگی مواجه است",
+    "How are NATO allies pushing back against Trump’s Iran war demands?": "متحدان ناتو چگونه در برابر خواسته های ترامپ در برابر جنگ ایران مقاومت می کنند؟",
+    "British gunners are first to get ‘ace’ title for downing UAVs": "توپچی های بریتانیایی اولین کسانی هستند که عنوان «ایس» را به خاطر سرنگونی پهپادها دریافت می کنند",
+    "Trump says seriously weighing bolting NATO over allies’ failure to join Iran war": "ترامپ می گوید جدایی ناتو را جدی در برابر شکست متحدان در پیوستن به جنگ ایران می سنجد",
+    "The war against Iran is anything but over, and Passover can be no complacent celebration of freedom": "جنگ علیه ایران اصلا به پایان نرسیده است و عید پسح نمی تواند جشن رضایت بخش آزادی باشد",
+    "UK PM says war on Iran will impact Britain’s future": "نخست وزیر بریتانیا می گوید جنگ با ایران آینده بریتانیا را تحت تأثیر قرار خواهد داد",
+    "Anti-government protesters boost rallies against war as support for fighting slips": "معترضان ضد دولتی با کاهش حمایت از جنگ، تجمعات علیه جنگ را افزایش دادند",
+    "For Passover, an interactive map brings the haggadah down to earth": "برای عید فصح، یک نقشه تعاملی هگادا را به واقعیت می آورد",
+    "How the Exodus story subverts pharaonic texts to mock ancient Egypt": "چگونه داستان خروج متون فرعونی را به تمسخر مصر باستان می کشد",
+    "West Bank strikes over Palestinian-only death penalty": "اعتصابات کرانه باختری بر سر مجازات اعدام مختص فلسطینیان",
+    "Iraq celebrates qualification for FIFA World Cup 2026": "عراق صعود به جام جهانی فوتبال ۲۰۲۶ را جشن می گیرد"
   }
 }

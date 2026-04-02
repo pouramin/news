@@ -457,7 +457,12 @@
     "ea0f6d3a3bdb153952b40fb8",
     "1545bd102f0ad441f25151ba",
     "224ae5a7c0a1f7908fdead81",
-    "ee81a42e6e5f60cec9282739"
+    "ee81a42e6e5f60cec9282739",
+    "4391ef103c2fdb1bfacf3efd",
+    "89f2c2bea26d1cecc960210d",
+    "ce6ce485a91bb8a566b1c359",
+    "1b05fbbc65fc83ee208329fd",
+    "0de58a7f8e3cc90d7048bde8"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -917,7 +922,12 @@
     "8b8ebadee39dff13a8d9b294",
     "92dda49c294f0b70d96588fe",
     "c2e67ba1311a02558ac2743f",
-    "592ba9cd03a5ff8b7dccf555"
+    "592ba9cd03a5ff8b7dccf555",
+    "d16df20d0171086a2fd98772",
+    "c44b6aa485b0a6a94a30a6ce",
+    "85a08c821b35d2ecf7c8a742",
+    "63c1dbcd2b339f9b904f2c8b",
+    "f339c0180f025df40cab9eab"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -941,11 +951,12 @@
     "2424cebd1c482dced8276fa4",
     "0a27ad514df292d2c9c2341b",
     "8690ae76ddffeda325c6d3a5",
-    "4ef772f302153bd37e134391"
+    "4ef772f302153bd37e134391",
+    "4391ef103c2fdb1bfacf3efd"
   ],
-  "last_digest_hash": "f3af02047c1fe7bab35fbee986f6ed7d6a599e1dc8583a4b34c671e85010c7c4",
-  "last_run_iso": "2026-04-02T07:39:32.295010+00:00",
-  "last_breaking_run_iso": "2026-04-01T03:38:32.619407+00:00",
+  "last_digest_hash": "639a627a9c3cabb1f2c46a378834d37a59075b22b107283c941f6d445758b7bd",
+  "last_run_iso": "2026-04-02T09:12:30.547849+00:00",
+  "last_breaking_run_iso": "2026-04-02T09:12:30.547849+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -1404,6 +1415,11 @@
     "Trump declares US ‘nearing completion’ of ‘core strategic objectives’ in Iran war": "ترامپ اعلام کرد که آمریکا «در آستانه تکمیل» «اهداف استراتژیک اصلی» در جنگ ایران است",
     "Influencer performs Nazi salute, mocks Holocaust victims at Ohio University event": "اینفلوئنسر ادای احترام نازی انجام می دهد و قربانیان هولوکاست را در رویداد دانشگاه اوهایو مسخره می کند",
     "‘It all depends on the crop’: Gulf crisis hits South Asia farmers": "«همه چیز به محصول بستگی دارد»: بحران خلیج فارس کشاورزان جنوب آسیا را تحت تأثیر قرار داد",
-    "Israel’s death penalty law is not about executing Palestinians": "قانون مجازات اعدام اسرائیل درباره اعدام فلسطینی ها نیست"
+    "Israel’s death penalty law is not about executing Palestinians": "قانون مجازات اعدام اسرائیل درباره اعدام فلسطینی ها نیست",
+    "Oil price surges, Asian stocks fall as Trump vows to continue Iran attacks": "افزایش قیمت نفت، سقوط سهام آسیایی در حالی که ترامپ قول داده حملات به ایران را ادامه دهد",
+    "Iran’s ex-foreign minister Kharazi ‘gravely wounded’ in attack on his home": "خرازی، وزیر امور خارجه پیشین ایران، در حمله به خانه اش «به شدت مجروح» شد",
+    "Iran war: What is happening on day 34 of US-Israel attacks?": "جنگ ایران: در روز سی و چهارم حملات آمریکا و اسرائیل چه اتفاقی در حال رخ دادن است؟",
+    "Israelis seeking to fly abroad for Passover make a reverse Exodus path through Egypt": "اسرائیلی هایی که قصد سفر به خارج برای عید فصح را دارند، مسیر خروج معکوس را از طریق مصر طی می کنند",
+    "Mourners vow resistance as Iran marks Islamic Republic’s 47th anniversary": "عزاداران در حالی که ایران چهل و هفتمین سالگرد جمهوری اسلامی را جشن می گیرد، قول مقاومت دادند"
   }
 }

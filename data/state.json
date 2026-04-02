@@ -462,7 +462,17 @@
     "89f2c2bea26d1cecc960210d",
     "ce6ce485a91bb8a566b1c359",
     "1b05fbbc65fc83ee208329fd",
-    "0de58a7f8e3cc90d7048bde8"
+    "0de58a7f8e3cc90d7048bde8",
+    "27b5391077c7d265deb82d0e",
+    "e0de8764a408a6871201b724",
+    "9232605736dc330ca042fa8d",
+    "0bb14fe46efba05886abc9a4",
+    "bf2d871c3f2f0af6291473b6",
+    "460d4ec874467019b82f98ff",
+    "a9162cdfa6eff01984805352",
+    "c3b0d898fbf564bdfd6272d6",
+    "d6d311075cee9584ee89664b",
+    "1cbbe85cd6bb78229b1e000b"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -927,7 +937,17 @@
     "c44b6aa485b0a6a94a30a6ce",
     "85a08c821b35d2ecf7c8a742",
     "63c1dbcd2b339f9b904f2c8b",
-    "f339c0180f025df40cab9eab"
+    "f339c0180f025df40cab9eab",
+    "f0b33f43ccb413b968f12598",
+    "4c29e06c467159ac0a6d6b2f",
+    "90cdbded09958ab1674e7e49",
+    "077cb1c0b8e7cc9f70746553",
+    "6208e98f8547bc5a067e964d",
+    "9755bbcffd771edcaa0bbd6d",
+    "35ca71409f16ee4b7ab7ed53",
+    "c2e0ea6816353f1ee8309d2b",
+    "40f20cf941c139716165c31b",
+    "2ed326a436cf3ff1b1d3eeb1"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -954,8 +974,8 @@
     "4ef772f302153bd37e134391",
     "4391ef103c2fdb1bfacf3efd"
   ],
-  "last_digest_hash": "639a627a9c3cabb1f2c46a378834d37a59075b22b107283c941f6d445758b7bd",
-  "last_run_iso": "2026-04-02T09:12:30.547849+00:00",
+  "last_digest_hash": "ca0fa1fe3b2171cd38bda163ce07be4448764d11dc540df97fadf2d71effd0a0",
+  "last_run_iso": "2026-04-02T11:06:40.296194+00:00",
   "last_breaking_run_iso": "2026-04-02T09:12:30.547849+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1420,6 +1440,16 @@
     "Iran’s ex-foreign minister Kharazi ‘gravely wounded’ in attack on his home": "خرازی، وزیر امور خارجه پیشین ایران، در حمله به خانه اش «به شدت مجروح» شد",
     "Iran war: What is happening on day 34 of US-Israel attacks?": "جنگ ایران: در روز سی و چهارم حملات آمریکا و اسرائیل چه اتفاقی در حال رخ دادن است؟",
     "Israelis seeking to fly abroad for Passover make a reverse Exodus path through Egypt": "اسرائیلی هایی که قصد سفر به خارج برای عید فصح را دارند، مسیر خروج معکوس را از طریق مصر طی می کنند",
-    "Mourners vow resistance as Iran marks Islamic Republic’s 47th anniversary": "عزاداران در حالی که ایران چهل و هفتمین سالگرد جمهوری اسلامی را جشن می گیرد، قول مقاومت دادند"
+    "Mourners vow resistance as Iran marks Islamic Republic’s 47th anniversary": "عزاداران در حالی که ایران چهل و هفتمین سالگرد جمهوری اسلامی را جشن می گیرد، قول مقاومت دادند",
+    "UK to gather more than 30 countries to discuss methods of reopening Strait of Hormuz": "بریتانیا بیش از ۳۰ کشور را گرد هم آورد تا درباره روش های بازگشایی تنگه هرمز بحث کنند",
+    "Israelis spend Passover under shadow of Iran war, as businesses cling to survival": "اسرائیلی ها عید پسح را زیر سایه جنگ ایران می گذرانند، در حالی که کسب وکارها به بقای خود چنگ می زنند",
+    "US op to seize Iran’s uranium would take weeks, require building a runway — report": "عملیات آمریکا برای تصرف اورانیوم ایران هفته ها طول خواهد کشید و نیازمند ساخت باند پرواز است — گزارش",
+    "Nearly 1,200 children killed or injured in Yemen despite truce: NGO": "نزدیک به ۱۲۰۰ کودک در یمن با وجود آتش بس کشته یا زخمی شدند: سازمان غیردولتی",
+    "US-Israeli attacks and its impact on Iran’s economy": "حملات آمریکا و اسرائیل و تأثیر آن بر اقتصاد ایران",
+    "Trump’s address to the nation: We are on the cusp of ending Iran’s sinister threat to America, the world": "سخنرانی ترامپ به ملت: ما در آستانه پایان دادن به تهدید شوم ایران علیه آمریکا و جهان هستیم",
+    "Yemen’s Houthis coordinate with Iran, but retain independence, despite war": "حوثی های یمن با ایران هماهنگ می شوند، اما با وجود جنگ، استقلال خود را حفظ می کنند",
+    "Palantir UK boss says it's up to militaries to decide how AI targeting is used in war": "رئیس Palantir UK می گوید تصمیم گیری درباره نحوه استفاده از هدف گیری هوش مصنوعی در جنگ بر عهده ارتش هاست",
+    "Eight countries condemn Israel’s one-sided death penalty for Palestinians": "هشت کشور مجازات اعدام یک طرفه اسرائیل برای فلسطینیان را محکوم می کنند",
+    "Bondi terrorist loses bid to prevent media from reporting on his family": "تروریست باندی در تلاش برای جلوگیری از گزارش رسانه ها درباره خانواده اش شکست خورد"
   }
 }

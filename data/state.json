@@ -515,7 +515,12 @@
     "7170117e090dfa9289cdcb0a",
     "0f67845ed9e96630e96550c0",
     "25a9be33188d3b243ebedaa4",
-    "8a5c341ac82e0b614b679a6f"
+    "8a5c341ac82e0b614b679a6f",
+    "a4a56c10497a82e66e8b8b4c",
+    "1cb0c12bd9873eb0b946c91e",
+    "0d843feb0df05f176ad8ae55",
+    "705265ee15406d4b0dc9e82f",
+    "2a1097a5800dfb002cffb838"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1033,7 +1038,12 @@
     "a1b96bcce9e2e76c308889b6",
     "c57f4e81f9497a47a22f78be",
     "593b41b877d36288fb7e2df2",
-    "1dfd57d949fe8bcb2ec0c667"
+    "1dfd57d949fe8bcb2ec0c667",
+    "6be4ed9198372ad42dab1500",
+    "d5650e3cb76f4b889b04d931",
+    "c376feb2f6963f7c62d31997",
+    "f54ce6cd83f8166a77908772",
+    "bdcee275c9b3c8da29399358"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1062,8 +1072,8 @@
     "e01d2a55ad22b9936755acce",
     "dd016e40491f96e993a6b7ba"
   ],
-  "last_digest_hash": "a708706e36922094c4f5d157118d60a5d08726637e8ce4a8ab3de3623d9bcf02",
-  "last_run_iso": "2026-04-02T20:50:19.785911+00:00",
+  "last_digest_hash": "ba034181ae80c47bdfc739aaa3168910234fe199151e72454a8dc132910f6ea1",
+  "last_run_iso": "2026-04-02T21:50:50.998805+00:00",
   "last_breaking_run_iso": "2026-04-02T15:12:05.942887+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1581,6 +1591,11 @@
     "State Department claims Iran ‘continually’ pursuing nuclear weapon": "وزارت خارجه آمریکا ادعا می کند ایران «به طور مداوم» در پی دستیابی به سلاح هسته ای است",
     "What might end Israel’s war on Iran?": "چه چیزی ممکن است جنگ اسرائیل علیه ایران را پایان دهد؟",
     "As war drags on, US reiterates Trump open to diplomacy with Iran": "با ادامه جنگ، آمریکا بار دیگر تأکید می کند که ترامپ برای دیپلماسی با ایران آماده است",
-    "Iranians celebrate New Year in parks despite ongoing attacks": "ایرانیان سال نو را در پارک ها جشن می گیرند، با وجود حملات ادامه دار"
+    "Iranians celebrate New Year in parks despite ongoing attacks": "ایرانیان سال نو را در پارک ها جشن می گیرند، با وجود حملات ادامه دار",
+    "Man files war crimes complaint in France over deadly 2024 IDF strike in Beirut": "مردی در فرانسه به خاطر حمله مرگبار ارتش اسرائیل در بیروت در سال ۲۰۲۴ شکایت جنایات جنگی ثبت کرد",
+    "Oil shock triggers global price spikes as Iran war drags on": "شوک نفتی باعث جهش های جهانی قیمت ها شد در حالی که جنگ ایران ادامه دارد",
+    "Iran says army forces are ready to repel US-Israeli attacks": "ایران می گوید نیروهای نظامی آماده دفع حملات آمریکا و اسرائیل هستند",
+    "9-year-old boy recounts airstrike in Lebanon that killed whole family": "پسری ۹ ساله از حمله هوایی در لبنان که کل خانواده را کشت بازگو می کند",
+    "'I haven't slept for days': Iranians describe mounting desperation after a month of war": "«روزهاست نخوابیده ام»: ایرانی ها از ناامیدی فزاینده پس از یک ماه جنگ سخن می گویند"
   }
 }

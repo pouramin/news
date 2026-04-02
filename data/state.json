@@ -452,7 +452,12 @@
     "d9ff3aca7766ae87cc3ba146",
     "002a6d9a37cfacca6e79430c",
     "966a5d8f7c163772f6553d8f",
-    "703c2983aa07898d7c791f4b"
+    "703c2983aa07898d7c791f4b",
+    "29fc66c3ced2c11a923d1376",
+    "ea0f6d3a3bdb153952b40fb8",
+    "1545bd102f0ad441f25151ba",
+    "224ae5a7c0a1f7908fdead81",
+    "ee81a42e6e5f60cec9282739"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -907,7 +912,12 @@
     "147ee74908b7de84ae6fb010",
     "fa4df7477714ee797164ed55",
     "f9c171302ef1e14393e9f421",
-    "67985c742775a06844efb375"
+    "67985c742775a06844efb375",
+    "b300e6cc88c7e82e3fd3f1a6",
+    "8b8ebadee39dff13a8d9b294",
+    "92dda49c294f0b70d96588fe",
+    "c2e67ba1311a02558ac2743f",
+    "592ba9cd03a5ff8b7dccf555"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -933,8 +943,8 @@
     "8690ae76ddffeda325c6d3a5",
     "4ef772f302153bd37e134391"
   ],
-  "last_digest_hash": "0203e8502da3fd4830a77e4a2d8de86b50e6147af6c0c37a8e3aecec34659983",
-  "last_run_iso": "2026-04-02T05:47:17.596804+00:00",
+  "last_digest_hash": "f3af02047c1fe7bab35fbee986f6ed7d6a599e1dc8583a4b34c671e85010c7c4",
+  "last_run_iso": "2026-04-02T07:39:32.295010+00:00",
   "last_breaking_run_iso": "2026-04-01T03:38:32.619407+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1389,6 +1399,11 @@
     "Trump leaves key questions unanswered as he seeks to calm nerves over Iran war": "ترامپ سوالات کلیدی را بی پاسخ گذاشت و در تلاش برای آرام کردن اعصاب درباره جنگ با ایران بود",
     "Trump threatens to bring Iran ‘back to the Stone Ages’": "ترامپ تهدید می کند ایران را «به عصر سنگ» بازگرداند",
     "Democrats to weigh resolution against AIPAC, fueling concerns about ‘undercurrent of antisemitism’": "دموکرات ها برای سنجش قطعنامه ای علیه آیپک که نگرانی ها درباره «جریان زیرپوستی یهودستیزی» را شعله ور می کند،",
-    "Trump’s national address on Iran ’embarrassing, incoherent’": "سخنرانی ملی ترامپ درباره ایران «شرم آور و نامنسجم»"
+    "Trump’s national address on Iran ’embarrassing, incoherent’": "سخنرانی ملی ترامپ درباره ایران «شرم آور و نامنسجم»",
+    "Argentina declares IRGC a terrorist organization amid probes into embassy, AMIA bombings": "آرژانتین سپاه پاسداران را در پی تحقیقات درباره بمب گذاری های سفارت و آمیا به عنوان یک سازمان تروریستی اعلام کرد",
+    "Trump declares US ‘nearing completion’ of ‘core strategic objectives’ in Iran war": "ترامپ اعلام کرد که آمریکا «در آستانه تکمیل» «اهداف استراتژیک اصلی» در جنگ ایران است",
+    "Influencer performs Nazi salute, mocks Holocaust victims at Ohio University event": "اینفلوئنسر ادای احترام نازی انجام می دهد و قربانیان هولوکاست را در رویداد دانشگاه اوهایو مسخره می کند",
+    "‘It all depends on the crop’: Gulf crisis hits South Asia farmers": "«همه چیز به محصول بستگی دارد»: بحران خلیج فارس کشاورزان جنوب آسیا را تحت تأثیر قرار داد",
+    "Israel’s death penalty law is not about executing Palestinians": "قانون مجازات اعدام اسرائیل درباره اعدام فلسطینی ها نیست"
   }
 }

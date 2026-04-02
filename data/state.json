@@ -500,7 +500,16 @@
     "1b53b4b52575bf96b1f1681d",
     "5108c16c1af2c917e9f18b63",
     "6ce80c732589275dde2336fc",
-    "30042ef58eabf603df891f2a"
+    "30042ef58eabf603df891f2a",
+    "3a7296c7c4d90759cad2e774",
+    "d3423eb09cbb5766d5ff1763",
+    "c056c008881d16c969c24856",
+    "54dd32c8d551a7d4f3286c73",
+    "6fc8751988721446a8258bb4",
+    "457778aa5033d30449bfe2ce",
+    "5d320e371f63fc6eada40afc",
+    "28313b955b36062e6b2f55f9",
+    "461cd8e465e0457c44b4b920"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1003,7 +1012,16 @@
     "d931c1cdb15d0c13ca8866e0",
     "3fe58c6d47cf2b7a2dfacec2",
     "fca0710bd1829c0480398029",
-    "495621415fab9f9eff873488"
+    "495621415fab9f9eff873488",
+    "48e49afda0f765c261c50e46",
+    "fd35f6f385f7378ad6bfb6e3",
+    "3e0cca94b0472b6e3aa4fe2a",
+    "262d95fb7eb97befd25c74a7",
+    "205fe0a26e69ae6dd3a2695a",
+    "9c2c5e3c3c4af686cb791115",
+    "cb72f39455baf58e334a1c7b",
+    "6a45bc58f6f0113ee49657c9",
+    "b605b6f81a042805dbb9a579"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1032,8 +1050,8 @@
     "e01d2a55ad22b9936755acce",
     "dd016e40491f96e993a6b7ba"
   ],
-  "last_digest_hash": "020876f67d55c9a9b557ab7c986b1f5bcd82d9111659bd6b980b2d3a32087598",
-  "last_run_iso": "2026-04-02T17:07:26.499554+00:00",
+  "last_digest_hash": "3c7fc61b84f54bcb3b808861b3123ca8114b5ac1b696fc78d9564ea8d11aa38d",
+  "last_run_iso": "2026-04-02T19:12:25.503421+00:00",
   "last_breaking_run_iso": "2026-04-02T15:12:05.942887+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1536,6 +1554,15 @@
     "Latin Patriarch holds limited prayers at Holy Sepulchre after Palm Sunday uproar": "پاتریارک لاتین پس از هیاهوی یکشنبه نخل نمازهای محدودی در قبر مقدس برگزار می کند",
     "US-Israeli strike hits newly opened B1 bridge near Tehran, killing two": "حمله آمریکا و اسرائیل به پل تازه افتتاح شده B1 نزدیک تهران که دو نفر را کشت",
     "Video: Protests in Gaza against Israel’s Palestinian death penalty law": "ویدئو: اعتراضات در غزه علیه قانون مجازات اعدام فلسطینیان در اسرائیل",
-    "‘Israel has been avoiding any diplomacy’ and pursuing escalation": "«اسرائیل از هرگونه دیپلماسی اجتناب می کند» و به دنبال تشدید تشدید است"
+    "‘Israel has been avoiding any diplomacy’ and pursuing escalation": "«اسرائیل از هرگونه دیپلماسی اجتناب می کند» و به دنبال تشدید تشدید است",
+    "UK-led talks on stopping Iran holding world ‘hostage’ in Hormuz draw some 40 nations": "مذاکرات به رهبری بریتانیا برای جلوگیری از گروگان گیری جهانی توسط ایران در هرمز حدود ۴۰ کشور را جذب می کند",
+    "GCC chief urges UN to halt Iranian attacks, protect Gulf waterways": "رئیس شورای همکاری خلیج فارس از سازمان ملل خواست تا حملات ایران را متوقف کند و از آبراه های خلیج فارس محافظت نماید",
+    "Macron scoffs at Trump’s mockery of his marriage, says it ‘doesn’t merit a response’": "مکرون به تمسخر ازدواجش توسط ترامپ می خندد و می گوید «این موضوع شایسته پاسخ نیست»",
+    "Children’s hospital in Tehran keeps hopes and smiles alive during war": "بیمارستان کودکان تهران امیدها و لبخندها را در دوران جنگ زنده نگه می دارد",
+    "Videos capture projectile falling in central Israel after Iran strike": "ویدئوها سقوط گلوله در مرکز اسرائیل پس از حمله ایران را ثبت می کنند",
+    "Argentina expels Iranian diplomat amid rift over blacklisting IRGC": "آرژانتین دیپلمات ایرانی را در پی اختلاف بر سر قرار دادن سپاه پاسداران در فهرست سیاه اخراج کرد",
+    "Pastor’s White House prayer claims Iranians seek death of all Jews": "دعای کاخ سفید کشیش ادعا می کند ایرانی ها خواهان مرگ همه یهودیان هستند",
+    "UN experts urge investigation into Israel’s killing of Lebanese journalists": "کارشناسان سازمان ملل خواستار تحقیق درباره قتل خبرنگاران لبنانی توسط اسرائیل شدند",
+    "Trump fires Pam Bondi, appoints own ex-lawyer to temporarily head justice department": "ترامپ پام باندی را اخراج کرد و وکیل سابق خود را به طور موقت ریاست وزارت دادگستری را منصوب نمود"
   }
 }

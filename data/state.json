@@ -492,7 +492,15 @@
     "184238d8ada0e1b40f511845",
     "35c4456b26a959aab3be717c",
     "d7aa4074503e95f330057443",
-    "ee6035b037483d1867c3ec99"
+    "ee6035b037483d1867c3ec99",
+    "92da3c10eb8fb8d0fc482c03",
+    "81d131a413c89aef2cabd70e",
+    "dd4587e0e75e29e8d789d5b7",
+    "78292bef28b6ed6c768554fa",
+    "1b53b4b52575bf96b1f1681d",
+    "5108c16c1af2c917e9f18b63",
+    "6ce80c732589275dde2336fc",
+    "30042ef58eabf603df891f2a"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -987,7 +995,15 @@
     "c9d96b53887f9d2b4ea10678",
     "ece56409da36c7cd00ae6a76",
     "2b5ad6efd92065c4155ce15e",
-    "e499b41c81d66af06d2675c6"
+    "e499b41c81d66af06d2675c6",
+    "0310f66ed39322c1e9b98f7b",
+    "137a93c3b1b17c507262e3f6",
+    "29a7b4a8ed6a27d9ada31015",
+    "a85c46d78381e70ac478507f",
+    "d931c1cdb15d0c13ca8866e0",
+    "3fe58c6d47cf2b7a2dfacec2",
+    "fca0710bd1829c0480398029",
+    "495621415fab9f9eff873488"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1016,8 +1032,8 @@
     "e01d2a55ad22b9936755acce",
     "dd016e40491f96e993a6b7ba"
   ],
-  "last_digest_hash": "d7eb03dbba54b576231d3174641575877c32e5f3919a339a05437db22d1f5e9d",
-  "last_run_iso": "2026-04-02T15:12:05.942887+00:00",
+  "last_digest_hash": "020876f67d55c9a9b557ab7c986b1f5bcd82d9111659bd6b980b2d3a32087598",
+  "last_run_iso": "2026-04-02T17:07:26.499554+00:00",
   "last_breaking_run_iso": "2026-04-02T15:12:05.942887+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1512,6 +1528,14 @@
     "'Be serious... don't speak every day': Macron criticises Trump approach to Iran war": "«جدی باش... هر روز صحبت نکنید»: مکرون رویکرد ترامپ به جنگ ایران را نقد می کند",
     "Why Lebanon should join the International Criminal Court": "چرا لبنان باید به دادگاه کیفری بین المللی بپیوندد",
     "A 19th-century drama hit with post-Oct. 7 fallout: Award-winning ‘Yentl’ goes to London": "یک درام موفق قرن نوزدهم با پس از اکتبر. ۷ پیامد: «ینتل» برنده جایزه به لندن می رود",
-    "Iran's focus on survival means same regime still firmly in place": "تمرکز ایران بر بقا یعنی همان رژیم همچنان محکم باقی مانده است"
+    "Iran's focus on survival means same regime still firmly in place": "تمرکز ایران بر بقا یعنی همان رژیم همچنان محکم باقی مانده است",
+    "Iran's two largest steel plants shut down due to strikes, companies say": "دو کارخانه بزرگ فولاد ایران به دلیل اعتصابات تعطیل شدند، شرکت ها اعلام کردند",
+    "Iran releases mocking missile launch video after Trump threats": "ایران پس از تهدیدات ترامپ ویدئوی تمسخرآمیز پرتاب موشک را منتشر کرد",
+    "US reinforcements are coming to the Gulf – but what does victory look like?": "نیروهای کمکی آمریکا به خلیج فارس می آیند – اما پیروزی چگونه به نظر می رسد؟",
+    "Can the US seize Iran’s enriched uranium – and what are the risks?": "آیا آمریکا می تواند اورانیوم غنی شده ایران را مصادره کند – و خطرات آن چیست؟",
+    "Latin Patriarch holds limited prayers at Holy Sepulchre after Palm Sunday uproar": "پاتریارک لاتین پس از هیاهوی یکشنبه نخل نمازهای محدودی در قبر مقدس برگزار می کند",
+    "US-Israeli strike hits newly opened B1 bridge near Tehran, killing two": "حمله آمریکا و اسرائیل به پل تازه افتتاح شده B1 نزدیک تهران که دو نفر را کشت",
+    "Video: Protests in Gaza against Israel’s Palestinian death penalty law": "ویدئو: اعتراضات در غزه علیه قانون مجازات اعدام فلسطینیان در اسرائیل",
+    "‘Israel has been avoiding any diplomacy’ and pursuing escalation": "«اسرائیل از هرگونه دیپلماسی اجتناب می کند» و به دنبال تشدید تشدید است"
   }
 }

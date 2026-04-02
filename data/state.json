@@ -441,7 +441,11 @@
     "9dbf558392e3a6381e9a0767",
     "acc2ba476adc31ce8690eeef",
     "15097287d9ea00307e2bd8ce",
-    "84e4885c375a69f657bd32da"
+    "84e4885c375a69f657bd32da",
+    "86d1f8a1799f610efc2e2d67",
+    "9ac0cb92c5dfc9125e2880f3",
+    "4ce21cf12511613fb228e377",
+    "622335346b76c561214346d2"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -885,7 +889,11 @@
     "adcb2fe0cb89a80bb854144b",
     "585c0238dfd1005f42bba7fd",
     "2b7ef1f887f1df20b0e06680",
-    "fc68ec8b05dcd2c18c70ab62"
+    "fc68ec8b05dcd2c18c70ab62",
+    "309bc72e0822d60e437ae363",
+    "7f39fa074ead83e27fa87d8e",
+    "a6558123082015a6fb2d8df8",
+    "9ce3cb0e816d2766c7562b94"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -911,8 +919,8 @@
     "8690ae76ddffeda325c6d3a5",
     "4ef772f302153bd37e134391"
   ],
-  "last_digest_hash": "ea0576645b3db80335d5ce31577872304a80f8b481738714f0acac5a09ddc481",
-  "last_run_iso": "2026-04-01T23:48:39.333750+00:00",
+  "last_digest_hash": "91f69eced9670ee65c37eca18546e9c38d17179ac9dd1c1a2df8adb25274a530",
+  "last_run_iso": "2026-04-02T03:22:52.055252+00:00",
   "last_breaking_run_iso": "2026-04-01T03:38:32.619407+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1356,6 +1364,10 @@
     "Smoke and embers seen over Iran’s Isfahan after strike": "دود و ذغال هایی که پس از حمله بر فراز اصفهان ایران دیده می شود",
     "US intel agencies reportedly believe Iran unwilling to hold serious talks on ending war": "گزارش شده است که سازمان های اطلاعاتی آمریکا معتقدند ایران تمایلی به مذاکره جدی برای پایان دادن به جنگ ندارد",
     "Suspect in foiled Paris bank attack hit with ‘terrorist criminal conspiracy’ charges": "مظنون به حمله خنثی شده بانک پاریس با اتهام «توطئه جنایی تروریستی» مواجه شد",
-    "West Bank Palestinians protest, go on strike against new death penalty law": "فلسطینی های کرانه باختری اعتراض کردند و علیه قانون جدید مجازات اعدام اعتصاب کردند"
+    "West Bank Palestinians protest, go on strike against new death penalty law": "فلسطینی های کرانه باختری اعتراض کردند و علیه قانون جدید مجازات اعدام اعتصاب کردند",
+    "Trump says Iran war objectives 'nearing completion' in address to nation": "ترامپ در خطاب به ملت می گوید اهداف جنگی ایران «در آستانه تکمیل» است",
+    "Iran war live: Trump claims goals nearing completion, vows to ‘finish job’": "جنگ ایران زنده: ترامپ ادعا می کند اهدافش نزدیک به پایان است و قول می دهد «کار را تمام کند»",
+    "Yemen’s Houthis threaten potential closure of key Red Sea strait if Gulf states join war": "حوثی های یمن تهدید به بسته شدن احتمالی تنگه کلیدی دریای سرخ در صورت ورود کشورهای خلیج فارس به جنگ کرده اند",
+    "NASA Artemis II astronauts blast off to moon, the first crewed lunar mission in decades": "فضانوردان ناسا آرتمیس ۲ به ماه پرواز کردند، اولین مأموریت سرنشین دار ماه در چند دهه اخیر"
   }
 }

@@ -474,7 +474,17 @@
     "d6d311075cee9584ee89664b",
     "1cbbe85cd6bb78229b1e000b",
     "883568fc10e03d0a7def3ce5",
-    "248695ef4fb1f7fd47f36456"
+    "248695ef4fb1f7fd47f36456",
+    "e01d2a55ad22b9936755acce",
+    "0338eb574e01c5b43bbe2812",
+    "2f2b89ddc4a94bf9d5fb8259",
+    "5d3b1685ba17df36f69f6b5d",
+    "cd70c61902c620132833af99",
+    "43e64169817be33c90589394",
+    "ba16272de03049b6ad1f9658",
+    "6d4bf0a5598dc21e4b79ee9f",
+    "56d4c116c630734e0e406a27",
+    "159feee548635d3d7ef1c286"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -951,7 +961,17 @@
     "40f20cf941c139716165c31b",
     "2ed326a436cf3ff1b1d3eeb1",
     "91d967ac8f24ee94b33234df",
-    "4f0f68f7cdfaf31f5b7bfbbd"
+    "4f0f68f7cdfaf31f5b7bfbbd",
+    "16486342afa94f107721aa32",
+    "63cc43cb0c9dd443ddea9c89",
+    "bd2cb4d2d4290311082e4508",
+    "e874d48824115fac044db09d",
+    "73fe27376d2816c006e53748",
+    "ed78ebe07cbe9faefcae293d",
+    "7cfe7bfe6bc703c77227f98e",
+    "6c1a6b5e677de7898bb70697",
+    "555fe84a903074d32e61e02d",
+    "a17189210175dd8fffed6bff"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -976,11 +996,12 @@
     "0a27ad514df292d2c9c2341b",
     "8690ae76ddffeda325c6d3a5",
     "4ef772f302153bd37e134391",
-    "4391ef103c2fdb1bfacf3efd"
+    "4391ef103c2fdb1bfacf3efd",
+    "e01d2a55ad22b9936755acce"
   ],
-  "last_digest_hash": "a7c37da696e5e34824d724a9cb02a00ec7b0cc61940dcbcfa324935f0f5bb430",
-  "last_run_iso": "2026-04-02T11:56:38.417802+00:00",
-  "last_breaking_run_iso": "2026-04-02T09:12:30.547849+00:00",
+  "last_digest_hash": "fbd2aa7f87e8fb15bd846a7f74e3a98de7d297393e2502c923853558b1ce5f9e",
+  "last_run_iso": "2026-04-02T13:52:27.079306+00:00",
+  "last_breaking_run_iso": "2026-04-02T13:52:27.079306+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -1456,6 +1477,16 @@
     "Eight countries condemn Israel’s one-sided death penalty for Palestinians": "هشت کشور مجازات اعدام یک طرفه اسرائیل برای فلسطینیان را محکوم می کنند",
     "Bondi terrorist loses bid to prevent media from reporting on his family": "تروریست باندی در تلاش برای جلوگیری از گزارش رسانه ها درباره خانواده اش شکست خورد",
     "Israeli strikes kill 7 in southern Lebanon, Hezbollah targets ground troops": "حملات اسرائیل ۷ نفر را در جنوب لبنان کشت و حزب الله نیروهای زمینی را هدف قرار داد",
-    "How Israel’s record budget will finance expanding illegal settlements": "چگونه بودجه بی سابقه اسرائیل هزینه گسترش شهرک های غیرقانونی را تأمین خواهد کرد"
+    "How Israel’s record budget will finance expanding illegal settlements": "چگونه بودجه بی سابقه اسرائیل هزینه گسترش شهرک های غیرقانونی را تأمین خواهد کرد",
+    "Hezbollah fires around 80 rockets at north on 1st day of Passover; 2 lightly injured": "حزب الله در روز اول عید فصح حدود ۸۰ راکت به سمت شمال شلیک می کند؛ ۲ نفر به طور سطحی زخمی شدند",
+    "Oil prices jump over 7% after Trump vows to continue strikes on Iran": "قیمت نفت پس از تعهد ترامپ به ادامه حملات به ایران بیش از ۷٪ جهش کرد",
+    "UK-led coalition of 40 countries vows action on Hormuz Strait gridlock": "ائتلاف به رهبری بریتانیا متشکل از ۴۰ کشور متعهد به اقدام در مقابله با بن بست تنگه هرمز شد",
+    "Iran executes man accused of attacking military site on Israel’s behalf during protests": "ایران مردی را که متهم به حمله به پایگاه نظامی به نمایندگی از اسرائیل در جریان اعتراضات بود، اعدام کرد",
+    "Pakistan-bound ships pass through Strait of Hormuz": "کشتی های عازم پاکستان از تنگه هرمز عبور می کنند",
+    "Smoke rises over Mashhad, Iran, following strike near airport": "دود بر فراز مشهد ایران پس از اعتصاب نزدیک فرودگاه بالا می رود",
+    "Pakistan to continue with Iran-US mediation despite ‘obstacles’": "پاکستان با وجود «موانع» به میانجی گری ایران و آمریکا ادامه خواهد داد",
+    "Iranian Nobel laureate suffered suspected heart attack in prison, family says": "خانواده اش می گویند برنده جایزه نوبل ایرانی در زندان دچار حمله قلبی مشکوک شده است",
+    "Dust storm turns Israel’s skies gray on Passover, drives up pollution": "طوفان گرد و غبار آسمان اسرائیل را در عید فصح خاکستری می کند و آلودگی را افزایش می دهد",
+    "Eight Muslim countries slam Israel’s new death penalty law as risk to regional stability": "هشت کشور مسلمان قانون جدید مجازات اعدام اسرائیل را به عنوان خطری برای ثبات منطقه ای محکوم کردند"
   }
 }

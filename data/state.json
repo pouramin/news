@@ -521,7 +521,9 @@
     "0d843feb0df05f176ad8ae55",
     "705265ee15406d4b0dc9e82f",
     "2a1097a5800dfb002cffb838",
-    "8026159f5c2f642b1ca0968f"
+    "8026159f5c2f642b1ca0968f",
+    "23c4813cd78d8ec329f5f9a5",
+    "6511821d65d6e3bb29023a3b"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1045,7 +1047,9 @@
     "c376feb2f6963f7c62d31997",
     "f54ce6cd83f8166a77908772",
     "bdcee275c9b3c8da29399358",
-    "dd9e28d292ab22f222ffcddb"
+    "dd9e28d292ab22f222ffcddb",
+    "1c5feabae32731e85125102c",
+    "114ec4fef3ce673a6eacf90d"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1074,8 +1078,8 @@
     "e01d2a55ad22b9936755acce",
     "dd016e40491f96e993a6b7ba"
   ],
-  "last_digest_hash": "95984ef96d303428d6cb0d61927c2bb08dff3c80e2a7a3af7260325129b32bc3",
-  "last_run_iso": "2026-04-02T22:48:09.857018+00:00",
+  "last_digest_hash": "cfce786651433e577bc41a9ea3fa93d8ef5890b8d79caa479e8310505c03b63d",
+  "last_run_iso": "2026-04-02T23:48:22.805372+00:00",
   "last_breaking_run_iso": "2026-04-02T15:12:05.942887+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1599,6 +1603,8 @@
     "Iran says army forces are ready to repel US-Israeli attacks": "ایران می گوید نیروهای نظامی آماده دفع حملات آمریکا و اسرائیل هستند",
     "9-year-old boy recounts airstrike in Lebanon that killed whole family": "پسری ۹ ساله از حمله هوایی در لبنان که کل خانواده را کشت بازگو می کند",
     "'I haven't slept for days': Iranians describe mounting desperation after a month of war": "«روزهاست نخوابیده ام»: ایرانی ها از ناامیدی فزاینده پس از یک ماه جنگ سخن می گویند",
-    "Rights group head warns of ‘alarming’ risk of long-term mass displacement in Lebanon": "رئیس گروه حقوق بشری درباره خطر «نگران کننده» جابجایی گسترده بلندمدت در لبنان هشدار داد"
+    "Rights group head warns of ‘alarming’ risk of long-term mass displacement in Lebanon": "رئیس گروه حقوق بشری درباره خطر «نگران کننده» جابجایی گسترده بلندمدت در لبنان هشدار داد",
+    "Trump: Israel will ‘do what I tell them,’ will stop attacking Iran ‘when I stop’": "ترامپ: اسرائیل «آنچه را که به آن ها می گویم انجام خواهد داد»، حمله به ایران را متوقف خواهد کرد «وقتی من متوقف شوم»",
+    "Iran war could make beer and bottled water pricier for Indians": "جنگ ایران می تواند آبجو و آب بطری شده را برای هندی ها گران تر کند"
   }
 }

@@ -472,7 +472,9 @@
     "a9162cdfa6eff01984805352",
     "c3b0d898fbf564bdfd6272d6",
     "d6d311075cee9584ee89664b",
-    "1cbbe85cd6bb78229b1e000b"
+    "1cbbe85cd6bb78229b1e000b",
+    "883568fc10e03d0a7def3ce5",
+    "248695ef4fb1f7fd47f36456"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -947,7 +949,9 @@
     "35ca71409f16ee4b7ab7ed53",
     "c2e0ea6816353f1ee8309d2b",
     "40f20cf941c139716165c31b",
-    "2ed326a436cf3ff1b1d3eeb1"
+    "2ed326a436cf3ff1b1d3eeb1",
+    "91d967ac8f24ee94b33234df",
+    "4f0f68f7cdfaf31f5b7bfbbd"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -974,8 +978,8 @@
     "4ef772f302153bd37e134391",
     "4391ef103c2fdb1bfacf3efd"
   ],
-  "last_digest_hash": "ca0fa1fe3b2171cd38bda163ce07be4448764d11dc540df97fadf2d71effd0a0",
-  "last_run_iso": "2026-04-02T11:06:40.296194+00:00",
+  "last_digest_hash": "a7c37da696e5e34824d724a9cb02a00ec7b0cc61940dcbcfa324935f0f5bb430",
+  "last_run_iso": "2026-04-02T11:56:38.417802+00:00",
   "last_breaking_run_iso": "2026-04-02T09:12:30.547849+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1450,6 +1454,8 @@
     "Yemen’s Houthis coordinate with Iran, but retain independence, despite war": "حوثی های یمن با ایران هماهنگ می شوند، اما با وجود جنگ، استقلال خود را حفظ می کنند",
     "Palantir UK boss says it's up to militaries to decide how AI targeting is used in war": "رئیس Palantir UK می گوید تصمیم گیری درباره نحوه استفاده از هدف گیری هوش مصنوعی در جنگ بر عهده ارتش هاست",
     "Eight countries condemn Israel’s one-sided death penalty for Palestinians": "هشت کشور مجازات اعدام یک طرفه اسرائیل برای فلسطینیان را محکوم می کنند",
-    "Bondi terrorist loses bid to prevent media from reporting on his family": "تروریست باندی در تلاش برای جلوگیری از گزارش رسانه ها درباره خانواده اش شکست خورد"
+    "Bondi terrorist loses bid to prevent media from reporting on his family": "تروریست باندی در تلاش برای جلوگیری از گزارش رسانه ها درباره خانواده اش شکست خورد",
+    "Israeli strikes kill 7 in southern Lebanon, Hezbollah targets ground troops": "حملات اسرائیل ۷ نفر را در جنوب لبنان کشت و حزب الله نیروهای زمینی را هدف قرار داد",
+    "How Israel’s record budget will finance expanding illegal settlements": "چگونه بودجه بی سابقه اسرائیل هزینه گسترش شهرک های غیرقانونی را تأمین خواهد کرد"
   }
 }

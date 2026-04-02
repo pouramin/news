@@ -484,7 +484,15 @@
     "ba16272de03049b6ad1f9658",
     "6d4bf0a5598dc21e4b79ee9f",
     "56d4c116c630734e0e406a27",
-    "159feee548635d3d7ef1c286"
+    "159feee548635d3d7ef1c286",
+    "dd016e40491f96e993a6b7ba",
+    "99de7a93a9b3e0ae5ac42cea",
+    "eee649df0f22113a4df37254",
+    "c5262f836e71cbdd883581a6",
+    "184238d8ada0e1b40f511845",
+    "35c4456b26a959aab3be717c",
+    "d7aa4074503e95f330057443",
+    "ee6035b037483d1867c3ec99"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -971,7 +979,15 @@
     "7cfe7bfe6bc703c77227f98e",
     "6c1a6b5e677de7898bb70697",
     "555fe84a903074d32e61e02d",
-    "a17189210175dd8fffed6bff"
+    "a17189210175dd8fffed6bff",
+    "1a10c1f790a800e24605cc91",
+    "5506006110508cf7678b556f",
+    "c7b493c3112e70b3ee2e9189",
+    "0f5a86fe7b138220ccef5c7a",
+    "c9d96b53887f9d2b4ea10678",
+    "ece56409da36c7cd00ae6a76",
+    "2b5ad6efd92065c4155ce15e",
+    "e499b41c81d66af06d2675c6"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -997,11 +1013,12 @@
     "8690ae76ddffeda325c6d3a5",
     "4ef772f302153bd37e134391",
     "4391ef103c2fdb1bfacf3efd",
-    "e01d2a55ad22b9936755acce"
+    "e01d2a55ad22b9936755acce",
+    "dd016e40491f96e993a6b7ba"
   ],
-  "last_digest_hash": "fbd2aa7f87e8fb15bd846a7f74e3a98de7d297393e2502c923853558b1ce5f9e",
-  "last_run_iso": "2026-04-02T13:52:27.079306+00:00",
-  "last_breaking_run_iso": "2026-04-02T13:52:27.079306+00:00",
+  "last_digest_hash": "d7eb03dbba54b576231d3174641575877c32e5f3919a339a05437db22d1f5e9d",
+  "last_run_iso": "2026-04-02T15:12:05.942887+00:00",
+  "last_breaking_run_iso": "2026-04-02T15:12:05.942887+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -1487,6 +1504,14 @@
     "Pakistan to continue with Iran-US mediation despite ‘obstacles’": "پاکستان با وجود «موانع» به میانجی گری ایران و آمریکا ادامه خواهد داد",
     "Iranian Nobel laureate suffered suspected heart attack in prison, family says": "خانواده اش می گویند برنده جایزه نوبل ایرانی در زندان دچار حمله قلبی مشکوک شده است",
     "Dust storm turns Israel’s skies gray on Passover, drives up pollution": "طوفان گرد و غبار آسمان اسرائیل را در عید فصح خاکستری می کند و آلودگی را افزایش می دهد",
-    "Eight Muslim countries slam Israel’s new death penalty law as risk to regional stability": "هشت کشور مسلمان قانون جدید مجازات اعدام اسرائیل را به عنوان خطری برای ثبات منطقه ای محکوم کردند"
+    "Eight Muslim countries slam Israel’s new death penalty law as risk to regional stability": "هشت کشور مسلمان قانون جدید مجازات اعدام اسرائیل را به عنوان خطری برای ثبات منطقه ای محکوم کردند",
+    "Tehran vows ‘crushing’ blows to US after Trump threats to send Iran to ‘stone age’": "تهران پس از تهدید ترامپ مبنی بر اعزام ایران به «عصر سنگی» به آمریکا وعده «ضربات خردکننده» داد",
+    "CENTCOM releases video of air strikes in fifth week of war on Iran": "سنتکام ویدئویی از حملات هوایی در هفته پنجم جنگ علیه ایران منتشر کرد",
+    "Can Starmer’s 40-nation coalition open the Strait of Hormuz?": "آیا ائتلاف ۴۰ کشوری استارمر می تواند تنگه هرمز را باز کند؟",
+    "US banks in Paris ramp up security after cops thwart suspected Iran-linked attack": "بانک های آمریکایی در پاریس پس از خنثی کردن حمله مشکوک به ارتباط با ایران، امنیت را افزایش دادند",
+    "'Be serious... don't speak every day': Macron criticises Trump approach to Iran war": "«جدی باش... هر روز صحبت نکنید»: مکرون رویکرد ترامپ به جنگ ایران را نقد می کند",
+    "Why Lebanon should join the International Criminal Court": "چرا لبنان باید به دادگاه کیفری بین المللی بپیوندد",
+    "A 19th-century drama hit with post-Oct. 7 fallout: Award-winning ‘Yentl’ goes to London": "یک درام موفق قرن نوزدهم با پس از اکتبر. ۷ پیامد: «ینتل» برنده جایزه به لندن می رود",
+    "Iran's focus on survival means same regime still firmly in place": "تمرکز ایران بر بقا یعنی همان رژیم همچنان محکم باقی مانده است"
   }
 }

@@ -509,7 +509,13 @@
     "457778aa5033d30449bfe2ce",
     "5d320e371f63fc6eada40afc",
     "28313b955b36062e6b2f55f9",
-    "461cd8e465e0457c44b4b920"
+    "461cd8e465e0457c44b4b920",
+    "8ad8bd6e841f83ac3b7874d7",
+    "8694615d7ffc209562099b18",
+    "7170117e090dfa9289cdcb0a",
+    "0f67845ed9e96630e96550c0",
+    "25a9be33188d3b243ebedaa4",
+    "8a5c341ac82e0b614b679a6f"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1021,7 +1027,13 @@
     "9c2c5e3c3c4af686cb791115",
     "cb72f39455baf58e334a1c7b",
     "6a45bc58f6f0113ee49657c9",
-    "b605b6f81a042805dbb9a579"
+    "b605b6f81a042805dbb9a579",
+    "67664ccaf7d3c92b308c7d4b",
+    "329571c35eedea3532f63b80",
+    "a1b96bcce9e2e76c308889b6",
+    "c57f4e81f9497a47a22f78be",
+    "593b41b877d36288fb7e2df2",
+    "1dfd57d949fe8bcb2ec0c667"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1050,8 +1062,8 @@
     "e01d2a55ad22b9936755acce",
     "dd016e40491f96e993a6b7ba"
   ],
-  "last_digest_hash": "3c7fc61b84f54bcb3b808861b3123ca8114b5ac1b696fc78d9564ea8d11aa38d",
-  "last_run_iso": "2026-04-02T19:12:25.503421+00:00",
+  "last_digest_hash": "a708706e36922094c4f5d157118d60a5d08726637e8ce4a8ab3de3623d9bcf02",
+  "last_run_iso": "2026-04-02T20:50:19.785911+00:00",
   "last_breaking_run_iso": "2026-04-02T15:12:05.942887+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1563,6 +1575,12 @@
     "Argentina expels Iranian diplomat amid rift over blacklisting IRGC": "آرژانتین دیپلمات ایرانی را در پی اختلاف بر سر قرار دادن سپاه پاسداران در فهرست سیاه اخراج کرد",
     "Pastor’s White House prayer claims Iranians seek death of all Jews": "دعای کاخ سفید کشیش ادعا می کند ایرانی ها خواهان مرگ همه یهودیان هستند",
     "UN experts urge investigation into Israel’s killing of Lebanese journalists": "کارشناسان سازمان ملل خواستار تحقیق درباره قتل خبرنگاران لبنانی توسط اسرائیل شدند",
-    "Trump fires Pam Bondi, appoints own ex-lawyer to temporarily head justice department": "ترامپ پام باندی را اخراج کرد و وکیل سابق خود را به طور موقت ریاست وزارت دادگستری را منصوب نمود"
+    "Trump fires Pam Bondi, appoints own ex-lawyer to temporarily head justice department": "ترامپ پام باندی را اخراج کرد و وکیل سابق خود را به طور موقت ریاست وزارت دادگستری را منصوب نمود",
+    "Argentina declares Iranian envoy persona non grata, gives him 48 hours to leave": "آرژانتین فرستاده ایران را فردی نامطلوب اعلام کرد و به او ۴۸ ساعت فرصت داد تا برود",
+    "Drone maker backed by Trump’s sons looks to sell to Gulf states attacked by Iran": "سازنده پهپاد که توسط پسران ترامپ حمایت می شود، به دنبال فروش به کشورهای خلیج فارس تحت حمله ایران است",
+    "State Department claims Iran ‘continually’ pursuing nuclear weapon": "وزارت خارجه آمریکا ادعا می کند ایران «به طور مداوم» در پی دستیابی به سلاح هسته ای است",
+    "What might end Israel’s war on Iran?": "چه چیزی ممکن است جنگ اسرائیل علیه ایران را پایان دهد؟",
+    "As war drags on, US reiterates Trump open to diplomacy with Iran": "با ادامه جنگ، آمریکا بار دیگر تأکید می کند که ترامپ برای دیپلماسی با ایران آماده است",
+    "Iranians celebrate New Year in parks despite ongoing attacks": "ایرانیان سال نو را در پارک ها جشن می گیرند، با وجود حملات ادامه دار"
   }
 }

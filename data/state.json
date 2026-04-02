@@ -445,7 +445,14 @@
     "86d1f8a1799f610efc2e2d67",
     "9ac0cb92c5dfc9125e2880f3",
     "4ce21cf12511613fb228e377",
-    "622335346b76c561214346d2"
+    "622335346b76c561214346d2",
+    "772a0abcfb599de20ed643d9",
+    "0a9727a4cea86b3b4e609c04",
+    "5eb9a834bb8148237beae1b6",
+    "d9ff3aca7766ae87cc3ba146",
+    "002a6d9a37cfacca6e79430c",
+    "966a5d8f7c163772f6553d8f",
+    "703c2983aa07898d7c791f4b"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -893,7 +900,14 @@
     "309bc72e0822d60e437ae363",
     "7f39fa074ead83e27fa87d8e",
     "a6558123082015a6fb2d8df8",
-    "9ce3cb0e816d2766c7562b94"
+    "9ce3cb0e816d2766c7562b94",
+    "3190fe58a17977f7aef078e9",
+    "a6f1ba97100fdaf6d884af15",
+    "44308795bab459ebf42eeb19",
+    "147ee74908b7de84ae6fb010",
+    "fa4df7477714ee797164ed55",
+    "f9c171302ef1e14393e9f421",
+    "67985c742775a06844efb375"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -919,8 +933,8 @@
     "8690ae76ddffeda325c6d3a5",
     "4ef772f302153bd37e134391"
   ],
-  "last_digest_hash": "91f69eced9670ee65c37eca18546e9c38d17179ac9dd1c1a2df8adb25274a530",
-  "last_run_iso": "2026-04-02T03:22:52.055252+00:00",
+  "last_digest_hash": "0203e8502da3fd4830a77e4a2d8de86b50e6147af6c0c37a8e3aecec34659983",
+  "last_run_iso": "2026-04-02T05:47:17.596804+00:00",
   "last_breaking_run_iso": "2026-04-01T03:38:32.619407+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1368,6 +1382,13 @@
     "Trump says Iran war objectives 'nearing completion' in address to nation": "ترامپ در خطاب به ملت می گوید اهداف جنگی ایران «در آستانه تکمیل» است",
     "Iran war live: Trump claims goals nearing completion, vows to ‘finish job’": "جنگ ایران زنده: ترامپ ادعا می کند اهدافش نزدیک به پایان است و قول می دهد «کار را تمام کند»",
     "Yemen’s Houthis threaten potential closure of key Red Sea strait if Gulf states join war": "حوثی های یمن تهدید به بسته شدن احتمالی تنگه کلیدی دریای سرخ در صورت ورود کشورهای خلیج فارس به جنگ کرده اند",
-    "NASA Artemis II astronauts blast off to moon, the first crewed lunar mission in decades": "فضانوردان ناسا آرتمیس ۲ به ماه پرواز کردند، اولین مأموریت سرنشین دار ماه در چند دهه اخیر"
+    "NASA Artemis II astronauts blast off to moon, the first crewed lunar mission in decades": "فضانوردان ناسا آرتمیس ۲ به ماه پرواز کردند، اولین مأموریت سرنشین دار ماه در چند دهه اخیر",
+    "Trump urges countries ‘get involved’ in war on Iran if they can’t get fuel": "ترامپ از کشورها می خواهد اگر نتوانند سوخت تهیه کنند، در جنگ علیه ایران «درگیری» کنند",
+    "Trump’s primetime speech on Iran war: Key takeaways": "سخنرانی پربیننده ترامپ درباره جنگ ایران: نکات کلیدی",
+    "Trump claims ‘success’ in Iran in just 32 days compared to lengthy US wars": "ترامپ ادعای «موفقیت» در ایران را تنها در ۳۲ روز اعلام کرد، در حالی که جنگ های طولانی آمریکا",
+    "Trump leaves key questions unanswered as he seeks to calm nerves over Iran war": "ترامپ سوالات کلیدی را بی پاسخ گذاشت و در تلاش برای آرام کردن اعصاب درباره جنگ با ایران بود",
+    "Trump threatens to bring Iran ‘back to the Stone Ages’": "ترامپ تهدید می کند ایران را «به عصر سنگ» بازگرداند",
+    "Democrats to weigh resolution against AIPAC, fueling concerns about ‘undercurrent of antisemitism’": "دموکرات ها برای سنجش قطعنامه ای علیه آیپک که نگرانی ها درباره «جریان زیرپوستی یهودستیزی» را شعله ور می کند،",
+    "Trump’s national address on Iran ’embarrassing, incoherent’": "سخنرانی ملی ترامپ درباره ایران «شرم آور و نامنسجم»"
   }
 }

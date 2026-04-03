@@ -578,7 +578,13 @@
     "ab0c4d0f614f4e0648031ab8",
     "e0f3d5de2965130ad5105881",
     "55a99fd9c9f1f628622a791d",
-    "dae0dafc08f9871a05f8d21c"
+    "dae0dafc08f9871a05f8d21c",
+    "6b2869f3ad1aee085aa3ba24",
+    "667943340df8ff5c627844fb",
+    "0d10be6a66342de29665ba84",
+    "ee3cebb412c93628390301f5",
+    "c42e32d24ada75f0ead83302",
+    "b444cb8bee43c0792583d13c"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1159,7 +1165,13 @@
     "1ad2fb5f7364447d0890de34",
     "ca6360f1f9cf482b9069752f",
     "fe0e43faa84890fc79ca5a85",
-    "665d3c7060bede188e59e645"
+    "665d3c7060bede188e59e645",
+    "54f833abeda478bd63fdce53",
+    "72f1ee7b8a8d2e42f60cf2f4",
+    "5bdaf38f669efc9730bc86bb",
+    "551110fd547dff59ac4efda8",
+    "647e8db6629094ea58760532",
+    "d368608e359a96a8955c2309"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1189,8 +1201,8 @@
     "dd016e40491f96e993a6b7ba",
     "5631a1f6855a9398cf4c9185"
   ],
-  "last_digest_hash": "c604f3078796c1bbdad0d332b7ffc34ba735524adc5d98e0b4f7e91f74a8ba63",
-  "last_run_iso": "2026-04-03T19:01:53.154454+00:00",
+  "last_digest_hash": "1fcec78ad8bf953eaab24ca14288ff464fb838c69d8f9118bd0dba2f0cd77fbc",
+  "last_run_iso": "2026-04-03T19:50:05.161421+00:00",
   "last_breaking_run_iso": "2026-04-03T05:47:29.879677+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1771,6 +1783,12 @@
     "Iran leaders join crowds on Tehran’s streets in show of defiance": "رهبران ایران به جمع مردم خیابان های تهران پیوستند تا اعتراض خود را نشان دهند",
     "US unemployment rate drops despite economic uncertainty and Iran war": "نرخ بیکاری در آمریکا با وجود عدم قطعیت اقتصادی و جنگ ایران کاهش می یابد",
     "French-owned ship passes through Strait of Hormuz": "کشتی متعلق به فرانسوی ها از تنگه هرمز عبور می کند",
-    "What we know about the US fighter jet shot down in Iran": "آنچه درباره سرنگونی جنگنده آمریکایی در ایران می دانیم"
+    "What we know about the US fighter jet shot down in Iran": "آنچه درباره سرنگونی جنگنده آمریکایی در ایران می دانیم",
+    "Iran shoots down US jet; 1 crew member rescued, search for 2nd ongoing, officials say": "ایران هواپیمای آمریکایی را سرنگون کرد؛ یک عضو خدمه نجات یافت، جستجو برای دومین نفر همچنان ادامه دارد، مقامات می گویند",
+    "At least one killed at UAE’s Habshan gas facility after intercepted attack": "حداقل یک نفر پس از رهگیری حمله در تأسیسات گاز حبشان امارات کشته شد",
+    "More than 20 attacks on Iranian healthcare facilities since March 1: WHO": "بیش از ۲۰ حمله به مراکز درمانی ایران از اول مارس: سازمان جهانی بهداشت",
+    "Bahrain cracks down on dissent as Iran war reignites Sunni-Shiite unrest in kingdom": "بحرین با سرکوب مخالفان اقدام می کند در حالی که جنگ ایران ناآرامی های سنی و شیعه در پادشاهی را دوباره شعله ور می کند",
+    "Christians mark subdued Good Friday in Jerusalem, wider region amid Iran war": "مسیحیان جمعه نیک سرکوب شده را در اورشلیم، منطقه وسیع تر در بحبوحه جنگ ایران، گرامی می دارند",
+    "Israel planning to allow up to 90 passengers on departing flights starting Sunday": "اسرائیل برنامه دارد تا از روز یکشنبه تا ۹۰ مسافر را در پروازهای خروجی اجازه دهد"
   }
 }

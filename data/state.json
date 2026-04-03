@@ -541,7 +541,14 @@
     "683885d0c4628929a24934cd",
     "5d31369dd49d606a2a1785d1",
     "39592cd117bb89f674c21d7f",
-    "ecdb33a7456fe3dc7b6efcf8"
+    "ecdb33a7456fe3dc7b6efcf8",
+    "e36546c5c32d691382f5a8d9",
+    "4f92a08ddf4515b55fffe9a3",
+    "ef087d0745db15a38f862e45",
+    "bb240a82a569c0595710ebdc",
+    "9f90b78dde9ae80c5bd63aa4",
+    "d48c39bf3a6dc05f54d8a036",
+    "e3a178ec7d327e2b7a392ecc"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1085,7 +1092,14 @@
     "a29016c1321d5c60345286a0",
     "ba84881806298d5d3b57a17d",
     "6e0601c4ce60a2b95dedd512",
-    "750d389bed3ed29ae0061b0f"
+    "750d389bed3ed29ae0061b0f",
+    "46a84d1940b32e4095d99fa3",
+    "c2479437a72cbf887ababa63",
+    "79b0c76bfbfecc47c04f4ca0",
+    "3370ac2e376aaf37f60134ef",
+    "3fb1093485ffcad96f4c2854",
+    "243148ec275f4c8f1f1dcee1",
+    "129eed9a9b47c437e7800edf"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1115,8 +1129,8 @@
     "dd016e40491f96e993a6b7ba",
     "5631a1f6855a9398cf4c9185"
   ],
-  "last_digest_hash": "e1ff162a6c8a5adbfb304704aef284af1b83748a53d738bf3a4322918765eab3",
-  "last_run_iso": "2026-04-03T09:07:48.156972+00:00",
+  "last_digest_hash": "8296c54946daf80684a4b2841f91899817ac823b038e71d36008e08f6cf5e51f",
+  "last_run_iso": "2026-04-03T10:59:15.300182+00:00",
   "last_breaking_run_iso": "2026-04-03T05:47:29.879677+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1660,6 +1674,13 @@
     "Housing snapshot March 2026: Prices dip again after two-month rise": "نمایی از بازار مسکن در مارس ۲۰۲۶: قیمت ها پس از افزایش دو ماهه دوباره کاهش می یابند",
     "How Israel is destroying healthcare infrastructure in southern Lebanon": "چگونه اسرائیل زیرساخت های بهداشتی جنوب لبنان را نابود می کند",
     "Marble bowl buried 1,300 years ago in Golan church sheds light on ancient baptisms": "کاسه مرمری که ۱۳۰۰ سال پیش در کلیسای جولان دفن شده، نوری بر تعمیدهای باستانی می افکند",
-    "As Anglo immigration grows, developers rethink ways to cultivate communal roots": "با افزایش مهاجرت انگلیسی، توسعه دهندگان راه های پرورش ریشه های جمعی را بازنگری می کنند"
+    "As Anglo immigration grows, developers rethink ways to cultivate communal roots": "با افزایش مهاجرت انگلیسی، توسعه دهندگان راه های پرورش ریشه های جمعی را بازنگری می کنند",
+    "Kuwait desalination plant, oil refinery hit by missile and drone strikes": "نیروگاه شیرین کن آب کن کویت، پالایشگاه نفت هدف حملات موشکی و پهپادی قرار گرفت",
+    "IDF official says disarming Hezbollah unrealistic, not a goal of Lebanon operation": "مقام ارتش اسرائیل می گوید خلع سلاح حزب الله غیرواقعی است و هدف عملیات لبنان نیست",
+    "US intelligence said to assess around half of Iran’s missile launchers still intact": "اطلاعات آمریکا اعلام کرد که حدود نیمی از پرتابگرهای موشک ایران هنوز سالم هستند",
+    "The death penalty law for Palestinians convicted of deadly acts of terror is unconstitutional": "قانون مجازات اعدام برای فلسطینی هایی که به اعمال تروریستی مرگبار محکوم شده اند، خلاف قانون اساسی است",
+    "Ex-police interpreter indicted for sharing missile impact info with foreign agent": "مترجم سابق پلیس به خاطر به اشتراک گذاری اطلاعات برخورد موشک با مأمور خارجی متهم شد",
+    "Wake up to the Mediterranean: Tel Aviv apartments steps from the sea - Sponsored Content": "بیدار شدن به مدیترانه: آپارتمان های تل آویو چند قدمی دریا - محتوای حمایت شده",
+    "Tzruya ‘Suki’ Lahav, writer, poet and briefly Springsteen’s violinist, dies at 74": "تزرویا «سوکی» لاهاو، نویسنده، شاعر و برای مدت کوتاهی ویولونیست اسپرینگستین، در سن ۷۴ سالگی درگذشت"
   }
 }

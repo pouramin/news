@@ -584,7 +584,9 @@
     "0d10be6a66342de29665ba84",
     "ee3cebb412c93628390301f5",
     "c42e32d24ada75f0ead83302",
-    "b444cb8bee43c0792583d13c"
+    "b444cb8bee43c0792583d13c",
+    "36c8ea2a4c1d4626d58c1a05",
+    "5bddd4acd9c48567113ec468"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1171,7 +1173,9 @@
     "5bdaf38f669efc9730bc86bb",
     "551110fd547dff59ac4efda8",
     "647e8db6629094ea58760532",
-    "d368608e359a96a8955c2309"
+    "d368608e359a96a8955c2309",
+    "a3844e19732243b3c0be82ae",
+    "e5c54e4dc30faa92b056030a"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1199,11 +1203,12 @@
     "4391ef103c2fdb1bfacf3efd",
     "e01d2a55ad22b9936755acce",
     "dd016e40491f96e993a6b7ba",
-    "5631a1f6855a9398cf4c9185"
+    "5631a1f6855a9398cf4c9185",
+    "36c8ea2a4c1d4626d58c1a05"
   ],
-  "last_digest_hash": "1fcec78ad8bf953eaab24ca14288ff464fb838c69d8f9118bd0dba2f0cd77fbc",
-  "last_run_iso": "2026-04-03T19:50:05.161421+00:00",
-  "last_breaking_run_iso": "2026-04-03T05:47:29.879677+00:00",
+  "last_digest_hash": "bd0cfa484187deaac73775a57d4e0e89eb6a854677db963dc95849b97bb1f0d8",
+  "last_run_iso": "2026-04-03T20:51:20.890615+00:00",
+  "last_breaking_run_iso": "2026-04-03T20:51:20.890615+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -1789,6 +1794,8 @@
     "More than 20 attacks on Iranian healthcare facilities since March 1: WHO": "بیش از ۲۰ حمله به مراکز درمانی ایران از اول مارس: سازمان جهانی بهداشت",
     "Bahrain cracks down on dissent as Iran war reignites Sunni-Shiite unrest in kingdom": "بحرین با سرکوب مخالفان اقدام می کند در حالی که جنگ ایران ناآرامی های سنی و شیعه در پادشاهی را دوباره شعله ور می کند",
     "Christians mark subdued Good Friday in Jerusalem, wider region amid Iran war": "مسیحیان جمعه نیک سرکوب شده را در اورشلیم، منطقه وسیع تر در بحبوحه جنگ ایران، گرامی می دارند",
-    "Israel planning to allow up to 90 passengers on departing flights starting Sunday": "اسرائیل برنامه دارد تا از روز یکشنبه تا ۹۰ مسافر را در پروازهای خروجی اجازه دهد"
+    "Israel planning to allow up to 90 passengers on departing flights starting Sunday": "اسرائیل برنامه دارد تا از روز یکشنبه تا ۹۰ مسافر را در پروازهای خروجی اجازه دهد",
+    "US embassy in Beirut warns Iran, terror groups may target Lebanese universities": "سفارت آمریکا در بیروت به ایران هشدار داد که گروه های تروریستی ممکن است دانشگاه های لبنان را هدف قرار دهند",
+    "Survivors of Iran bridge attack recall terror of US-Israeli strike": "بازماندگان حمله به پل ایران به یاد وحشت حمله آمریکا و اسرائیل می افتند"
   }
 }

@@ -563,7 +563,14 @@
     "439ba67795963883907bf5b1",
     "03926feeebe8a905cc3171bd",
     "bc3fa33b9815fb052759fd9a",
-    "506e4136a98a03bd55b7c2b6"
+    "506e4136a98a03bd55b7c2b6",
+    "29bed5068e8af996a8dae3bc",
+    "b1c5f0d17daddb981e9a2155",
+    "d56cecab8c557b4127e5a5fc",
+    "ead73b90a22049e685923c1a",
+    "00e75f1f021f6d2c0dea7186",
+    "39f50446e28bcba51ebd4b9a",
+    "883d1e68e34a8bdf6dff2a96"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1129,7 +1136,14 @@
     "4061a1b6a0fbc9edd39a0aca",
     "748d6f4c6fd98c270abdf9ab",
     "c3c3b3fe5e494f6cbf486472",
-    "ba97c9e3c4c9cfce6b9221a6"
+    "ba97c9e3c4c9cfce6b9221a6",
+    "bfa4623aba44005832481a61",
+    "c750d5e56d5d69ea1568ba47",
+    "ae746366d21e7ba59b154729",
+    "072e226730a7b9cc7a3b11fe",
+    "61f4dcbc0bb534f28e6ac795",
+    "8f1c069a5d281e31e97ef9d0",
+    "fc9d38d81945432ddcdf33fa"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1159,8 +1173,8 @@
     "dd016e40491f96e993a6b7ba",
     "5631a1f6855a9398cf4c9185"
   ],
-  "last_digest_hash": "21df3d7f7d2c6cbe99f345371e30f82cb979a1fee2b6ddd57d1d792ea2455512",
-  "last_run_iso": "2026-04-03T14:57:41.349448+00:00",
+  "last_digest_hash": "c605ec97cca0f05e79184888998e8f3e76c75398d46636686503708f8c21df8b",
+  "last_run_iso": "2026-04-03T15:50:30.785846+00:00",
   "last_breaking_run_iso": "2026-04-03T05:47:29.879677+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1726,6 +1740,13 @@
     "The elderly were among the most vulnerable in the Holocaust – and the most overlooked": "سالمندان در هولوکاست از آسیب پذیرترین و نادیده گرفته شده ترین افراد بودند",
     "Iran fires multiple cluster munitions at Israel, wounding 1; Tehran claims to down US jet": "ایران چندین بمب خوشه ای به سمت اسرائیل شلیک می کند که یک نفر را زخمی می کند؛ تهران ادعا می کند که هواپیمای آمریکایی را سرنگون کرده است",
     "US jobs surge unexpectedly in March despite Iran war": "اشتغال آمریکا در ماه مارس به طور غیرمنتظره ای افزایش یافت، با وجود جنگ ایران",
-    "A lost 1943 novel envisioned the still-unfolding Holocaust. Now, it has been recovered": "یک رمان گمشده از سال ۱۹۴۳ هولوکاست را که هنوز در حال وقوع بود، تصور می کرد. اکنون بازیابی شده است"
+    "A lost 1943 novel envisioned the still-unfolding Holocaust. Now, it has been recovered": "یک رمان گمشده از سال ۱۹۴۳ هولوکاست را که هنوز در حال وقوع بود، تصور می کرد. اکنون بازیابی شده است",
+    "Iranian forces launch search for pilot of downed US fighter jet": "نیروهای ایرانی جستجو برای یافتن خلبان جنگنده آمریکایی سرنگون شده را آغاز کردند",
+    "‘War crime’: Amnesty slams Iran’s recruitment of children as young as 12 to Basij militia": "«جنایت جنگی»: عفو بین الملل جذب کودکان ۱۲ ساله به شبه نظامیان بسیج توسط ایران را محکوم می کند",
+    "Red Crescent supply warehouse attacked in southwest Iran": "انبار تدارکات هلال احمر در جنوب غرب ایران مورد حمله قرار گرفت",
+    "Trump says with more time, US can ‘take the oil’ in Iran": "ترامپ می گوید با گذشت زمان بیشتر، آمریکا می تواند «نفت را در ایران بگیرد»",
+    "In Lebanon, displaced Shiites feared over potential Hezbollah ties amid IDF strikes": "در لبنان، شیعیان آواره از احتمال ارتباط با حزب الله در پی حملات ارتش اسرائیل نگران بودند",
+    "Israel threatens to destroy more Lebanon bridges as crisis mounts": "اسرائیل تهدید می کند که با شدت گرفتن بحران، پل های بیشتری در لبنان را تخریب خواهد کرد",
+    "Iran release videos of US aircraft searching for pilots shot down in Iran": "ایران ویدیوهایی از هواپیماهای آمریکایی در جستجوی خلبانان سرنگون شده در ایران منتشر کرده است"
   }
 }

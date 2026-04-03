@@ -575,7 +575,10 @@
     "4b459394cc844a8062c7302d",
     "d0f8599ee73c1510bb44904b",
     "a0b7f461a90987aa7059c394",
-    "ab0c4d0f614f4e0648031ab8"
+    "ab0c4d0f614f4e0648031ab8",
+    "e0f3d5de2965130ad5105881",
+    "55a99fd9c9f1f628622a791d",
+    "dae0dafc08f9871a05f8d21c"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1153,7 +1156,10 @@
     "818b3760db9d1406813604e4",
     "3a76e3ea296a9509a1f7a0af",
     "bdf296baf18293e6462a04e2",
-    "1ad2fb5f7364447d0890de34"
+    "1ad2fb5f7364447d0890de34",
+    "ca6360f1f9cf482b9069752f",
+    "fe0e43faa84890fc79ca5a85",
+    "665d3c7060bede188e59e645"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1183,8 +1189,8 @@
     "dd016e40491f96e993a6b7ba",
     "5631a1f6855a9398cf4c9185"
   ],
-  "last_digest_hash": "82034c20fe1a684771038cde20c51cdcdd147828d4a7c70b4f5cb25a395e0b08",
-  "last_run_iso": "2026-04-03T17:49:54.814320+00:00",
+  "last_digest_hash": "c604f3078796c1bbdad0d332b7ffc34ba735524adc5d98e0b4f7e91f74a8ba63",
+  "last_run_iso": "2026-04-03T19:01:53.154454+00:00",
   "last_breaking_run_iso": "2026-04-03T05:47:29.879677+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1762,6 +1768,9 @@
     "In call, Pope urges Herzog to pursue ‘all paths of dialogue’ to end Iran war": "در این فراخوان، پاپ از هرتزوگ می خواهد «همه مسیرهای گفت وگو» را برای پایان دادن به جنگ ایران دنبال کند",
     "French-owned container ship transits Hormuz Strait in first since Iran war": "کشتی کانتینری متعلق به فرانسه برای اولین بار از زمان جنگ ایران از تنگه هرمز عبور می کند",
     "Trump: ‘With a little more time’ the US ‘can easily’ reopen Strait of Hormuz": "ترامپ: «با کمی زمان بیشتر» آمریکا «به راحتی می تواند» تنگه هرمز را بازگشایی کند",
-    "Iran leaders join crowds on Tehran’s streets in show of defiance": "رهبران ایران به جمع مردم خیابان های تهران پیوستند تا اعتراض خود را نشان دهند"
+    "Iran leaders join crowds on Tehran’s streets in show of defiance": "رهبران ایران به جمع مردم خیابان های تهران پیوستند تا اعتراض خود را نشان دهند",
+    "US unemployment rate drops despite economic uncertainty and Iran war": "نرخ بیکاری در آمریکا با وجود عدم قطعیت اقتصادی و جنگ ایران کاهش می یابد",
+    "French-owned ship passes through Strait of Hormuz": "کشتی متعلق به فرانسوی ها از تنگه هرمز عبور می کند",
+    "What we know about the US fighter jet shot down in Iran": "آنچه درباره سرنگونی جنگنده آمریکایی در ایران می دانیم"
   }
 }

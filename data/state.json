@@ -560,7 +560,10 @@
     "8318679c8982576362cf8a4b",
     "2f5a53127ba91ec609cd0723",
     "62d087ea12a600f97148f364",
-    "439ba67795963883907bf5b1"
+    "439ba67795963883907bf5b1",
+    "03926feeebe8a905cc3171bd",
+    "bc3fa33b9815fb052759fd9a",
+    "506e4136a98a03bd55b7c2b6"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1123,7 +1126,10 @@
     "51edd995d501f6082d7159a5",
     "ec5643b953eb548cdbde6dcc",
     "115186448e92816d05a27177",
-    "4061a1b6a0fbc9edd39a0aca"
+    "4061a1b6a0fbc9edd39a0aca",
+    "748d6f4c6fd98c270abdf9ab",
+    "c3c3b3fe5e494f6cbf486472",
+    "ba97c9e3c4c9cfce6b9221a6"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1153,8 +1159,8 @@
     "dd016e40491f96e993a6b7ba",
     "5631a1f6855a9398cf4c9185"
   ],
-  "last_digest_hash": "f3b4a102f12ee69d3acb0470e18ebe0b568f96aad0b01069d7e9c3b69898425b",
-  "last_run_iso": "2026-04-03T13:36:36.768708+00:00",
+  "last_digest_hash": "21df3d7f7d2c6cbe99f345371e30f82cb979a1fee2b6ddd57d1d792ea2455512",
+  "last_run_iso": "2026-04-03T14:57:41.349448+00:00",
   "last_breaking_run_iso": "2026-04-03T05:47:29.879677+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1717,6 +1723,9 @@
     "How the US and Israel are waging war on Iran’s medicines, vaccines": "چگونه آمریکا و اسرائیل علیه داروها و واکسن های ایران جنگ می کنند",
     "‘Detect, deploy, reassure’: NYC Jewish security group launches patrols as threats abound": "«کشف، استقرار، اطمینان بخش»: گروه امنیتی یهودی نیویورک گشت زنی را آغاز می کند در حالی که تهدیدات فراوان است",
     "War crimes are no longer shameful. That should terrify you": "جنایات جنگی دیگر شرم آور نیستند. این باید تو را بترساند",
-    "The elderly were among the most vulnerable in the Holocaust – and the most overlooked": "سالمندان در هولوکاست از آسیب پذیرترین و نادیده گرفته شده ترین افراد بودند"
+    "The elderly were among the most vulnerable in the Holocaust – and the most overlooked": "سالمندان در هولوکاست از آسیب پذیرترین و نادیده گرفته شده ترین افراد بودند",
+    "Iran fires multiple cluster munitions at Israel, wounding 1; Tehran claims to down US jet": "ایران چندین بمب خوشه ای به سمت اسرائیل شلیک می کند که یک نفر را زخمی می کند؛ تهران ادعا می کند که هواپیمای آمریکایی را سرنگون کرده است",
+    "US jobs surge unexpectedly in March despite Iran war": "اشتغال آمریکا در ماه مارس به طور غیرمنتظره ای افزایش یافت، با وجود جنگ ایران",
+    "A lost 1943 novel envisioned the still-unfolding Holocaust. Now, it has been recovered": "یک رمان گمشده از سال ۱۹۴۳ هولوکاست را که هنوز در حال وقوع بود، تصور می کرد. اکنون بازیابی شده است"
   }
 }

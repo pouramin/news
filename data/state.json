@@ -548,7 +548,15 @@
     "bb240a82a569c0595710ebdc",
     "9f90b78dde9ae80c5bd63aa4",
     "d48c39bf3a6dc05f54d8a036",
-    "e3a178ec7d327e2b7a392ecc"
+    "e3a178ec7d327e2b7a392ecc",
+    "d195c8026a88a0130fef8f16",
+    "0e9084ba6223a9e93d30a3d7",
+    "1dc6ccc9f2af614b329ec3b1",
+    "b29d3d7c676211c24792fd59",
+    "90e83151f2d5ed7f8bc0080d",
+    "e6c0faa7508da22637c27b13",
+    "26400a4dc16ef0323edd8ecc",
+    "0197b70f68a5fa273ce4e35a"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1099,7 +1107,15 @@
     "3370ac2e376aaf37f60134ef",
     "3fb1093485ffcad96f4c2854",
     "243148ec275f4c8f1f1dcee1",
-    "129eed9a9b47c437e7800edf"
+    "129eed9a9b47c437e7800edf",
+    "58b7cd2953d4b08446f8d5c5",
+    "f11f7706f8f8526e1d94d0de",
+    "ce8ad449ff8be177a39ff55f",
+    "33eb788c2001271c8afa0eb1",
+    "f09930037eec0913c6a19ac0",
+    "4784e73ee3679dcd3025ffdf",
+    "067241d70e9bd8df7f94eea7",
+    "3b5379df8207cddfc1b46c2c"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1129,8 +1145,8 @@
     "dd016e40491f96e993a6b7ba",
     "5631a1f6855a9398cf4c9185"
   ],
-  "last_digest_hash": "8296c54946daf80684a4b2841f91899817ac823b038e71d36008e08f6cf5e51f",
-  "last_run_iso": "2026-04-03T10:59:15.300182+00:00",
+  "last_digest_hash": "66811c4d8c43eee8441c81278bbc25f8a108da64ee426b2947d4c74e3e7f04fc",
+  "last_run_iso": "2026-04-03T11:49:43.086885+00:00",
   "last_breaking_run_iso": "2026-04-03T05:47:29.879677+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1681,6 +1697,14 @@
     "The death penalty law for Palestinians convicted of deadly acts of terror is unconstitutional": "قانون مجازات اعدام برای فلسطینی هایی که به اعمال تروریستی مرگبار محکوم شده اند، خلاف قانون اساسی است",
     "Ex-police interpreter indicted for sharing missile impact info with foreign agent": "مترجم سابق پلیس به خاطر به اشتراک گذاری اطلاعات برخورد موشک با مأمور خارجی متهم شد",
     "Wake up to the Mediterranean: Tel Aviv apartments steps from the sea - Sponsored Content": "بیدار شدن به مدیترانه: آپارتمان های تل آویو چند قدمی دریا - محتوای حمایت شده",
-    "Tzruya ‘Suki’ Lahav, writer, poet and briefly Springsteen’s violinist, dies at 74": "تزرویا «سوکی» لاهاو، نویسنده، شاعر و برای مدت کوتاهی ویولونیست اسپرینگستین، در سن ۷۴ سالگی درگذشت"
+    "Tzruya ‘Suki’ Lahav, writer, poet and briefly Springsteen’s violinist, dies at 74": "تزرویا «سوکی» لاهاو، نویسنده، شاعر و برای مدت کوتاهی ویولونیست اسپرینگستین، در سن ۷۴ سالگی درگذشت",
+    "Over 100 US legal experts condemn strikes on Iran as possible ‘war crimes’": "بیش از ۱۰۰ کارشناس حقوقی آمریکایی حملات به ایران را به عنوان «جنایات جنگی» احتمالی محکوم می کنند",
+    "'This has got me worried': Iranians fear what comes next after US strike on Karaj bridge": "«این موضوع مرا نگران کرده»: ایرانیان از آنچه پس از حمله آمریکا به پل کرج رخ می دهد، می ترسند.",
+    "Lazar Berman: What does the history of airpower tell us about Iran war?": "لازار برمن: تاریخ نیروی هوایی درباره جنگ ایران چه می گوید؟",
+    "International law experts allege violations in Iran war": "کارشناسان حقوق بین الملل ادعای نقض در جنگ ایران را دارند",
+    "‘I don’t know how we’ll emerge from this’: How much more can Israelis take?": "«نمی دانم چگونه از این وضعیت بیرون خواهیم آمد»: اسرائیلی ها چقدر دیگر می توانند تحمل کنند؟",
+    "When will the Iran war end? Tracing the Trump administration's timelines": "جنگ ایران کی به پایان می رسد؟ ردیابی جدول زمانی دولت ترامپ",
+    "Watch: Trump's shifting deadlines for ending Iran war": "تماشا کنید: تغییر مهلت های ترامپ برای پایان دادن به جنگ ایران",
+    "Rubble, mud and hair: How to rebuild a home in Gaza": "آوار، گل و مو: چگونه خانه ای را در غزه بازسازی کنیم"
   }
 }

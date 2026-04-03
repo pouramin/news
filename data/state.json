@@ -586,7 +586,10 @@
     "c42e32d24ada75f0ead83302",
     "b444cb8bee43c0792583d13c",
     "36c8ea2a4c1d4626d58c1a05",
-    "5bddd4acd9c48567113ec468"
+    "5bddd4acd9c48567113ec468",
+    "d1b16d7a7f25c9a892aa0814",
+    "1dbf69464ab03531b5342048",
+    "cb5673b24211794e2689d399"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1175,7 +1178,10 @@
     "647e8db6629094ea58760532",
     "d368608e359a96a8955c2309",
     "a3844e19732243b3c0be82ae",
-    "e5c54e4dc30faa92b056030a"
+    "e5c54e4dc30faa92b056030a",
+    "05dca22a73687bc36564393c",
+    "383a256793dbb52e456a52a2",
+    "dc0691644cd5f47ba3e27241"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1204,11 +1210,12 @@
     "e01d2a55ad22b9936755acce",
     "dd016e40491f96e993a6b7ba",
     "5631a1f6855a9398cf4c9185",
-    "36c8ea2a4c1d4626d58c1a05"
+    "36c8ea2a4c1d4626d58c1a05",
+    "d1b16d7a7f25c9a892aa0814"
   ],
-  "last_digest_hash": "bd0cfa484187deaac73775a57d4e0e89eb6a854677db963dc95849b97bb1f0d8",
-  "last_run_iso": "2026-04-03T20:51:20.890615+00:00",
-  "last_breaking_run_iso": "2026-04-03T20:51:20.890615+00:00",
+  "last_digest_hash": "a8d9fb73bf067187420e58ef00c178049e90d39331606faf3411772f236cf4cb",
+  "last_run_iso": "2026-04-03T21:47:12.326136+00:00",
+  "last_breaking_run_iso": "2026-04-03T21:47:12.326136+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -1796,6 +1803,9 @@
     "Christians mark subdued Good Friday in Jerusalem, wider region amid Iran war": "مسیحیان جمعه نیک سرکوب شده را در اورشلیم، منطقه وسیع تر در بحبوحه جنگ ایران، گرامی می دارند",
     "Israel planning to allow up to 90 passengers on departing flights starting Sunday": "اسرائیل برنامه دارد تا از روز یکشنبه تا ۹۰ مسافر را در پروازهای خروجی اجازه دهد",
     "US embassy in Beirut warns Iran, terror groups may target Lebanese universities": "سفارت آمریکا در بیروت به ایران هشدار داد که گروه های تروریستی ممکن است دانشگاه های لبنان را هدف قرار دهند",
-    "Survivors of Iran bridge attack recall terror of US-Israeli strike": "بازماندگان حمله به پل ایران به یاد وحشت حمله آمریکا و اسرائیل می افتند"
+    "Survivors of Iran bridge attack recall terror of US-Israeli strike": "بازماندگان حمله به پل ایران به یاد وحشت حمله آمریکا و اسرائیل می افتند",
+    "3 UNIFIL peacekeepers hurt in south Lebanon blast; IDF blames Hezbollah rocket": "۳ حافظ صلح یونیفیل در انفجار جنوب لبنان زخمی شدند؛ ارتش اسرائیل موشک حزب الله را مقصر می داند",
+    "Christians in Lebanon observe Good Friday under Israeli attacks": "مسیحیان در لبنان جمعه نیک را زیر حملات اسرائیل گرامی می دارند",
+    "Will force be used to reopen Strait of Hormuz?": "آیا برای بازگشایی تنگه هرمز از زور استفاده خواهد شد؟"
   }
 }

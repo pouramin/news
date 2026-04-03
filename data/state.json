@@ -530,7 +530,13 @@
     "82c0818866e24508b13ea3c8",
     "5631a1f6855a9398cf4c9185",
     "334ba976ebc22522ee820b6c",
-    "65ffa16bf297217ee80083d2"
+    "65ffa16bf297217ee80083d2",
+    "7c950f663ec75bb30e767ffe",
+    "aaf3147e70d4640f7a5356ad",
+    "4d1ee4a06d1bf92e17d21de1",
+    "f1ac28347ed30b14edea709f",
+    "e8dabef94fd96662575538e2",
+    "c57e20862296be2f8564728c"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1063,7 +1069,13 @@
     "ece09f0b4fc3f1047311e274",
     "7fdcb30cbcab886dba5dec6a",
     "f8417daca9f4399045516757",
-    "b64376d8bcfb8fc02997a9f4"
+    "b64376d8bcfb8fc02997a9f4",
+    "a81bbbc6ba5dde1590120578",
+    "a64b1128121c0295d3d0d72c",
+    "f61658684a252fcf0e12466d",
+    "6e0fafa51b5652b3ff7aa2cf",
+    "69b017c00554d7db81e87bc4",
+    "4ac57192a5798657f667caf7"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1093,8 +1105,8 @@
     "dd016e40491f96e993a6b7ba",
     "5631a1f6855a9398cf4c9185"
   ],
-  "last_digest_hash": "65b4938ff2d9ad22015a74fddbd15b0cb31b752fd3bd5022117014d8371a977f",
-  "last_run_iso": "2026-04-03T05:47:29.879677+00:00",
+  "last_digest_hash": "6a6cf932a882f9ea38a4cc16ff6aed2228671c0614cbf5530aeae4e0fcd70189",
+  "last_run_iso": "2026-04-03T07:24:21.457901+00:00",
   "last_breaking_run_iso": "2026-04-03T05:47:29.879677+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1627,6 +1639,12 @@
     "French police ban Muslim gathering near Paris over fears far-right groups could target it": "پلیس فرانسه تجمع مسلمانان در نزدیکی پاریس را به دلیل نگرانی از هدف قرار دادن آن توسط گروه های راست افراطی ممنوع کرد",
     "Iran war live: Trump warns assault on infrastructure ‘hasn’t even started’": "جنگ ایران زنده: ترامپ هشدار داد که حمله به زیرساخت ها «حتی شروع نشده»",
     "How war on Iran turned Pakistan’s LNG surplus into a looming shortage": "چگونه جنگ علیه ایران مازاد LNG پاکستان را به کمبود قریب الوقوع تبدیل کرد",
-    "ICE arrests West Bank-born Wisconsin mosque president over terror funding suspicions": "اداره مهاجرت رئیس مسجد ویسکانسین متولد کرانه باختری را به اتهام سوءاستفاده از تأمین مالی تروریسم بازداشت کرد"
+    "ICE arrests West Bank-born Wisconsin mosque president over terror funding suspicions": "اداره مهاجرت رئیس مسجد ویسکانسین متولد کرانه باختری را به اتهام سوءاستفاده از تأمین مالی تروریسم بازداشت کرد",
+    "Trump’s ire at NATO leaves European partners bracing for potential US exit": "خشم ترامپ از ناتو شرکای اروپایی را برای خروج احتمالی آمریکا آماده می کند",
+    "How China’s ‘teapot’ refineries are cushioning it from Iran war oil crisis": "چگونه پالایشگاه های «قوری چای» چین آن را از بحران نفت جنگ ایران محافظت می کنند",
+    "Iran war: What is happening on day 35 of US-Israeli attacks?": "جنگ ایران: در روز سی و پنجم حملات آمریکا و اسرائیل چه اتفاقی در حال رخ دادن است؟",
+    "Groundbreaking Israeli study finds malarial parasites hack RNA to deceive immune system": "مطالعه پیشگامانه اسرائیلی نشان داد که انگل های مالاریا RNA را هک می کنند تا سیستم ایمنی را فریب دهند",
+    "‘Dancing with the devil’: Nadav Lapid wants his satire film ‘Yes’ to ‘shake souls’": "«رقصیدن با شیطان»: ناداو لاپید می خواهد فیلم طنز «بله» او «روح ها را بلرزاند»",
+    "Man shot dead in Herzliya, another in Rahat, in third killing in town in a week": "مردی در هرتزلیا به ضرب گلوله کشته شد، دیگری در راهات، سومین قتل در شهر طی یک هفته"
   }
 }

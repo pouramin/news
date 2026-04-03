@@ -556,7 +556,11 @@
     "90e83151f2d5ed7f8bc0080d",
     "e6c0faa7508da22637c27b13",
     "26400a4dc16ef0323edd8ecc",
-    "0197b70f68a5fa273ce4e35a"
+    "0197b70f68a5fa273ce4e35a",
+    "8318679c8982576362cf8a4b",
+    "2f5a53127ba91ec609cd0723",
+    "62d087ea12a600f97148f364",
+    "439ba67795963883907bf5b1"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1115,7 +1119,11 @@
     "f09930037eec0913c6a19ac0",
     "4784e73ee3679dcd3025ffdf",
     "067241d70e9bd8df7f94eea7",
-    "3b5379df8207cddfc1b46c2c"
+    "3b5379df8207cddfc1b46c2c",
+    "51edd995d501f6082d7159a5",
+    "ec5643b953eb548cdbde6dcc",
+    "115186448e92816d05a27177",
+    "4061a1b6a0fbc9edd39a0aca"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1145,8 +1153,8 @@
     "dd016e40491f96e993a6b7ba",
     "5631a1f6855a9398cf4c9185"
   ],
-  "last_digest_hash": "66811c4d8c43eee8441c81278bbc25f8a108da64ee426b2947d4c74e3e7f04fc",
-  "last_run_iso": "2026-04-03T11:49:43.086885+00:00",
+  "last_digest_hash": "f3b4a102f12ee69d3acb0470e18ebe0b568f96aad0b01069d7e9c3b69898425b",
+  "last_run_iso": "2026-04-03T13:36:36.768708+00:00",
   "last_breaking_run_iso": "2026-04-03T05:47:29.879677+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1705,6 +1713,10 @@
     "‘I don’t know how we’ll emerge from this’: How much more can Israelis take?": "«نمی دانم چگونه از این وضعیت بیرون خواهیم آمد»: اسرائیلی ها چقدر دیگر می توانند تحمل کنند؟",
     "When will the Iran war end? Tracing the Trump administration's timelines": "جنگ ایران کی به پایان می رسد؟ ردیابی جدول زمانی دولت ترامپ",
     "Watch: Trump's shifting deadlines for ending Iran war": "تماشا کنید: تغییر مهلت های ترامپ برای پایان دادن به جنگ ایران",
-    "Rubble, mud and hair: How to rebuild a home in Gaza": "آوار، گل و مو: چگونه خانه ای را در غزه بازسازی کنیم"
+    "Rubble, mud and hair: How to rebuild a home in Gaza": "آوار، گل و مو: چگونه خانه ای را در غزه بازسازی کنیم",
+    "How the US and Israel are waging war on Iran’s medicines, vaccines": "چگونه آمریکا و اسرائیل علیه داروها و واکسن های ایران جنگ می کنند",
+    "‘Detect, deploy, reassure’: NYC Jewish security group launches patrols as threats abound": "«کشف، استقرار، اطمینان بخش»: گروه امنیتی یهودی نیویورک گشت زنی را آغاز می کند در حالی که تهدیدات فراوان است",
+    "War crimes are no longer shameful. That should terrify you": "جنایات جنگی دیگر شرم آور نیستند. این باید تو را بترساند",
+    "The elderly were among the most vulnerable in the Holocaust – and the most overlooked": "سالمندان در هولوکاست از آسیب پذیرترین و نادیده گرفته شده ترین افراد بودند"
   }
 }

@@ -570,7 +570,10 @@
     "ead73b90a22049e685923c1a",
     "00e75f1f021f6d2c0dea7186",
     "39f50446e28bcba51ebd4b9a",
-    "883d1e68e34a8bdf6dff2a96"
+    "883d1e68e34a8bdf6dff2a96",
+    "c54a4a53e032d00882825d69",
+    "4b459394cc844a8062c7302d",
+    "d0f8599ee73c1510bb44904b"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1143,7 +1146,10 @@
     "072e226730a7b9cc7a3b11fe",
     "61f4dcbc0bb534f28e6ac795",
     "8f1c069a5d281e31e97ef9d0",
-    "fc9d38d81945432ddcdf33fa"
+    "fc9d38d81945432ddcdf33fa",
+    "dcc0faba058aee2d852dadb2",
+    "818b3760db9d1406813604e4",
+    "3a76e3ea296a9509a1f7a0af"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1173,8 +1179,8 @@
     "dd016e40491f96e993a6b7ba",
     "5631a1f6855a9398cf4c9185"
   ],
-  "last_digest_hash": "c605ec97cca0f05e79184888998e8f3e76c75398d46636686503708f8c21df8b",
-  "last_run_iso": "2026-04-03T15:50:30.785846+00:00",
+  "last_digest_hash": "740c7ceae81e96b308a505e6824abea0f72c6b6a2920425823cbb2256f7c514e",
+  "last_run_iso": "2026-04-03T16:55:31.483730+00:00",
   "last_breaking_run_iso": "2026-04-03T05:47:29.879677+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1747,6 +1753,9 @@
     "Trump says with more time, US can ‘take the oil’ in Iran": "ترامپ می گوید با گذشت زمان بیشتر، آمریکا می تواند «نفت را در ایران بگیرد»",
     "In Lebanon, displaced Shiites feared over potential Hezbollah ties amid IDF strikes": "در لبنان، شیعیان آواره از احتمال ارتباط با حزب الله در پی حملات ارتش اسرائیل نگران بودند",
     "Israel threatens to destroy more Lebanon bridges as crisis mounts": "اسرائیل تهدید می کند که با شدت گرفتن بحران، پل های بیشتری در لبنان را تخریب خواهد کرد",
-    "Iran release videos of US aircraft searching for pilots shot down in Iran": "ایران ویدیوهایی از هواپیماهای آمریکایی در جستجوی خلبانان سرنگون شده در ایران منتشر کرده است"
+    "Iran release videos of US aircraft searching for pilots shot down in Iran": "ایران ویدیوهایی از هواپیماهای آمریکایی در جستجوی خلبانان سرنگون شده در ایران منتشر کرده است",
+    "Drone footage shows a factory in Israel damaged by Iranian missile debris": "فیلم های پهپادی کارخانه ای در اسرائیل را نشان می دهد که توسط بقایای موشکی ایران آسیب دیده است",
+    "In call, Pope urges Herzog to pursue ‘all paths of dialogue’ to end Iran war": "در این فراخوان، پاپ از هرتزوگ می خواهد «همه مسیرهای گفت وگو» را برای پایان دادن به جنگ ایران دنبال کند",
+    "French-owned container ship transits Hormuz Strait in first since Iran war": "کشتی کانتینری متعلق به فرانسه برای اولین بار از زمان جنگ ایران از تنگه هرمز عبور می کند"
   }
 }

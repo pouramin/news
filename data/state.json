@@ -620,7 +620,10 @@
     "c86e259a6a0276de034b3e7e",
     "ba42251612ea1131b00cc1fe",
     "c0b58c4e896f6ecd14c2d513",
-    "0d58b9b1b9a78a02a79d3594"
+    "0d58b9b1b9a78a02a79d3594",
+    "3631b789af115627ec409aa0",
+    "4673f8b6fa713965d03f1948",
+    "5e4599718642dc945a3382a7"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1243,7 +1246,10 @@
     "5078e38dec84d471fc49733e",
     "e5a1ab90e9aaf09f9c29e434",
     "d7f500d6c4af356c6b908739",
-    "fdd697b1ac5bc332bb6e4696"
+    "fdd697b1ac5bc332bb6e4696",
+    "0b089d95d5ce1eaae6c25e5d",
+    "99f65a97c85647d456e4f7ed",
+    "55ab47fbd09af326a3fae82b"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1276,8 +1282,8 @@
     "d1b16d7a7f25c9a892aa0814",
     "e6d065fdb3f9a007459a1815"
   ],
-  "last_digest_hash": "bd018abfce142c9ee529b51e91c6a23a7ad037aa046097ff4cb87ba26da64d20",
-  "last_run_iso": "2026-04-04T15:45:30.235405+00:00",
+  "last_digest_hash": "6a16b56f69ef2e8a4149f0ef6aeb4c0445c0559cdf21bdaf3d1d7f8f80c187db",
+  "last_run_iso": "2026-04-04T16:50:38.638446+00:00",
   "last_breaking_run_iso": "2026-04-04T13:18:40.265730+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1900,6 +1906,9 @@
     "Russia said coordinating with IDF on evacuation of workers from Iran nuclear plant": "روسیه اعلام کرد که با ارتش اسرائیل در زمینه تخلیه کارگران از نیروگاه هسته ای ایران هماهنگی می کند",
     "Vehicles burn in Israel after being hit with Iranian projectile debris": "خودروها در اسرائیل پس از اصابت بقایای گلوله های ایرانی در آتش می سوزند",
     "UK arrests fourth suspect over arson attack on Jewish ambulances in London": "بریتانیا چهارمین مظنون را به اتهام حمله آتش سوزی به آمبولانس های یهودی در لندن دستگیر کرد",
-    "Witness records Israeli strike on building in Lebanon’s Tyre": "شاهدان حمله اسرائیل به ساختمانی در صور لبنان را ثبت می کنند"
+    "Witness records Israeli strike on building in Lebanon’s Tyre": "شاهدان حمله اسرائیل به ساختمانی در صور لبنان را ثبت می کنند",
+    "Iran says US, Israel belong in Stone Age after Tehran university strike": "ایران می گوید آمریکا و اسرائیل پس از اعتصاب دانشگاه های تهران به عصر حجر تعلق دارند",
+    "UN watchdog voices 'deep concern' as Iran reports new attacks on nuclear plant": "نهاد ناظر سازمان ملل «نگرانی عمیق» را ابراز کرد در حالی که ایران از حملات جدید به نیروگاه هسته ای گزارش می دهد",
+    "US arrests relatives of deceased Iranian ​general Qasem ​Soleimani": "آمریکا بستگان ژنرال ایرانی فقید، قاسم سلیمانی را بازداشت کرد"
   }
 }

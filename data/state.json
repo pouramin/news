@@ -641,7 +641,9 @@
     "1391449b8238db8b7744dd5b",
     "b3d9c98852dc5348ac641ac4",
     "632e3e92cdff5d0d8ba51da5",
-    "25097dce6934a5d6990ff1c5"
+    "25097dce6934a5d6990ff1c5",
+    "ae3a4585b934263dcb32a9b8",
+    "f4a2b3f859e9532059b986ff"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1285,7 +1287,9 @@
     "54be85c993451f141fc3ab0d",
     "ecc5cc5cb1f0fde903b0c6ac",
     "8f303810f84517ebdeffb918",
-    "fe3a3e62d5961f6db134d814"
+    "fe3a3e62d5961f6db134d814",
+    "d0fa2b98d44d11d3611b39ed",
+    "5415048a07e75752477dc76a"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1320,8 +1324,8 @@
     "63e7911e7b0de4b8ef6ba0e2",
     "078ad07e1a7400a27141f833"
   ],
-  "last_digest_hash": "cf577471855017ec51922a37e21f22843072c889851a8f1d5ec90e4e772019a5",
-  "last_run_iso": "2026-04-04T21:43:48.639861+00:00",
+  "last_digest_hash": "6dda0095652d9fd23db382521563d52e4185edeafffa3e312b9eaf0e7bf44aad",
+  "last_run_iso": "2026-04-04T22:46:15.550567+00:00",
   "last_breaking_run_iso": "2026-04-04T20:47:48.035961+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1965,6 +1969,8 @@
     "Israeli police arrest antiwar protesters in Tel Aviv": "پلیس اسرائیل معترضان ضدجنگ را در تل آویو بازداشت کرد",
     "Search for missing airman presents serious test for US": "جستجو برای خلبان مفقود شده آزمون جدی برای آمریکا است",
     "How will Pakistan deal with the fallout from Iran war?": "پاکستان چگونه با پیامدهای جنگ ایران برخورد خواهد کرد؟",
-    "UAE condemns ‘acts of vandalism’ after anti-Israel riot at its embassy in Damascus": "امارات پس از شورش ضد اسرائیلی در سفارت خود در دمشق «اعمال خرابکاری» را محکوم کرد"
+    "UAE condemns ‘acts of vandalism’ after anti-Israel riot at its embassy in Damascus": "امارات پس از شورش ضد اسرائیلی در سفارت خود در دمشق «اعمال خرابکاری» را محکوم کرد",
+    "Two more detained over attack on Czech drone maker accused of making arms for Israel": "دو نفر دیگر به اتهام حمله به سازنده پهپاد چک به اتهام ساخت سلاح برای اسرائیل بازداشت شدند",
+    "Israeli measures tighten grip on Hebron’s Ibrahimi Mosque": "اقدامات اسرائیل کنترل خود را بر مسجد ابراهیمی الخلیل محکم تر می کند"
   }
 }

@@ -623,7 +623,12 @@
     "0d58b9b1b9a78a02a79d3594",
     "3631b789af115627ec409aa0",
     "4673f8b6fa713965d03f1948",
-    "5e4599718642dc945a3382a7"
+    "5e4599718642dc945a3382a7",
+    "25e843082926aab7dcf7277f",
+    "ce02540c4fd44310b20b5b43",
+    "2846c56fadd6e1ef2f03c6fc",
+    "26c9f9701e7a3eb4df68a97b",
+    "eec231facea9ae1b3776539a"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1249,7 +1254,12 @@
     "fdd697b1ac5bc332bb6e4696",
     "0b089d95d5ce1eaae6c25e5d",
     "99f65a97c85647d456e4f7ed",
-    "55ab47fbd09af326a3fae82b"
+    "55ab47fbd09af326a3fae82b",
+    "4371e310a55005075a69ff06",
+    "18b1fc84b76e47ea521b7fe9",
+    "7283b892283a29549ecc000e",
+    "cb2993712fe5adfc1daa68c8",
+    "dd48371b33f44bec0bfee2f7"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1282,8 +1292,8 @@
     "d1b16d7a7f25c9a892aa0814",
     "e6d065fdb3f9a007459a1815"
   ],
-  "last_digest_hash": "6a16b56f69ef2e8a4149f0ef6aeb4c0445c0559cdf21bdaf3d1d7f8f80c187db",
-  "last_run_iso": "2026-04-04T16:50:38.638446+00:00",
+  "last_digest_hash": "ac4066097f3428b1dff06fa4e7e39e9e5833c12eece1a62d1ecceb3832d144c0",
+  "last_run_iso": "2026-04-04T17:45:40.812817+00:00",
   "last_breaking_run_iso": "2026-04-04T13:18:40.265730+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1909,6 +1919,11 @@
     "Witness records Israeli strike on building in Lebanon’s Tyre": "شاهدان حمله اسرائیل به ساختمانی در صور لبنان را ثبت می کنند",
     "Iran says US, Israel belong in Stone Age after Tehran university strike": "ایران می گوید آمریکا و اسرائیل پس از اعتصاب دانشگاه های تهران به عصر حجر تعلق دارند",
     "UN watchdog voices 'deep concern' as Iran reports new attacks on nuclear plant": "نهاد ناظر سازمان ملل «نگرانی عمیق» را ابراز کرد در حالی که ایران از حملات جدید به نیروگاه هسته ای گزارش می دهد",
-    "US arrests relatives of deceased Iranian ​general Qasem ​Soleimani": "آمریکا بستگان ژنرال ایرانی فقید، قاسم سلیمانی را بازداشت کرد"
+    "US arrests relatives of deceased Iranian ​general Qasem ​Soleimani": "آمریکا بستگان ژنرال ایرانی فقید، قاسم سلیمانی را بازداشت کرد",
+    "US arrests relatives of slain IRGC general Soleimani for supporting Iran’s regime": "آمریکا بستگان ژنرال کشته شده سپاه سلیمانی را به اتهام حمایت از رژیم ایران بازداشت کرد",
+    "Trump says Iran has 48 hours to make deal as search for US pilot continues": "ترامپ می گوید ایران ۴۸ ساعت فرصت دارد تا توافق کند، در حالی که جستجو برای خلبان آمریکایی ادامه دارد",
+    "New video reveals moment US-Israeli munitions impact Iranian bridge": "ویدئوی جدید لحظه برخورد مهمات آمریکا و اسرائیل با پل ایرانی را نشان می دهد",
+    "Top diplomat Marco Rubio strips Qassem Soleimani’s niece of US residency": "مارکو روبیو، دیپلمات ارشد، اقامت در آمریکا را از خواهرزاده قاسم سلیمانی محروم کرد",
+    "What the Iran-Iraq war can tell us about the US-Israeli war on Iran": "جنگ ایران و عراق چه می تواند درباره جنگ آمریکا و اسرائیل علیه ایران به ما بگوید"
   }
 }

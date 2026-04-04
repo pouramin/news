@@ -628,7 +628,8 @@
     "ce02540c4fd44310b20b5b43",
     "2846c56fadd6e1ef2f03c6fc",
     "26c9f9701e7a3eb4df68a97b",
-    "eec231facea9ae1b3776539a"
+    "eec231facea9ae1b3776539a",
+    "817c9e16bab7c69b56fd9407"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1259,7 +1260,8 @@
     "18b1fc84b76e47ea521b7fe9",
     "7283b892283a29549ecc000e",
     "cb2993712fe5adfc1daa68c8",
-    "dd48371b33f44bec0bfee2f7"
+    "dd48371b33f44bec0bfee2f7",
+    "72d48a5fa6c76da27118827a"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1292,8 +1294,8 @@
     "d1b16d7a7f25c9a892aa0814",
     "e6d065fdb3f9a007459a1815"
   ],
-  "last_digest_hash": "ac4066097f3428b1dff06fa4e7e39e9e5833c12eece1a62d1ecceb3832d144c0",
-  "last_run_iso": "2026-04-04T17:45:40.812817+00:00",
+  "last_digest_hash": "855b73224dfaca58a24fe94cf4bf1f2c1dbbbfa1d588c53222763af7b1cb01c9",
+  "last_run_iso": "2026-04-04T18:59:46.574684+00:00",
   "last_breaking_run_iso": "2026-04-04T13:18:40.265730+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1924,6 +1926,7 @@
     "Trump says Iran has 48 hours to make deal as search for US pilot continues": "ترامپ می گوید ایران ۴۸ ساعت فرصت دارد تا توافق کند، در حالی که جستجو برای خلبان آمریکایی ادامه دارد",
     "New video reveals moment US-Israeli munitions impact Iranian bridge": "ویدئوی جدید لحظه برخورد مهمات آمریکا و اسرائیل با پل ایرانی را نشان می دهد",
     "Top diplomat Marco Rubio strips Qassem Soleimani’s niece of US residency": "مارکو روبیو، دیپلمات ارشد، اقامت در آمریکا را از خواهرزاده قاسم سلیمانی محروم کرد",
-    "What the Iran-Iraq war can tell us about the US-Israeli war on Iran": "جنگ ایران و عراق چه می تواند درباره جنگ آمریکا و اسرائیل علیه ایران به ما بگوید"
+    "What the Iran-Iraq war can tell us about the US-Israeli war on Iran": "جنگ ایران و عراق چه می تواند درباره جنگ آمریکا و اسرائیل علیه ایران به ما بگوید",
+    "Italy’s Meloni meets Qatar emir to discuss energy issues amid Iran war": "ملونی ایتالیا با امیر قطر دیدار کرد تا درباره مسائل انرژی در بحبوحه جنگ ایران گفتگو کند"
   }
 }

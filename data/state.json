@@ -596,7 +596,12 @@
     "1277c1d1b52d3e20ac5f3007",
     "b1d6465bbb480cf47fbdc87d",
     "f84f251d9f3810d598ca7dc8",
-    "9c3c3069eb0f0780b38508d4"
+    "9c3c3069eb0f0780b38508d4",
+    "eed05048300041d69e603881",
+    "7593dc0f76a3949720bfd7cd",
+    "3bef0f42b99030a75f5cc791",
+    "23d51071342b72f3ef554815",
+    "e48703e2f17b800231df5a7a"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1195,7 +1200,12 @@
     "6cba3d484871805732e17e53",
     "e4c94bed69144a83a5c0a12f",
     "56102e6e3f1c9f321a23b72a",
-    "9b47a1882a49749f28029b3e"
+    "9b47a1882a49749f28029b3e",
+    "010448d92bd838a450cfe238",
+    "96344c8a2677fefee27dd4f9",
+    "e5b5c399b993c5ac89cdf370",
+    "6958130b29fd15c17c5b96b3",
+    "d2ca5988433451c13ef684e4"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1227,8 +1237,8 @@
     "36c8ea2a4c1d4626d58c1a05",
     "d1b16d7a7f25c9a892aa0814"
   ],
-  "last_digest_hash": "212b52db722ef88ba4f7b4bbf4d2db63fe826106080b497adae48bec2b816734",
-  "last_run_iso": "2026-04-04T03:12:30.655971+00:00",
+  "last_digest_hash": "1bbed96058b7be7810f4180c0135c3805bb5c40cb1531820e9b98514a9b9ee5e",
+  "last_run_iso": "2026-04-04T05:34:02.738124+00:00",
   "last_breaking_run_iso": "2026-04-03T21:47:12.326136+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1827,6 +1837,11 @@
     "Regional effort to broker ceasefire between US and Iran reportedly hits dead end": "گزارش شده است که تلاش های منطقه ای برای میانجی گری آتش بس بین آمریکا و ایران به بن بست رسیده است",
     "Iran reportedly recovering bombed missile bunkers within hours after being struck": "گزارش شده است که ایران ظرف چند ساعت پس از حمله، سنگرهای موشکی بمباران شده را بازیابی کرده است",
     "Rescue team in Iran face 'harrowing and dangerous' search for US crew member": "تیم نجات در ایران با جستجوی «هولناک و خطرناک» برای یافتن خدمه آمریکایی مواجه است",
-    "Palestinian Christians in Gaza mark Good Friday": "مسیحیان فلسطینی در غزه جمعه نیک را جشن می گیرند"
+    "Palestinian Christians in Gaza mark Good Friday": "مسیحیان فلسطینی در غزه جمعه نیک را جشن می گیرند",
+    "Iran war: What is happening on day 36 of US-Israeli attacks?": "جنگ ایران: در روز سی و ششم حملات آمریکا و اسرائیل چه اتفاقی در حال رخ دادن است؟",
+    "Iranian missile attack hits residential areas in central Israel": "حمله موشکی ایران مناطق مسکونی در مرکز اسرائیل را هدف قرار داد",
+    "Connecticut school punishes students for antisemitic posts against hockey rivals": "مدرسه کنتیکت دانش آموزان را به خاطر پست های ضدیهودی علیه رقبای هاکی خود مجازات می کند",
+    "Could Paramount acquisition of CNN shift coverage of Israel?": "آیا خرید CNN توسط پارامونت می تواند پوشش اسرائیل را تغییر دهد؟",
+    "NASA Artemis II crew captures Earth’s brilliant blue beauty as they rocket to moon": "خدمه ناسا آرتمیس ۲ زیبایی آبی درخشان زمین را هنگام پرتاب به ماه ثبت می کنند"
   }
 }

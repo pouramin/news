@@ -601,7 +601,10 @@
     "7593dc0f76a3949720bfd7cd",
     "3bef0f42b99030a75f5cc791",
     "23d51071342b72f3ef554815",
-    "e48703e2f17b800231df5a7a"
+    "e48703e2f17b800231df5a7a",
+    "573a3bda5f894d21ad82f884",
+    "6e4d20fcfcb90b855738ec2c",
+    "32aa9ac706d3157e0ebfbfc3"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1205,7 +1208,10 @@
     "96344c8a2677fefee27dd4f9",
     "e5b5c399b993c5ac89cdf370",
     "6958130b29fd15c17c5b96b3",
-    "d2ca5988433451c13ef684e4"
+    "d2ca5988433451c13ef684e4",
+    "2d2dc24153fcae6b26b8f257",
+    "e5162e714e80cf16ea2fe755",
+    "00d4f712c8a5ded9e58aeaa0"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1237,8 +1243,8 @@
     "36c8ea2a4c1d4626d58c1a05",
     "d1b16d7a7f25c9a892aa0814"
   ],
-  "last_digest_hash": "1bbed96058b7be7810f4180c0135c3805bb5c40cb1531820e9b98514a9b9ee5e",
-  "last_run_iso": "2026-04-04T05:34:02.738124+00:00",
+  "last_digest_hash": "bd96a95bf27cdd7a9968bd39319e1383a429f272076aedd268e733b882706997",
+  "last_run_iso": "2026-04-04T07:14:38.239104+00:00",
   "last_breaking_run_iso": "2026-04-03T21:47:12.326136+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1842,6 +1848,9 @@
     "Iranian missile attack hits residential areas in central Israel": "حمله موشکی ایران مناطق مسکونی در مرکز اسرائیل را هدف قرار داد",
     "Connecticut school punishes students for antisemitic posts against hockey rivals": "مدرسه کنتیکت دانش آموزان را به خاطر پست های ضدیهودی علیه رقبای هاکی خود مجازات می کند",
     "Could Paramount acquisition of CNN shift coverage of Israel?": "آیا خرید CNN توسط پارامونت می تواند پوشش اسرائیل را تغییر دهد؟",
-    "NASA Artemis II crew captures Earth’s brilliant blue beauty as they rocket to moon": "خدمه ناسا آرتمیس ۲ زیبایی آبی درخشان زمین را هنگام پرتاب به ماه ثبت می کنند"
+    "NASA Artemis II crew captures Earth’s brilliant blue beauty as they rocket to moon": "خدمه ناسا آرتمیس ۲ زیبایی آبی درخشان زمین را هنگام پرتاب به ماه ثبت می کنند",
+    "Iran said restoring bombed missile bunkers within hours after being struck": "ایران اعلام کرد که سنگرهای موشکی بمباران شده ظرف چند ساعت پس از حمله بازسازی می شوند",
+    "Iran executes two members of banned opposition group": "ایران دو عضو گروه مخالف ممنوعه را اعدام کرد",
+    "How does a fighter pilot survive being shot down in enemy territory?": "یک خلبان جنگنده چگونه می تواند در قلمرو دشمن سرنگون شود؟"
   }
 }

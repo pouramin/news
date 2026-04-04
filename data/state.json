@@ -607,7 +607,8 @@
     "32aa9ac706d3157e0ebfbfc3",
     "0b14e56fffbc0d1fe03ab2cf",
     "57cba6010ea1efd9c0bd1923",
-    "f43d47b8cccd14637731ff94"
+    "f43d47b8cccd14637731ff94",
+    "b2d93e7bf66e6ee9f572bc2f"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1217,7 +1218,8 @@
     "00d4f712c8a5ded9e58aeaa0",
     "cbab860f8369daca7f5d16f3",
     "3b3468df4ee91389b23ded21",
-    "ec7f22b4d68dba4d7641ffca"
+    "ec7f22b4d68dba4d7641ffca",
+    "05ed49579643d1886247f032"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1249,8 +1251,8 @@
     "36c8ea2a4c1d4626d58c1a05",
     "d1b16d7a7f25c9a892aa0814"
   ],
-  "last_digest_hash": "a31fd9e5b80d93372f50499581b75ff0d38d0cd6461958cd160fec2d3ce9d6f4",
-  "last_run_iso": "2026-04-04T10:49:41.012069+00:00",
+  "last_digest_hash": "203a5002ac40e79f00abf802bee580157b310f70f01098e15e7beae610ce7513",
+  "last_run_iso": "2026-04-04T11:38:48.047605+00:00",
   "last_breaking_run_iso": "2026-04-03T21:47:12.326136+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1860,6 +1862,7 @@
     "How does a fighter pilot survive being shot down in enemy territory?": "یک خلبان جنگنده چگونه می تواند در قلمرو دشمن سرنگون شود؟",
     "Kanye West plays to packed LA stadium as he launches comeback from antisemitism controversies": "کانیه وست در ورزشگاه پر از لس آنجلس اجرا می کند و پس از جنجال های یهودستیزی بازمی گردد",
     "Iran executes two convicted members of banned opposition group": "ایران دو عضو محکوم شده گروه مخالف ممنوعه را اعدام کرد",
-    "Far-right Israeli influencer banned from TikTok for breaking harassment rules": "اینفلوئنسر راست افراطی اسرائیلی به دلیل نقض قوانین آزار و اذیت از تیک تاک محروم شد"
+    "Far-right Israeli influencer banned from TikTok for breaking harassment rules": "اینفلوئنسر راست افراطی اسرائیلی به دلیل نقض قوانین آزار و اذیت از تیک تاک محروم شد",
+    "Explosion hits Christian pro-Israel center in the Netherlands": "انفجاری مرکز مسیحی طرفدار اسرائیل در هلند را درنوردید"
   }
 }

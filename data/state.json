@@ -608,7 +608,11 @@
     "0b14e56fffbc0d1fe03ab2cf",
     "57cba6010ea1efd9c0bd1923",
     "f43d47b8cccd14637731ff94",
-    "b2d93e7bf66e6ee9f572bc2f"
+    "b2d93e7bf66e6ee9f572bc2f",
+    "e6d065fdb3f9a007459a1815",
+    "c4ca762f820f55ff7c0b3b32",
+    "e0d5e23ac5cacf30d23b0d16",
+    "852bb078541d8197be5c380e"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1219,7 +1223,11 @@
     "cbab860f8369daca7f5d16f3",
     "3b3468df4ee91389b23ded21",
     "ec7f22b4d68dba4d7641ffca",
-    "05ed49579643d1886247f032"
+    "05ed49579643d1886247f032",
+    "e5da2b17138cc682b385e900",
+    "9cc9380c2bda69a372b06f0d",
+    "785d727a10e9920f8f2b254e",
+    "c8ea8ccf117e4d833e07d607"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1249,11 +1257,12 @@
     "dd016e40491f96e993a6b7ba",
     "5631a1f6855a9398cf4c9185",
     "36c8ea2a4c1d4626d58c1a05",
-    "d1b16d7a7f25c9a892aa0814"
+    "d1b16d7a7f25c9a892aa0814",
+    "e6d065fdb3f9a007459a1815"
   ],
-  "last_digest_hash": "203a5002ac40e79f00abf802bee580157b310f70f01098e15e7beae610ce7513",
-  "last_run_iso": "2026-04-04T11:38:48.047605+00:00",
-  "last_breaking_run_iso": "2026-04-03T21:47:12.326136+00:00",
+  "last_digest_hash": "bde82d9108c78071c6db367f4f00b4596b9f9aa07c7e2d939f9814c66d8002e3",
+  "last_run_iso": "2026-04-04T13:18:40.265730+00:00",
+  "last_breaking_run_iso": "2026-04-04T13:18:40.265730+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -1863,6 +1872,10 @@
     "Kanye West plays to packed LA stadium as he launches comeback from antisemitism controversies": "کانیه وست در ورزشگاه پر از لس آنجلس اجرا می کند و پس از جنجال های یهودستیزی بازمی گردد",
     "Iran executes two convicted members of banned opposition group": "ایران دو عضو محکوم شده گروه مخالف ممنوعه را اعدام کرد",
     "Far-right Israeli influencer banned from TikTok for breaking harassment rules": "اینفلوئنسر راست افراطی اسرائیلی به دلیل نقض قوانین آزار و اذیت از تیک تاک محروم شد",
-    "Explosion hits Christian pro-Israel center in the Netherlands": "انفجاری مرکز مسیحی طرفدار اسرائیل در هلند را درنوردید"
+    "Explosion hits Christian pro-Israel center in the Netherlands": "انفجاری مرکز مسیحی طرفدار اسرائیل در هلند را درنوردید",
+    "6 wounded as Iran cluster bombs smash homes in central Israel; IDF hits Iran infrastructure": "۶ نفر زخمی شدند در حالی که بمب های خوشه ای ایران خانه ها را در مرکز اسرائیل منفجر کرد؛ ارتش اسرائیل زیرساخت های ایران را هدف قرار می دهد",
+    "Projectile hits near Iran’s Bushehr nuclear plant, killing one: IAEA": "گلوله ای در نزدیکی نیروگاه هسته ای بوشهر ایران اصابت کرد و یک نفر را کشت: آژانس بین المللی انرژی اتمی",
+    "Israel’s unchecked war machine": "ماشین جنگی بی مهار اسرائیل",
+    "Angel Studio’s new animated ‘David’ will feel familiar to Israelis – and Christians, too": "انیمیشن جدید «دیوید» از استودیو آنجل برای اسرائیلی ها – و همچنین مسیحیان – آشنا خواهد بود"
   }
 }

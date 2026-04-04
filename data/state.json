@@ -589,7 +589,14 @@
     "5bddd4acd9c48567113ec468",
     "d1b16d7a7f25c9a892aa0814",
     "1dbf69464ab03531b5342048",
-    "cb5673b24211794e2689d399"
+    "cb5673b24211794e2689d399",
+    "08ee9c44c4596f73b2d4ce80",
+    "c8ced3941f7b692b6c2cee67",
+    "b5e3898086423a437715c5ae",
+    "1277c1d1b52d3e20ac5f3007",
+    "b1d6465bbb480cf47fbdc87d",
+    "f84f251d9f3810d598ca7dc8",
+    "9c3c3069eb0f0780b38508d4"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1181,7 +1188,14 @@
     "e5c54e4dc30faa92b056030a",
     "05dca22a73687bc36564393c",
     "383a256793dbb52e456a52a2",
-    "dc0691644cd5f47ba3e27241"
+    "dc0691644cd5f47ba3e27241",
+    "76e5d5309a1acc455473520e",
+    "d7a8dfaa5685e9df06fda40d",
+    "fcfe0f2cab4a29ce7dc0c4e9",
+    "6cba3d484871805732e17e53",
+    "e4c94bed69144a83a5c0a12f",
+    "56102e6e3f1c9f321a23b72a",
+    "9b47a1882a49749f28029b3e"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1213,8 +1227,8 @@
     "36c8ea2a4c1d4626d58c1a05",
     "d1b16d7a7f25c9a892aa0814"
   ],
-  "last_digest_hash": "a8d9fb73bf067187420e58ef00c178049e90d39331606faf3411772f236cf4cb",
-  "last_run_iso": "2026-04-03T23:46:41.304671+00:00",
+  "last_digest_hash": "212b52db722ef88ba4f7b4bbf4d2db63fe826106080b497adae48bec2b816734",
+  "last_run_iso": "2026-04-04T03:12:30.655971+00:00",
   "last_breaking_run_iso": "2026-04-03T21:47:12.326136+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1806,6 +1820,13 @@
     "Survivors of Iran bridge attack recall terror of US-Israeli strike": "بازماندگان حمله به پل ایران به یاد وحشت حمله آمریکا و اسرائیل می افتند",
     "3 UNIFIL peacekeepers hurt in south Lebanon blast; IDF blames Hezbollah rocket": "۳ حافظ صلح یونیفیل در انفجار جنوب لبنان زخمی شدند؛ ارتش اسرائیل موشک حزب الله را مقصر می داند",
     "Christians in Lebanon observe Good Friday under Israeli attacks": "مسیحیان در لبنان جمعه نیک را زیر حملات اسرائیل گرامی می دارند",
-    "Will force be used to reopen Strait of Hormuz?": "آیا برای بازگشایی تنگه هرمز از زور استفاده خواهد شد؟"
+    "Will force be used to reopen Strait of Hormuz?": "آیا برای بازگشایی تنگه هرمز از زور استفاده خواهد شد؟",
+    "IDF extends time reservists must serve this year, amid Iran and Hezbollah wars": "ارتش اسرائیل امسال زمان خدمت نیروهای ذخیره را تمدید می کند، در بحبوحه جنگ های ایران و حزب الله",
+    "Hezbollah attacks damage homes in north; IDF said to destroy east Lebanon bridge": "حملات حزب الله به خانه ها در شمال آسیب می زند؛ ارتش اسرائیل اعلام کرد که پل شرق لبنان را نابود خواهد کرد",
+    "Iran war live: Tehran downs 2 US warplanes; Israel bombs Lebanon bridges": "جنگ ایران زنده: تهران دو هواپیمای جنگی آمریکایی را سرنگون کرد؛ اسرائیل پل های لبنان را بمباران می کند",
+    "Regional effort to broker ceasefire between US and Iran reportedly hits dead end": "گزارش شده است که تلاش های منطقه ای برای میانجی گری آتش بس بین آمریکا و ایران به بن بست رسیده است",
+    "Iran reportedly recovering bombed missile bunkers within hours after being struck": "گزارش شده است که ایران ظرف چند ساعت پس از حمله، سنگرهای موشکی بمباران شده را بازیابی کرده است",
+    "Rescue team in Iran face 'harrowing and dangerous' search for US crew member": "تیم نجات در ایران با جستجوی «هولناک و خطرناک» برای یافتن خدمه آمریکایی مواجه است",
+    "Palestinian Christians in Gaza mark Good Friday": "مسیحیان فلسطینی در غزه جمعه نیک را جشن می گیرند"
   }
 }

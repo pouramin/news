@@ -629,7 +629,10 @@
     "2846c56fadd6e1ef2f03c6fc",
     "26c9f9701e7a3eb4df68a97b",
     "eec231facea9ae1b3776539a",
-    "817c9e16bab7c69b56fd9407"
+    "817c9e16bab7c69b56fd9407",
+    "70a02dfa6ebcaf15a3011f5d",
+    "dd5e0566f4cbae69ebedf3a4",
+    "605a9d862318fbbcb1b93669"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1261,7 +1264,10 @@
     "7283b892283a29549ecc000e",
     "cb2993712fe5adfc1daa68c8",
     "dd48371b33f44bec0bfee2f7",
-    "72d48a5fa6c76da27118827a"
+    "72d48a5fa6c76da27118827a",
+    "7b3e0ce0ca85c06cc052ad2e",
+    "5244401cf23ece873e5c21da",
+    "eb761fd43359a3f0b1cf3302"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1294,8 +1300,8 @@
     "d1b16d7a7f25c9a892aa0814",
     "e6d065fdb3f9a007459a1815"
   ],
-  "last_digest_hash": "855b73224dfaca58a24fe94cf4bf1f2c1dbbbfa1d588c53222763af7b1cb01c9",
-  "last_run_iso": "2026-04-04T18:59:46.574684+00:00",
+  "last_digest_hash": "718cfd76f1b5f141bbb9962a638971ba027db21e83cba20f0f9cd6cb8d47585c",
+  "last_run_iso": "2026-04-04T19:41:12.718695+00:00",
   "last_breaking_run_iso": "2026-04-04T13:18:40.265730+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1927,6 +1933,9 @@
     "New video reveals moment US-Israeli munitions impact Iranian bridge": "ویدئوی جدید لحظه برخورد مهمات آمریکا و اسرائیل با پل ایرانی را نشان می دهد",
     "Top diplomat Marco Rubio strips Qassem Soleimani’s niece of US residency": "مارکو روبیو، دیپلمات ارشد، اقامت در آمریکا را از خواهرزاده قاسم سلیمانی محروم کرد",
     "What the Iran-Iraq war can tell us about the US-Israeli war on Iran": "جنگ ایران و عراق چه می تواند درباره جنگ آمریکا و اسرائیل علیه ایران به ما بگوید",
-    "Italy’s Meloni meets Qatar emir to discuss energy issues amid Iran war": "ملونی ایتالیا با امیر قطر دیدار کرد تا درباره مسائل انرژی در بحبوحه جنگ ایران گفتگو کند"
+    "Italy’s Meloni meets Qatar emir to discuss energy issues amid Iran war": "ملونی ایتالیا با امیر قطر دیدار کرد تا درباره مسائل انرژی در بحبوحه جنگ ایران گفتگو کند",
+    "What we know so far about the US fighter jet shot down over Iran": "آنچه تاکنون درباره سرنگونی جنگنده آمریکایی بر فراز ایران می دانیم",
+    "Vehicle engulfed in flames after Israeli drone strike in central Gaza": "خودرویی پس از حمله پهپادی اسرائیل به مرکز غزه در آتش فرو رفت",
+    "Iran’s coastline: architecture of control": "سواحل ایران: معماری کنترل"
   }
 }

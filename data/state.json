@@ -715,7 +715,9 @@
     "50bdf06e6d9c97b141dd05fa",
     "d196976dee4743d0d01b54bb",
     "ace50ed4fcd70bdd3b982e75",
-    "f1a66132ae2990194fd2e7b0"
+    "f1a66132ae2990194fd2e7b0",
+    "52e61225ef7565419ac0d851",
+    "39e863f1360a9ec7da3a300c"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1433,7 +1435,9 @@
     "66eb620844c9ab07f4b3cb84",
     "beb5c96ae4797a1776d53041",
     "bd5f70b26849c6cc8a204113",
-    "578759609a9da14531a70295"
+    "578759609a9da14531a70295",
+    "56d467f7989294612c9d412b",
+    "96742daf523808381b7c4afa"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1470,8 +1474,8 @@
     "cbe0815e18d71366233fafb5",
     "1832b31aafaaa36ebedad12f"
   ],
-  "last_digest_hash": "f4b2af2a8ed74eb0edc1e7f6abcbf299f1dace4bd1566ec321277ec1905b5ab5",
-  "last_run_iso": "2026-04-05T20:48:59.133842+00:00",
+  "last_digest_hash": "2419b08cc48e9b2a06a019f1a09cfc526f311479ce5587fd4264d645ddaa4b8b",
+  "last_run_iso": "2026-04-05T21:45:04.785976+00:00",
   "last_breaking_run_iso": "2026-04-05T16:51:47.646466+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -2189,6 +2193,8 @@
     "How rescue of US airman in remote part of Iran unfolded": "چگونه نجات خلبان آمریکایی در مناطق دورافتاده ایران رخ داد",
     "Hamas armed wing rejects disarmament while Israel continues attacks": "شاخه مسلح حماس خلع سلاح را رد کرد در حالی که اسرائیل به حملات خود ادامه می دهد",
     "Hamas armed wing says disarmament demands not acceptable": "شاخه مسلح حماس می گوید درخواست های خلع سلاح قابل قبول نیست",
-    "Israeli air strike hits crowd in Gaza City": "حمله هوایی اسرائیل جمعیت شهر غزه را هدف قرار داد"
+    "Israeli air strike hits crowd in Gaza City": "حمله هوایی اسرائیل جمعیت شهر غزه را هدف قرار داد",
+    "Trump to Israeli TV: We were afraid downed US airman had been captured": "ترامپ به تلویزیون اسرائیل: ما نگران بودیم که خلبان سقوط کرده آمریکایی اسیر شده باشد",
+    "Ukraine and Syria to cooperate on security, Zelenskyy says": "زلنسکی می گوید اوکراین و سوریه در زمینه امنیت همکاری خواهند کرد"
   }
 }

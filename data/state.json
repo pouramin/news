@@ -697,7 +697,9 @@
     "c1ba4ca2e9d37d84da571aaf",
     "16383de855391ceeda06c847",
     "28ebf76d8fe058952a8292d5",
-    "02afd06b4559a55706d86ecf"
+    "02afd06b4559a55706d86ecf",
+    "c58bf2609e56b9f9d5b9f340",
+    "c4c969c1747efdb677fcdb4d"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1397,7 +1399,9 @@
     "77b555612ab27c52f752cecd",
     "ac2c08461abaeb16b4b22110",
     "8da07d0ad39681a61e1d7486",
-    "ba239691e44191499c43abc8"
+    "ba239691e44191499c43abc8",
+    "3a7936e9866037c111e3cd69",
+    "3a00697b120cb598a07dca8f"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1434,8 +1438,8 @@
     "cbe0815e18d71366233fafb5",
     "1832b31aafaaa36ebedad12f"
   ],
-  "last_digest_hash": "248c030ad128dd60890ab38b0465cc816b6ff92d01daa64b18cae7ae062b94c8",
-  "last_run_iso": "2026-04-05T16:51:47.646466+00:00",
+  "last_digest_hash": "68c8058d03843ef596a5f2bb6d7c31b5d1f8574f517959e1d208236620e73cf1",
+  "last_run_iso": "2026-04-05T17:45:51.083895+00:00",
   "last_breaking_run_iso": "2026-04-05T16:51:47.646466+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -2135,6 +2139,8 @@
     "‘Open the F***in’ Strait’: Trump threatens to bomb Iran’s power plants, starting Tuesday": "«تنگه لعنتی را باز کنید»: ترامپ تهدید به بمباران نیروگاه های ایران از سه شنبه می کند",
     "Trump threatens ‘hell’ for Iran over Hormuz Strait as deadline approaches": "ترامپ تهدید به «جهنم» برای ایران به خاطر تنگه هرمز کرد، در حالی که ضرب الاجل نزدیک می شود",
     "Israel’s Ben-Gvir details plans for Palestinian ‘death row’": "بن-گویر از اسرائیل برنامه های مربوط به «ردیف اعدام» فلسطینیان را شرح می دهد",
-    "Ex-hostages host radio shows on songs of strength in captivity": "گروگان های سابق برنامه های رادیویی درباره آهنگ های قدرت در اسارت اجرا می کنند"
+    "Ex-hostages host radio shows on songs of strength in captivity": "گروگان های سابق برنامه های رادیویی درباره آهنگ های قدرت در اسارت اجرا می کنند",
+    "OPEC+ agrees to hike oil output, warns of slow recovery after attacks": "اوپک+ با افزایش تولید نفت موافقت کرد و هشدار به بهبود کند پس از حملات داد",
+    "Levin says government should ignore High Court ruling allowing wartime protests": "لوین می گوید دولت باید حکم دادگاه عالی مبنی بر اجازه اعتراضات زمان جنگ را نادیده بگیرد"
   }
 }

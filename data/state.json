@@ -644,7 +644,12 @@
     "25097dce6934a5d6990ff1c5",
     "ae3a4585b934263dcb32a9b8",
     "f4a2b3f859e9532059b986ff",
-    "11180c4499ed074c5e341304"
+    "11180c4499ed074c5e341304",
+    "52a0d005e9a24f88bd99c1ea",
+    "80d2dd86aaa8eb017a88daca",
+    "4d023fec7c467a128d3a1ba1",
+    "361c4c01cf0f77c4cda76ac8",
+    "f31e724f90858c6c49735c4a"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1291,7 +1296,12 @@
     "fe3a3e62d5961f6db134d814",
     "d0fa2b98d44d11d3611b39ed",
     "5415048a07e75752477dc76a",
-    "b2a9f33ce7ad46551de96751"
+    "b2a9f33ce7ad46551de96751",
+    "3bc8f913626d8710798892ee",
+    "e30b51942e36f0da1e39bf7b",
+    "ccfea033298a6051c469858b",
+    "ff2ac0b6c5d5e38428d4ec9c",
+    "964892ce47eeb800a7cb5dc7"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1326,8 +1336,8 @@
     "63e7911e7b0de4b8ef6ba0e2",
     "078ad07e1a7400a27141f833"
   ],
-  "last_digest_hash": "e85339ac11b8f8abf51d3d0f63ba68710f789032e4aeb7ed88b97cbd5a8aae8f",
-  "last_run_iso": "2026-04-04T23:43:45.372948+00:00",
+  "last_digest_hash": "f6e1a3871cfca0a7b7725d928d06ebca67949ef29b004c75bb86865c467c99a8",
+  "last_run_iso": "2026-04-05T03:34:31.452195+00:00",
   "last_breaking_run_iso": "2026-04-04T20:47:48.035961+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1974,6 +1984,11 @@
     "UAE condemns ‘acts of vandalism’ after anti-Israel riot at its embassy in Damascus": "امارات پس از شورش ضد اسرائیلی در سفارت خود در دمشق «اعمال خرابکاری» را محکوم کرد",
     "Two more detained over attack on Czech drone maker accused of making arms for Israel": "دو نفر دیگر به اتهام حمله به سازنده پهپاد چک به اتهام ساخت سلاح برای اسرائیل بازداشت شدند",
     "Israeli measures tighten grip on Hebron’s Ibrahimi Mosque": "اقدامات اسرائیل کنترل خود را بر مسجد ابراهیمی الخلیل محکم تر می کند",
-    "Cops violently disperse protesters at Tel Aviv anti-war rally, after court raised attendance cap": "پلیس ها معترضان را در تجمع ضدجنگ تل آویو به شدت متفرق می کنند، پس از آنکه دادگاه سقف حضور را افزایش داد"
+    "Cops violently disperse protesters at Tel Aviv anti-war rally, after court raised attendance cap": "پلیس ها معترضان را در تجمع ضدجنگ تل آویو به شدت متفرق می کنند، پس از آنکه دادگاه سقف حضور را افزایش داد",
+    "Fresh Iranian ballistic missile salvos target northern, southern Israel overnight": "شلیک های تازه موشک های بالستیک ایران در طول شب شمال و جنوب اسرائیل را هدف قرار می دهد",
+    "Iran war live: Tehran rejects Trump’s ultimatum; fire at Kuwait oil complex": "جنگ ایران زنده: تهران اولتیماتوم ترامپ را رد می کند؛ آتش سوزی در مجتمع نفتی کویت",
+    "Iran says Iraqi ships can pass Strait of Hormuz as transits tick up": "ایران می گوید کشتی های عراقی می توانند از تنگه هرمز عبور کنند در حالی که عبورها افزایش می یابد",
+    "IDF Northern Command chief admits Israel overestimated damage to Hezbollah after 2024 war": "فرمانده فرماندهی شمالی ارتش اسرائیل اعتراف می کند که اسرائیل خسارات وارده به حزب الله پس از جنگ ۲۰۲۴ را بیش از حد برآورد کرده است",
+    "US satellite firm Planet Labs announces blackout on war on Iran images": "شرکت ماهواره ای آمریکایی Planet Labs اعلام کرد که تصاویر جنگ علیه ایران را قطع کرده است"
   }
 }

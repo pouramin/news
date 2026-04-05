@@ -672,7 +672,8 @@
     "3acc985fde9cfcbc5c7bc0fd",
     "82043857952587064c6c62da",
     "6e93e4aa73f07cf7389ada3b",
-    "a0f27d4784644fcbe28cf97f"
+    "a0f27d4784644fcbe28cf97f",
+    "ffc2220f51f9da97b77169c1"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1347,7 +1348,8 @@
     "798f578aa0f1213c3c9d3781",
     "1b8dc73d870784e5326103a4",
     "651cd64cb1922e994af7d562",
-    "2fe230aeb44832ca8330e24d"
+    "2fe230aeb44832ca8330e24d",
+    "9fce3a992d50c134d7fd6816"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1383,8 +1385,8 @@
     "078ad07e1a7400a27141f833",
     "cbe0815e18d71366233fafb5"
   ],
-  "last_digest_hash": "d5f15c5668a2e9a838da3b9a003f0f1f0fa2289cb48b718d842728cabb727dae",
-  "last_run_iso": "2026-04-05T10:51:41.273624+00:00",
+  "last_digest_hash": "1e6a7e253d1a88b76b9cdd02ff6bf942cdbb30335e1601bb9ba74b34094aafb2",
+  "last_run_iso": "2026-04-05T11:40:09.378841+00:00",
   "last_breaking_run_iso": "2026-04-05T07:21:10.350532+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -2059,6 +2061,7 @@
     "Israel’s Financial First Responders: Supporting Families and Business - Sponsored Content": "امدادگران مالی اسرائیل: حمایت از خانواده ها و کسب وکارها - محتوای حمایت شده",
     "Footage shows Israeli military dog attacking Palestinian man inside mosque": "تصاویر نشان می دهد که سگ نظامی اسرائیل در داخل مسجد به مرد فلسطینی حمله می کند",
     "Package emitting smoke triggers hazardous materials operation at Ben Gurion Airport": "دود ساطع کننده بسته باعث عملیات مواد خطرناک در فرودگاه بن گوریون می شود",
-    "US pilot from downed F-15E plane rescued in Iran: What we know": "خلبان آمریکایی از هواپیمای F-15E سقوط کرده در ایران نجات یافت: آنچه می دانیم"
+    "US pilot from downed F-15E plane rescued in Iran: What we know": "خلبان آمریکایی از هواپیمای F-15E سقوط کرده در ایران نجات یافت: آنچه می دانیم",
+    "“We blame Trump”: Drivers line up for free gas as prices surge in the US": "«ما ترامپ را مقصر می دانیم»: رانندگان برای دریافت بنزین رایگان صف می کشند در حالی که قیمت ها در آمریکا افزایش می یابد"
   }
 }

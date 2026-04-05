@@ -649,7 +649,9 @@
     "80d2dd86aaa8eb017a88daca",
     "4d023fec7c467a128d3a1ba1",
     "361c4c01cf0f77c4cda76ac8",
-    "f31e724f90858c6c49735c4a"
+    "f31e724f90858c6c49735c4a",
+    "2a2fec5c3d2de759632368a7",
+    "b26df2b137d6f54604e3c9b9"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1301,7 +1303,9 @@
     "e30b51942e36f0da1e39bf7b",
     "ccfea033298a6051c469858b",
     "ff2ac0b6c5d5e38428d4ec9c",
-    "964892ce47eeb800a7cb5dc7"
+    "964892ce47eeb800a7cb5dc7",
+    "6a75bca92e88a3cae8ede997",
+    "df71afad1fa4e0ab12585a2e"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1336,8 +1340,8 @@
     "63e7911e7b0de4b8ef6ba0e2",
     "078ad07e1a7400a27141f833"
   ],
-  "last_digest_hash": "f6e1a3871cfca0a7b7725d928d06ebca67949ef29b004c75bb86865c467c99a8",
-  "last_run_iso": "2026-04-05T03:34:31.452195+00:00",
+  "last_digest_hash": "4aacf52e7fef8774986cd307c4bbb7a3e5e523aaf3b71e3dbf74b22151c0e1a1",
+  "last_run_iso": "2026-04-05T05:50:38.159619+00:00",
   "last_breaking_run_iso": "2026-04-04T20:47:48.035961+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -1989,6 +1993,8 @@
     "Iran war live: Tehran rejects Trump’s ultimatum; fire at Kuwait oil complex": "جنگ ایران زنده: تهران اولتیماتوم ترامپ را رد می کند؛ آتش سوزی در مجتمع نفتی کویت",
     "Iran says Iraqi ships can pass Strait of Hormuz as transits tick up": "ایران می گوید کشتی های عراقی می توانند از تنگه هرمز عبور کنند در حالی که عبورها افزایش می یابد",
     "IDF Northern Command chief admits Israel overestimated damage to Hezbollah after 2024 war": "فرمانده فرماندهی شمالی ارتش اسرائیل اعتراف می کند که اسرائیل خسارات وارده به حزب الله پس از جنگ ۲۰۲۴ را بیش از حد برآورد کرده است",
-    "US satellite firm Planet Labs announces blackout on war on Iran images": "شرکت ماهواره ای آمریکایی Planet Labs اعلام کرد که تصاویر جنگ علیه ایران را قطع کرده است"
+    "US satellite firm Planet Labs announces blackout on war on Iran images": "شرکت ماهواره ای آمریکایی Planet Labs اعلام کرد که تصاویر جنگ علیه ایران را قطع کرده است",
+    "Satellite firm says it’s indefinitely withholding Iran war images at US request": "شرکت ماهواره ای اعلام کرده که به درخواست آمریکا تصاویر جنگ ایران را به طور نامحدود نگه داشته است",
+    "Trump’s unpopular war on Iran": "جنگ نامحبوب ترامپ علیه ایران"
   }
 }

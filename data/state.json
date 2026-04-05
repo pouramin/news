@@ -662,7 +662,12 @@
     "91e15c75f149300afbebb136",
     "60a23e0f38c5cea2832e7182",
     "fe0fb4a30dab94feb2d8073b",
-    "83e3608997643c4ff9269793"
+    "83e3608997643c4ff9269793",
+    "390084801c4f215f98318a8b",
+    "b69c2abf2d7a11057ac4f0e1",
+    "647d4de2d6d71c7d5cab065b",
+    "91e8e4ffe7108a020450594e",
+    "f49a997daa848aeb002b9892"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1327,7 +1332,12 @@
     "74f1fb23e5c3c549d8272f77",
     "29221736e2771c52b0e5b834",
     "dc5d9431ac8e96a1fd8f5c28",
-    "e1c56879f8b216f120b42365"
+    "e1c56879f8b216f120b42365",
+    "aa13ec2bb9109e4b388c41da",
+    "908940dd072e28e07a8023e2",
+    "8124c4849f667788cfe52e5d",
+    "3e98a2deb9b8cf8d5a5d37f4",
+    "0bdedc02dff9b87b00ba5867"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1363,8 +1373,8 @@
     "078ad07e1a7400a27141f833",
     "cbe0815e18d71366233fafb5"
   ],
-  "last_digest_hash": "93c950800b6824c280351c60dd84b2a75107d60849466fb1a49f4c1aeed6d57a",
-  "last_run_iso": "2026-04-05T08:57:52.281995+00:00",
+  "last_digest_hash": "7604296b5c397b08551bd96af9b6b4e1e3497c806c73c1894c100f3069037913",
+  "last_run_iso": "2026-04-05T09:53:11.625791+00:00",
   "last_breaking_run_iso": "2026-04-05T07:21:10.350532+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -2029,6 +2039,11 @@
     "Is the Iran War bringing Israel and the UAE closer together? - Sponsored Content": "آیا جنگ ایران اسرائیل و امارات را به هم نزدیک تر می کند؟ - محتوای حمایت شده",
     "Israel’s attack on UNRWA is central to its genocide of the Palestinians": "حمله اسرائیل به UNRWA در نسل کشی فلسطینی ها نقش مرکزی دارد",
     "Under Israeli restrictions, Palestinian Christians mark quiet Holy Week": "بر اساس محدودیت های اسرائیل، مسیحیان فلسطینی هفته مقدس آرام را گرامی می دارند",
-    "What we know so far about the search for missing US airman in Iran": "آنچه تاکنون درباره جستجوی خلبان مفقود شده آمریکایی در ایران می دانیم"
+    "What we know so far about the search for missing US airman in Iran": "آنچه تاکنون درباره جستجوی خلبان مفقود شده آمریکایی در ایران می دانیم",
+    "Countdown to Trump’s 48-hour Ultimatum - Sponsored Content": "شمارش معکوس تا اولتیماتوم ۴۸ ساعته ترامپ - محتوای حمایت شده",
+    "Kuwait’s power, water plants damaged as Iran keeps attacking Gulf states": "برق و نیروگاه های آبی کویت آسیب دیدند در حالی که ایران همچنان به کشورهای خلیج فارس حمله می کند",
+    "Passover under the shadow of war: the challenge of hope - Sponsored Content": "عید فصح زیر سایه جنگ: چالش امید - محتوای حمایت شده",
+    "A Hollywood Midrash- The Making of the Prince of Egypt - Sponsored Content": "یک میدراش هالیوودی - ساخت شاهزاده مصر - محتوای حمایت شده",
+    "Red-Green Alliance Explained, w/ Hussein Mansour & Izabella Tabarovsk - Sponsored Content": "توضیح اتحاد قرمز-سبز، همراه با حسین منصور و ایزابلا تاباروفسک - محتوای حمایت شده"
   }
 }

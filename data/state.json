@@ -673,7 +673,14 @@
     "82043857952587064c6c62da",
     "6e93e4aa73f07cf7389ada3b",
     "a0f27d4784644fcbe28cf97f",
-    "ffc2220f51f9da97b77169c1"
+    "ffc2220f51f9da97b77169c1",
+    "59cd8a9a33b918ad19f7016d",
+    "3c9c257a31af1acb1b5c9c3a",
+    "6bfb68262e190932d7e79078",
+    "c7e26534d3ed4c066c246628",
+    "dd23a59041be00ebae1cec6a",
+    "a9b4f7c5ad1d933fe8865134",
+    "31b8bb728804a488dd1a9101"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1349,7 +1356,14 @@
     "1b8dc73d870784e5326103a4",
     "651cd64cb1922e994af7d562",
     "2fe230aeb44832ca8330e24d",
-    "9fce3a992d50c134d7fd6816"
+    "9fce3a992d50c134d7fd6816",
+    "d2c61687dc3aea43225e8277",
+    "08c0df7e113bc9235362c2b4",
+    "29cee2f0b9b808bc24523ce3",
+    "85d81ec6b1768098ebc3e992",
+    "04f4e777ebba1d2de1d8710d",
+    "3540144128191f8db6bebc8a",
+    "6bf3d72a70e3b8accef7a76d"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1385,8 +1399,8 @@
     "078ad07e1a7400a27141f833",
     "cbe0815e18d71366233fafb5"
   ],
-  "last_digest_hash": "1e6a7e253d1a88b76b9cdd02ff6bf942cdbb30335e1601bb9ba74b34094aafb2",
-  "last_run_iso": "2026-04-05T11:40:09.378841+00:00",
+  "last_digest_hash": "a903248c4205529ac7564cc7288868461d14760410278a6f22f0b19c2956e895",
+  "last_run_iso": "2026-04-05T13:19:36.088414+00:00",
   "last_breaking_run_iso": "2026-04-05T07:21:10.350532+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -2062,6 +2076,13 @@
     "Footage shows Israeli military dog attacking Palestinian man inside mosque": "تصاویر نشان می دهد که سگ نظامی اسرائیل در داخل مسجد به مرد فلسطینی حمله می کند",
     "Package emitting smoke triggers hazardous materials operation at Ben Gurion Airport": "دود ساطع کننده بسته باعث عملیات مواد خطرناک در فرودگاه بن گوریون می شود",
     "US pilot from downed F-15E plane rescued in Iran: What we know": "خلبان آمریکایی از هواپیمای F-15E سقوط کرده در ایران نجات یافت: آنچه می دانیم",
-    "“We blame Trump”: Drivers line up for free gas as prices surge in the US": "«ما ترامپ را مقصر می دانیم»: رانندگان برای دریافت بنزین رایگان صف می کشند در حالی که قیمت ها در آمریکا افزایش می یابد"
+    "“We blame Trump”: Drivers line up for free gas as prices surge in the US": "«ما ترامپ را مقصر می دانیم»: رانندگان برای دریافت بنزین رایگان صف می کشند در حالی که قیمت ها در آمریکا افزایش می یابد",
+    "Daily Briefing April 5 – IDF soldiers absorb Hezbollah rockets in Lebanon push": "گزارش روزانه ۵ آوریل – سربازان ارتش اسرائیل راکت های حزب الله را در لبنان جذب می کنند",
+    "Iran’s ex-FM Zarif proposes peace roadmap; Gulf points at erosion of trust": "ظریف، وزیر اعظم پیشین ایران، نقشه راه صلح را پیشنهاد می کند؛ خلیج به فرسایش اعتماد اشاره دارد",
+    "Oman, Iran discuss smooth transit in Strait of Hormuz, Muscat says": "عمان و ایران درباره عبور روان در تنگه هرمز گفتگو می کنند، مسقط می گوید",
+    "Italian PM says the Gulf is ‘fundamental’ for Europe’s security": "نخست وزیر ایتالیا می گوید خلیج فارس «اساسی» برای امنیت اروپا است",
+    "Limited Passover and Easter ceremonies held at Jerusalem holy sites amid war restrictions": "مراسم محدود عید فصح و عید پاک در اماکن مقدس اورشلیم در میان محدودیت های جنگی برگزار شد",
+    "Court orders Nazi-looted Modigliani painting be returned to Jewish art dealer’s estate": "دادگاه دستور بازگرداندن نقاشی مودیلیانی غارت شده توسط نازی ها به ملک دلال هنری یهودی را صادر کرد",
+    "Pope urges peace in his first Easter mass: ‘Let those who have weapons lay them down’": "پاپ در نخستین مراسم عید پاک خود خواستار صلح می شود: «بگذارید کسانی که سلاح دارند، آن ها را زمین بگذارند»"
   }
 }

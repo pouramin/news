@@ -653,7 +653,16 @@
     "2a2fec5c3d2de759632368a7",
     "b26df2b137d6f54604e3c9b9",
     "cbe0815e18d71366233fafb5",
-    "2a8817885fe06e12d79c86b4"
+    "2a8817885fe06e12d79c86b4",
+    "6bf6bc56c2c7a86ef437e297",
+    "77c7b7be74778d99dfdbeb26",
+    "a4c77c367759efe0cb1f4482",
+    "e734db37f15463885f73227f",
+    "0198d0a058d24063c03986ea",
+    "91e15c75f149300afbebb136",
+    "60a23e0f38c5cea2832e7182",
+    "fe0fb4a30dab94feb2d8073b",
+    "83e3608997643c4ff9269793"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1309,7 +1318,16 @@
     "6a75bca92e88a3cae8ede997",
     "df71afad1fa4e0ab12585a2e",
     "4f8034bd64627291f1b87bfa",
-    "b7c5b566e567994dfc7f86be"
+    "b7c5b566e567994dfc7f86be",
+    "ba8a71f19c62527892d9d71c",
+    "c4f412b9cd6fb9d9008e479a",
+    "cb7fb555bbabba4ee2258251",
+    "726182d0c529e0d6cfb620c6",
+    "e59ae35380aea0a9b182e43a",
+    "74f1fb23e5c3c549d8272f77",
+    "29221736e2771c52b0e5b834",
+    "dc5d9431ac8e96a1fd8f5c28",
+    "e1c56879f8b216f120b42365"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1345,8 +1363,8 @@
     "078ad07e1a7400a27141f833",
     "cbe0815e18d71366233fafb5"
   ],
-  "last_digest_hash": "25f3a2e06a469f01b34dd9eb8358989d1d9e6f16155b3dc8c08e513869207888",
-  "last_run_iso": "2026-04-05T07:21:10.350532+00:00",
+  "last_digest_hash": "93c950800b6824c280351c60dd84b2a75107d60849466fb1a49f4c1aeed6d57a",
+  "last_run_iso": "2026-04-05T08:57:52.281995+00:00",
   "last_breaking_run_iso": "2026-04-05T07:21:10.350532+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -2002,6 +2020,15 @@
     "Satellite firm says it’s indefinitely withholding Iran war images at US request": "شرکت ماهواره ای اعلام کرده که به درخواست آمریکا تصاویر جنگ ایران را به طور نامحدود نگه داشته است",
     "Trump’s unpopular war on Iran": "جنگ نامحبوب ترامپ علیه ایران",
     "Aid groups warn Iran war is hindering food and medicine supply, suffering set to deepen": "گروه های امدادی هشدار می دهند که جنگ ایران تأمین غذا و دارو را مختل کرده و رنج ها رو به افزایش است",
-    "‘Miraculous’: US rescues second pilot downed in Iran, Trump confirms": "«معجزه آسا»: آمریکا دومین خلبان سرنگون شده در ایران را نجات داد، ترامپ تأیید کرد"
+    "‘Miraculous’: US rescues second pilot downed in Iran, Trump confirms": "«معجزه آسا»: آمریکا دومین خلبان سرنگون شده در ایران را نجات داد، ترامپ تأیید کرد",
+    "Yemen’s Houthis claim cluster missile attack on Israel’s Ben Gurion airport": "حوثی های یمن ادعای حمله موشکی خوشه ای به فرودگاه بن گوریون اسرائیل را بر عهده دارند",
+    "Iran executes two men for breaking into a military base during January’s protests": "ایران دو مرد را به اتهام ورود غیرمجاز به یک پایگاه نظامی در جریان اعتراضات ژانویه اعدام کرد",
+    "Iran war: What is happening on day 37 of US-Israeli attacks?": "جنگ ایران: در روز ۳۷ حملات آمریکا و اسرائیل چه اتفاقی در حال رخ دادن است؟",
+    "Thousands rally in Iraq against ‘senseless’ US-Israel war on Iran": "هزاران نفر در عراق علیه جنگ «بی معنی» آمریکا و اسرائیل علیه ایران تجمع کردند",
+    "Trump seeks to end the war without it becoming ‘an abject failure’": "ترامپ به دنبال پایان دادن به جنگ است بدون اینکه به «شکست کامل» تبدیل شود",
+    "Is the Iran War bringing Israel and the UAE closer together? - Sponsored Content": "آیا جنگ ایران اسرائیل و امارات را به هم نزدیک تر می کند؟ - محتوای حمایت شده",
+    "Israel’s attack on UNRWA is central to its genocide of the Palestinians": "حمله اسرائیل به UNRWA در نسل کشی فلسطینی ها نقش مرکزی دارد",
+    "Under Israeli restrictions, Palestinian Christians mark quiet Holy Week": "بر اساس محدودیت های اسرائیل، مسیحیان فلسطینی هفته مقدس آرام را گرامی می دارند",
+    "What we know so far about the search for missing US airman in Iran": "آنچه تاکنون درباره جستجوی خلبان مفقود شده آمریکایی در ایران می دانیم"
   }
 }

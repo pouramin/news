@@ -651,7 +651,9 @@
     "361c4c01cf0f77c4cda76ac8",
     "f31e724f90858c6c49735c4a",
     "2a2fec5c3d2de759632368a7",
-    "b26df2b137d6f54604e3c9b9"
+    "b26df2b137d6f54604e3c9b9",
+    "cbe0815e18d71366233fafb5",
+    "2a8817885fe06e12d79c86b4"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1305,7 +1307,9 @@
     "ff2ac0b6c5d5e38428d4ec9c",
     "964892ce47eeb800a7cb5dc7",
     "6a75bca92e88a3cae8ede997",
-    "df71afad1fa4e0ab12585a2e"
+    "df71afad1fa4e0ab12585a2e",
+    "4f8034bd64627291f1b87bfa",
+    "b7c5b566e567994dfc7f86be"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1338,11 +1342,12 @@
     "d1b16d7a7f25c9a892aa0814",
     "e6d065fdb3f9a007459a1815",
     "63e7911e7b0de4b8ef6ba0e2",
-    "078ad07e1a7400a27141f833"
+    "078ad07e1a7400a27141f833",
+    "cbe0815e18d71366233fafb5"
   ],
-  "last_digest_hash": "4aacf52e7fef8774986cd307c4bbb7a3e5e523aaf3b71e3dbf74b22151c0e1a1",
-  "last_run_iso": "2026-04-05T05:50:38.159619+00:00",
-  "last_breaking_run_iso": "2026-04-04T20:47:48.035961+00:00",
+  "last_digest_hash": "25f3a2e06a469f01b34dd9eb8358989d1d9e6f16155b3dc8c08e513869207888",
+  "last_run_iso": "2026-04-05T07:21:10.350532+00:00",
+  "last_breaking_run_iso": "2026-04-05T07:21:10.350532+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -1995,6 +2000,8 @@
     "IDF Northern Command chief admits Israel overestimated damage to Hezbollah after 2024 war": "فرمانده فرماندهی شمالی ارتش اسرائیل اعتراف می کند که اسرائیل خسارات وارده به حزب الله پس از جنگ ۲۰۲۴ را بیش از حد برآورد کرده است",
     "US satellite firm Planet Labs announces blackout on war on Iran images": "شرکت ماهواره ای آمریکایی Planet Labs اعلام کرد که تصاویر جنگ علیه ایران را قطع کرده است",
     "Satellite firm says it’s indefinitely withholding Iran war images at US request": "شرکت ماهواره ای اعلام کرده که به درخواست آمریکا تصاویر جنگ ایران را به طور نامحدود نگه داشته است",
-    "Trump’s unpopular war on Iran": "جنگ نامحبوب ترامپ علیه ایران"
+    "Trump’s unpopular war on Iran": "جنگ نامحبوب ترامپ علیه ایران",
+    "Aid groups warn Iran war is hindering food and medicine supply, suffering set to deepen": "گروه های امدادی هشدار می دهند که جنگ ایران تأمین غذا و دارو را مختل کرده و رنج ها رو به افزایش است",
+    "‘Miraculous’: US rescues second pilot downed in Iran, Trump confirms": "«معجزه آسا»: آمریکا دومین خلبان سرنگون شده در ایران را نجات داد، ترامپ تأیید کرد"
   }
 }

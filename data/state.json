@@ -667,7 +667,12 @@
     "b69c2abf2d7a11057ac4f0e1",
     "647d4de2d6d71c7d5cab065b",
     "91e8e4ffe7108a020450594e",
-    "f49a997daa848aeb002b9892"
+    "f49a997daa848aeb002b9892",
+    "ad27476b9fe862430bcb848e",
+    "3acc985fde9cfcbc5c7bc0fd",
+    "82043857952587064c6c62da",
+    "6e93e4aa73f07cf7389ada3b",
+    "a0f27d4784644fcbe28cf97f"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1337,7 +1342,12 @@
     "908940dd072e28e07a8023e2",
     "8124c4849f667788cfe52e5d",
     "3e98a2deb9b8cf8d5a5d37f4",
-    "0bdedc02dff9b87b00ba5867"
+    "0bdedc02dff9b87b00ba5867",
+    "4dc14d07a4f2e3a6d0511b4a",
+    "798f578aa0f1213c3c9d3781",
+    "1b8dc73d870784e5326103a4",
+    "651cd64cb1922e994af7d562",
+    "2fe230aeb44832ca8330e24d"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1373,8 +1383,8 @@
     "078ad07e1a7400a27141f833",
     "cbe0815e18d71366233fafb5"
   ],
-  "last_digest_hash": "7604296b5c397b08551bd96af9b6b4e1e3497c806c73c1894c100f3069037913",
-  "last_run_iso": "2026-04-05T09:53:11.625791+00:00",
+  "last_digest_hash": "d5f15c5668a2e9a838da3b9a003f0f1f0fa2289cb48b718d842728cabb727dae",
+  "last_run_iso": "2026-04-05T10:51:41.273624+00:00",
   "last_breaking_run_iso": "2026-04-05T07:21:10.350532+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -2044,6 +2054,11 @@
     "Kuwait’s power, water plants damaged as Iran keeps attacking Gulf states": "برق و نیروگاه های آبی کویت آسیب دیدند در حالی که ایران همچنان به کشورهای خلیج فارس حمله می کند",
     "Passover under the shadow of war: the challenge of hope - Sponsored Content": "عید فصح زیر سایه جنگ: چالش امید - محتوای حمایت شده",
     "A Hollywood Midrash- The Making of the Prince of Egypt - Sponsored Content": "یک میدراش هالیوودی - ساخت شاهزاده مصر - محتوای حمایت شده",
-    "Red-Green Alliance Explained, w/ Hussein Mansour & Izabella Tabarovsk - Sponsored Content": "توضیح اتحاد قرمز-سبز، همراه با حسین منصور و ایزابلا تاباروفسک - محتوای حمایت شده"
+    "Red-Green Alliance Explained, w/ Hussein Mansour & Izabella Tabarovsk - Sponsored Content": "توضیح اتحاد قرمز-سبز، همراه با حسین منصور و ایزابلا تاباروفسک - محتوای حمایت شده",
+    "‘WE GOT HIM’: US commandos rescue downed F-15 airman in daring raid deep inside Iran": "«ما او را گرفتیم»: کماندوهای آمریکایی در حمله جسورانه ای در اعماق ایران خلبان F-15 را نجات دادند",
+    "Israel’s Financial First Responders: Supporting Families and Business - Sponsored Content": "امدادگران مالی اسرائیل: حمایت از خانواده ها و کسب وکارها - محتوای حمایت شده",
+    "Footage shows Israeli military dog attacking Palestinian man inside mosque": "تصاویر نشان می دهد که سگ نظامی اسرائیل در داخل مسجد به مرد فلسطینی حمله می کند",
+    "Package emitting smoke triggers hazardous materials operation at Ben Gurion Airport": "دود ساطع کننده بسته باعث عملیات مواد خطرناک در فرودگاه بن گوریون می شود",
+    "US pilot from downed F-15E plane rescued in Iran: What we know": "خلبان آمریکایی از هواپیمای F-15E سقوط کرده در ایران نجات یافت: آنچه می دانیم"
   }
 }

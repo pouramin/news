@@ -717,7 +717,10 @@
     "ace50ed4fcd70bdd3b982e75",
     "f1a66132ae2990194fd2e7b0",
     "52e61225ef7565419ac0d851",
-    "39e863f1360a9ec7da3a300c"
+    "39e863f1360a9ec7da3a300c",
+    "6d80b3fd07286572a0f2f1e1",
+    "9d55aed579ce1f2db490fe07",
+    "b636808e76bcf3e302538385"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1437,7 +1440,10 @@
     "bd5f70b26849c6cc8a204113",
     "578759609a9da14531a70295",
     "56d467f7989294612c9d412b",
-    "96742daf523808381b7c4afa"
+    "96742daf523808381b7c4afa",
+    "25ce1b1910716dd199a7fcb9",
+    "8eb2d0ddcb3661f878f2d358",
+    "1ffdb6c22137fe0ee6ca74c1"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1474,8 +1480,8 @@
     "cbe0815e18d71366233fafb5",
     "1832b31aafaaa36ebedad12f"
   ],
-  "last_digest_hash": "2419b08cc48e9b2a06a019f1a09cfc526f311479ce5587fd4264d645ddaa4b8b",
-  "last_run_iso": "2026-04-05T21:45:04.785976+00:00",
+  "last_digest_hash": "f3079e0017d22e714f80fdd764b517f4cdb7a6032d74228d7bcd641794f998cb",
+  "last_run_iso": "2026-04-05T22:48:27.509448+00:00",
   "last_breaking_run_iso": "2026-04-05T16:51:47.646466+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -2195,6 +2201,9 @@
     "Hamas armed wing says disarmament demands not acceptable": "شاخه مسلح حماس می گوید درخواست های خلع سلاح قابل قبول نیست",
     "Israeli air strike hits crowd in Gaza City": "حمله هوایی اسرائیل جمعیت شهر غزه را هدف قرار داد",
     "Trump to Israeli TV: We were afraid downed US airman had been captured": "ترامپ به تلویزیون اسرائیل: ما نگران بودیم که خلبان سقوط کرده آمریکایی اسیر شده باشد",
-    "Ukraine and Syria to cooperate on security, Zelenskyy says": "زلنسکی می گوید اوکراین و سوریه در زمینه امنیت همکاری خواهند کرد"
+    "Ukraine and Syria to cooperate on security, Zelenskyy says": "زلنسکی می گوید اوکراین و سوریه در زمینه امنیت همکاری خواهند کرد",
+    "Los Angeles arrest shines light on lavish life of slain IRGC general Soleimani’s niece": "دستگیری در لس آنجلس زندگی پرزرق و برق خواهرزاده ژنرال کشته شده سپاه سلیمانی را روشن می کند",
+    "High Court raises wartime limit on Western Wall, Temple Mount access from 50 to 100": "دادگاه عالی محدودیت زمان جنگ دسترسی به دیوار غربی و کوه معبد را از ۵۰ به ۱۰۰ افزایش داد",
+    "Trump issues expletive-laden threat to Iran over Hormuz Strait blockage": "ترامپ تهدیدی پر از ناسزا علیه ایران به خاطر مسدود شدن تنگه هرمز مطرح می کند"
   }
 }

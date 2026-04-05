@@ -680,7 +680,11 @@
     "c7e26534d3ed4c066c246628",
     "dd23a59041be00ebae1cec6a",
     "a9b4f7c5ad1d933fe8865134",
-    "31b8bb728804a488dd1a9101"
+    "31b8bb728804a488dd1a9101",
+    "11788fd37c1c136f9b01ea10",
+    "d338d2a20cbc0e6c769822a2",
+    "7f4bb33d1f85e88d8e884617",
+    "b0c7aa9806b42e82f65dafb8"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1363,7 +1367,11 @@
     "85d81ec6b1768098ebc3e992",
     "04f4e777ebba1d2de1d8710d",
     "3540144128191f8db6bebc8a",
-    "6bf3d72a70e3b8accef7a76d"
+    "6bf3d72a70e3b8accef7a76d",
+    "34b9ebc68d93eea225d297fa",
+    "e85070db2e722465d36fb074",
+    "d290315183a53a7321230f95",
+    "467f979d22a7b4d7933056c0"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1399,8 +1407,8 @@
     "078ad07e1a7400a27141f833",
     "cbe0815e18d71366233fafb5"
   ],
-  "last_digest_hash": "a903248c4205529ac7564cc7288868461d14760410278a6f22f0b19c2956e895",
-  "last_run_iso": "2026-04-05T13:19:36.088414+00:00",
+  "last_digest_hash": "03741d57d2230952bfd1991932f3dfa0c7c3ba73659f6b49051942312ecc4e28",
+  "last_run_iso": "2026-04-05T14:50:00.725972+00:00",
   "last_breaking_run_iso": "2026-04-05T07:21:10.350532+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -2083,6 +2091,10 @@
     "Italian PM says the Gulf is ‘fundamental’ for Europe’s security": "نخست وزیر ایتالیا می گوید خلیج فارس «اساسی» برای امنیت اروپا است",
     "Limited Passover and Easter ceremonies held at Jerusalem holy sites amid war restrictions": "مراسم محدود عید فصح و عید پاک در اماکن مقدس اورشلیم در میان محدودیت های جنگی برگزار شد",
     "Court orders Nazi-looted Modigliani painting be returned to Jewish art dealer’s estate": "دادگاه دستور بازگرداندن نقاشی مودیلیانی غارت شده توسط نازی ها به ملک دلال هنری یهودی را صادر کرد",
-    "Pope urges peace in his first Easter mass: ‘Let those who have weapons lay them down’": "پاپ در نخستین مراسم عید پاک خود خواستار صلح می شود: «بگذارید کسانی که سلاح دارند، آن ها را زمین بگذارند»"
+    "Pope urges peace in his first Easter mass: ‘Let those who have weapons lay them down’": "پاپ در نخستین مراسم عید پاک خود خواستار صلح می شود: «بگذارید کسانی که سلاح دارند، آن ها را زمین بگذارند»",
+    "Iran hits Israeli industrial zone for third time, strikes critical energy infrastructure across Gulf": "ایران برای سومین بار به منطقه صنعتی اسرائیل حمله کرد و زیرساخت های حیاتی انرژی را در سراسر خلیج فارس هدف قرار داد",
+    "Of missiles and miracles: Residents of bombed cities count their blessings after weekend salvos": "از موشک ها و معجزات: ساکنان شهرهای بمباران شده پس از حملات آخر هفته، برکت خود را می شمارند",
+    "Trump offers no concrete plan as Strait of Hormuz closure shocks Europe": "ترامپ هیچ برنامه مشخصی ارائه نکرد، چرا که بسته شدن تنگه هرمز اروپا را شوکه کرد",
+    "As Iran war enters 6th week, escalation looks the most likely scenario": "با ورود جنگ ایران به هفته ششم، به نظر می رسد تشدید تنش محتمل ترین سناریو باشد"
   }
 }

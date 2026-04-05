@@ -708,7 +708,14 @@
     "c46388984d14740d31900232",
     "faf6230abb76d8b9d04bfdb8",
     "4d024a4f7d299e09b177d5e4",
-    "39638cca020cfbacee75129d"
+    "39638cca020cfbacee75129d",
+    "b03e2bcef34e568cf6dbf4e1",
+    "d7602fea6ae841a2609a1b53",
+    "c4e6fef17d852afeb9ce5a7a",
+    "50bdf06e6d9c97b141dd05fa",
+    "d196976dee4743d0d01b54bb",
+    "ace50ed4fcd70bdd3b982e75",
+    "f1a66132ae2990194fd2e7b0"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1419,7 +1426,14 @@
     "80d4e590e738348af51be2f6",
     "eb36ce00c9f260868d15d1c5",
     "89c5ae2c05f4fd7d0b96b980",
-    "e085ccb5332e4972939b15c2"
+    "e085ccb5332e4972939b15c2",
+    "136ca740babb8b2c278858df",
+    "6431350f4ddab27209e54369",
+    "d97f3a0b1bcd7d402ce62f36",
+    "66eb620844c9ab07f4b3cb84",
+    "beb5c96ae4797a1776d53041",
+    "bd5f70b26849c6cc8a204113",
+    "578759609a9da14531a70295"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1456,8 +1470,8 @@
     "cbe0815e18d71366233fafb5",
     "1832b31aafaaa36ebedad12f"
   ],
-  "last_digest_hash": "9337cfda198e1a7c97745b897f8804e7e1f424e852321929794b9180aa27bb11",
-  "last_run_iso": "2026-04-05T19:45:18.404672+00:00",
+  "last_digest_hash": "f4b2af2a8ed74eb0edc1e7f6abcbf299f1dace4bd1566ec321277ec1905b5ab5",
+  "last_run_iso": "2026-04-05T20:48:59.133842+00:00",
   "last_breaking_run_iso": "2026-04-05T16:51:47.646466+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -2168,6 +2182,13 @@
     "Frustration grows as Iran’s wartime internet shutdown breaks grim record": "ناامیدی افزایش می یابد زیرا قطع اینترنت ایران در زمان جنگ رکورد تلخ را شکسته است",
     "Video captures Iranian missile striking residential building in Haifa": "ویدئویی که موشک ایرانی را در حال اصابت به یک ساختمان مسکونی در حیفا ثبت می کند",
     "Rodent infestations and attacks spread in Gaza tent camps": "هجوم و حملات جوندگان در اردوگاه های چادری غزه گسترش یافت",
-    "El Al nixes regular flights through mid-April; United cancels Tel Aviv route until Sept 7": "ال عال پروازهای منظم تا اواسط آوریل را لغو می کند؛ یونایتد مسیر تل آویو را تا ۷ سپتامبر لغو می کند"
+    "El Al nixes regular flights through mid-April; United cancels Tel Aviv route until Sept 7": "ال عال پروازهای منظم تا اواسط آوریل را لغو می کند؛ یونایتد مسیر تل آویو را تا ۷ سپتامبر لغو می کند",
+    "4 injured, 4 feared trapped under rubble in Iranian missile strike on Haifa building": "۴ نفر زخمی و ۴ نفر بیم آن می رود که زیر آوار در حمله موشکی ایران به ساختمان حیفا گرفتار شده باشند",
+    "Analysis: Trump declares victory in Iran war after rescue, but threats to US operation still loom": "تحلیل: ترامپ پس از نجات در جنگ ایران پیروزی را اعلام کرد، اما تهدیدها علیه عملیات آمریکا همچنان در کمین است",
+    "Has the humanitarian crisis in Gaza been ignored?": "آیا بحران انسانی در غزه نادیده گرفته شده است؟",
+    "How rescue of US airman in remote part of Iran unfolded": "چگونه نجات خلبان آمریکایی در مناطق دورافتاده ایران رخ داد",
+    "Hamas armed wing rejects disarmament while Israel continues attacks": "شاخه مسلح حماس خلع سلاح را رد کرد در حالی که اسرائیل به حملات خود ادامه می دهد",
+    "Hamas armed wing says disarmament demands not acceptable": "شاخه مسلح حماس می گوید درخواست های خلع سلاح قابل قبول نیست",
+    "Israeli air strike hits crowd in Gaza City": "حمله هوایی اسرائیل جمعیت شهر غزه را هدف قرار داد"
   }
 }

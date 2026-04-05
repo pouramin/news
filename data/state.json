@@ -684,7 +684,13 @@
     "11788fd37c1c136f9b01ea10",
     "d338d2a20cbc0e6c769822a2",
     "7f4bb33d1f85e88d8e884617",
-    "b0c7aa9806b42e82f65dafb8"
+    "b0c7aa9806b42e82f65dafb8",
+    "f229b938541fd54451594860",
+    "42df1dc11d6dd8f3c0e3bafa",
+    "ec1c9b4f3e0c3e829a385d36",
+    "3f05969652587ed51de328f5",
+    "d690380005cde30e258b1e6c",
+    "a8bb28bfffbc57fdec7f6718"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1371,7 +1377,13 @@
     "34b9ebc68d93eea225d297fa",
     "e85070db2e722465d36fb074",
     "d290315183a53a7321230f95",
-    "467f979d22a7b4d7933056c0"
+    "467f979d22a7b4d7933056c0",
+    "c70fa4715878ea9e5ceba59e",
+    "690d01eddea70904244ff1a3",
+    "37cfdb2b805f86a7c70dd32a",
+    "41966e457077c7a93469b7cf",
+    "e363bbbcb81f5f700da3c7b6",
+    "74a2aa85323663904898d261"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1407,8 +1419,8 @@
     "078ad07e1a7400a27141f833",
     "cbe0815e18d71366233fafb5"
   ],
-  "last_digest_hash": "03741d57d2230952bfd1991932f3dfa0c7c3ba73659f6b49051942312ecc4e28",
-  "last_run_iso": "2026-04-05T14:50:00.725972+00:00",
+  "last_digest_hash": "6ccc6c88561d7641d610abb3d89bc78b9181f3e117a69abadd5c507c55764409",
+  "last_run_iso": "2026-04-05T15:46:30.923257+00:00",
   "last_breaking_run_iso": "2026-04-05T07:21:10.350532+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -2095,6 +2107,12 @@
     "Iran hits Israeli industrial zone for third time, strikes critical energy infrastructure across Gulf": "ایران برای سومین بار به منطقه صنعتی اسرائیل حمله کرد و زیرساخت های حیاتی انرژی را در سراسر خلیج فارس هدف قرار داد",
     "Of missiles and miracles: Residents of bombed cities count their blessings after weekend salvos": "از موشک ها و معجزات: ساکنان شهرهای بمباران شده پس از حملات آخر هفته، برکت خود را می شمارند",
     "Trump offers no concrete plan as Strait of Hormuz closure shocks Europe": "ترامپ هیچ برنامه مشخصی ارائه نکرد، چرا که بسته شدن تنگه هرمز اروپا را شوکه کرد",
-    "As Iran war enters 6th week, escalation looks the most likely scenario": "با ورود جنگ ایران به هفته ششم، به نظر می رسد تشدید تنش محتمل ترین سناریو باشد"
+    "As Iran war enters 6th week, escalation looks the most likely scenario": "با ورود جنگ ایران به هفته ششم، به نظر می رسد تشدید تنش محتمل ترین سناریو باشد",
+    "Strike kills 4 near Beirut hospital, as President Aoun pushes for talks with Israel": "حمله ای در نزدیکی بیمارستان بیروت ۴ نفر را کشت، در حالی که رئیس جمهور عون برای مذاکرات با اسرائیل فشار می آورد",
+    "Iran’s World Cup participation depends on relocation from US, minister says": "وزیر می گوید حضور ایران در جام جهانی به انتقال از آمریکا بستگی دارد",
+    "Mearsheimer: No signs of quick end to US-Israel war on Iran": "میرشایمر: هیچ نشانه ای از پایان سریع جنگ آمریکا و اسرائیل علیه ایران وجود ندارد",
+    "Nepal announces two-day weekends as fuel crisis caused by Iran war deepens": "نپال تعطیلات دو روزه را اعلام کرد، زیرا بحران سوخت ناشی از جنگ ایران عمیق تر شده است",
+    "Why an attack on Bushehr nuclear plant would be catastrophic for the Gulf": "چرا حمله به نیروگاه هسته ای بوشهر می تواند برای خلیج فارس فاجعه بار باشد",
+    "US airman injured but safe after rescue from inside Iran, Trump says": "ترامپ می گوید خلبان آمریکایی زخمی اما پس از نجات از داخل ایران سالم است"
   }
 }

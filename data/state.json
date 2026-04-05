@@ -701,7 +701,14 @@
     "c58bf2609e56b9f9d5b9f340",
     "c4c969c1747efdb677fcdb4d",
     "2878e7ababc95305f5963725",
-    "2b80f087058efcacfcabc750"
+    "2b80f087058efcacfcabc750",
+    "334f116fa3a9a0c99dfad11c",
+    "e2f032de7835c5bd7a264ef9",
+    "311f250024a44cb22e2304bb",
+    "c46388984d14740d31900232",
+    "faf6230abb76d8b9d04bfdb8",
+    "4d024a4f7d299e09b177d5e4",
+    "39638cca020cfbacee75129d"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1405,7 +1412,14 @@
     "3a7936e9866037c111e3cd69",
     "3a00697b120cb598a07dca8f",
     "fd77979d33fb6783a2fc12da",
-    "db3cdb6f74fe5c0bccc9b45a"
+    "db3cdb6f74fe5c0bccc9b45a",
+    "8b6df18ed0082d383a5a893f",
+    "9bf068c20922da9c1d6a7262",
+    "5299151ac0bc43cfc5d40d43",
+    "80d4e590e738348af51be2f6",
+    "eb36ce00c9f260868d15d1c5",
+    "89c5ae2c05f4fd7d0b96b980",
+    "e085ccb5332e4972939b15c2"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1442,8 +1456,8 @@
     "cbe0815e18d71366233fafb5",
     "1832b31aafaaa36ebedad12f"
   ],
-  "last_digest_hash": "fa1a49cd4aa8e3a9a0963accf03e32b69f42ce973cad5436164d722bef596cb7",
-  "last_run_iso": "2026-04-05T19:01:16.224745+00:00",
+  "last_digest_hash": "9337cfda198e1a7c97745b897f8804e7e1f424e852321929794b9180aa27bb11",
+  "last_run_iso": "2026-04-05T19:45:18.404672+00:00",
   "last_breaking_run_iso": "2026-04-05T16:51:47.646466+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -2147,6 +2161,13 @@
     "OPEC+ agrees to hike oil output, warns of slow recovery after attacks": "اوپک+ با افزایش تولید نفت موافقت کرد و هشدار به بهبود کند پس از حملات داد",
     "Levin says government should ignore High Court ruling allowing wartime protests": "لوین می گوید دولت باید حکم دادگاه عالی مبنی بر اجازه اعتراضات زمان جنگ را نادیده بگیرد",
     "Israeli air strikes, shelling across Lebanon add to rising death toll": "حملات هوایی و گلوله باران اسرائیل در سراسر لبنان به افزایش تلفات افزوده است",
-    "‘Refuse to celebrate’: Christians in Gaza mark sombre Easter amid genocide": "«از جشن گرفتن خودداری کنید»: مسیحیان در غزه عید پاک غمگین را در میان نسل کشی گرامی می دارند"
+    "‘Refuse to celebrate’: Christians in Gaza mark sombre Easter amid genocide": "«از جشن گرفتن خودداری کنید»: مسیحیان در غزه عید پاک غمگین را در میان نسل کشی گرامی می دارند",
+    "Arab parties clash over delayed Joint List agreement, but deny breakdown in talks": "احزاب عربی بر سر تأخیر در توافق فهرست مشترک درگیر شدند اما شکست مذاکرات را رد کردند",
+    "Israel continues deadly attacks on Gaza while striking Iran, Lebanon": "اسرائیل حملات مرگبار به غزه را ادامه می دهد و همزمان ایران و لبنان را هدف قرار می دهد",
+    "Trump threatens Iran in expletive-filled social media post": "ترامپ ایران را با پستی پر از ناسزا در شبکه های اجتماعی تهدید می کند",
+    "Frustration grows as Iran’s wartime internet shutdown breaks grim record": "ناامیدی افزایش می یابد زیرا قطع اینترنت ایران در زمان جنگ رکورد تلخ را شکسته است",
+    "Video captures Iranian missile striking residential building in Haifa": "ویدئویی که موشک ایرانی را در حال اصابت به یک ساختمان مسکونی در حیفا ثبت می کند",
+    "Rodent infestations and attacks spread in Gaza tent camps": "هجوم و حملات جوندگان در اردوگاه های چادری غزه گسترش یافت",
+    "El Al nixes regular flights through mid-April; United cancels Tel Aviv route until Sept 7": "ال عال پروازهای منظم تا اواسط آوریل را لغو می کند؛ یونایتد مسیر تل آویو را تا ۷ سپتامبر لغو می کند"
   }
 }

@@ -763,7 +763,9 @@
     "ef5f7409510205d3489f1dcc",
     "d7299ff4f7ae8b219738a400",
     "ee39dc5826067e1cd1567568",
-    "b26d67a71b854a56ad919ed4"
+    "b26d67a71b854a56ad919ed4",
+    "0922cab03f061789c06b6f89",
+    "7801cfe95e6f4c3574f37a2d"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1529,7 +1531,9 @@
     "52f7407c26c29e1daa529119",
     "45ebb6556a63bf84a0acf86e",
     "d188aa4b78d5a20bdb4877be",
-    "0d196899bec4cf857799d047"
+    "0d196899bec4cf857799d047",
+    "91fa307b1b18d660256dc2ec",
+    "fb58ebb4db0d92897ba1b8e8"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1568,8 +1572,8 @@
     "fa6cc50383e3f809c8ca705d",
     "f0a17e76addd6a0e49d1268a"
   ],
-  "last_digest_hash": "0b4c233fbb835bd4f7c98144704bc7f2c4f48ae171fad53531525fbd4b9664ee",
-  "last_run_iso": "2026-04-06T15:03:35.133990+00:00",
+  "last_digest_hash": "ad2d396872d1d9dfbb1df2f4820ec37cda3dc6abe2f2654ec87c4fe0a9bc1ebc",
+  "last_run_iso": "2026-04-06T15:59:12.227718+00:00",
   "last_breaking_run_iso": "2026-04-06T15:03:35.133990+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -2335,6 +2339,8 @@
     "Iran says won’t open Hormuz for temporary truce after Pakistan proposes 45-day ceasefire": "ایران می گوید پس از پیشنهاد پاکستان برای آتش بس ۴۵ روزه، هرمز را برای آتش بس موقت باز نخواهد کرد",
     "In maps and photos: Five Iranian civilian bridges at risk of US strikes": "در نقشه ها و عکس ها: پنج پل غیرنظامی ایرانی در معرض حملات آمریکا",
     "Where are Iran’s power plants that Trump has threatened to destroy?": "نیروگاه های ایران که ترامپ تهدید به نابودی شان کرده کجاست؟",
-    "Two Palestinians hospitalized in settler attack on West Bank village": "دو فلسطینی در حمله شهرک نشینان به روستای کرانه باختری بستری شدند"
+    "Two Palestinians hospitalized in settler attack on West Bank village": "دو فلسطینی در حمله شهرک نشینان به روستای کرانه باختری بستری شدند",
+    "Education minister says wartime school limitations will likely be extended": "وزیر آموزش می گوید محدودیت های مدارس در زمان جنگ احتمالا تمدید خواهد شد",
+    "A 12-hour drive through Iran offers glimpses of destruction, defiance and daily life": "رانندگی ۱۲ ساعته در ایران، نشانه هایی از ویرانی، سرکشی و زندگی روزمره را ارائه می دهد"
   }
 }

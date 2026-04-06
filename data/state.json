@@ -758,7 +758,12 @@
     "e6b2747b9cc6d2c6c1475fe2",
     "dce2ef35779397fc9678a856",
     "65cd0cdac2a8a038ec5c2547",
-    "b1210600a6c7adbde08a24a6"
+    "b1210600a6c7adbde08a24a6",
+    "f0a17e76addd6a0e49d1268a",
+    "ef5f7409510205d3489f1dcc",
+    "d7299ff4f7ae8b219738a400",
+    "ee39dc5826067e1cd1567568",
+    "b26d67a71b854a56ad919ed4"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1519,7 +1524,12 @@
     "be601d131bc5e3d3bed8dd4d",
     "38951d4a7a117298fc578ad8",
     "fccc4db8b43d68366dfddcb5",
-    "5d134d12a96cf85a977b0709"
+    "5d134d12a96cf85a977b0709",
+    "999cc159125ba7be9a3a5e45",
+    "52f7407c26c29e1daa529119",
+    "45ebb6556a63bf84a0acf86e",
+    "d188aa4b78d5a20bdb4877be",
+    "0d196899bec4cf857799d047"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1555,11 +1565,12 @@
     "078ad07e1a7400a27141f833",
     "cbe0815e18d71366233fafb5",
     "1832b31aafaaa36ebedad12f",
-    "fa6cc50383e3f809c8ca705d"
+    "fa6cc50383e3f809c8ca705d",
+    "f0a17e76addd6a0e49d1268a"
   ],
-  "last_digest_hash": "23f55150696c58e00bbe6d04c791e295a29393210c23b026a2dd18ed5b8e7d18",
-  "last_run_iso": "2026-04-06T13:42:36.494358+00:00",
-  "last_breaking_run_iso": "2026-04-06T09:21:53.606829+00:00",
+  "last_digest_hash": "0b4c233fbb835bd4f7c98144704bc7f2c4f48ae171fad53531525fbd4b9664ee",
+  "last_run_iso": "2026-04-06T15:03:35.133990+00:00",
+  "last_breaking_run_iso": "2026-04-06T15:03:35.133990+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -2319,6 +2330,11 @@
     "Trump’s ‘Bridge Day’ threat: Can a last-ditch ceasefire plan work?": "تهدید «روز پل» ترامپ: آیا یک طرح آتش بس آخرین لحظه می تواند جواب دهد؟",
     "Daily Briefing April 6: Court, MKs battle over wartime restrictions on protests vs. prayers": "گزارش روزانه ۶ آوریل: دادگاه و نمایندگان مجلس بر سر محدودیت های زمان جنگ در اعتراضات در مقابل نماز درگیر هستند",
     "Man from Bedouin town Segev Shalom stabbed to death in nearby Ofakim; 5 arrested": "مردی از شهر بدوی به نام سگف شالوم در نزدیکی اوفاکیم با چاقو کشته شد؛ ۵ نفر دستگیر شدند",
-    "The US could still try to play the ethnic card in Iran": "آمریکا هنوز می تواند در ایران به عنوان کارت قومی بازی کند"
+    "The US could still try to play the ethnic card in Iran": "آمریکا هنوز می تواند در ایران به عنوان کارت قومی بازی کند",
+    "Israel kills Islamic Guards intel chief, bombs largest Iranian petrochemical plant": "اسرائیل رئیس اطلاعات سپاه اسلامی را کشت و بزرگ ترین کارخانه پتروشیمی ایران را بمب گذاری کرد",
+    "Iran says won’t open Hormuz for temporary truce after Pakistan proposes 45-day ceasefire": "ایران می گوید پس از پیشنهاد پاکستان برای آتش بس ۴۵ روزه، هرمز را برای آتش بس موقت باز نخواهد کرد",
+    "In maps and photos: Five Iranian civilian bridges at risk of US strikes": "در نقشه ها و عکس ها: پنج پل غیرنظامی ایرانی در معرض حملات آمریکا",
+    "Where are Iran’s power plants that Trump has threatened to destroy?": "نیروگاه های ایران که ترامپ تهدید به نابودی شان کرده کجاست؟",
+    "Two Palestinians hospitalized in settler attack on West Bank village": "دو فلسطینی در حمله شهرک نشینان به روستای کرانه باختری بستری شدند"
   }
 }

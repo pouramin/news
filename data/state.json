@@ -798,7 +798,9 @@
     "a97327120667e05dcb3e6bd0",
     "0a0f991f4894e15e2d2a4bb5",
     "5f271f1b8e80a65356a79752",
-    "101234ac20f937945878e8eb"
+    "101234ac20f937945878e8eb",
+    "bde23eb233e643b01e8f559e",
+    "40eccff16ffcaf878410e931"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1599,7 +1601,9 @@
     "e7f7c9b9eaf686d73aa3f240",
     "7cb337736304c4210eb2d59c",
     "368bc2bdcdaecf4a0e68fd7b",
-    "cf01883cd1896099755de77b"
+    "cf01883cd1896099755de77b",
+    "f4e9cc55a489365835b44b4c",
+    "5cfc94c8340a47f87978d4af"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1639,8 +1643,8 @@
     "f0a17e76addd6a0e49d1268a",
     "e1a5001cb54e22cef3df2673"
   ],
-  "last_digest_hash": "f83bbbfa43af2b7dc92527ad5afb77738568b8b3f1a002c8768fe1c6d841085b",
-  "last_run_iso": "2026-04-06T22:52:38.850306+00:00",
+  "last_digest_hash": "f2ccf6135d2c93f342b4910aad579cc10a331b227a01df87aa1fe4c35cc9efa6",
+  "last_run_iso": "2026-04-06T23:48:55.778025+00:00",
   "last_breaking_run_iso": "2026-04-06T19:16:18.740594+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -2441,6 +2445,8 @@
     "Protesters swarm US embassy in Tel Aviv, demanding end of wars": "معترضان به سفارت آمریکا در تل آویو هجوم آوردند و خواستار پایان جنگ ها شدند",
     "Lebanon’s Hezbollah and Yemen’s Houthis join Iran in strike on Israel": "حزب الله لبنان و حوثی های یمن به همراه ایران به اسرائیل حمله می کنند",
     "Israeli soldiers fire tear gas at Palestinian youth during raid in Hebron": "سربازان اسرائیلی در جریان یورش به الخلیل به سوی جوانان فلسطینی گاز اشک آور شلیک می کنند",
-    "‘I’m very upset’: Trump says US tried to arm Iranian protesters, but guns were diverted": "«خیلی ناراحتم»: ترامپ می گوید آمریکا تلاش کرد معترضان ایرانی را مسلح کند، اما اسلحه ها منحرف شدند"
+    "‘I’m very upset’: Trump says US tried to arm Iranian protesters, but guns were diverted": "«خیلی ناراحتم»: ترامپ می گوید آمریکا تلاش کرد معترضان ایرانی را مسلح کند، اما اسلحه ها منحرف شدند",
+    "Trump threatens to take out Iran in 'one night' if no deal before deadline": "ترامپ تهدید می کند که اگر قبل از ضرب الاجل توافقی حاصل نشود، ایران را در «یک شب» از میان برمی دارد",
+    "Trump's Hormuz ultimatum nears - with little indication Iran is on board": "اولتیماتوم هرمز ترامپ نزدیک می شود - بدون اینکه نشانه ای از حمایت ایران از آن باشد"
   }
 }

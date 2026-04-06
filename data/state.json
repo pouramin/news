@@ -747,7 +747,18 @@
     "cf64bc3441a923853cc6b97b",
     "83338fb286f7ffa0d9faf90b",
     "f494c37ca2590fead6d1f003",
-    "82da0c579f67caf0d4ef16bf"
+    "82da0c579f67caf0d4ef16bf",
+    "837722288a7fc353d3decbe2",
+    "f77ae0feaeea334fbae460ea",
+    "3a3f36bcdddc12c95b7ea9fd",
+    "4a79bf9f620518fa3d1c8517",
+    "2c2b974dde5237c69ce281f7",
+    "371934f0f2ce276ee4456097",
+    "99fa0a3fc005153a4fa9866c",
+    "e6b2747b9cc6d2c6c1475fe2",
+    "dce2ef35779397fc9678a856",
+    "65cd0cdac2a8a038ec5c2547",
+    "b1210600a6c7adbde08a24a6"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1497,7 +1508,18 @@
     "972b26f5b231902721e44723",
     "007b00ac4c377567961eaac3",
     "e2146175ba5f2b801b8d4694",
-    "61aa9c52aa4dd90515729850"
+    "61aa9c52aa4dd90515729850",
+    "66646dc974c6d56407af5763",
+    "7bca955c28e4b15b23e55f0e",
+    "00021dd1aca8059635a809fb",
+    "efe90266f2de999cff69a56e",
+    "16934b3d42f0b78b0a624fb1",
+    "3d9f06eb1d135d33bf55a278",
+    "05b960a28ac0aa3c3c0ecc4d",
+    "be601d131bc5e3d3bed8dd4d",
+    "38951d4a7a117298fc578ad8",
+    "fccc4db8b43d68366dfddcb5",
+    "5d134d12a96cf85a977b0709"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1535,8 +1557,8 @@
     "1832b31aafaaa36ebedad12f",
     "fa6cc50383e3f809c8ca705d"
   ],
-  "last_digest_hash": "f0dca39d921a2c96070ecdeab25de6cb870ef0de838c2690279caa7cf89b8872",
-  "last_run_iso": "2026-04-06T11:09:39.026661+00:00",
+  "last_digest_hash": "23f55150696c58e00bbe6d04c791e295a29393210c23b026a2dd18ed5b8e7d18",
+  "last_run_iso": "2026-04-06T13:42:36.494358+00:00",
   "last_breaking_run_iso": "2026-04-06T09:21:53.606829+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -2286,6 +2308,17 @@
     "Up to 1.2 million people forced to flee as Israel pummels Lebanon": "تا ۱.۲ میلیون نفر مجبور به فرار شدند در حالی که اسرائیل لبنان را در هم کوبید",
     "4.7-magnitude earthquake off Lebanon coast felt in northern Israel": "زمین لرزه ای به بزرگی ۴.۷ ریشتر در سواحل لبنان در شمال اسرائیل احساس می شود",
     "World Cup qualification earns Iraq coach Arnold a hero’s welcome in Sydney": "صعود به جام جهانی استقبال قهرمانانه ای برای سرمربی عراق، آرنولد، در سیدنی به ارمغان آورد",
-    "Iraqis give rousing welcome to coach behind historic World Cup return": "عراقی ها با استقبال پرشور از مربی پشت بازگشت تاریخی جام جهانی استقبال می کنند"
+    "Iraqis give rousing welcome to coach behind historic World Cup return": "عراقی ها با استقبال پرشور از مربی پشت بازگشت تاریخی جام جهانی استقبال می کنند",
+    "Israel ramps up Arrow interceptor production amid reports of depleted stockpile": "اسرائیل تولید رهگیر Arrow را در پی گزارش هایی از کاهش ذخایر افزایش داد",
+    "How US operation to rescue air officer from Iran unfolded": "عملیات آمریکا برای نجات یک افسر هوایی از ایران چگونه پیش رفت",
+    "Pakistan offers ‘two-phased’ truce deal to end US-Israel war on Iran": "پاکستان توافق آتش بس «دو مرحله ای» را برای پایان دادن به جنگ آمریکا و اسرائیل علیه ایران پیشنهاد داد",
+    "Iran threatens Bab al-Mandeb closure: How would that affect world trade?": "ایران تهدید به تعطیلی باب المندب می کند: این موضوع چه تأثیری بر تجارت جهانی خواهد داشت؟",
+    "Israel destroys southern Lebanon towns, hits ‘safe’ areas around Beirut": "اسرائیل شهرهای جنوب لبنان را ویران کرد و مناطق «امن» اطراف بیروت را هدف قرار داد",
+    "Jobless young Palestinians trapped as Israel holds Gaza’s economy hostage": "جوانان فلسطینی بیکار گرفتار شده اند در حالی که اسرائیل اقتصاد غزه را گروگان گرفته است",
+    "Has Trump confirmed Iran’s claim that protesters were US-armed?": "آیا ترامپ ادعای ایران مبنی بر اینکه معترضان مسلح به آمریکا بودند را تأیید کرده است؟",
+    "Trump’s ‘Bridge Day’ threat: Can a last-ditch ceasefire plan work?": "تهدید «روز پل» ترامپ: آیا یک طرح آتش بس آخرین لحظه می تواند جواب دهد؟",
+    "Daily Briefing April 6: Court, MKs battle over wartime restrictions on protests vs. prayers": "گزارش روزانه ۶ آوریل: دادگاه و نمایندگان مجلس بر سر محدودیت های زمان جنگ در اعتراضات در مقابل نماز درگیر هستند",
+    "Man from Bedouin town Segev Shalom stabbed to death in nearby Ofakim; 5 arrested": "مردی از شهر بدوی به نام سگف شالوم در نزدیکی اوفاکیم با چاقو کشته شد؛ ۵ نفر دستگیر شدند",
+    "The US could still try to play the ethnic card in Iran": "آمریکا هنوز می تواند در ایران به عنوان کارت قومی بازی کند"
   }
 }

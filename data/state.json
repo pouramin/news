@@ -732,7 +732,10 @@
     "4e26306302ad6a857f87245b",
     "721fde8fc85d3a3d074533e4",
     "f4e68ce662d70adbaeb9d66f",
-    "398434e9d55320d40b001467"
+    "398434e9d55320d40b001467",
+    "9a11805091b3960c5c59fb89",
+    "331d993162e3b24da8a92357",
+    "99ff165fd5a604227861f780"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1467,7 +1470,10 @@
     "c428987de4f3b9a2267aa4c8",
     "94dfb36721b61502f5b64270",
     "84d397c903e0786e40caed68",
-    "bad5739e622acc0cc30c8486"
+    "bad5739e622acc0cc30c8486",
+    "197195469713ae1e919adc5b",
+    "efd8291e9720f42ce6d768f3",
+    "de34f7e2fd5665ec55b175cb"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1504,8 +1510,8 @@
     "cbe0815e18d71366233fafb5",
     "1832b31aafaaa36ebedad12f"
   ],
-  "last_digest_hash": "26df0e4319e3229023d0f419541dd7d7a40ede992f0a1c974e7535e7b331679d",
-  "last_run_iso": "2026-04-06T06:05:44.598333+00:00",
+  "last_digest_hash": "d0f3db88c938177dce8a40fe6e361c400648a8487b224ac5b51a64d34fce4f2e",
+  "last_run_iso": "2026-04-06T08:00:46.274282+00:00",
   "last_breaking_run_iso": "2026-04-05T16:51:47.646466+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -2240,6 +2246,9 @@
     "Lebanon’s Christians mark Easter by praying for southern villages hit by war": "مسیحیان لبنان عید پاک را با دعا برای روستاهای جنوبی که از جنگ آسیب دیده اند گرامی می دارند",
     "How an upstart rabbi was excommunicated over his Haggadah for a ‘new US Judaism’": "چگونه یک خاخام تازه کار به خاطر هگادای خود برای «یهودیت جدید آمریکا» تکفیر شد",
     "2 dead found in wreckage of Haifa building hit by missile; 2 more people still missing": "۲ جسد در خرابه های ساختمان حیفا که توسط موشک هدف قرار گرفته بود پیدا شدند؛ دو نفر دیگر هنوز مفقود هستند",
-    "Kanye to headline London festival; major sponsors drop support, Starmer raises concerns": "کانیه به عنوان سرگروه جشنواره لندن؛ حامیان اصلی حمایت خود را قطع کردند، استارمر نگرانی هایی را مطرح کرد"
+    "Kanye to headline London festival; major sponsors drop support, Starmer raises concerns": "کانیه به عنوان سرگروه جشنواره لندن؛ حامیان اصلی حمایت خود را قطع کردند، استارمر نگرانی هایی را مطرح کرد",
+    "Iran executes man over alleged attack on military site during January protests": "ایران مردی را به اتهام حمله به محل نظامی در جریان اعتراضات ژانویه اعدام کرد",
+    "A new regional order for the Strait of Hormuz": "یک نظم منطقه ای جدید برای تنگه هرمز",
+    "Artemis II approaches historic lunar loop for first Moon flyby since 1972": "آرتمیس دوم به حلقه تاریخی ماه نزدیک می شود برای اولین پرواز از کنار ماه از سال ۱۹۷۲"
   }
 }

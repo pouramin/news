@@ -790,7 +790,14 @@
     "6556cf1071482f857d4e8572",
     "9b063fa345a8aa056058c628",
     "4905da635556b47d9ddac208",
-    "6e69cef6f39a77311cd11c68"
+    "6e69cef6f39a77311cd11c68",
+    "916d0bf8c3cdf5cc2a5ad79c",
+    "36ad678c23b67e8ebbf137fb",
+    "838442f0a12f21148a4109b0",
+    "279245da6494f051808e4dae",
+    "a97327120667e05dcb3e6bd0",
+    "0a0f991f4894e15e2d2a4bb5",
+    "5f271f1b8e80a65356a79752"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1583,7 +1590,14 @@
     "6d0df4ce06e52b31e1a55beb",
     "481122b637ce5aab1a03b569",
     "e49486cff5ac37b9dc58b9f1",
-    "52254f596b72318a20597789"
+    "52254f596b72318a20597789",
+    "d32e007b048d672a650477cd",
+    "4b19d4e38830e914d14ce930",
+    "ec4c1d8309c278a615ee615f",
+    "d0dd43960943871b610c4a28",
+    "e7f7c9b9eaf686d73aa3f240",
+    "7cb337736304c4210eb2d59c",
+    "368bc2bdcdaecf4a0e68fd7b"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1623,8 +1637,8 @@
     "f0a17e76addd6a0e49d1268a",
     "e1a5001cb54e22cef3df2673"
   ],
-  "last_digest_hash": "de6c32b0630af4f543eb8eeca10c2b4ec04eebcd0c6118000b9d641955119520",
-  "last_run_iso": "2026-04-06T20:52:00.940492+00:00",
+  "last_digest_hash": "093c518cc63368889736e934fad764f5391d7046c7b032ae2da1102457147fec",
+  "last_run_iso": "2026-04-06T21:49:11.438756+00:00",
   "last_breaking_run_iso": "2026-04-06T19:16:18.740594+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -2417,6 +2431,13 @@
     "Renewed Israeli strikes pound Lebanon as ground offensive deepens": "حملات مجدد اسرائیل لبنان را در بر می گیرد در حالی که حملات زمینی عمیق تر می شود",
     "Rescuers search for survivors after strikes hit homes in Iran": "نجات دهندگان پس از حمله به خانه ها در ایران به دنبال بازماندگان می گردند",
     "Video: Trump threatens to jail reporter over Iran airman rescue leak": "ویدئو: ترامپ به خاطر افشای اطلاعات نجات خلبان ایرانی یک خبرنگار را تهدید به زندانی کردن می کند",
-    "Artemis II astronauts reach farther from Earth than any humans in history": "فضانوردان آرتمیس ۲ دورتر از زمین از هر انسان دیگری در تاریخ می رسند"
+    "Artemis II astronauts reach farther from Earth than any humans in history": "فضانوردان آرتمیس ۲ دورتر از زمین از هر انسان دیگری در تاریخ می رسند",
+    "Israeli air strike kills at least 10 Palestinians near Gaza school": "حمله هوایی اسرائیل دست کم ۱۰ فلسطینی را در نزدیکی مدرسه غزه کشت",
+    "Why is Iran’s Bushehr nuclear power plant being attacked?": "چرا نیروگاه هسته ای بوشهر ایران مورد حمله قرار گرفته است؟",
+    "Trump says US could charge for Strait of Hormuz passage amid Iran war": "ترامپ می گوید آمریکا ممکن است در بحبوحه جنگ ایران برای عبور از تنگه هرمز اقدام کند",
+    "Four members of the Gershovitz family identified as victims of Haifa missile attack": "چهار عضو خانواده گرشویتز به عنوان قربانیان حمله موشکی حیفا معرفی شدند",
+    "Protesters swarm US embassy in Tel Aviv, demanding end of wars": "معترضان به سفارت آمریکا در تل آویو هجوم آوردند و خواستار پایان جنگ ها شدند",
+    "Lebanon’s Hezbollah and Yemen’s Houthis join Iran in strike on Israel": "حزب الله لبنان و حوثی های یمن به همراه ایران به اسرائیل حمله می کنند",
+    "Israeli soldiers fire tear gas at Palestinian youth during raid in Hebron": "سربازان اسرائیلی در جریان یورش به الخلیل به سوی جوانان فلسطینی گاز اشک آور شلیک می کنند"
   }
 }

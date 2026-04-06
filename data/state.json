@@ -735,7 +735,10 @@
     "398434e9d55320d40b001467",
     "9a11805091b3960c5c59fb89",
     "331d993162e3b24da8a92357",
-    "99ff165fd5a604227861f780"
+    "99ff165fd5a604227861f780",
+    "fa6cc50383e3f809c8ca705d",
+    "e3eb162aef9316816fae7e43",
+    "85ddce9e5e69ddd9be9d107e"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1473,7 +1476,10 @@
     "bad5739e622acc0cc30c8486",
     "197195469713ae1e919adc5b",
     "efd8291e9720f42ce6d768f3",
-    "de34f7e2fd5665ec55b175cb"
+    "de34f7e2fd5665ec55b175cb",
+    "58c76fd9412991e1f9b64508",
+    "e62fa034c793b9ea9cd4bd33",
+    "1bfe5231387eb7ec7b56972a"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1508,11 +1514,12 @@
     "63e7911e7b0de4b8ef6ba0e2",
     "078ad07e1a7400a27141f833",
     "cbe0815e18d71366233fafb5",
-    "1832b31aafaaa36ebedad12f"
+    "1832b31aafaaa36ebedad12f",
+    "fa6cc50383e3f809c8ca705d"
   ],
-  "last_digest_hash": "d0f3db88c938177dce8a40fe6e361c400648a8487b224ac5b51a64d34fce4f2e",
-  "last_run_iso": "2026-04-06T08:00:46.274282+00:00",
-  "last_breaking_run_iso": "2026-04-05T16:51:47.646466+00:00",
+  "last_digest_hash": "0b4732d9d7038ad9e401a18176b6aa0ec51b8f04f6a414907200f680bb0ca464",
+  "last_run_iso": "2026-04-06T09:21:53.606829+00:00",
+  "last_breaking_run_iso": "2026-04-06T09:21:53.606829+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -2249,6 +2256,9 @@
     "Kanye to headline London festival; major sponsors drop support, Starmer raises concerns": "کانیه به عنوان سرگروه جشنواره لندن؛ حامیان اصلی حمایت خود را قطع کردند، استارمر نگرانی هایی را مطرح کرد",
     "Iran executes man over alleged attack on military site during January protests": "ایران مردی را به اتهام حمله به محل نظامی در جریان اعتراضات ژانویه اعدام کرد",
     "A new regional order for the Strait of Hormuz": "یک نظم منطقه ای جدید برای تنگه هرمز",
-    "Artemis II approaches historic lunar loop for first Moon flyby since 1972": "آرتمیس دوم به حلقه تاریخی ماه نزدیک می شود برای اولین پرواز از کنار ماه از سال ۱۹۷۲"
+    "Artemis II approaches historic lunar loop for first Moon flyby since 1972": "آرتمیس دوم به حلقه تاریخی ماه نزدیک می شود برای اولین پرواز از کنار ماه از سال ۱۹۷۲",
+    "Iran’s top university bombed as US, Israel intensify attacks; 34 killed": "دانشگاه برتر ایران بمباران شد در حالی که آمریکا و اسرائیل حملات خود را تشدید کردند؛ ۳۴ کشته",
+    "Iran war: What is happening on day 38 of US-Israeli attacks?": "جنگ ایران: در روز سی و هشتم حملات آمریکا و اسرائیل چه اتفاقی در حال رخ دادن است؟",
+    "Reservist airman who died by suicide in 2024 recognized as fallen soldier, family says": "یک خلبان ذخیره که در سال ۲۰۲۴ بر اثر خودکشی جان باخت، به عنوان سرباز کشته شده شناخته شد، خانواده می گویند"
   }
 }

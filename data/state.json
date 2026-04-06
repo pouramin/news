@@ -783,7 +783,14 @@
     "8d7954848c0fc562e660f8cb",
     "82ef76802ebddba86b8d51f1",
     "07729507c45fbc98008b4f21",
-    "9b045cc697dd5463f6c09fd8"
+    "9b045cc697dd5463f6c09fd8",
+    "c1a00d996b8643b76e8efab4",
+    "e5cf5b084047dc11cb1a7cb1",
+    "f97752613706583b5ce28cfa",
+    "6556cf1071482f857d4e8572",
+    "9b063fa345a8aa056058c628",
+    "4905da635556b47d9ddac208",
+    "6e69cef6f39a77311cd11c68"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1569,7 +1576,14 @@
     "317f88681630145d731c177e",
     "3cddaeb2f0938cbb9f40b1b1",
     "0bbcbbdd4bb33b9dc8df4a56",
-    "358913d1d815c8b4083db04d"
+    "358913d1d815c8b4083db04d",
+    "8fd2a745cf11be4cf9ac8e05",
+    "f000769689bd1ce6b1b56878",
+    "9b04e834df42ca68b5f3aa36",
+    "6d0df4ce06e52b31e1a55beb",
+    "481122b637ce5aab1a03b569",
+    "e49486cff5ac37b9dc58b9f1",
+    "52254f596b72318a20597789"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1609,8 +1623,8 @@
     "f0a17e76addd6a0e49d1268a",
     "e1a5001cb54e22cef3df2673"
   ],
-  "last_digest_hash": "23291224f8cd00b997dcb8f32717ae297d462df8fca75b2aaec19f5d7e601b09",
-  "last_run_iso": "2026-04-06T19:16:18.740594+00:00",
+  "last_digest_hash": "de6c32b0630af4f543eb8eeca10c2b4ec04eebcd0c6118000b9d641955119520",
+  "last_run_iso": "2026-04-06T20:52:00.940492+00:00",
   "last_breaking_run_iso": "2026-04-06T19:16:18.740594+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -2396,6 +2410,13 @@
     "How Asia became ground zero for the oil crisis": "چگونه آسیا به کانون بحران نفتی تبدیل شد",
     "'We're sinking deeper': Iranians brace for infrastructure strikes as Trump deadline nears": "«ما عمیق تر فرو می رویم»: ایرانی ها برای اعتصابات زیرساختی آماده می شوند در حالی که ضرب الاجل ترامپ نزدیک می شود",
     "Video: Iran’s top university hit in US-Israeli strikes": "ویدئو: برترین دانشگاه ایران در حملات آمریکا و اسرائیل آسیب دید",
-    "Ex-captives slam choice of hostage point man Gal Hirsch to light Independence Day torch": "اسیران سابق انتخاب گروگان گیر، گال هیرش، را برای روشن کردن مشعل روز استقلال محکوم کردند"
+    "Ex-captives slam choice of hostage point man Gal Hirsch to light Independence Day torch": "اسیران سابق انتخاب گروگان گیر، گال هیرش، را برای روشن کردن مشعل روز استقلال محکوم کردند",
+    "Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say": "منابع محلی می گویند ده نفر در حملات و درگیری های اسرائیل بین حماس و شبه نظامیان در غزه کشته شدند",
+    "Netanyahu said to ask Trump not to move forward with Iran ceasefire at this stage": "نتانیاهو گفت از ترامپ بخواهیم در این مرحله آتش بس ایران را پیش نبرد",
+    "Trump claims Iranians begging US to keep bombing Iran": "ترامپ ادعا می کند ایرانی ها از آمریکا می خواهند به بمباران ایران ادامه دهد",
+    "Renewed Israeli strikes pound Lebanon as ground offensive deepens": "حملات مجدد اسرائیل لبنان را در بر می گیرد در حالی که حملات زمینی عمیق تر می شود",
+    "Rescuers search for survivors after strikes hit homes in Iran": "نجات دهندگان پس از حمله به خانه ها در ایران به دنبال بازماندگان می گردند",
+    "Video: Trump threatens to jail reporter over Iran airman rescue leak": "ویدئو: ترامپ به خاطر افشای اطلاعات نجات خلبان ایرانی یک خبرنگار را تهدید به زندانی کردن می کند",
+    "Artemis II astronauts reach farther from Earth than any humans in history": "فضانوردان آرتمیس ۲ دورتر از زمین از هر انسان دیگری در تاریخ می رسند"
   }
 }

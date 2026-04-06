@@ -738,7 +738,16 @@
     "99ff165fd5a604227861f780",
     "fa6cc50383e3f809c8ca705d",
     "e3eb162aef9316816fae7e43",
-    "85ddce9e5e69ddd9be9d107e"
+    "85ddce9e5e69ddd9be9d107e",
+    "79fec17c22c457301a63c718",
+    "a5a7c3415f4ee5f5847a3544",
+    "710358e11912a2a2e26201bc",
+    "194c16082d8a8c03ac2624d6",
+    "4dde2831386e73483847e0a0",
+    "cf64bc3441a923853cc6b97b",
+    "83338fb286f7ffa0d9faf90b",
+    "f494c37ca2590fead6d1f003",
+    "82da0c579f67caf0d4ef16bf"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1479,7 +1488,16 @@
     "de34f7e2fd5665ec55b175cb",
     "58c76fd9412991e1f9b64508",
     "e62fa034c793b9ea9cd4bd33",
-    "1bfe5231387eb7ec7b56972a"
+    "1bfe5231387eb7ec7b56972a",
+    "26cc5998149891ad93a12666",
+    "43edd0d1827332333437cd0e",
+    "2f36db9687a31094eef1d0f6",
+    "199d07f3b7387e5e41b72767",
+    "1093e98bf974bdb629b3002a",
+    "972b26f5b231902721e44723",
+    "007b00ac4c377567961eaac3",
+    "e2146175ba5f2b801b8d4694",
+    "61aa9c52aa4dd90515729850"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1517,8 +1535,8 @@
     "1832b31aafaaa36ebedad12f",
     "fa6cc50383e3f809c8ca705d"
   ],
-  "last_digest_hash": "0b4732d9d7038ad9e401a18176b6aa0ec51b8f04f6a414907200f680bb0ca464",
-  "last_run_iso": "2026-04-06T09:21:53.606829+00:00",
+  "last_digest_hash": "f0dca39d921a2c96070ecdeab25de6cb870ef0de838c2690279caa7cf89b8872",
+  "last_run_iso": "2026-04-06T11:09:39.026661+00:00",
   "last_breaking_run_iso": "2026-04-06T09:21:53.606829+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -2259,6 +2277,15 @@
     "Artemis II approaches historic lunar loop for first Moon flyby since 1972": "آرتمیس دوم به حلقه تاریخی ماه نزدیک می شود برای اولین پرواز از کنار ماه از سال ۱۹۷۲",
     "Iran’s top university bombed as US, Israel intensify attacks; 34 killed": "دانشگاه برتر ایران بمباران شد در حالی که آمریکا و اسرائیل حملات خود را تشدید کردند؛ ۳۴ کشته",
     "Iran war: What is happening on day 38 of US-Israeli attacks?": "جنگ ایران: در روز سی و هشتم حملات آمریکا و اسرائیل چه اتفاقی در حال رخ دادن است؟",
-    "Reservist airman who died by suicide in 2024 recognized as fallen soldier, family says": "یک خلبان ذخیره که در سال ۲۰۲۴ بر اثر خودکشی جان باخت، به عنوان سرباز کشته شده شناخته شد، خانواده می گویند"
+    "Reservist airman who died by suicide in 2024 recognized as fallen soldier, family says": "یک خلبان ذخیره که در سال ۲۰۲۴ بر اثر خودکشی جان باخت، به عنوان سرباز کشته شده شناخته شد، خانواده می گویند",
+    "Yemen’s civilians fear fallout after Houthis enter Iran war": "غیرنظامیان یمن از پیامدهای احتمالی پس از ورود حوثی ها به جنگ ایران بیم دارند",
+    "Families fleeing Israeli attacks take refuge in Lebanon’s mountains": "خانواده هایی که از حملات اسرائیل فرار می کنند، به کوه های لبنان پناه برده اند",
+    "Downed US airman said to have directed strikes on Iranian positions from hiding place": "گفته می شود یک خلبان آمریکایی سقوط کرده که از مخفیگاه حملات به مواضع ایرانی را هدایت کرده است",
+    "Trump says US armed Iranian dissidents via Kurds, Kurdish groups deny claim": "ترامپ می گوید آمریکا از طریق کردها مخالفان ایرانی را مسلح کرده است، گروه های کرد این ادعا را رد می کنند",
+    "Back in Berlin - Sponsored Content": "بازگشت به برلین - محتوای حمایت شده",
+    "Up to 1.2 million people forced to flee as Israel pummels Lebanon": "تا ۱.۲ میلیون نفر مجبور به فرار شدند در حالی که اسرائیل لبنان را در هم کوبید",
+    "4.7-magnitude earthquake off Lebanon coast felt in northern Israel": "زمین لرزه ای به بزرگی ۴.۷ ریشتر در سواحل لبنان در شمال اسرائیل احساس می شود",
+    "World Cup qualification earns Iraq coach Arnold a hero’s welcome in Sydney": "صعود به جام جهانی استقبال قهرمانانه ای برای سرمربی عراق، آرنولد، در سیدنی به ارمغان آورد",
+    "Iraqis give rousing welcome to coach behind historic World Cup return": "عراقی ها با استقبال پرشور از مربی پشت بازگشت تاریخی جام جهانی استقبال می کنند"
   }
 }

@@ -729,7 +729,10 @@
     "c48b5463bd6f9aa62535fb0d",
     "0e76c59118f5ad876a7ac3a2",
     "83a2155da146c3c2955d7247",
-    "4e26306302ad6a857f87245b"
+    "4e26306302ad6a857f87245b",
+    "721fde8fc85d3a3d074533e4",
+    "f4e68ce662d70adbaeb9d66f",
+    "398434e9d55320d40b001467"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1461,7 +1464,10 @@
     "e7ecdcbe61466e83cc553856",
     "ad0a694a844efd1800dd4f31",
     "f29e2cb2ef2a08a0aeb583d0",
-    "c428987de4f3b9a2267aa4c8"
+    "c428987de4f3b9a2267aa4c8",
+    "94dfb36721b61502f5b64270",
+    "84d397c903e0786e40caed68",
+    "bad5739e622acc0cc30c8486"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1498,8 +1504,8 @@
     "cbe0815e18d71366233fafb5",
     "1832b31aafaaa36ebedad12f"
   ],
-  "last_digest_hash": "41eecb5bb38df1057fc6779af1e1fdf3247fe08edbaedccfc420f747db0bfec2",
-  "last_run_iso": "2026-04-06T03:36:50.385987+00:00",
+  "last_digest_hash": "26df0e4319e3229023d0f419541dd7d7a40ede992f0a1c974e7535e7b331679d",
+  "last_run_iso": "2026-04-06T06:05:44.598333+00:00",
   "last_breaking_run_iso": "2026-04-05T16:51:47.646466+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -2231,6 +2237,9 @@
     "Iran war live: Tehran rejects Trump’s Tuesday deadline on Strait of Hormuz": "جنگ ایران زنده: تهران ضرب الاجل سه شنبه ترامپ در تنگه هرمز را رد کرد",
     "US appeals court reinstates ruling allowing American terror victims to sue PA, PLO": "دادگاه تجدیدنظر آمریکا حکمی را که به قربانیان تروریسم آمریکایی اجازه می داد از تشکیلات خودگردان فلسطین و سازمان آزادی بخش فلسطین شکایت کنند، دوباره برقرار کرد",
     "Flouting wartime restrictions, over 1,000 men gather for address by top Haredi rabbi": "با نادیده گرفتن محدودیت های زمان جنگ، بیش از ۱۰۰۰ مرد برای سخنرانی با عالی ترین خاخام های حریدی گرد هم آمدند",
-    "Lebanon’s Christians mark Easter by praying for southern villages hit by war": "مسیحیان لبنان عید پاک را با دعا برای روستاهای جنوبی که از جنگ آسیب دیده اند گرامی می دارند"
+    "Lebanon’s Christians mark Easter by praying for southern villages hit by war": "مسیحیان لبنان عید پاک را با دعا برای روستاهای جنوبی که از جنگ آسیب دیده اند گرامی می دارند",
+    "How an upstart rabbi was excommunicated over his Haggadah for a ‘new US Judaism’": "چگونه یک خاخام تازه کار به خاطر هگادای خود برای «یهودیت جدید آمریکا» تکفیر شد",
+    "2 dead found in wreckage of Haifa building hit by missile; 2 more people still missing": "۲ جسد در خرابه های ساختمان حیفا که توسط موشک هدف قرار گرفته بود پیدا شدند؛ دو نفر دیگر هنوز مفقود هستند",
+    "Kanye to headline London festival; major sponsors drop support, Starmer raises concerns": "کانیه به عنوان سرگروه جشنواره لندن؛ حامیان اصلی حمایت خود را قطع کردند، استارمر نگرانی هایی را مطرح کرد"
   }
 }

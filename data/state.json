@@ -775,7 +775,15 @@
     "aa3139df726cb3ae170aab8b",
     "2ac3b116a7ff52c72f8f1c68",
     "b1ca85189dcbdddeb1bc866b",
-    "c95e2cda87fe97345e293941"
+    "c95e2cda87fe97345e293941",
+    "e1a5001cb54e22cef3df2673",
+    "bbe55ed272a16b80f51e9e73",
+    "ed85e7381e6fc094cca02f26",
+    "385940e6d789003df14b0094",
+    "8d7954848c0fc562e660f8cb",
+    "82ef76802ebddba86b8d51f1",
+    "07729507c45fbc98008b4f21",
+    "9b045cc697dd5463f6c09fd8"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1553,7 +1561,15 @@
     "ecc33a0b9fd34794576b3839",
     "0ee144214b575219649bfd68",
     "02980e74865d0cec4d60769e",
-    "653df70d9299a8e3213562a5"
+    "653df70d9299a8e3213562a5",
+    "5d244e4df2ce06bd1434c5a6",
+    "03d4af851df6c5036a1f0339",
+    "09486290f38885642ea38bd0",
+    "7401da6d32f5119fa647206b",
+    "317f88681630145d731c177e",
+    "3cddaeb2f0938cbb9f40b1b1",
+    "0bbcbbdd4bb33b9dc8df4a56",
+    "358913d1d815c8b4083db04d"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1590,11 +1606,12 @@
     "cbe0815e18d71366233fafb5",
     "1832b31aafaaa36ebedad12f",
     "fa6cc50383e3f809c8ca705d",
-    "f0a17e76addd6a0e49d1268a"
+    "f0a17e76addd6a0e49d1268a",
+    "e1a5001cb54e22cef3df2673"
   ],
-  "last_digest_hash": "59eae0abb0e8574fc3cd8caf6f3c5f45e516f59af81e23c9ab542f6533cbf3b0",
-  "last_run_iso": "2026-04-06T18:00:20.795545+00:00",
-  "last_breaking_run_iso": "2026-04-06T15:03:35.133990+00:00",
+  "last_digest_hash": "23291224f8cd00b997dcb8f32717ae297d462df8fca75b2aaec19f5d7e601b09",
+  "last_run_iso": "2026-04-06T19:16:18.740594+00:00",
+  "last_breaking_run_iso": "2026-04-06T19:16:18.740594+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -2371,6 +2388,14 @@
     "Libya’s oil disputes mirror Hormuz crisis, fuel European energy fears": "اختلافات نفتی لیبی بازتابی از بحران هرمز است و ترس های اروپایی از انرژی را تشدید می کند",
     "Trump warns deadline ‘final’ as Iran pushes proposal to end war": "ترامپ هشدار داد که ضرب الاجل «نهایی» است در حالی که ایران پیشنهاد پایان جنگ را پیش می برد",
     "Iran hangs another young man as regime steps up executions of protesters under cover of war": "ایران یک جوان دیگر را به دار آویخت، در حالی که رژیم اعدام معترضان را تحت پوشش جنگ افزایش می دهد",
-    "Trump praised airman’s rescue in Iran during White House Easter event": "ترامپ نجات یک خلبان در ایران را در جریان مراسم عید پاک کاخ سفید ستود"
+    "Trump praised airman’s rescue in Iran during White House Easter event": "ترامپ نجات یک خلبان در ایران را در جریان مراسم عید پاک کاخ سفید ستود",
+    "Israel launches fresh strikes in Beirut as Hezbollah faces homegrown anger over new war": "اسرائیل حملات تازه ای را در بیروت آغاز کرد، در حالی که حزب الله با خشم داخلی نسبت به جنگ جدید روبرو است",
+    "Hegseth says strikes on Iran increasing as Hormuz deadline looms": "هگست می گوید حملات به ایران با نزدیک شدن به ضرب الاجل هرمز افزایش می یابد",
+    "North Korea keeping Iran at arm’s length, reports Seoul": "کره شمالی ایران را از خود دور نگه می دارد، گزارش سئول",
+    "Democrats blast Trump for Iran ‘war crimes’ threat; Republicans supportive": "دموکرات ها ترامپ را به خاطر تهدید به «جنایات جنگی» ایران سرزنش می کنند؛ جمهوری خواهان حامی",
+    "How Asia became ground zero for the oil crisis": "چگونه آسیا به کانون بحران نفتی تبدیل شد",
+    "'We're sinking deeper': Iranians brace for infrastructure strikes as Trump deadline nears": "«ما عمیق تر فرو می رویم»: ایرانی ها برای اعتصابات زیرساختی آماده می شوند در حالی که ضرب الاجل ترامپ نزدیک می شود",
+    "Video: Iran’s top university hit in US-Israeli strikes": "ویدئو: برترین دانشگاه ایران در حملات آمریکا و اسرائیل آسیب دید",
+    "Ex-captives slam choice of hostage point man Gal Hirsch to light Independence Day torch": "اسیران سابق انتخاب گروگان گیر، گال هیرش، را برای روشن کردن مشعل روز استقلال محکوم کردند"
   }
 }

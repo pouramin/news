@@ -722,7 +722,14 @@
     "9d55aed579ce1f2db490fe07",
     "b636808e76bcf3e302538385",
     "9b70bcec64256e8212dd745a",
-    "bb53633bad1bb4a4092f1348"
+    "bb53633bad1bb4a4092f1348",
+    "e30ec74a723ee82855ce6035",
+    "935ac9568ce5d725ecadf730",
+    "246c0160de01730561e61760",
+    "c48b5463bd6f9aa62535fb0d",
+    "0e76c59118f5ad876a7ac3a2",
+    "83a2155da146c3c2955d7247",
+    "4e26306302ad6a857f87245b"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1447,7 +1454,14 @@
     "8eb2d0ddcb3661f878f2d358",
     "1ffdb6c22137fe0ee6ca74c1",
     "256c53a8d4680edc8a9e6010",
-    "1777e1679a3c635fbbfc7350"
+    "1777e1679a3c635fbbfc7350",
+    "161f0e1295a1a2a5a4e490f3",
+    "211d86889cc9400b0b2b69d3",
+    "e6ff43258ab89bc634884082",
+    "e7ecdcbe61466e83cc553856",
+    "ad0a694a844efd1800dd4f31",
+    "f29e2cb2ef2a08a0aeb583d0",
+    "c428987de4f3b9a2267aa4c8"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1484,8 +1498,8 @@
     "cbe0815e18d71366233fafb5",
     "1832b31aafaaa36ebedad12f"
   ],
-  "last_digest_hash": "7fcc5da5df264d639c6c63cfc64a72d4504c598c93f207b4e1ac809712f763a8",
-  "last_run_iso": "2026-04-05T23:47:17.884985+00:00",
+  "last_digest_hash": "41eecb5bb38df1057fc6779af1e1fdf3247fe08edbaedccfc420f747db0bfec2",
+  "last_run_iso": "2026-04-06T03:36:50.385987+00:00",
   "last_breaking_run_iso": "2026-04-05T16:51:47.646466+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -2210,6 +2224,13 @@
     "High Court raises wartime limit on Western Wall, Temple Mount access from 50 to 100": "دادگاه عالی محدودیت زمان جنگ دسترسی به دیوار غربی و کوه معبد را از ۵۰ به ۱۰۰ افزایش داد",
     "Trump issues expletive-laden threat to Iran over Hormuz Strait blockage": "ترامپ تهدیدی پر از ناسزا علیه ایران به خاطر مسدود شدن تنگه هرمز مطرح می کند",
     "Against the odds, Tel Aviv Museum of Art makes world’s top 100 for visits": "بر خلاف انتظار، موزه هنر تل آویو در میان ۱۰۰ موزه برتر جهان برای بازدید قرار می گیرد",
-    "After Likud backlash, Netanyahu U-turns, says his embattled aide to be replaced": "پس از واکنش منفی لیکود، نتانیاهو تغییر مسیر داد و گفت دستیارش که تحت فشار است جایگزین خواهد شد"
+    "After Likud backlash, Netanyahu U-turns, says his embattled aide to be replaced": "پس از واکنش منفی لیکود، نتانیاهو تغییر مسیر داد و گفت دستیارش که تحت فشار است جایگزین خواهد شد",
+    "2 dead pulled from wreckage of building hit by missile in Haifa; two still feared trapped": "۲ کشته از خرابه های ساختمانی که توسط موشک در حیفا هدف قرار گرفته بود بیرون کشیده شدند؛ دو نفر هنوز ترسیده اند که گرفتار شده اند",
+    "Vietnam’s gig workers slammed by rising fuel costs amid fallout of Iran war": "کارگران گیگ ویتنام به دلیل افزایش قیمت سوخت در پی پیامدهای جنگ ایران مورد انتقاد قرار گرفتند",
+    "Ukraine and Syria agree to increase security ties as Zelensky tours Mideast": "اوکراین و سوریه توافق کردند روابط امنیتی را افزایش دهند در حالی که زلنسکی به خاورمیانه سفر می کند",
+    "Iran war live: Tehran rejects Trump’s Tuesday deadline on Strait of Hormuz": "جنگ ایران زنده: تهران ضرب الاجل سه شنبه ترامپ در تنگه هرمز را رد کرد",
+    "US appeals court reinstates ruling allowing American terror victims to sue PA, PLO": "دادگاه تجدیدنظر آمریکا حکمی را که به قربانیان تروریسم آمریکایی اجازه می داد از تشکیلات خودگردان فلسطین و سازمان آزادی بخش فلسطین شکایت کنند، دوباره برقرار کرد",
+    "Flouting wartime restrictions, over 1,000 men gather for address by top Haredi rabbi": "با نادیده گرفتن محدودیت های زمان جنگ، بیش از ۱۰۰۰ مرد برای سخنرانی با عالی ترین خاخام های حریدی گرد هم آمدند",
+    "Lebanon’s Christians mark Easter by praying for southern villages hit by war": "مسیحیان لبنان عید پاک را با دعا برای روستاهای جنوبی که از جنگ آسیب دیده اند گرامی می دارند"
   }
 }

@@ -812,7 +812,15 @@
     "2067ef6526bcc2715cce7de9",
     "c5231e9385dedd2163ca1cfb",
     "8d456461ccf72af553368d38",
-    "df8c6f69b4285ed4094f4bc8"
+    "df8c6f69b4285ed4094f4bc8",
+    "5ad8372aa58429d75d8693c2",
+    "1d96c0539d220a5d2a9912b6",
+    "2e79e7955b797fe17fa76f7d",
+    "be60fee48bdc404af165b8d0",
+    "f5bec53e9a37f18ecc3587da",
+    "dc663354680f5d3d56d5b8e7",
+    "f972d61627e0c02b8e99e2fb",
+    "b76ef78eeceaae3cc1609a18"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1627,7 +1635,15 @@
     "6f72e923d52970b5ef71d38a",
     "27b63289d0b35f64349f8315",
     "4abfcc78ac4e51fe92891c59",
-    "2745c94055444187c7eed995"
+    "2745c94055444187c7eed995",
+    "2c367a032328d2b93da891d0",
+    "4178f271d93f7fd001e4d8a9",
+    "05ce6239edeb27d1b4c9b021",
+    "88daa964b325a3c13143da2a",
+    "5314c8b316191a0f5aecba21",
+    "0b4942af77498371cb4c09fe",
+    "4218925f9bce2bc18a9d7c86",
+    "07ce6ba9efe19635185b00f1"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1668,8 +1684,8 @@
     "e1a5001cb54e22cef3df2673",
     "7d230301d48a90509e136475"
   ],
-  "last_digest_hash": "1807b18a62cacb4400771bfd3a27ef092b8041214348fe0b4513c2536bb9ab05",
-  "last_run_iso": "2026-04-07T07:47:00.820232+00:00",
+  "last_digest_hash": "6b7e58308b05af459f28926c943f7d42605f56d76853b967baf7501b34c3aa22",
+  "last_run_iso": "2026-04-07T09:18:13.402706+00:00",
   "last_breaking_run_iso": "2026-04-07T03:27:27.171314+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -2484,6 +2500,14 @@
     "Trump’s threat to strike Iran’s power plants looms": "تهدید ترامپ به حمله به نیروگاه های ایران در حال نزدیک شدن است",
     "Frankfurt cinema declines to participate in Jewish film festival, drawing backlash": "سینمای فرانکفورت از شرکت در جشنواره فیلم یهودی خودداری کرد که واکنش منفی را برانگیخت",
     "UN expected to vote on watered-down Hormuz resolution that omits military action": "انتظار می رود سازمان ملل درباره قطعنامه تضعیف شده هرمز که اقدام نظامی را حذف می کند، رأی گیری کند",
-    "Iran says US-Israeli projectile has struck a synagogue in Tehran": "ایران می گوید یک گلوله آمریکایی-اسرائیلی به یک کنیسه در تهران اصابت کرده است"
+    "Iran says US-Israeli projectile has struck a synagogue in Tehran": "ایران می گوید یک گلوله آمریکایی-اسرائیلی به یک کنیسه در تهران اصابت کرده است",
+    "Synagogue in Tehran ‘completely destroyed’ in US-Israeli attack": "کنیسه تهران در حمله آمریکا و اسرائیل «کاملا ویران شد»",
+    "Iran war: What is happening on day 39 of US-Israeli attacks?": "جنگ ایران: در روز سی و نهم حملات آمریکا و اسرائیل چه اتفاقی در حال رخ دادن است؟",
+    "Trump and Hegseth invoke God and religion in Iran war press conference": "ترامپ و هگست در کنفرانس خبری جنگ ایران به خدا و دین استناد می کنند",
+    "What is driving the Houthis’ decision-making on joining the Iran war": "چه چیزی تصمیم گیری حوثی ها برای پیوستن به جنگ ایران را هدایت می کند",
+    "How Pakistan’s solar boom is shielding it from worst of Iran war crisis": "چگونه رونق خورشیدی پاکستان آن را از بدترین بحران جنگ ایران محافظت می کند",
+    "Lebanese firefighters respond to aftermath of Israeli strike": "آتش نشانان لبنانی به پیامدهای حمله اسرائیل واکنش نشان دادند",
+    "Iran releases on bail Japan national jailed amid antigovernment protests": "ایران یک شهروند ژاپنی را که در میان اعتراضات ضد دولتی زندانی شده بود، با قرار وثیقه آزاد کرد",
+    "Israel threatens Iran’s trains, railways before Trump’s deadline expires": "اسرائیل پیش از پایان مهلت ترامپ، قطارها و راه آهن های ایران را تهدید می کند"
   }
 }

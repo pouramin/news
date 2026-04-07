@@ -886,7 +886,15 @@
     "0af1f08d305c84a7ffedf822",
     "7ba72d73635d8c768d978968",
     "d052ff2556c52f4626eebb23",
-    "ec5ef4cf748a3b5c7fd907f2"
+    "ec5ef4cf748a3b5c7fd907f2",
+    "76c9cff50e543363842c657d",
+    "e71a206f0f2af08bcf1552aa",
+    "d35f6fd6dcd67dd9f1ade8eb",
+    "35e56e3f0bacf1634bd3335b",
+    "1c1fa0550b4c00a73ec056a9",
+    "8bb26db6d2f1b7dc7e59d3a5",
+    "68966a095cf150dc54baceea",
+    "85b9b37d6f7c0f6f7c2605d1"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1775,7 +1783,15 @@
     "86fc84b62f807c7bcd848525",
     "4329be75a16d975e5a223998",
     "d05105d5e21404d10ad89e73",
-    "0eb7f5069adebd38ba374fd0"
+    "0eb7f5069adebd38ba374fd0",
+    "ed0f45e9cc3994ad67f1a1ec",
+    "c381dd11be29b215042c697b",
+    "8c5a300d14a4117a9dc2d8ca",
+    "314e04821e77fdd934a171c9",
+    "58c1836b4360b2a617fa397d",
+    "1e4f27c00cebb8cd01c943cb",
+    "dec6b1c98be3264c2c11d667",
+    "5bdccf3b028a60483f0e7b03"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1815,11 +1831,12 @@
     "f0a17e76addd6a0e49d1268a",
     "e1a5001cb54e22cef3df2673",
     "7d230301d48a90509e136475",
-    "f21df39f700988fe02cab1ae"
+    "f21df39f700988fe02cab1ae",
+    "76c9cff50e543363842c657d"
   ],
-  "last_digest_hash": "16f4be75f0cf9539b800645368c8741ffd4bf2d73930d975f171cad56be4be9a",
-  "last_run_iso": "2026-04-07T21:54:47.375308+00:00",
-  "last_breaking_run_iso": "2026-04-07T13:57:44.239619+00:00",
+  "last_digest_hash": "c9bfe964fbebc5341d81428e1d23ca35a14944803c52e0aa295494d201e5bfaa",
+  "last_run_iso": "2026-04-07T22:54:48.966569+00:00",
+  "last_breaking_run_iso": "2026-04-07T22:54:48.966569+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -2707,6 +2724,14 @@
     "How is the US-Israel war on Iran affecting Russian-Iranian relations?": "جنگ آمریکا و اسرائیل علیه ایران چگونه بر روابط روسیه و ایران تأثیر می گذارد؟",
     "Protesters in Iraq swarm Kuwaiti consulate after deadly rocket attack": "معترضان در عراق پس از حمله مرگبار راکتی، کنسولگری کویت را محاصره کردند",
     "Iranians brace for possible devastation as Trump’s deadline looms": "ایرانی ها خود را برای ویرانی احتمالی آماده می کنند در حالی که ضرب الاجل ترامپ نزدیک می شود",
-    "Palestinians queue for hours in pouring rain to get bread": "فلسطینی ها ساعت ها در صف باران شدید برای گرفتن نان ایستاده اند"
+    "Palestinians queue for hours in pouring rain to get bread": "فلسطینی ها ساعت ها در صف باران شدید برای گرفتن نان ایستاده اند",
+    "Trump: US to ‘suspend bombing’ of Iran for 2 weeks as talks held on ‘longterm peace’ deal": "ترامپ: آمریکا قصد دارد بمباران ایران را به مدت دو هفته متوقف کند، در حالی که مذاکرات درباره توافق «صلح بلندمدت» برگزار می شود",
+    "What we know about Pakistan’s proposed Iran war pause": "آنچه درباره توقف پیشنهادی پاکستان علیه جنگ ایران می دانیم",
+    "Iran warns region and beyond as tension builds ahead of US ultimatum": "ایران در حالی که تنش ها پیش از اولتیماتوم آمریکا افزایش می یابد، به منطقه و فراتر از آن هشدار می دهد",
+    "Djibouti and the Horn of Africa: new front in the war on Iran": "جیبوتی و شاخ آفریقا: جبهه ای جدید در جنگ علیه ایران",
+    "Pakistan appeals to Trump to extend deadline, Iran to reopen Hormuz Strait": "پاکستان از ترامپ درخواست تمدید مهلت می کند و ایران تنگه هرمز را بازگشایی می کند",
+    "Indian migrant workers hit by cooking gas shortages are leaving cities": "کارگران مهاجر هندی که به دلیل کمبود گاز آشپزی آسیب دیده اند، شهرها را ترک می کنند",
+    "Iranian musician stages protest at power station over Trump threats": "موسیقیدان ایرانی در اعتراض به تهدیدات ترامپ در ایستگاه برق برگزار می کند",
+    "Kanye West barred from UK over antisemitic history, causing music festival cancellation": "کانیه وست به دلیل سابقه ضدیهودی از ورود به بریتانیا محروم شد و باعث لغو جشنواره موسیقی شد"
   }
 }

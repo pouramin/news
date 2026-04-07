@@ -810,7 +810,9 @@
     "eeb5f1c6700eafdcf365d852",
     "8d8165a4a60c68fbab8c3cd0",
     "2067ef6526bcc2715cce7de9",
-    "c5231e9385dedd2163ca1cfb"
+    "c5231e9385dedd2163ca1cfb",
+    "8d456461ccf72af553368d38",
+    "df8c6f69b4285ed4094f4bc8"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1623,7 +1625,9 @@
     "61c35a869d297a0081d19bb9",
     "ac938abde6267dbbe7606cd1",
     "6f72e923d52970b5ef71d38a",
-    "27b63289d0b35f64349f8315"
+    "27b63289d0b35f64349f8315",
+    "4abfcc78ac4e51fe92891c59",
+    "2745c94055444187c7eed995"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1664,8 +1668,8 @@
     "e1a5001cb54e22cef3df2673",
     "7d230301d48a90509e136475"
   ],
-  "last_digest_hash": "9a96b86a8392c0cd1e4ff7285e76cd7f81394c6b6d2bbf21680d009ea0e11ae4",
-  "last_run_iso": "2026-04-07T05:53:22.369281+00:00",
+  "last_digest_hash": "1807b18a62cacb4400771bfd3a27ef092b8041214348fe0b4513c2536bb9ab05",
+  "last_run_iso": "2026-04-07T07:47:00.820232+00:00",
   "last_breaking_run_iso": "2026-04-07T03:27:27.171314+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -2478,6 +2482,8 @@
     "Florida governor signs law letting state officials blacklist groups as terror organizations": "فرماندار فلوریدا قانونی را امضا کرد که به مقامات ایالتی اجازه می دهد گروه ها را به عنوان سازمان های تروریستی در فهرست سیاه قرار دهند",
     "‘Why would Iran agree to a ceasefire given US and Israeli track record?’": "«چرا ایران با توجه به سابقه آمریکا و اسرائیل با آتش بس موافقت می کند؟»",
     "Trump’s threat to strike Iran’s power plants looms": "تهدید ترامپ به حمله به نیروگاه های ایران در حال نزدیک شدن است",
-    "Frankfurt cinema declines to participate in Jewish film festival, drawing backlash": "سینمای فرانکفورت از شرکت در جشنواره فیلم یهودی خودداری کرد که واکنش منفی را برانگیخت"
+    "Frankfurt cinema declines to participate in Jewish film festival, drawing backlash": "سینمای فرانکفورت از شرکت در جشنواره فیلم یهودی خودداری کرد که واکنش منفی را برانگیخت",
+    "UN expected to vote on watered-down Hormuz resolution that omits military action": "انتظار می رود سازمان ملل درباره قطعنامه تضعیف شده هرمز که اقدام نظامی را حذف می کند، رأی گیری کند",
+    "Iran says US-Israeli projectile has struck a synagogue in Tehran": "ایران می گوید یک گلوله آمریکایی-اسرائیلی به یک کنیسه در تهران اصابت کرده است"
   }
 }

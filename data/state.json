@@ -846,7 +846,13 @@
     "4f381dbdfd57fbc789d7dee7",
     "2f270049b71b612031d08608",
     "3d99e62e0562017d511a1ac7",
-    "08d9ba068f5bc60a9abc5496"
+    "08d9ba068f5bc60a9abc5496",
+    "9561fa232c144d54bb5488df",
+    "fecc62969d6762f9bc8ebfd7",
+    "2362e2c6f91b08d93b5da9d3",
+    "e9fedbdbc7bede18f36c6cae",
+    "1ccc259a171fae55298cd159",
+    "27afb821a4c5c78cd29a64f5"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1695,7 +1701,13 @@
     "42813affa7a7119aabb0fae9",
     "b84639ec555402795ba3c848",
     "2ca8d3b9d524b16ec7228db2",
-    "c79b49f24d090cbf5a623e15"
+    "c79b49f24d090cbf5a623e15",
+    "77b78071ee90f1a92ea7ca68",
+    "89c902268425885a5d7b2baa",
+    "6a5607e25efb99331678ad38",
+    "ba3b6f81c40c5bf25de281c3",
+    "b9ef9c70431917cae2b99d43",
+    "0b9ba983baa318772c43a617"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1737,8 +1749,8 @@
     "7d230301d48a90509e136475",
     "f21df39f700988fe02cab1ae"
   ],
-  "last_digest_hash": "432b0acf179a908595819478930edde985912a89263aa10f26d2365c7bc8d63f",
-  "last_run_iso": "2026-04-07T13:57:44.239619+00:00",
+  "last_digest_hash": "7994b2e7282f7a2ff73c16457eefe9030581f1089362201f6ccca237258f23ea",
+  "last_run_iso": "2026-04-07T15:24:27.253520+00:00",
   "last_breaking_run_iso": "2026-04-07T13:57:44.239619+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -2587,6 +2599,12 @@
     "How Israel’s invasion of southern Lebanon created a humanitarian crisis": "چگونه تهاجم اسرائیل به جنوب لبنان بحران انسانی ایجاد کرد",
     "Videos capture shooting near Israeli consulate in Istanbul": "ویدیوها تیراندازی نزدیک کنسولگری اسرائیل در استانبول را ثبت می کنند",
     "In Albania, teens at German school discover tribal code of honor that saved Jews in WWII": "در آلبانی، نوجوانان مدرسه آلمانی با کد افتخار قبیله ای که یهودیان را در جنگ جهانی دوم نجات داد، کشف می کنند",
-    "ToI closes its Arabic- and Persian-language sites": "ToI سایت های عربی و فارسی زبان خود را می بندد"
+    "ToI closes its Arabic- and Persian-language sites": "ToI سایت های عربی و فارسی زبان خود را می بندد",
+    "Trump: ‘A whole civilization will die tonight’ if ultimatum for Iran to open Hormuz expires": "ترامپ: «امشب یک تمدن کامل خواهد مرد» اگر اولتیماتوم ایران برای باز کردن هرمز منقضی شود",
+    "WHO suspends Gaza medical evacuations after contractor killed by Israeli troops": "سازمان جهانی بهداشت تخلیه های پزشکی در غزه را پس از کشته شدن پیمانکار توسط نیروهای اسرائیلی به حالت تعلیق درآورد",
+    "Mojtaba Khamenei reportedly in ‘severe’ condition, unable to govern Iran": "گفته می شود مجتبی خامنه ای در وضعیت «وخیم» قرار دارد و قادر به اداره ایران نیست",
+    "From 9pm shutdowns to remote work: Egypt cuts fuel amid power crisis": "از تعطیلی های ساعت ۹ شب تا کار از راه دور: مصر در بحبوحه بحران برق سوخت را قطع می کند",
+    "One gunman killed and two injured in shooting at Israeli consulate in Istanbul": "یک تیرانداز کشته و دو نفر زخمی در تیراندازی به کنسولگری اسرائیل در استانبول",
+    "Trump on Iran: ‘A whole civilisation will die tonight’": "ترامپ درباره ایران: «امشب یک تمدن کامل خواهد مرد»"
   }
 }

@@ -870,7 +870,19 @@
     "0584c2078b8cb63bbcffbaed",
     "7e261a333c24b0ef01689596",
     "a58b6f12bae1eba5bca37416",
-    "3c08372b96d1521ffe72259f"
+    "3c08372b96d1521ffe72259f",
+    "906888ad60e99351ae3a81c8",
+    "73067f68a6775a2f65df51c2",
+    "62b5025cb5dec9d9fae01f52",
+    "1d3a6e277075e378a303a1e0",
+    "a4d5d62cc497e709d719963f",
+    "a264cb9ce452e4b085e6c5ba",
+    "59798d58b233a5d8d009384a",
+    "63da7c26af5e9acd9734e8f1",
+    "9fe01315bbebcdfc8956fd3e",
+    "1c5fca8eb2d906e3d7496e96",
+    "63c7f47054fa39e3bcf0e454",
+    "a1f3a9cf75fcb14b71bab663"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1743,7 +1755,19 @@
     "4b33bc77737a3bc98313c4f5",
     "daa18f8cad34d344015c842e",
     "f5d91f298a9bb93d3b2e1883",
-    "e31ee75befdee97948023a04"
+    "e31ee75befdee97948023a04",
+    "be823edb1ceb45856d7027e9",
+    "266f3f06665638257f1d1ed1",
+    "3131af45caecd7dde24aef43",
+    "0a788d4a1a15624c13ad0b7d",
+    "8628b0b8f6dec452c742398d",
+    "17702db4dc3e4a88286af40e",
+    "4037a294a387aad0060c1532",
+    "52a8feb1da160804b3e44c96",
+    "735fc403145caaf925659d6c",
+    "5992d17951458ab0d6835c23",
+    "f6e300005426045acac0fef2",
+    "b5157c59ccaa615ace35a77a"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1785,8 +1809,8 @@
     "7d230301d48a90509e136475",
     "f21df39f700988fe02cab1ae"
   ],
-  "last_digest_hash": "fed7a90b3c623ce6b66fa5434ceed7e377c03229a13e84381ae45a8423caaf54",
-  "last_run_iso": "2026-04-07T19:20:00.372448+00:00",
+  "last_digest_hash": "e555fa2b3f47d81312034b261ea8fe8af90cde6cc6d49c26594d7c91d3803192",
+  "last_run_iso": "2026-04-07T21:01:12.904698+00:00",
   "last_breaking_run_iso": "2026-04-07T13:57:44.239619+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -2659,6 +2683,18 @@
     "US journalist Shelly Kittleson to be released after kidnap in Iraq, militia says": "شبه نظامیان می گویند خبرنگار آمریکایی شلی کیتلسون پس از ربوده شدن در عراق آزاد خواهد شد",
     "Long Island town must pay $19M for blocking construction of Chabad synagogue": "شهر لانگ آیلند باید ۱۹ میلیون دلار برای جلوگیری از ساخت کنیسه چاباد پرداخت کند",
     "US denies nuclear plan as deadline on threat to Iran ‘civilisation’ looms": "آمریکا طرح هسته ای را رد کرد، در حالی که مهلت تهدید به «تمدن» ایران نزدیک است",
-    "Iraqi armed group releases abducted US journalist Shelly Kittleson": "گروه مسلح عراقی خبرنگار آمریکایی ربوده شده، شلی کیتلسون را آزاد کرد"
+    "Iraqi armed group releases abducted US journalist Shelly Kittleson": "گروه مسلح عراقی خبرنگار آمریکایی ربوده شده، شلی کیتلسون را آزاد کرد",
+    "Russia and China block UN resolution on Strait of Hormuz": "روسیه و چین قطعنامه سازمان ملل درباره تنگه هرمز را مسدود کردند",
+    "Pope Leo slams Trump’s threat that Iran’s ‘civilisation will die’": "پاپ لئو تهدید ترامپ مبنی بر اینکه «تمدن ایران نابود خواهد شد» را محکوم کرد",
+    "US journalist in Iraq freed one week after kidnapping by Kataeb Hezbollah": "خبرنگار آمریکایی در عراق یک هفته پس از ربوده شدن توسط کتائب حزب الله آزاد شد",
+    "French couple leave Iran after more than three years in jail": "زوج فرانسوی پس از بیش از سه سال زندان ایران را ترک کردند",
+    "Video: Historic building in Ukraine up in flames after Russia drone attack": "ویدئو: ساختمان تاریخی در اوکراین پس از حمله پهپادی روسیه در آتش می سوزد",
+    "What the US military could do if Iran fails to meet Trump's ultimatum": "اگر ایران به اولتیماتوم ترامپ عمل نکند، ارتش آمریکا چه کاری می تواند انجام دهد",
+    "‘No end in sight’ if Trump acts on threat to destroy Iran infrastructure": "«پایانی در دید نیست» اگر ترامپ تهدید به نابودی زیرساخت های ایران کند",
+    "Iranians form human chains across bridges, at power plants": "ایرانی ها زنجیره های انسانی را از روی پل ها و نیروگاه ها تشکیل می دهند",
+    "French nationals return home following Iran prison release": "اتباع فرانسوی پس از آزادی از زندان ایران به کشورشان بازمی گردند",
+    "Massive fire engulfs oil storage tanks near Baghdad": "آتش سوزی گسترده مخازن ذخیره نفت در نزدیکی بغداد را در بر گرفت",
+    "What we know about the shooting by Istanbul’s Israeli consulate": "آنچه درباره تیراندازی کنسولگری اسرائیل استانبول می دانیم",
+    "US judge rejects bid by Swiss Bank UBS to limit its liability for Nazi-linked crimes": "قاضی آمریکایی درخواست بانک UBS سوئیس برای محدود کردن مسئولیت خود در قبال جرایم مرتبط با نازی ها را رد کرد"
   }
 }

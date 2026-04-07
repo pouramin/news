@@ -857,7 +857,20 @@
     "8880c33f0570b8fb43a83c3a",
     "dc64ad4b879f8496df8927f0",
     "26deaf4ec878eedf00b84e67",
-    "061a1796bef3986c0c7a9ce0"
+    "061a1796bef3986c0c7a9ce0",
+    "e09f4ad5eb476400f4fc45a1",
+    "26efcb834397f280242d1c3a",
+    "7eda7d4971970ea22c859587",
+    "84ee97ae0c453c40fcc4d2d6",
+    "9d770374b7dacb58040ddba8",
+    "3dcdb63e4bb7593c86310ef4",
+    "c74f9e69b59dda4f24ffd123",
+    "fb849360efece724c09705b4",
+    "51d9abde263c4d9e30252289",
+    "0584c2078b8cb63bbcffbaed",
+    "7e261a333c24b0ef01689596",
+    "a58b6f12bae1eba5bca37416",
+    "3c08372b96d1521ffe72259f"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1717,7 +1730,20 @@
     "e7865c3004a7cd85b2fcf9f4",
     "28ce3929c82942cfdf33ec2e",
     "38fc1fadf697ac2d666a6dfd",
-    "2788abdc4f683bdcc43dc5f6"
+    "2788abdc4f683bdcc43dc5f6",
+    "80737cf2de10acf9678441cc",
+    "e716fa4720fa30d0831b0afc",
+    "94f28da0979abe916afc27b0",
+    "2161a583b74c6ebe8c3bee1a",
+    "a39a3ae6d68baf894b9a1e0e",
+    "75015ce1e96c5c4df093a76e",
+    "02c9da4149fc10a65c0c3f2f",
+    "8cbec0a74acfb26d1fab93d2",
+    "13f48fb33435c6e6d82f40e9",
+    "4b33bc77737a3bc98313c4f5",
+    "daa18f8cad34d344015c842e",
+    "f5d91f298a9bb93d3b2e1883",
+    "e31ee75befdee97948023a04"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1759,8 +1785,8 @@
     "7d230301d48a90509e136475",
     "f21df39f700988fe02cab1ae"
   ],
-  "last_digest_hash": "c33a408f51a6648105364adaf1588bfccbd6ce887f42a5af91e9b2ca54a93be8",
-  "last_run_iso": "2026-04-07T17:13:36.964645+00:00",
+  "last_digest_hash": "fed7a90b3c623ce6b66fa5434ceed7e377c03229a13e84381ae45a8423caaf54",
+  "last_run_iso": "2026-04-07T19:20:00.372448+00:00",
   "last_breaking_run_iso": "2026-04-07T13:57:44.239619+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -2620,6 +2646,19 @@
     "Fire erupts near industrial site in Saudi Arabia after Iranian strikes": "آتش سوزی در نزدیکی محل صنعتی عربستان سعودی پس از حملات ایران رخ داد",
     "Trump threatens Iran: ‘A whole civilisation will die tonight’": "ترامپ ایران را تهدید می کند: «امشب یک تمدن کامل خواهد مرد»",
     "In glitzy interwar Warsaw, truth meets fiction as 2 young women hunt for missing mentor": "در ورشو پرزرق و برق بین دو جنگ، حقیقت با خیال تلاقی می کند، در حالی که دو زن جوان به دنبال مربی گمشده خود می گردند",
-    "Artemis II crew takes historic photo of Earth setting behind moon": "خدمه آرتمیس دوم عکس تاریخی از غروب زمین پشت ماه می گیرند"
+    "Artemis II crew takes historic photo of Earth setting behind moon": "خدمه آرتمیس دوم عکس تاریخی از غروب زمین پشت ماه می گیرند",
+    "Top university says US-Israel attack targeted Iran’s progress, AI learning": "دانشگاه برتر می گوید حمله آمریکا و اسرائیل پیشرفت ایران و یادگیری هوش مصنوعی را هدف قرار داده است",
+    "Russia reportedly supplying Iran with spy imagery of US and Israeli targets": "گزارش شده است که روسیه تصاویر جاسوسی از اهداف آمریکایی و اسرائیلی را به ایران ارائه می دهد",
+    "Iran deploys Legos and social media trolling in war for public opinion": "ایران برای جلب نظر عمومی از لگو و ترولینگ شبکه های اجتماعی استفاده می کند",
+    "Tehran synagogue destroyed as US-Israeli strikes kill over a dozen": "کنیسه تهران تخریب شد در حالی که حملات آمریکا و اسرائیل بیش از دوازده نفر را کشت",
+    "Netanyahu: Israel shifting ‘balance of power’ with Iran strikes": "نتانیاهو: تغییر توازن قدرت اسرائیل با حملات ایران",
+    "Tracking recent US-Israeli strikes on Iranian infrastructure": "ردیابی حملات اخیر آمریکا و اسرائیل به زیرساخت های ایران",
+    "Why JD Vance joined Pakistan’s last-ditch US-Iran mediation efforts": "چرا جی دی ونس به آخرین تلاش های میانجی گری پاکستان آمریکا و ایران پیوست",
+    "WHO suspends Gaza medical evacuations after Israeli fire kills driver": "سازمان جهانی بهداشت تخلیه پزشکی غزه را پس از تیراندازی اسرائیل که راننده را کشت، به حالت تعلیق درآورد",
+    "French couple allowed to leave Iran after more than three years in detention": "زوج فرانسوی پس از بیش از سه سال بازداشت اجازه ترک ایران را دادند",
+    "US journalist Shelly Kittleson to be released after kidnap in Iraq, militia says": "شبه نظامیان می گویند خبرنگار آمریکایی شلی کیتلسون پس از ربوده شدن در عراق آزاد خواهد شد",
+    "Long Island town must pay $19M for blocking construction of Chabad synagogue": "شهر لانگ آیلند باید ۱۹ میلیون دلار برای جلوگیری از ساخت کنیسه چاباد پرداخت کند",
+    "US denies nuclear plan as deadline on threat to Iran ‘civilisation’ looms": "آمریکا طرح هسته ای را رد کرد، در حالی که مهلت تهدید به «تمدن» ایران نزدیک است",
+    "Iraqi armed group releases abducted US journalist Shelly Kittleson": "گروه مسلح عراقی خبرنگار آمریکایی ربوده شده، شلی کیتلسون را آزاد کرد"
   }
 }

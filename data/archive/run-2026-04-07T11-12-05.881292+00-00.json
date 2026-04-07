@@ -1,0 +1,25 @@
+{
+  "run_iso": "2026-04-07T11:12:05.878482+00:00",
+  "raw_count": 75,
+  "enriched_count": 40,
+  "deduped_count": 40,
+  "fresh_count": 11,
+  "breaking_sent_count": 0,
+  "digest_sent": true,
+  "digest_item_count": 11,
+  "sent_now_count": 11,
+  "sent_now_ids": [
+    "0f790d957e1f065adc049767",
+    "d2a19f6c6410b7032fa3f3f9",
+    "675dd61171e2b6209f82ee40",
+    "fa8d86fdb58589ea51e47b40",
+    "ff9dc11c138ec6e4d018fdda",
+    "3726c15816ff6201f9e97b80",
+    "4415e6d1e778e3faedb967a0",
+    "ac07ad3bee2a81b51fa5deda",
+    "cdfa305c10ffa51ee491a76a",
+    "311a9cc9b9c933b94374ddbe",
+    "8d11edabaf9a23c57c956059"
+  ],
+  "remaining_unsent_count": 0
+}

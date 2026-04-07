@@ -820,7 +820,18 @@
     "f5bec53e9a37f18ecc3587da",
     "dc663354680f5d3d56d5b8e7",
     "f972d61627e0c02b8e99e2fb",
-    "b76ef78eeceaae3cc1609a18"
+    "b76ef78eeceaae3cc1609a18",
+    "0f790d957e1f065adc049767",
+    "d2a19f6c6410b7032fa3f3f9",
+    "675dd61171e2b6209f82ee40",
+    "fa8d86fdb58589ea51e47b40",
+    "ff9dc11c138ec6e4d018fdda",
+    "3726c15816ff6201f9e97b80",
+    "4415e6d1e778e3faedb967a0",
+    "ac07ad3bee2a81b51fa5deda",
+    "cdfa305c10ffa51ee491a76a",
+    "311a9cc9b9c933b94374ddbe",
+    "8d11edabaf9a23c57c956059"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1643,7 +1654,18 @@
     "5314c8b316191a0f5aecba21",
     "0b4942af77498371cb4c09fe",
     "4218925f9bce2bc18a9d7c86",
-    "07ce6ba9efe19635185b00f1"
+    "07ce6ba9efe19635185b00f1",
+    "1a505856dae8123055800a99",
+    "f0a079e37ef1ba045c36b205",
+    "2f80d8918eb7b2d0e1645a15",
+    "ae4cc63e644dc7773fba021b",
+    "5aea29c01828731861f51e0c",
+    "d07641a425c89655f24f9d71",
+    "4894ea45b56b0d48ecaf2452",
+    "030ff6cbd1ba158a71670b80",
+    "496f1581d82b69da5dd53bcc",
+    "58ba7a00ec542e25e40a4935",
+    "dce964626aca4b0adc4da039"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1684,8 +1706,8 @@
     "e1a5001cb54e22cef3df2673",
     "7d230301d48a90509e136475"
   ],
-  "last_digest_hash": "6b7e58308b05af459f28926c943f7d42605f56d76853b967baf7501b34c3aa22",
-  "last_run_iso": "2026-04-07T09:18:13.402706+00:00",
+  "last_digest_hash": "6870c8140e68f2b8877b513ff8ed27cf794457dea3ed83b4a1e7607d1a166c11",
+  "last_run_iso": "2026-04-07T11:12:05.878482+00:00",
   "last_breaking_run_iso": "2026-04-07T03:27:27.171314+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -2508,6 +2530,17 @@
     "How Pakistan’s solar boom is shielding it from worst of Iran war crisis": "چگونه رونق خورشیدی پاکستان آن را از بدترین بحران جنگ ایران محافظت می کند",
     "Lebanese firefighters respond to aftermath of Israeli strike": "آتش نشانان لبنانی به پیامدهای حمله اسرائیل واکنش نشان دادند",
     "Iran releases on bail Japan national jailed amid antigovernment protests": "ایران یک شهروند ژاپنی را که در میان اعتراضات ضد دولتی زندانی شده بود، با قرار وثیقه آزاد کرد",
-    "Israel threatens Iran’s trains, railways before Trump’s deadline expires": "اسرائیل پیش از پایان مهلت ترامپ، قطارها و راه آهن های ایران را تهدید می کند"
+    "Israel threatens Iran’s trains, railways before Trump’s deadline expires": "اسرائیل پیش از پایان مهلت ترامپ، قطارها و راه آهن های ایران را تهدید می کند",
+    "US-Israeli strikes destroy buildings in northern Iran": "حملات آمریکا و اسرائیل ساختمان هایی در شمال ایران را ویران می کند",
+    "Daily Briefing April 7: Crunch time for talks with Iran as Trump threatens Tuesday night strikes": "گزارش روزانه ۷ آوریل: زمان بحرانی برای مذاکرات با ایران در حالی که ترامپ تهدید به حملات سه شنبه شب می کند",
+    "How US, Israel are waging a war on Iranian culture, education": "چگونه آمریکا و اسرائیل علیه فرهنگ و آموزش ایران جنگی به راه انداخته اند",
+    "Iranian missile strike damages cars and street in Israel": "حمله موشکی ایران به خودروها و خیابان ها در اسرائیل آسیب رساند",
+    "‘Military action is not an effective means to pursue nonproliferation’": "«اقدام نظامی وسیله مؤثری برای پیگیری عدم اشاعه نیست»",
+    "Palestine weekly wrap: Protests sweep West Bank after death penalty law": "گزارش هفتگی فلسطین: اعتراضات پس از قانون مجازات اعدام کرانه باختری را فرا گرفت",
+    "Three killed in shooting near Israeli consulate in Turkiye’s Istanbul": "سه نفر در تیراندازی نزدیک کنسولگری اسرائیل در استانبول ترکیه کشته شدند",
+    "Schools set to partially reopen Sunday, subject to IDF guidelines": "مدارس قرار است یکشنبه تا حدی بازگشایی شوند، مشروط به دستورالعمل های ارتش اسرائیل",
+    "Weizmann Institute helps map Moon’s shadowy sources of ice": "مؤسسه وایزمن به نقشه برداری منابع یخ سایه دار ماه کمک می کند",
+    "‘Dying of thirst’: Inside Gaza’s al-Mawasi water crisis": "«مرگ از تشنگ»: درون بحران آب المواسی در غزه",
+    "‘US-Israel playing Russian roulette with security of the region’": "«آمریکا و اسرائیل در حال بازی رولت روسیه با امنیت منطقه»"
   }
 }

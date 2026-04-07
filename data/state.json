@@ -800,7 +800,14 @@
     "5f271f1b8e80a65356a79752",
     "101234ac20f937945878e8eb",
     "bde23eb233e643b01e8f559e",
-    "40eccff16ffcaf878410e931"
+    "40eccff16ffcaf878410e931",
+    "7d230301d48a90509e136475",
+    "9c80a3b3a7d041987cf99e17",
+    "0a736679888e225f80afbf6b",
+    "83b8bc49ab5445d66f33e789",
+    "6415a11b0fcf9a0a18c38751",
+    "9ab0eb820b3f3165de4bf992",
+    "eeb5f1c6700eafdcf365d852"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1603,7 +1610,14 @@
     "368bc2bdcdaecf4a0e68fd7b",
     "cf01883cd1896099755de77b",
     "f4e9cc55a489365835b44b4c",
-    "5cfc94c8340a47f87978d4af"
+    "5cfc94c8340a47f87978d4af",
+    "52c29b414ec67535ff9f36d6",
+    "fa14a9e40a532bd64aced043",
+    "00e0fc4d1b1e2947bbe1b9d8",
+    "d57d58ba89183b3ec74d1e9c",
+    "2c8b67983318b22da8b6f53c",
+    "c53342d77c34388e2f52192b",
+    "61c35a869d297a0081d19bb9"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1641,11 +1655,12 @@
     "1832b31aafaaa36ebedad12f",
     "fa6cc50383e3f809c8ca705d",
     "f0a17e76addd6a0e49d1268a",
-    "e1a5001cb54e22cef3df2673"
+    "e1a5001cb54e22cef3df2673",
+    "7d230301d48a90509e136475"
   ],
-  "last_digest_hash": "f2ccf6135d2c93f342b4910aad579cc10a331b227a01df87aa1fe4c35cc9efa6",
-  "last_run_iso": "2026-04-06T23:48:55.778025+00:00",
-  "last_breaking_run_iso": "2026-04-06T19:16:18.740594+00:00",
+  "last_digest_hash": "231b9e3fddb15d84d239c30bbf709b8d4e0f0937ea053b06775afd3d4c24bbcd",
+  "last_run_iso": "2026-04-07T03:27:27.171314+00:00",
+  "last_breaking_run_iso": "2026-04-07T03:27:27.171314+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -2447,6 +2462,13 @@
     "Israeli soldiers fire tear gas at Palestinian youth during raid in Hebron": "سربازان اسرائیلی در جریان یورش به الخلیل به سوی جوانان فلسطینی گاز اشک آور شلیک می کنند",
     "‘I’m very upset’: Trump says US tried to arm Iranian protesters, but guns were diverted": "«خیلی ناراحتم»: ترامپ می گوید آمریکا تلاش کرد معترضان ایرانی را مسلح کند، اما اسلحه ها منحرف شدند",
     "Trump threatens to take out Iran in 'one night' if no deal before deadline": "ترامپ تهدید می کند که اگر قبل از ضرب الاجل توافقی حاصل نشود، ایران را در «یک شب» از میان برمی دارد",
-    "Trump's Hormuz ultimatum nears - with little indication Iran is on board": "اولتیماتوم هرمز ترامپ نزدیک می شود - بدون اینکه نشانه ای از حمایت ایران از آن باشد"
+    "Trump's Hormuz ultimatum nears - with little indication Iran is on board": "اولتیماتوم هرمز ترامپ نزدیک می شود - بدون اینکه نشانه ای از حمایت ایران از آن باشد",
+    "Iran war live: Trump warns of attacks as Hormuz deal deadline nears": "جنگ ایران زنده: ترامپ با نزدیک شدن مهلت توافق هرمز هشدار درباره حملات داد",
+    "Trump: US has plan to destroy every bridge and power plant in Iran Tuesday night if no deal": "ترامپ: آمریکا قصد دارد سه شنبه شب همه پل ها و نیروگاه های برق ایران را نابود کند اگر توافقی حاصل نشود",
+    "‘They want to create a rift’: Israeli attacks deepen Lebanon fissures": "«آن ها می خواهند شکاف ایجاد کنند»: حملات اسرائیل شکاف های لبنان را عمیق تر می کند",
+    "UN Security Council expected to vote Tuesday on watered-down Hormuz resolution": "شورای امنیت سازمان ملل انتظار می رود سه شنبه درباره قطعنامه تضعیف شده هرمز رأی گیری کند",
+    "Hamas given until week’s end to accept disarmament proposal — sources": "حماس تا پایان هفته فرصت داده تا پیشنهاد خلع سلاح را بپذیرد — منابع",
+    "Hungary’s Orbán has long annoyed the European Union. Now some hope he faces defeat": "اوربان مجارستان مدت هاست که اتحادیه اروپا را ناراحت کرده است. حالا کمی امید دارد که با شکست روبرو شود",
+    "Florida governor signs law letting state officials blacklist groups as terror organizations": "فرماندار فلوریدا قانونی را امضا کرد که به مقامات ایالتی اجازه می دهد گروه ها را به عنوان سازمان های تروریستی در فهرست سیاه قرار دهند"
   }
 }

@@ -831,7 +831,22 @@
     "ac07ad3bee2a81b51fa5deda",
     "cdfa305c10ffa51ee491a76a",
     "311a9cc9b9c933b94374ddbe",
-    "8d11edabaf9a23c57c956059"
+    "8d11edabaf9a23c57c956059",
+    "f21df39f700988fe02cab1ae",
+    "0193b19a1d72d8bafc4ef3b9",
+    "edb984612633327057bb400f",
+    "e84d5192b43a5136ec1455be",
+    "d7d459ab5b79d65a4f4d30a2",
+    "896c4d70b9757b7efb0a9888",
+    "4812624c54717b0d2dd08976",
+    "6dccab5d97c67cb035ec7625",
+    "067e010f15424eb2f52544d4",
+    "340b39f53f96989789279a04",
+    "090d44e7de6684eece7cc5d7",
+    "4f381dbdfd57fbc789d7dee7",
+    "2f270049b71b612031d08608",
+    "3d99e62e0562017d511a1ac7",
+    "08d9ba068f5bc60a9abc5496"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1665,7 +1680,22 @@
     "030ff6cbd1ba158a71670b80",
     "496f1581d82b69da5dd53bcc",
     "58ba7a00ec542e25e40a4935",
-    "dce964626aca4b0adc4da039"
+    "dce964626aca4b0adc4da039",
+    "28b1e83aae1a62c4126e421c",
+    "f3096a8a7b7b17da7511ebdb",
+    "76d66ae4d3dcdf60ab227739",
+    "130225920061f54515e25f6d",
+    "fd57988103cb7812c02a4760",
+    "97bff60f037b57135771f1d6",
+    "cc3e9598c0e3620f81f53aec",
+    "e1c97a2e9df192343cf2e586",
+    "33136476a093bfc33640c311",
+    "7131b560492964bc26bc6bf6",
+    "b9f5f7782d0f262523a66a69",
+    "42813affa7a7119aabb0fae9",
+    "b84639ec555402795ba3c848",
+    "2ca8d3b9d524b16ec7228db2",
+    "c79b49f24d090cbf5a623e15"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1704,11 +1734,12 @@
     "fa6cc50383e3f809c8ca705d",
     "f0a17e76addd6a0e49d1268a",
     "e1a5001cb54e22cef3df2673",
-    "7d230301d48a90509e136475"
+    "7d230301d48a90509e136475",
+    "f21df39f700988fe02cab1ae"
   ],
-  "last_digest_hash": "6870c8140e68f2b8877b513ff8ed27cf794457dea3ed83b4a1e7607d1a166c11",
-  "last_run_iso": "2026-04-07T11:12:05.878482+00:00",
-  "last_breaking_run_iso": "2026-04-07T03:27:27.171314+00:00",
+  "last_digest_hash": "432b0acf179a908595819478930edde985912a89263aa10f26d2365c7bc8d63f",
+  "last_run_iso": "2026-04-07T13:57:44.239619+00:00",
+  "last_breaking_run_iso": "2026-04-07T13:57:44.239619+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -2541,6 +2572,21 @@
     "Schools set to partially reopen Sunday, subject to IDF guidelines": "مدارس قرار است یکشنبه تا حدی بازگشایی شوند، مشروط به دستورالعمل های ارتش اسرائیل",
     "Weizmann Institute helps map Moon’s shadowy sources of ice": "مؤسسه وایزمن به نقشه برداری منابع یخ سایه دار ماه کمک می کند",
     "‘Dying of thirst’: Inside Gaza’s al-Mawasi water crisis": "«مرگ از تشنگ»: درون بحران آب المواسی در غزه",
-    "‘US-Israel playing Russian roulette with security of the region’": "«آمریکا و اسرائیل در حال بازی رولت روسیه با امنیت منطقه»"
+    "‘US-Israel playing Russian roulette with security of the region’": "«آمریکا و اسرائیل در حال بازی رولت روسیه با امنیت منطقه»",
+    "US, IDF strikes hit Iranian rail and Kharg Island; Israel faces ongoing missile attacks": "حملات آمریکا و ارتش اسرائیل به راه آهن ایران و جزیره خارگ؛ اسرائیل با حملات موشکی ادامه دار مواجه است",
+    "Iran claims Tehran synagogue badly damaged in Israeli airstrike; Israeli official: We don’t target synagogues": "ایران ادعا می کند کنیسه تهران در حمله هوایی اسرائیل به شدت آسیب دیده است؛ مقام اسرائیلی: ما کنیسه ها را هدف قرار نمی دهیم",
+    "1 attacker killed, two hurt in gun battle with police outside unstaffed Israeli consulate in Istanbul": "یک مهاجم کشته و دو نفر زخمی در درگیری مسلحانه با پلیس در بیرون کنسولگری بدون پرسنل اسرائیل در استانبول",
+    "What’s Iran’s 10-point peace plan that Trump says is ‘not good enough’?": "طرح صلح ۱۰ ماده ای ایران که ترامپ می گوید «کافی نیست» چیست؟",
+    "US-Israeli attacks on Iran are ‘clear and obvious war crimes’": "حملات آمریکا و اسرائیل به ایران «جنایات جنگی آشکار و آشکار» هستند",
+    "Can Africa tackle the oil shock from the Iran war?": "آیا آفریقا می تواند با شوک نفتی ناشی از جنگ ایران مقابله کند؟",
+    "‘Get a grip’: How Iranian embassies mocked Trump’s vulgar threat": "«خودت را جمع و جور کن»: چگونه سفارتخانه های ایران تهدید رکیک ترامپ را مسخره کردند",
+    "Settlers erect outpost in East Jerusalem, attack Palestinian locals": "شهرک نشینان پایگاه هایی در شرق اورشلیم برپا کردند و به فلسطینی های محلی حمله کردند",
+    "Trump’s ‘new, reasonable’ Iran is neither new nor reasonable, and he knows it": "ایران «جدید و معقول» ترامپ نه جدید است و نه منطقی، و خودش هم این را می داند",
+    "‘Iranians reject idea that US will bring stability’": "«ایرانی ها ایده اینکه آمریکا ثبات را به ارمغان خواهد آورد رد می کنند»",
+    "Noga Erez to play Coachella, despite haters, war and canceled flights": "نوگا ارز برای بازی در کوچلا، با وجود منتقدان، جنگ و لغو پروازها",
+    "How Israel’s invasion of southern Lebanon created a humanitarian crisis": "چگونه تهاجم اسرائیل به جنوب لبنان بحران انسانی ایجاد کرد",
+    "Videos capture shooting near Israeli consulate in Istanbul": "ویدیوها تیراندازی نزدیک کنسولگری اسرائیل در استانبول را ثبت می کنند",
+    "In Albania, teens at German school discover tribal code of honor that saved Jews in WWII": "در آلبانی، نوجوانان مدرسه آلمانی با کد افتخار قبیله ای که یهودیان را در جنگ جهانی دوم نجات داد، کشف می کنند",
+    "ToI closes its Arabic- and Persian-language sites": "ToI سایت های عربی و فارسی زبان خود را می بندد"
   }
 }

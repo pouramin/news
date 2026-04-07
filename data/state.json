@@ -894,7 +894,10 @@
     "1c1fa0550b4c00a73ec056a9",
     "8bb26db6d2f1b7dc7e59d3a5",
     "68966a095cf150dc54baceea",
-    "85b9b37d6f7c0f6f7c2605d1"
+    "85b9b37d6f7c0f6f7c2605d1",
+    "b2e024c5cc6c862d08685b46",
+    "d4fd821e8923ec9c05aa7243",
+    "ebbb64b7751bc79b5ffaca26"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1791,7 +1794,10 @@
     "58c1836b4360b2a617fa397d",
     "1e4f27c00cebb8cd01c943cb",
     "dec6b1c98be3264c2c11d667",
-    "5bdccf3b028a60483f0e7b03"
+    "5bdccf3b028a60483f0e7b03",
+    "105995a7db3add4cfd16a621",
+    "0ad8439f2b8f33b143f3c45f",
+    "aebab964469d70eb08c924a7"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1834,8 +1840,8 @@
     "f21df39f700988fe02cab1ae",
     "76c9cff50e543363842c657d"
   ],
-  "last_digest_hash": "c9bfe964fbebc5341d81428e1d23ca35a14944803c52e0aa295494d201e5bfaa",
-  "last_run_iso": "2026-04-07T22:54:48.966569+00:00",
+  "last_digest_hash": "e625c774f054da7fd01c3edf3592d6446f9e28fde3f709444ba89b361a2a3986",
+  "last_run_iso": "2026-04-07T23:52:09.575883+00:00",
   "last_breaking_run_iso": "2026-04-07T22:54:48.966569+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -2732,6 +2738,9 @@
     "Pakistan appeals to Trump to extend deadline, Iran to reopen Hormuz Strait": "پاکستان از ترامپ درخواست تمدید مهلت می کند و ایران تنگه هرمز را بازگشایی می کند",
     "Indian migrant workers hit by cooking gas shortages are leaving cities": "کارگران مهاجر هندی که به دلیل کمبود گاز آشپزی آسیب دیده اند، شهرها را ترک می کنند",
     "Iranian musician stages protest at power station over Trump threats": "موسیقیدان ایرانی در اعتراض به تهدیدات ترامپ در ایستگاه برق برگزار می کند",
-    "Kanye West barred from UK over antisemitic history, causing music festival cancellation": "کانیه وست به دلیل سابقه ضدیهودی از ورود به بریتانیا محروم شد و باعث لغو جشنواره موسیقی شد"
+    "Kanye West barred from UK over antisemitic history, causing music festival cancellation": "کانیه وست به دلیل سابقه ضدیهودی از ورود به بریتانیا محروم شد و باعث لغو جشنواره موسیقی شد",
+    "Trump announces two-week ceasefire as Iran agrees to reopen Hormuz Strait": "ترامپ آتش بس دو هفته ای اعلام کرد در حالی که ایران با بازگشایی تنگه هرمز موافقت کرده است",
+    "Trump agrees to pause attacks on Iran if Strait of Hormuz opens": "ترامپ موافقت کرد که اگر تنگه هرمز باز شود، حملات به ایران را متوقف کند",
+    "US Jewish groups denounce Trump’s threat that a ‘whole civilization will die’ in Iran": "گروه های یهودی آمریکایی تهدید ترامپ مبنی بر اینکه «یک تمدن کامل در ایران نابود خواهد شد» را محکوم می کنند"
   }
 }

@@ -1,0 +1,17 @@
+{
+  "run_iso": "2026-04-07T23:52:09.575883+00:00",
+  "raw_count": 75,
+  "enriched_count": 42,
+  "deduped_count": 42,
+  "fresh_count": 3,
+  "breaking_sent_count": 0,
+  "digest_sent": true,
+  "digest_item_count": 3,
+  "sent_now_count": 3,
+  "sent_now_ids": [
+    "b2e024c5cc6c862d08685b46",
+    "d4fd821e8923ec9c05aa7243",
+    "ebbb64b7751bc79b5ffaca26"
+  ],
+  "remaining_unsent_count": 0
+}

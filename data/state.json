@@ -882,7 +882,11 @@
     "9fe01315bbebcdfc8956fd3e",
     "1c5fca8eb2d906e3d7496e96",
     "63c7f47054fa39e3bcf0e454",
-    "a1f3a9cf75fcb14b71bab663"
+    "a1f3a9cf75fcb14b71bab663",
+    "0af1f08d305c84a7ffedf822",
+    "7ba72d73635d8c768d978968",
+    "d052ff2556c52f4626eebb23",
+    "ec5ef4cf748a3b5c7fd907f2"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1767,7 +1771,11 @@
     "735fc403145caaf925659d6c",
     "5992d17951458ab0d6835c23",
     "f6e300005426045acac0fef2",
-    "b5157c59ccaa615ace35a77a"
+    "b5157c59ccaa615ace35a77a",
+    "86fc84b62f807c7bcd848525",
+    "4329be75a16d975e5a223998",
+    "d05105d5e21404d10ad89e73",
+    "0eb7f5069adebd38ba374fd0"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1809,8 +1817,8 @@
     "7d230301d48a90509e136475",
     "f21df39f700988fe02cab1ae"
   ],
-  "last_digest_hash": "e555fa2b3f47d81312034b261ea8fe8af90cde6cc6d49c26594d7c91d3803192",
-  "last_run_iso": "2026-04-07T21:01:12.904698+00:00",
+  "last_digest_hash": "16f4be75f0cf9539b800645368c8741ffd4bf2d73930d975f171cad56be4be9a",
+  "last_run_iso": "2026-04-07T21:54:47.375308+00:00",
   "last_breaking_run_iso": "2026-04-07T13:57:44.239619+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -2695,6 +2703,10 @@
     "French nationals return home following Iran prison release": "اتباع فرانسوی پس از آزادی از زندان ایران به کشورشان بازمی گردند",
     "Massive fire engulfs oil storage tanks near Baghdad": "آتش سوزی گسترده مخازن ذخیره نفت در نزدیکی بغداد را در بر گرفت",
     "What we know about the shooting by Istanbul’s Israeli consulate": "آنچه درباره تیراندازی کنسولگری اسرائیل استانبول می دانیم",
-    "US judge rejects bid by Swiss Bank UBS to limit its liability for Nazi-linked crimes": "قاضی آمریکایی درخواست بانک UBS سوئیس برای محدود کردن مسئولیت خود در قبال جرایم مرتبط با نازی ها را رد کرد"
+    "US judge rejects bid by Swiss Bank UBS to limit its liability for Nazi-linked crimes": "قاضی آمریکایی درخواست بانک UBS سوئیس برای محدود کردن مسئولیت خود در قبال جرایم مرتبط با نازی ها را رد کرد",
+    "How is the US-Israel war on Iran affecting Russian-Iranian relations?": "جنگ آمریکا و اسرائیل علیه ایران چگونه بر روابط روسیه و ایران تأثیر می گذارد؟",
+    "Protesters in Iraq swarm Kuwaiti consulate after deadly rocket attack": "معترضان در عراق پس از حمله مرگبار راکتی، کنسولگری کویت را محاصره کردند",
+    "Iranians brace for possible devastation as Trump’s deadline looms": "ایرانی ها خود را برای ویرانی احتمالی آماده می کنند در حالی که ضرب الاجل ترامپ نزدیک می شود",
+    "Palestinians queue for hours in pouring rain to get bread": "فلسطینی ها ساعت ها در صف باران شدید برای گرفتن نان ایستاده اند"
   }
 }

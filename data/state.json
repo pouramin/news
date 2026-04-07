@@ -807,7 +807,10 @@
     "83b8bc49ab5445d66f33e789",
     "6415a11b0fcf9a0a18c38751",
     "9ab0eb820b3f3165de4bf992",
-    "eeb5f1c6700eafdcf365d852"
+    "eeb5f1c6700eafdcf365d852",
+    "8d8165a4a60c68fbab8c3cd0",
+    "2067ef6526bcc2715cce7de9",
+    "c5231e9385dedd2163ca1cfb"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1617,7 +1620,10 @@
     "d57d58ba89183b3ec74d1e9c",
     "2c8b67983318b22da8b6f53c",
     "c53342d77c34388e2f52192b",
-    "61c35a869d297a0081d19bb9"
+    "61c35a869d297a0081d19bb9",
+    "ac938abde6267dbbe7606cd1",
+    "6f72e923d52970b5ef71d38a",
+    "27b63289d0b35f64349f8315"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1658,8 +1664,8 @@
     "e1a5001cb54e22cef3df2673",
     "7d230301d48a90509e136475"
   ],
-  "last_digest_hash": "231b9e3fddb15d84d239c30bbf709b8d4e0f0937ea053b06775afd3d4c24bbcd",
-  "last_run_iso": "2026-04-07T03:27:27.171314+00:00",
+  "last_digest_hash": "9a96b86a8392c0cd1e4ff7285e76cd7f81394c6b6d2bbf21680d009ea0e11ae4",
+  "last_run_iso": "2026-04-07T05:53:22.369281+00:00",
   "last_breaking_run_iso": "2026-04-07T03:27:27.171314+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -2469,6 +2475,9 @@
     "UN Security Council expected to vote Tuesday on watered-down Hormuz resolution": "شورای امنیت سازمان ملل انتظار می رود سه شنبه درباره قطعنامه تضعیف شده هرمز رأی گیری کند",
     "Hamas given until week’s end to accept disarmament proposal — sources": "حماس تا پایان هفته فرصت داده تا پیشنهاد خلع سلاح را بپذیرد — منابع",
     "Hungary’s Orbán has long annoyed the European Union. Now some hope he faces defeat": "اوربان مجارستان مدت هاست که اتحادیه اروپا را ناراحت کرده است. حالا کمی امید دارد که با شکست روبرو شود",
-    "Florida governor signs law letting state officials blacklist groups as terror organizations": "فرماندار فلوریدا قانونی را امضا کرد که به مقامات ایالتی اجازه می دهد گروه ها را به عنوان سازمان های تروریستی در فهرست سیاه قرار دهند"
+    "Florida governor signs law letting state officials blacklist groups as terror organizations": "فرماندار فلوریدا قانونی را امضا کرد که به مقامات ایالتی اجازه می دهد گروه ها را به عنوان سازمان های تروریستی در فهرست سیاه قرار دهند",
+    "‘Why would Iran agree to a ceasefire given US and Israeli track record?’": "«چرا ایران با توجه به سابقه آمریکا و اسرائیل با آتش بس موافقت می کند؟»",
+    "Trump’s threat to strike Iran’s power plants looms": "تهدید ترامپ به حمله به نیروگاه های ایران در حال نزدیک شدن است",
+    "Frankfurt cinema declines to participate in Jewish film festival, drawing backlash": "سینمای فرانکفورت از شرکت در جشنواره فیلم یهودی خودداری کرد که واکنش منفی را برانگیخت"
   }
 }

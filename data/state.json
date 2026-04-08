@@ -975,7 +975,14 @@
     "6a0d74d370befad0ec1322d3",
     "1ac2ab4e7be98653420b69a0",
     "5dce0f7200e289d57ac8230e",
-    "4a67b99eb174151e1db7438f"
+    "4a67b99eb174151e1db7438f",
+    "ba273274d31801082e4e5968",
+    "5bc2d24d0bd90bdcfbf56c62",
+    "6946ff9086b5ce89402e5b9d",
+    "f7a5e122234c8442f4455c5f",
+    "5de11501bdc3e0d8c2350536",
+    "bea1a5514fb9e064ed7306f3",
+    "19b99e89ca1572ef43099b98"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1953,7 +1960,14 @@
     "893e8eea043d44d7b8482b22",
     "dca8044ee165a48f098cfffe",
     "fae1b6701ad11aded4ecf8e2",
-    "185309641384210bdec0dfcd"
+    "185309641384210bdec0dfcd",
+    "b738a8634f64cd944a1108d3",
+    "fd9d76f212b621e02c2fdc86",
+    "8bac020aac0dee83dd204bb4",
+    "cfa55fd35d87a6214291a706",
+    "16fe2ad766c92156aa47dead",
+    "06f68b3250563bcd8ab9874e",
+    "25dcae0a915d0deea42e2ace"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2001,8 +2015,8 @@
     "6ecd7b1ba4aa260fd293dc97",
     "526d463b406c7df67bdd0f82"
   ],
-  "last_digest_hash": "6dd071690fe9bdcf39ae43ee240685c252222db2d8475a75f3880f338497bdab",
-  "last_run_iso": "2026-04-08T20:58:59.882602+00:00",
+  "last_digest_hash": "3c66e2da4bb4a5baadae4fd1360702d3910666109b0bedcd32fcaecdc84b0c02",
+  "last_run_iso": "2026-04-08T21:56:28.566339+00:00",
   "last_breaking_run_iso": "2026-04-08T15:40:36.495310+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -2980,6 +2994,13 @@
     "‘Everything will be worse’: Ceasefire leaves some Iranians fearful of greater crackdown": "«همه چیز بدتر خواهد شد»: آتش بس برخی ایرانیان را از سرکوب بیشتر بترساند",
     "Netanyahu: A ‘ceasefire with Iran will not include Hezbollah’": "نتانیاهو: «آتش بس با ایران شامل حزب الله نخواهد شد»",
     "Iranians breathe a ‘ceasefire’ sigh of relief as all sides claim victory": "ایرانی ها با آسودگی «آتش بس» نفس راحتی می کشند و همه طرف ها ادعای پیروزی می کنند",
-    "Shahar Cohen: ‘My life’ comic laughs about ‘managing the war’ with Nescafe in hand": "شاهار کوهن: کمیک «زندگی من» درباره «مدیریت جنگ» با نسکافه در دست می خندد"
+    "Shahar Cohen: ‘My life’ comic laughs about ‘managing the war’ with Nescafe in hand": "شاهار کوهن: کمیک «زندگی من» درباره «مدیریت جنگ» با نسکافه در دست می خندد",
+    "Report: Hungary offered Iran intel on Hezbollah pager attack by Israel": "گزارش: مجارستان اطلاعاتی درباره حمله پیجر حزب الله توسط اسرائیل به ایران ارائه داد",
+    "What to know about Israel’s strikes on Lebanon amid US-Iran ceasefire": "آنچه باید درباره حملات اسرائیل به لبنان در بحبوحه آتش بس آمریکا و ایران بدانید",
+    "‘People are afraid’: Lebanese reeling after Israel’s devastating attacks": "«مردم ترسیده اند»: لبنانی ها پس از حملات ویرانگر اسرائیل در شوکه هستند",
+    "Trump has found his Iran off-ramp – but at what cost?": "ترامپ خروج خود از ایران را یافته است – اما به چه قیمتی؟",
+    "Trump threatens 50% tariffs on countries that supply Iran with weapons": "ترامپ تهدید به اعمال تعرفه ۵۰ درصدی بر کشورهایی که به ایران سلاح می رسانند",
+    "Devastation in Beirut after Israeli strikes reduce homes to rubble": "ویرانی در بیروت پس از حملات اسرائیل خانه ها را به ویرانه تبدیل کرد",
+    "Macron welcomes US-Iran ceasefire and urges Lebanon’s inclusion": "مکرون از آتش بس آمریکا و ایران استقبال می کند و خواستار حضور لبنان در آتش بس است"
   }
 }

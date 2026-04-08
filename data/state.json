@@ -915,7 +915,13 @@
     "ebbbdd33a2cf927134808bff",
     "4c82f888b0288f6c58f03d13",
     "0439ff9a797b947541990c8f",
-    "a6d2dff5987d60ceea70582f"
+    "a6d2dff5987d60ceea70582f",
+    "fd10184f84f39a44933ef51c",
+    "a78bbb7e039e64c24aa9e3cd",
+    "048117656a4b699b21a74e51",
+    "02454ace43f055d4a7c7400d",
+    "4b3cb7c05b0ee93b42dac213",
+    "a6c018c9b78e598a77496875"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1833,7 +1839,13 @@
     "7d0c435f0d2178cab0f4a550",
     "920d2464346e4c205c4ce49e",
     "64e9132528bd78abf29c2cdb",
-    "9085e2777a1d349ac383e0f2"
+    "9085e2777a1d349ac383e0f2",
+    "bc4d0c586a76f200adb6a929",
+    "3d597f6cb9ffdb22e8bcdb05",
+    "34bc623d3514b606c2ffaf00",
+    "296db6e313b839119ff8e3a6",
+    "7d707bc9e949610f98ab36f9",
+    "40a760c10b20174bb6a9a1b7"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1878,8 +1890,8 @@
     "120034d8222acb1152fe7f68",
     "56b41da1109961a61e5d894b"
   ],
-  "last_digest_hash": "d2d25759936c837d3fb42f8c39be0c18cd9ba5bd70a0fce63d7eb8dbb76b3eaa",
-  "last_run_iso": "2026-04-08T05:54:30.866619+00:00",
+  "last_digest_hash": "2e10ff83cfe1e76d84281baad051699aba251c2a7f20b7a7dc9dc23d6e24596e",
+  "last_run_iso": "2026-04-08T07:50:57.407053+00:00",
   "last_breaking_run_iso": "2026-04-08T05:54:30.866619+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -2797,6 +2809,12 @@
     "Iranians commemorate victims of Minab school strike": "ایرانی ها قربانیان اعتصاب مدارس مناب را گرامی می دارند",
     "World welcomes US-Iran ceasefire, urges lasting peace in the Middle East": "جهان از آتش بس آمریکا و ایران استقبال می کند و خواهان صلح پایدار در خاورمیانه است",
     "How Pakistan helped secure a fragile ceasefire between the US and Iran": "چگونه پاکستان به تأمین آتش بس شکننده بین آمریکا و ایران کمک کرد",
-    "Historian Simon Schama: With parts of London ‘no-go zones,’ Jews have lost basic civil rights": "تاریخ نگار سایمون شاما: با منطقه ممنوعه شدن بخش هایی از لندن، یهودیان حقوق مدنی پایه ای خود را از دست داده اند"
+    "Historian Simon Schama: With parts of London ‘no-go zones,’ Jews have lost basic civil rights": "تاریخ نگار سایمون شاما: با منطقه ممنوعه شدن بخش هایی از لندن، یهودیان حقوق مدنی پایه ای خود را از دست داده اند",
+    "Iran war live: Trump announces truce, Tehran agrees safe transit in Hormuz": "جنگ ایران زنده: ترامپ آتش بس را اعلام کرد، تهران با عبور امن از هرمز موافقت کرد",
+    "Iran war: What is happening on day 40 of US-Israeli attacks?": "جنگ ایران: در روز چهل و پنجم حملات آمریکا و اسرائیل چه اتفاقی در حال رخ دادن است؟",
+    "How Trump went from threatening Iran’s annihilation to reaching a truce within a day": "چگونه ترامپ از تهدید به نابودی ایران به آتش بس در عرض یک روز رسید",
+    "Trump says he believes China got Iran to come to the negotiating table": "ترامپ می گوید معتقد است چین ایران را به میز مذاکره وادار کرده است",
+    "In Strait of Hormuz, Iran and China take aim at US dollar hegemony": "در تنگه هرمز، ایران و چین هدف هژمونی دلار آمریکا را هدف قرار داده اند",
+    "Yemen’s teachers pushed to the brink as salaries collapse": "معلمان یمن با سقوط حقوق ها تا مرز بحران پیش رفتند"
   }
 }

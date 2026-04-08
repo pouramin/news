@@ -930,7 +930,11 @@
     "1a8fda1be530598bcde87655",
     "83238deb668eecfdee20fb49",
     "8da3674d8cc6f1a8d1d763e5",
-    "6140a123fbcd51a258676ee7"
+    "6140a123fbcd51a258676ee7",
+    "15110b1d70480f218dd5fc85",
+    "58439151d610a22fef5b3c54",
+    "1071be461e909eff3c899896",
+    "2f93aebcfae6c10392136e7f"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1863,7 +1867,11 @@
     "2fbded5b7c5ab5d04e907be2",
     "13c6494dfeb2efaa0a5d9a43",
     "47368eee959b42cc4e4e9024",
-    "f60a5f55b5e225f4eafa4b3c"
+    "f60a5f55b5e225f4eafa4b3c",
+    "ad90401dba8e172924f21c1d",
+    "a9b2cc405d94ad01bd0368eb",
+    "0a8d2d05a9ebc3dc63f0b716",
+    "38d33c6be02c441980221837"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1906,11 +1914,12 @@
     "f21df39f700988fe02cab1ae",
     "76c9cff50e543363842c657d",
     "120034d8222acb1152fe7f68",
-    "56b41da1109961a61e5d894b"
+    "56b41da1109961a61e5d894b",
+    "15110b1d70480f218dd5fc85"
   ],
-  "last_digest_hash": "ea7037271e3235b20a0f813b3d3d6185f8276b454d37100afe4749e7e4fbfb17",
-  "last_run_iso": "2026-04-08T11:13:11.455491+00:00",
-  "last_breaking_run_iso": "2026-04-08T05:54:30.866619+00:00",
+  "last_digest_hash": "1ce6d200b63ca43510d748a170aea5b4f82bdcc209ccc17f0f28b3bd686a6e8f",
+  "last_run_iso": "2026-04-08T13:59:21.520461+00:00",
+  "last_breaking_run_iso": "2026-04-08T13:59:21.520461+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -2842,6 +2851,10 @@
     "Israel strikes southern Lebanon after US-Iran ceasefire": "اسرائیل پس از آتش بس آمریکا و ایران به جنوب لبنان حمله می کند",
     "Turkey detains 10 suspects over Istanbul gun attack outside Israeli consulate": "ترکیه ۱۰ مظنون را به اتهام حمله مسلحانه استانبول در خارج از کنسولگری اسرائیل بازداشت کرد",
     "Lebanon excluded from ceasefire as Israeli strikes continue": "لبنان با ادامه حملات اسرائیل از آتش بس محروم شد",
-    "US support group for interfaith Jewish families guts staff amid funding crisis": "گروه حمایتی آمریکا برای خانواده های یهودی بین ادیانی در بحران مالی کارکنان را از دست داد"
+    "US support group for interfaith Jewish families guts staff amid funding crisis": "گروه حمایتی آمریکا برای خانواده های یهودی بین ادیانی در بحران مالی کارکنان را از دست داد",
+    "Despite ceasefire, Iran claims refinery hit, launches wave of attacks against UAE, Kuwait": "با وجود آتش بس، ایران ادعا می کند پالایشگاه هدف قرار گرفته و موجی از حملات علیه امارات و کویت را آغاز کرده است",
+    "World leaders hail Iran truce as stocks rally, oil prices tumble": "رهبران جهان آتش بس ایران را تحسین کردند، در حالی که سهام رشد کرد و قیمت نفت سقوط کرد",
+    "Madagascar declares state of emergency over severe fuel shortages linked to Iran war": "ماداگاسکار به دلیل کمبود شدید سوخت مرتبط با جنگ ایران وضعیت اضطراری اعلام کرد",
+    "World Athletics postpones Doha Diamond League amid US-Israel war on Iran": "ورزش جهانی لیگ الماس دوحه را به دلیل جنگ آمریکا و اسرائیل علیه ایران به تعویق انداخت"
   }
 }

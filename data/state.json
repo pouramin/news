@@ -987,7 +987,8 @@
     "f9b4647e8a6f8eb830f6fde9",
     "8d06dc9f82e5f51fe8da39f2",
     "6fe2f37620bbee68bbe14438",
-    "047d2df30bb469495cc1e492"
+    "047d2df30bb469495cc1e492",
+    "6e53dbd3b667774d122e684f"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1977,7 +1978,8 @@
     "10ef19be6e20f3f234ea1657",
     "ba431bf734577050f2f7b919",
     "a7c9f214e4fab2e5e5c1639d",
-    "c237b5e6cd96c19132db25f1"
+    "c237b5e6cd96c19132db25f1",
+    "3f5b744c59569fbc95edaee1"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2025,8 +2027,8 @@
     "6ecd7b1ba4aa260fd293dc97",
     "526d463b406c7df67bdd0f82"
   ],
-  "last_digest_hash": "370503e62ff4ff42636c471becf70c94bf1f67d15855e10e979f4092dd47f105",
-  "last_run_iso": "2026-04-08T22:56:58.434691+00:00",
+  "last_digest_hash": "afa98017ba12f016a0d633dec35e566019b94b61e5cdc8af3f2df9225265c510",
+  "last_run_iso": "2026-04-08T23:50:53.300786+00:00",
   "last_breaking_run_iso": "2026-04-08T15:40:36.495310+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3016,6 +3018,7 @@
     "JD Vance says Iran would be ‘dumb’ to let talks collapse over Lebanon": "جی دی ونس می گوید ایران «احمق» خواهد بود اگر اجازه دهد مذاکرات بر سر لبنان فروبپاشد.",
     "Trump administration signals it is mulling NATO withdrawal after Iran war": "دولت ترامپ اعلام کرده که پس از جنگ ایران در حال بررسی خروج از ناتو است",
     "Americans question Trump’s instinct on Iran war": "آمریکایی ها به غریزه ترامپ درباره جنگ با ایران شک دارند",
-    "Jewish families and a rabbi ask to join lawsuit to block Oklahoma Jewish charter school": "خانواده های یهودی و یک خاخام درخواست پیوستن به دادخواست برای مسدود کردن مدرسه چارتر یهودیان اوکلاهما را دادند"
+    "Jewish families and a rabbi ask to join lawsuit to block Oklahoma Jewish charter school": "خانواده های یهودی و یک خاخام درخواست پیوستن به دادخواست برای مسدود کردن مدرسه چارتر یهودیان اوکلاهما را دادند",
+    "Vance to lead US negotiators at first round of Islamabad talks with Iran on Saturday": "ونس برای رهبری مذاکره کنندگان آمریکایی در دور اول مذاکرات اسلام آباد با ایران در روز شنبه"
   }
 }

@@ -968,7 +968,14 @@
     "290f1d21a1fdbb48c3986c53",
     "b1a8f23b18c3a9bc5c37d69a",
     "b0b0a46d63bfdf76efb224f9",
-    "7bd1ce5826a0eb147ec67c70"
+    "7bd1ce5826a0eb147ec67c70",
+    "64bf8dec0cfb8dda8f8c3d77",
+    "d5ad09d4f4b68119a0644321",
+    "f4c14514fe9d18a6e9865979",
+    "6a0d74d370befad0ec1322d3",
+    "1ac2ab4e7be98653420b69a0",
+    "5dce0f7200e289d57ac8230e",
+    "4a67b99eb174151e1db7438f"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1939,7 +1946,14 @@
     "31f94f2a6ce25a739cc88feb",
     "9b977aa6c71f121c9992ef60",
     "8c8507cc2fa84d5512e197ff",
-    "85f421ea58968971f0fc7719"
+    "85f421ea58968971f0fc7719",
+    "59de1402d75508f7b664f22a",
+    "968434845c10afb1a5087ffe",
+    "c945d4a3e0765b7d1b441288",
+    "893e8eea043d44d7b8482b22",
+    "dca8044ee165a48f098cfffe",
+    "fae1b6701ad11aded4ecf8e2",
+    "185309641384210bdec0dfcd"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1987,8 +2001,8 @@
     "6ecd7b1ba4aa260fd293dc97",
     "526d463b406c7df67bdd0f82"
   ],
-  "last_digest_hash": "2006d84d75dd3033a52ff894b181047984e7d35e896edee43686e5edd0d42373",
-  "last_run_iso": "2026-04-08T19:38:06.165939+00:00",
+  "last_digest_hash": "6dd071690fe9bdcf39ae43ee240685c252222db2d8475a75f3880f338497bdab",
+  "last_run_iso": "2026-04-08T20:58:59.882602+00:00",
   "last_breaking_run_iso": "2026-04-08T15:40:36.495310+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -2959,6 +2973,13 @@
     "‘A lot of work to do’ to reopen Strait of Hormuz after US-Iran ceasefire": "«کار زیادی باقی مانده» تا تنگه هرمز پس از آتش بس آمریکا و ایران بازگشایی شود",
     "White House says Trump’s ‘red line’ against Iran nuclear enrichment remains": "کاخ سفید می گوید «خط قرمز» ترامپ علیه غنی سازی هسته ای ایران همچنان پابرجاست",
     "How Trump’s promise to ‘wipe out’ Iran could backfire on US power": "چگونه وعده ترامپ برای «نابودی» ایران می تواند به قدرت آمریکا آسیب بزند",
-    "‘Why my child?’: Yemen’s Taiz mourns sniper’s killing of teen": "«چرا فرزند من؟»: تعز در یمن برای کشتن نوجوان توسط تک تیرانداز عزاداری می کند"
+    "‘Why my child?’: Yemen’s Taiz mourns sniper’s killing of teen": "«چرا فرزند من؟»: تعز در یمن برای کشتن نوجوان توسط تک تیرانداز عزاداری می کند",
+    "World reacts to ‘brutal’ Israeli attacks on Lebanon after US-Iran truce": "واکنش جهان به حملات «وحشیانه» اسرائیل به لبنان پس از آتش بس آمریکا و ایران",
+    "School to reopen across most of Israel Thursday as wartime restrictions eased": "مدارس روز پنج شنبه در بیشتر نقاط اسرائیل بازگشایی خواهند شد، زیرا محدودیت های زمان جنگ کاهش یافته اند.",
+    "‘Heinous crime’: Al Jazeera condemns Israeli killing of journalist": "«جنایت هولناک»: الجزیره قتل خبرنگار توسط اسرائیل را محکوم می کند",
+    "‘Everything will be worse’: Ceasefire leaves some Iranians fearful of greater crackdown": "«همه چیز بدتر خواهد شد»: آتش بس برخی ایرانیان را از سرکوب بیشتر بترساند",
+    "Netanyahu: A ‘ceasefire with Iran will not include Hezbollah’": "نتانیاهو: «آتش بس با ایران شامل حزب الله نخواهد شد»",
+    "Iranians breathe a ‘ceasefire’ sigh of relief as all sides claim victory": "ایرانی ها با آسودگی «آتش بس» نفس راحتی می کشند و همه طرف ها ادعای پیروزی می کنند",
+    "Shahar Cohen: ‘My life’ comic laughs about ‘managing the war’ with Nescafe in hand": "شاهار کوهن: کمیک «زندگی من» درباره «مدیریت جنگ» با نسکافه در دست می خندد"
   }
 }

@@ -950,7 +950,19 @@
     "d2dcc64c4f2aa34b303626fe",
     "cdbaf574e43d14a5d5f1ca7a",
     "5ecedceb24a0f9bc11259eec",
-    "1fbf3482844cfd944b0ebaff"
+    "1fbf3482844cfd944b0ebaff",
+    "1fd0615ba980b71093c0261f",
+    "674323a4d374d69cb6913c9d",
+    "cb904c66957622e42b66bfff",
+    "5ec67989e9e549a04384288d",
+    "10cf4c4282b6f3d60f168396",
+    "610f95b7f0b6afdcf4edb7c7",
+    "c0cf8ea8f0e267eb6bb3b6c1",
+    "322dce2a4efceb6583a6c39d",
+    "f6e64a91170bffce9e77c3b5",
+    "12f11a8665a62e6d89c71330",
+    "8e58f9fd1c8886d342922210",
+    "f1277727988f7ceebdc42079"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1903,7 +1915,19 @@
     "88b39086ed836542327ae9fd",
     "58cad175086cf9adc99b4077",
     "7d670bc5abb866f87417596a",
-    "e4854382d3d5f0e92bd078d0"
+    "e4854382d3d5f0e92bd078d0",
+    "8ca3f4db8774f6ef07d7ea24",
+    "55454b9a0dd12cfafb472f1a",
+    "31720f357f098bc49945da1e",
+    "252c7b17b374845e536f3a3a",
+    "2527c64af9f48b1ddc7efd41",
+    "59ecd76f51ddcc3dced0809a",
+    "f4a513bde5f35aacce70a895",
+    "11741ae5710e07af947be019",
+    "268d40e647e1eb45e8c2b57c",
+    "ab71401e3438893213d3285e",
+    "f10f9077d909718b1321f43e",
+    "196ca80c99ab9e0618242255"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1951,8 +1975,8 @@
     "6ecd7b1ba4aa260fd293dc97",
     "526d463b406c7df67bdd0f82"
   ],
-  "last_digest_hash": "81cf7a305f14066ec0bc2580321d8b9b1ae5162dcd62418deb0613e8b808b365",
-  "last_run_iso": "2026-04-08T15:40:36.495310+00:00",
+  "last_digest_hash": "9db6e38ad9ce44f4dae1f462b665038d9721a1590f54042049dfbc903b3f70ff",
+  "last_run_iso": "2026-04-08T17:18:53.086720+00:00",
   "last_breaking_run_iso": "2026-04-08T15:40:36.495310+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -2905,6 +2929,18 @@
     "Iran, US both claim victory, but did they actually concede ground?": "ایران و آمریکا هر دو ادعای پیروزی دارند، اما آیا واقعا زمین را واگذار کردند؟",
     "Did America lose yet another war?": "آیا آمریکا باز هم یک جنگ دیگر را باخت؟",
     "Defeat from the jaws of victory: Israel reacts to Trump’s Iran ceasefire": "شکست از دهان پیروزی: واکنش اسرائیل به آتش بس ترامپ در برابر ایران",
-    "Israeli closure of Al-Aqsa ‘selective’, ‘discriminatory’": "بسته شدن الاقصی توسط اسرائیل «انتخابی» و «تبعیض آمیز» است"
+    "Israeli closure of Al-Aqsa ‘selective’, ‘discriminatory’": "بسته شدن الاقصی توسط اسرائیل «انتخابی» و «تبعیض آمیز» است",
+    "Oil prices plunge, stocks surge against backdrop of Iran ceasefire": "قیمت نفت سقوط کرد و سهام در پس زمینه آتش بس ایران جهش کرد",
+    "Ships still cautious about using Strait of Hormuz as Iran issues warning": "کشتی ها همچنان در استفاده از تنگه هرمز محتاط هستند، چرا که ایران هشدار می دهد",
+    "Trump says Lebanon not included in US-Iran ceasefire amid Israeli assault": "ترامپ می گوید لبنان در جریان حمله اسرائیل در آتش بس آمریکا و ایران گنجانده نشده است",
+    "Ben Gurion Airport set to reopen as Israel eases flight restrictions after ceasefire": "فرودگاه بن گوریون با کاهش محدودیت های پروازی اسرائیل پس از آتش بس آماده بازگشایی است",
+    "Lebanon PM welcomes US-Iran ceasefire as Israeli strikes hit Beirut": "Lebanon PM welcomes US-Iran ceasefire as Israeli strikes hit Beirut",
+    "Hegseth: Iran ‘begged’ for ceasefire, claims ‘historic victory’": "هگست: ایران برای آتش بس «التماس کرد» و ادعای «پیروزی تاریخی» کرد",
+    "Civilians under fire by gangs in Gaza: What happened in Maghazi?": "غیرنظامیان زیر آتش باندها در غزه: در مغازی چه اتفاقی افتاد؟",
+    "Yair Lapid: ‘Netanyahu led us into a strategic debacle,’ sold lies to the Americans": "یائیر لاپید: «نتانیاهو ما را وارد یک شکست استراتژیک کرد»، به آمریکایی ها دروغ فروخت.",
+    "How Pakistan managed to get the US and Iran to a ceasefire": "چگونه پاکستان توانست آمریکا و ایران را به آتش بس برساند",
+    "Israeli attack kills Al Jazeera journalist Mohammed Wishah in Gaza": "حمله اسرائیل محمد ویشاه، خبرنگار الجزیره، را در غزه کشت",
+    "Netherlands not planning to bar Kanye West over antisemitic outbursts": "هلند قصد ندارد کانیه وست را به خاطر انفجارهای ضدیهودی منع کند",
+    "Trump claims victory in Iran — but is this really a win?": "ترامپ ادعای پیروزی در ایران را دارد — اما آیا این واقعا یک پیروزی است؟"
   }
 }

@@ -906,7 +906,16 @@
     "307991d8db5035d42758452a",
     "c2e7388d3829690208d728f8",
     "a9ff575de693976d06e095b7",
-    "4ae53ad78301d15db2006295"
+    "4ae53ad78301d15db2006295",
+    "56b41da1109961a61e5d894b",
+    "5ffe33bd38bb32df8dfb363d",
+    "8b9fa4d67c48403070689d86",
+    "2435fdffff1a523fadfae493",
+    "f4ebe4034502102d69cf0096",
+    "ebbbdd33a2cf927134808bff",
+    "4c82f888b0288f6c58f03d13",
+    "0439ff9a797b947541990c8f",
+    "a6d2dff5987d60ceea70582f"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1815,7 +1824,16 @@
     "1e733fe81f5513189d104112",
     "6363afd4af21bd4031a8e040",
     "1de8b4ddc871cd72f9075e47",
-    "c5bac0fed83363da267fd8f3"
+    "c5bac0fed83363da267fd8f3",
+    "8308836adf7982041c6d2272",
+    "db5cbe984e02ef0cb6b11a9a",
+    "61108282d7110cb86f188c93",
+    "13d6834b4d8ca08f04650417",
+    "bd8e743f772782427fbc4866",
+    "7d0c435f0d2178cab0f4a550",
+    "920d2464346e4c205c4ce49e",
+    "64e9132528bd78abf29c2cdb",
+    "9085e2777a1d349ac383e0f2"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1857,11 +1875,12 @@
     "7d230301d48a90509e136475",
     "f21df39f700988fe02cab1ae",
     "76c9cff50e543363842c657d",
-    "120034d8222acb1152fe7f68"
+    "120034d8222acb1152fe7f68",
+    "56b41da1109961a61e5d894b"
   ],
-  "last_digest_hash": "60aa720b29afae8b6cc4550490eb518747089b5208144ce46af5daae41804995",
-  "last_run_iso": "2026-04-08T03:29:18.953560+00:00",
-  "last_breaking_run_iso": "2026-04-08T03:29:18.953560+00:00",
+  "last_digest_hash": "d2d25759936c837d3fb42f8c39be0c18cd9ba5bd70a0fce63d7eb8dbb76b3eaa",
+  "last_run_iso": "2026-04-08T05:54:30.866619+00:00",
+  "last_breaking_run_iso": "2026-04-08T05:54:30.866619+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -2769,6 +2788,15 @@
     "Iran agrees to open Strait of Hormuz for two-week US ceasefire": "ایران موافقت کرد تنگه هرمز را برای آتش بس دو هفته ای آمریکا باز کند",
     "Iraqis celebrates US-Iran ceasefire as two-week halt in war begins": "عراقی ها آتش بس آمریکا و ایران را جشن گرفتند و توقف دو هفته ای جنگ آغاز شد",
     "Iran ceasefire deal a partial win for Trump - but at a high cost": "توافق آتش بس ایران پیروزی نسبی برای ترامپ بود - اما با هزینه ای سنگین",
-    "Climate activist Greta Thunberg slams Trump’s threats against Iran": "فعال اقلیمی، گرتا تونبرگ، تهدیدهای ترامپ علیه ایران را محکوم می کند"
+    "Climate activist Greta Thunberg slams Trump’s threats against Iran": "فعال اقلیمی، گرتا تونبرگ، تهدیدهای ترامپ علیه ایران را محکوم می کند",
+    "Trump: US to ‘suspend bombing’ of Iran for 2 weeks while talks held on ‘longterm peace’ deal": "ترامپ: آمریکا قصد دارد بمباران ایران را به مدت دو هفته متوقف کند در حالی که مذاکرات درباره توافق «صلح بلندمدت» برگزار می شود",
+    "US politicians react to Trump’s Iran ceasefire with caution, relief": "سیاستمداران آمریکایی با احتیاط و آسودگی به آتش بس ترامپ در برابر ایران واکنش نشان می دهند",
+    "Netanyahu says US-Iran ceasefire ‘does not include Lebanon’": "نتانیاهو می گوید آتش بس آمریکا و ایران «لبنان را شامل نمی شود»",
+    "US ceasefire allows negotiations on Iran’s ‘workable’ 10-point plan": "آتش بس آمریکا اجازه مذاکره درباره طرح «قابل اجرا» ۱۰ ماده ای ایران را می دهد",
+    "Top Trump aides told him PM’s prewar regime change forecast was ‘farcical’ — report": "دستیاران ارشد ترامپ به او گفتند پیش بینی تغییر رژیم نخست وزیر پیش از جنگ «مضحک» است — گزارش",
+    "Iranians commemorate victims of Minab school strike": "ایرانی ها قربانیان اعتصاب مدارس مناب را گرامی می دارند",
+    "World welcomes US-Iran ceasefire, urges lasting peace in the Middle East": "جهان از آتش بس آمریکا و ایران استقبال می کند و خواهان صلح پایدار در خاورمیانه است",
+    "How Pakistan helped secure a fragile ceasefire between the US and Iran": "چگونه پاکستان به تأمین آتش بس شکننده بین آمریکا و ایران کمک کرد",
+    "Historian Simon Schama: With parts of London ‘no-go zones,’ Jews have lost basic civil rights": "تاریخ نگار سایمون شاما: با منطقه ممنوعه شدن بخش هایی از لندن، یهودیان حقوق مدنی پایه ای خود را از دست داده اند"
   }
 }

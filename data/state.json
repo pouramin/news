@@ -897,7 +897,16 @@
     "85b9b37d6f7c0f6f7c2605d1",
     "b2e024c5cc6c862d08685b46",
     "d4fd821e8923ec9c05aa7243",
-    "ebbb64b7751bc79b5ffaca26"
+    "ebbb64b7751bc79b5ffaca26",
+    "120034d8222acb1152fe7f68",
+    "9afd38d8421af9e692d8f221",
+    "188499d389da8debbbdd2290",
+    "a48c800b8e73f085af5f2e38",
+    "b9155105580ab5eb7e391457",
+    "307991d8db5035d42758452a",
+    "c2e7388d3829690208d728f8",
+    "a9ff575de693976d06e095b7",
+    "4ae53ad78301d15db2006295"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1797,7 +1806,16 @@
     "5bdccf3b028a60483f0e7b03",
     "105995a7db3add4cfd16a621",
     "0ad8439f2b8f33b143f3c45f",
-    "aebab964469d70eb08c924a7"
+    "aebab964469d70eb08c924a7",
+    "4442b49f13854724eaf74407",
+    "d65416c2b8705c3f748b9310",
+    "41e4175d3a8b574a0fb861ec",
+    "89d6ec955024c6bab629a957",
+    "e845f926b5c78afd45642fa3",
+    "1e733fe81f5513189d104112",
+    "6363afd4af21bd4031a8e040",
+    "1de8b4ddc871cd72f9075e47",
+    "c5bac0fed83363da267fd8f3"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1838,11 +1856,12 @@
     "e1a5001cb54e22cef3df2673",
     "7d230301d48a90509e136475",
     "f21df39f700988fe02cab1ae",
-    "76c9cff50e543363842c657d"
+    "76c9cff50e543363842c657d",
+    "120034d8222acb1152fe7f68"
   ],
-  "last_digest_hash": "e625c774f054da7fd01c3edf3592d6446f9e28fde3f709444ba89b361a2a3986",
-  "last_run_iso": "2026-04-07T23:52:09.575883+00:00",
-  "last_breaking_run_iso": "2026-04-07T22:54:48.966569+00:00",
+  "last_digest_hash": "60aa720b29afae8b6cc4550490eb518747089b5208144ce46af5daae41804995",
+  "last_run_iso": "2026-04-08T03:29:18.953560+00:00",
+  "last_breaking_run_iso": "2026-04-08T03:29:18.953560+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -2741,6 +2760,15 @@
     "Kanye West barred from UK over antisemitic history, causing music festival cancellation": "کانیه وست به دلیل سابقه ضدیهودی از ورود به بریتانیا محروم شد و باعث لغو جشنواره موسیقی شد",
     "Trump announces two-week ceasefire as Iran agrees to reopen Hormuz Strait": "ترامپ آتش بس دو هفته ای اعلام کرد در حالی که ایران با بازگشایی تنگه هرمز موافقت کرده است",
     "Trump agrees to pause attacks on Iran if Strait of Hormuz opens": "ترامپ موافقت کرد که اگر تنگه هرمز باز شود، حملات به ایران را متوقف کند",
-    "US Jewish groups denounce Trump’s threat that a ‘whole civilization will die’ in Iran": "گروه های یهودی آمریکایی تهدید ترامپ مبنی بر اینکه «یک تمدن کامل در ایران نابود خواهد شد» را محکوم می کنند"
+    "US Jewish groups denounce Trump’s threat that a ‘whole civilization will die’ in Iran": "گروه های یهودی آمریکایی تهدید ترامپ مبنی بر اینکه «یک تمدن کامل در ایران نابود خواهد شد» را محکوم می کنند",
+    "Oil prices slide, stocks surge as Trump announces two-week Iran ceasefire": "قیمت نفت سقوط کرد، سهام ها جهش یافتند در حالی که ترامپ آتش بس دو هفته ای ایران را اعلام کرد",
+    "Iran says talks with US will begin in Pakistan’s Islamabad on Friday": "ایران می گوید مذاکرات با آمریکا روز جمعه در اسلام آباد پاکستان آغاز خواهد شد",
+    "Oil plunges after US-Iran ceasefire deal to reopen Strait of Hormuz": "سقوط نفت پس از توافق آتش بس آمریکا و ایران برای بازگشایی تنگه هرمز",
+    "What we know about the two-week ceasefire between the US and Iran": "آنچه درباره آتش بس دو هفته ای بین آمریکا و ایران می دانیم",
+    "White House confirms two-week suspension of strikes on Iran": "کاخ سفید تعلیق دو هفته ای حملات به ایران را تأیید کرد",
+    "Iran agrees to open Strait of Hormuz for two-week US ceasefire": "ایران موافقت کرد تنگه هرمز را برای آتش بس دو هفته ای آمریکا باز کند",
+    "Iraqis celebrates US-Iran ceasefire as two-week halt in war begins": "عراقی ها آتش بس آمریکا و ایران را جشن گرفتند و توقف دو هفته ای جنگ آغاز شد",
+    "Iran ceasefire deal a partial win for Trump - but at a high cost": "توافق آتش بس ایران پیروزی نسبی برای ترامپ بود - اما با هزینه ای سنگین",
+    "Climate activist Greta Thunberg slams Trump’s threats against Iran": "فعال اقلیمی، گرتا تونبرگ، تهدیدهای ترامپ علیه ایران را محکوم می کند"
   }
 }

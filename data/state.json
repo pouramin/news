@@ -921,7 +921,9 @@
     "048117656a4b699b21a74e51",
     "02454ace43f055d4a7c7400d",
     "4b3cb7c05b0ee93b42dac213",
-    "a6c018c9b78e598a77496875"
+    "a6c018c9b78e598a77496875",
+    "90e991deb7cc9a8a559e4306",
+    "9d9bd90363260ea69c7aaeef"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1845,7 +1847,9 @@
     "34bc623d3514b606c2ffaf00",
     "296db6e313b839119ff8e3a6",
     "7d707bc9e949610f98ab36f9",
-    "40a760c10b20174bb6a9a1b7"
+    "40a760c10b20174bb6a9a1b7",
+    "374dac3a40f7ef061151aa0a",
+    "e1445defb9c470b4f454583e"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1890,8 +1894,8 @@
     "120034d8222acb1152fe7f68",
     "56b41da1109961a61e5d894b"
   ],
-  "last_digest_hash": "2e10ff83cfe1e76d84281baad051699aba251c2a7f20b7a7dc9dc23d6e24596e",
-  "last_run_iso": "2026-04-08T07:50:57.407053+00:00",
+  "last_digest_hash": "5a46cd0394956a5ba07d40265f82ae115d4cacf29eb5bc6e79c62668f4a05b90",
+  "last_run_iso": "2026-04-08T09:16:38.279887+00:00",
   "last_breaking_run_iso": "2026-04-08T05:54:30.866619+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -2815,6 +2819,8 @@
     "How Trump went from threatening Iran’s annihilation to reaching a truce within a day": "چگونه ترامپ از تهدید به نابودی ایران به آتش بس در عرض یک روز رسید",
     "Trump says he believes China got Iran to come to the negotiating table": "ترامپ می گوید معتقد است چین ایران را به میز مذاکره وادار کرده است",
     "In Strait of Hormuz, Iran and China take aim at US dollar hegemony": "در تنگه هرمز، ایران و چین هدف هژمونی دلار آمریکا را هدف قرار داده اند",
-    "Yemen’s teachers pushed to the brink as salaries collapse": "معلمان یمن با سقوط حقوق ها تا مرز بحران پیش رفتند"
+    "Yemen’s teachers pushed to the brink as salaries collapse": "معلمان یمن با سقوط حقوق ها تا مرز بحران پیش رفتند",
+    "Gulf, Arab nations react to Iran-US ceasefire announcement": "کشورهای خلیج فارس و کشورهای عربی به اعلام آتش بس ایران و آمریکا واکنش نشان دادند",
+    "Tehran celebrates as Iran, US agree to two-week ceasefire": "تهران جشن می گیرد در حالی که ایران و آمریکا بر سر آتش بس دو هفته ای توافق کردند"
   }
 }

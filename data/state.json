@@ -962,7 +962,13 @@
     "f6e64a91170bffce9e77c3b5",
     "12f11a8665a62e6d89c71330",
     "8e58f9fd1c8886d342922210",
-    "f1277727988f7ceebdc42079"
+    "f1277727988f7ceebdc42079",
+    "d76a8095f0956670cb012fe9",
+    "fe80b922798fe7f98654b316",
+    "290f1d21a1fdbb48c3986c53",
+    "b1a8f23b18c3a9bc5c37d69a",
+    "b0b0a46d63bfdf76efb224f9",
+    "7bd1ce5826a0eb147ec67c70"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1927,7 +1933,13 @@
     "268d40e647e1eb45e8c2b57c",
     "ab71401e3438893213d3285e",
     "f10f9077d909718b1321f43e",
-    "196ca80c99ab9e0618242255"
+    "196ca80c99ab9e0618242255",
+    "ef2fc1601c355781e23e2384",
+    "363e681e484b1b3130e03d34",
+    "31f94f2a6ce25a739cc88feb",
+    "9b977aa6c71f121c9992ef60",
+    "8c8507cc2fa84d5512e197ff",
+    "85f421ea58968971f0fc7719"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1975,8 +1987,8 @@
     "6ecd7b1ba4aa260fd293dc97",
     "526d463b406c7df67bdd0f82"
   ],
-  "last_digest_hash": "9db6e38ad9ce44f4dae1f462b665038d9721a1590f54042049dfbc903b3f70ff",
-  "last_run_iso": "2026-04-08T17:18:53.086720+00:00",
+  "last_digest_hash": "2006d84d75dd3033a52ff894b181047984e7d35e896edee43686e5edd0d42373",
+  "last_run_iso": "2026-04-08T19:38:06.165939+00:00",
   "last_breaking_run_iso": "2026-04-08T15:40:36.495310+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -2941,6 +2953,12 @@
     "How Pakistan managed to get the US and Iran to a ceasefire": "چگونه پاکستان توانست آمریکا و ایران را به آتش بس برساند",
     "Israeli attack kills Al Jazeera journalist Mohammed Wishah in Gaza": "حمله اسرائیل محمد ویشاه، خبرنگار الجزیره، را در غزه کشت",
     "Netherlands not planning to bar Kanye West over antisemitic outbursts": "هلند قصد ندارد کانیه وست را به خاطر انفجارهای ضدیهودی منع کند",
-    "Trump claims victory in Iran — but is this really a win?": "ترامپ ادعای پیروزی در ایران را دارد — اما آیا این واقعا یک پیروزی است؟"
+    "Trump claims victory in Iran — but is this really a win?": "ترامپ ادعای پیروزی در ایران را دارد — اما آیا این واقعا یک پیروزی است؟",
+    "Netanyahu: Iran’s enriched uranium will be removed, by agreement or in resumed fighting": "نتانیاهو: اورانیوم غنی شده ایران با توافق یا از سرگیری نبردها حذف خواهد شد",
+    "Trump backs Israel, says Lebanon a ‘separate skirmish’ after ceasefire": "ترامپ از اسرائیل حمایت می کند و می گوید لبنان پس از آتش بس یک «درگیری جداگانه» است",
+    "‘A lot of work to do’ to reopen Strait of Hormuz after US-Iran ceasefire": "«کار زیادی باقی مانده» تا تنگه هرمز پس از آتش بس آمریکا و ایران بازگشایی شود",
+    "White House says Trump’s ‘red line’ against Iran nuclear enrichment remains": "کاخ سفید می گوید «خط قرمز» ترامپ علیه غنی سازی هسته ای ایران همچنان پابرجاست",
+    "How Trump’s promise to ‘wipe out’ Iran could backfire on US power": "چگونه وعده ترامپ برای «نابودی» ایران می تواند به قدرت آمریکا آسیب بزند",
+    "‘Why my child?’: Yemen’s Taiz mourns sniper’s killing of teen": "«چرا فرزند من؟»: تعز در یمن برای کشتن نوجوان توسط تک تیرانداز عزاداری می کند"
   }
 }

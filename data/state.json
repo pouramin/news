@@ -923,7 +923,14 @@
     "4b3cb7c05b0ee93b42dac213",
     "a6c018c9b78e598a77496875",
     "90e991deb7cc9a8a559e4306",
-    "9d9bd90363260ea69c7aaeef"
+    "9d9bd90363260ea69c7aaeef",
+    "86ca5f774197e308a1f14005",
+    "0638d619c03d0da6fbc78271",
+    "d3ce956ee6d33f3c17df8283",
+    "1a8fda1be530598bcde87655",
+    "83238deb668eecfdee20fb49",
+    "8da3674d8cc6f1a8d1d763e5",
+    "6140a123fbcd51a258676ee7"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1849,7 +1856,14 @@
     "7d707bc9e949610f98ab36f9",
     "40a760c10b20174bb6a9a1b7",
     "374dac3a40f7ef061151aa0a",
-    "e1445defb9c470b4f454583e"
+    "e1445defb9c470b4f454583e",
+    "4af1e124b89fc5dc34a5d06e",
+    "87effb995f4af1154acff244",
+    "5b292802574b7793418b5065",
+    "2fbded5b7c5ab5d04e907be2",
+    "13c6494dfeb2efaa0a5d9a43",
+    "47368eee959b42cc4e4e9024",
+    "f60a5f55b5e225f4eafa4b3c"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -1894,8 +1908,8 @@
     "120034d8222acb1152fe7f68",
     "56b41da1109961a61e5d894b"
   ],
-  "last_digest_hash": "5a46cd0394956a5ba07d40265f82ae115d4cacf29eb5bc6e79c62668f4a05b90",
-  "last_run_iso": "2026-04-08T09:16:38.279887+00:00",
+  "last_digest_hash": "ea7037271e3235b20a0f813b3d3d6185f8276b454d37100afe4749e7e4fbfb17",
+  "last_run_iso": "2026-04-08T11:13:11.455491+00:00",
   "last_breaking_run_iso": "2026-04-08T05:54:30.866619+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -2821,6 +2835,13 @@
     "In Strait of Hormuz, Iran and China take aim at US dollar hegemony": "در تنگه هرمز، ایران و چین هدف هژمونی دلار آمریکا را هدف قرار داده اند",
     "Yemen’s teachers pushed to the brink as salaries collapse": "معلمان یمن با سقوط حقوق ها تا مرز بحران پیش رفتند",
     "Gulf, Arab nations react to Iran-US ceasefire announcement": "کشورهای خلیج فارس و کشورهای عربی به اعلام آتش بس ایران و آمریکا واکنش نشان دادند",
-    "Tehran celebrates as Iran, US agree to two-week ceasefire": "تهران جشن می گیرد در حالی که ایران و آمریکا بر سر آتش بس دو هفته ای توافق کردند"
+    "Tehran celebrates as Iran, US agree to two-week ceasefire": "تهران جشن می گیرد در حالی که ایران و آمریکا بر سر آتش بس دو هفته ای توافق کردند",
+    "Netanyahu backs Iran truce; opposition blames him for ‘diplomatic disaster’": "نتانیاهو از آتش بس ایران حمایت می کند؛ مخالفان او را مسئول «فاجعه دیپلماتیک» می دانند",
+    "UAE, Kuwait, Bahrain report attacks despite Iran-US ceasefire": "امارات متحده عربی، کویت و بحرین با وجود آتش بس ایران و آمریکا حملاتی را گزارش دادند",
+    "US-Iran ceasefire deal: What are the terms, and what’s next?": "توافق آتش بس آمریکا و ایران: شرایط آن چیست و گام بعدی چیست؟",
+    "Israel strikes southern Lebanon after US-Iran ceasefire": "اسرائیل پس از آتش بس آمریکا و ایران به جنوب لبنان حمله می کند",
+    "Turkey detains 10 suspects over Istanbul gun attack outside Israeli consulate": "ترکیه ۱۰ مظنون را به اتهام حمله مسلحانه استانبول در خارج از کنسولگری اسرائیل بازداشت کرد",
+    "Lebanon excluded from ceasefire as Israeli strikes continue": "لبنان با ادامه حملات اسرائیل از آتش بس محروم شد",
+    "US support group for interfaith Jewish families guts staff amid funding crisis": "گروه حمایتی آمریکا برای خانواده های یهودی بین ادیانی در بحران مالی کارکنان را از دست داد"
   }
 }

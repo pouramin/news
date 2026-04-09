@@ -999,7 +999,11 @@
     "5bcd2d92114e61fda5a83276",
     "113d9fe1cab867c202f48368",
     "295f2c04cd9ed8e74efb6018",
-    "a8993adcc2056416319759a4"
+    "a8993adcc2056416319759a4",
+    "c88aa7b8623e904b4b28f986",
+    "d23e8c4d0db9dad61e884cfc",
+    "781f7af1cc6f97c9336ef6e9",
+    "3b57f3296e5075ab116b454f"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2001,7 +2005,11 @@
     "bc711205167b0f0e8621da7a",
     "25789dcd69fb8cd92cee3ce0",
     "fc257334acc8caf11bb11af1",
-    "3476323f7c6d4f32e473aeaa"
+    "3476323f7c6d4f32e473aeaa",
+    "4ea196ab6a5ac4643995fa4c",
+    "1161ce2a2f946e3a066089eb",
+    "82cccf6ada95ad028b1c0fa2",
+    "5ffa8f8dfc7f50f76e786d98"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2050,8 +2058,8 @@
     "526d463b406c7df67bdd0f82",
     "fc1ba55135eb1ff245e974fb"
   ],
-  "last_digest_hash": "8052a75dce63252a3959dd811eb377092688521c9c891c4c445f735e0141216d",
-  "last_run_iso": "2026-04-09T05:55:36.265746+00:00",
+  "last_digest_hash": "a706fd5eb9a6cd0efb6a499fee5173bb49d2a83fcde81be81f240c9836a2c9c9",
+  "last_run_iso": "2026-04-09T07:53:04.103021+00:00",
   "last_breaking_run_iso": "2026-04-09T03:25:04.753955+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3053,6 +3061,10 @@
     "Turkish convoy condemns ‘lawless aggression’ of the US and Israel": "کاروان ترکیه «تجاوز بی قانون» آمریکا و اسرائیل را محکوم می کند",
     "Palestinian killed by Israeli fire amid series of reported West Bank settler attacks": "فلسطینی که در جریان حملات گزارش شده شهرک نشینان کرانه باختری بر اثر آتش اسرائیل کشته شدند",
     "Trump slams NATO over Iran after meeting Rutte, renews Greenland threat": "ترامپ پس از دیدار با روت، ناتو را به خاطر ایران مورد انتقاد قرار داد و تهدید گرینلند را تجدید کرد",
-    "13-year-old girl captures terrifying moment Israel bombed Beirut": "دختری ۱۳ ساله لحظه وحشتناک بمباران بیروت توسط اسرائیل را ثبت می کند"
+    "13-year-old girl captures terrifying moment Israel bombed Beirut": "دختری ۱۳ ساله لحظه وحشتناک بمباران بیروت توسط اسرائیل را ثبت می کند",
+    "Lebanese PM declares day of mourning after ‘unprecedented’ wave of IDF strikes": "نخست وزیر لبنان روز عزاداری را پس از موج «بی سابقه» حملات ارتش اسرائیل اعلام کرد",
+    "Iran war day 41: What’s happening in Lebanon, Middle East and beyond?": "روز جنگ ایران ۴۱: در لبنان، خاورمیانه و فراتر از آن چه می گذرد؟",
+    "For Gulf states, Hormuz uncertainty casts shadow over US-Iran ceasefire": "برای کشورهای خلیج فارس، عدم قطعیت هرمز سایه ای بر آتش بس آمریکا و ایران انداخته است",
+    "As Trump claims victory, Iran emerges bruised but resilient, with leverage over Hormuz": "با اعلام پیروزی ترامپ، ایران زخمی اما مقاوم ظاهر می شود و بر هرمز نفوذ دارد"
   }
 }

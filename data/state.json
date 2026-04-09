@@ -1047,7 +1047,18 @@
     "7c105b5c06c6bc3ec64a22b7",
     "ff6a6c2bb7a99f09af59866c",
     "a158084342dc4f616f809c05",
-    "ef5038d9c7eca9d45f2f7e81"
+    "ef5038d9c7eca9d45f2f7e81",
+    "2fcd63117354a58ae1b1881d",
+    "88a05c81d0e62023ab67675c",
+    "9111afa93b568f75f007870c",
+    "92b0c5abc2953f09621f5043",
+    "6705a86a7a923a1cbb9e15ce",
+    "68826ba4faaeb265d1ebf3a5",
+    "4efcffc9bbd8d36e63cd9724",
+    "528d22b6a01434b21fe6e071",
+    "2ca97e3b8d3ad838dfe25d3d",
+    "43207c59d734546706dc7071",
+    "18d7dbbfc585b8b1202e3807"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2097,7 +2108,18 @@
     "580380860a089b667616935d",
     "34fb8c1c18073156cc96ec4b",
     "4f20770f6d78fd1cf0df0ca7",
-    "b87a4a5494473489bedc1889"
+    "b87a4a5494473489bedc1889",
+    "1d99fcca228f1de0eacb31a3",
+    "6e2a1d5fbac47adeb94ffb97",
+    "e86934c2b044deee8a7bcafd",
+    "abcd54fe325912260589a61c",
+    "b4fc06d7834039dd872ca5f5",
+    "4879b463614fc211c9873f1c",
+    "08d95b18035f8e83b0d9832a",
+    "b674580f9c992e1f1be20ee0",
+    "ecc49b2cc010f6cf463c693b",
+    "7e51d2fab8974c0466b8244e",
+    "29df6757571524a479c52f13"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2149,8 +2171,8 @@
     "e14864888dc3781df5896523",
     "38fc4fb6bef6b6e65976c146"
   ],
-  "last_digest_hash": "c084d1dcd4d1dfa2594c7143995934b551896a65a20c007247657a6f0826ff34",
-  "last_run_iso": "2026-04-09T18:07:32.646218+00:00",
+  "last_digest_hash": "e25fdb72839d7245c3f11d1c5de957d3763feeadcf911eea384b324062a6f947",
+  "last_run_iso": "2026-04-09T20:06:44.308820+00:00",
   "last_breaking_run_iso": "2026-04-09T18:07:32.646218+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3200,6 +3222,17 @@
     "Israel’s Netanyahu ready for talks with Lebanon ‘as soon as possible’": "نتانیاهو اسرائیل آماده مذاکره با لبنان «هرچه زودتر» است",
     "Gaza border kibbutz redirects donations to help war-torn north": "کیبوتص مرزی غزه کمک های مالی را به کمک به شمال جنگ زده هدایت می کند",
     "With a switch of a letter in DNA ‘dark matter,’ Israeli scientists change sex of mouse": "با تغییر یک حرف در DNA «ماده تاریک»، دانشمندان اسرائیلی جنسیت موش را تغییر می دهند",
-    "What Happens Inside Israel’s Detention System": "آنچه در داخل نظام بازداشت اسرائیل رخ می دهد"
+    "What Happens Inside Israel’s Detention System": "آنچه در داخل نظام بازداشت اسرائیل رخ می دهد",
+    "Iran says it ‘would be dumb’ for US to let Netanyahu kill diplomacy": "ایران می گوید «احمقانه» خواهد بود اگر آمریکا اجازه دهد نتانیاهو دیپلماسی را نابود کند",
+    "Israel to hold direct talks with Lebanon, Netanyahu says": "نتانیاهو می گوید اسرائیل مذاکرات مستقیم با لبنان خواهد داشت",
+    "Israel says peace talks with Lebanon to begin ASAP, rejects calls for truce first": "اسرائیل می گوید مذاکرات صلح با لبنان هر چه سریع تر آغاز خواهد شد و درخواست ها برای آتش بس را رد می کند",
+    "Why is Hezbollah a sticking point in the Iran ceasefire?": "چرا حزب الله نقطه اختلاف آتش بس ایران است؟",
+    "IDF tells Knesset panel new Iranian regime even more extreme": "ارتش اسرائیل به پنل کنست می گوید رژیم جدید ایران حتی افراطی تر",
+    "Pakistan bridging proposal salvaged Iran talks before US deadline expired — officials": "پیشنهاد پل زدن پاکستان مذاکرات ایران را پیش از پایان مهلت آمریکا نجات داد — مقامات",
+    "Iranians rally nationwide to honour late leader Ali Khamenei": "ایرانی ها در سراسر کشور برای بزرگداشت رهبر فقید علی خامنه ای تجمع کردند",
+    "Poll finds 60% of Americans have unfavorable view of Israel, up sharply since 2022": "نظرسنجی نشان می دهد ۶۰٪ آمریکایی ها دیدگاه منفی نسبت به اسرائیل دارند که از سال ۲۰۲۲ به طور چشمگیری افزایش یافته است",
+    "Scale of Beirut destruction revealed after wave of Israeli strikes": "ابعاد ویرانی بیروت پس از موج حملات اسرائیل آشکار شد",
+    "‘I live alone and I can’t run’: Elderly from the north turn social welfare hot potato": "«تنها زندگی می کنم و نمی توانم فرار کنم»: سالمندی از شمال به سیب زمینی داغ رفاه اجتماعی تبدیل شد",
+    "Zohran Mamdani on 100 days as New York mayor": "زهران مامدانی در صد روز شهرداری نیویورک"
   }
 }

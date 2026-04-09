@@ -988,7 +988,15 @@
     "8d06dc9f82e5f51fe8da39f2",
     "6fe2f37620bbee68bbe14438",
     "047d2df30bb469495cc1e492",
-    "6e53dbd3b667774d122e684f"
+    "6e53dbd3b667774d122e684f",
+    "fc1ba55135eb1ff245e974fb",
+    "20e038b959102c791be8b138",
+    "6d60ee0e2e0f843953ac339e",
+    "e84dfc80cb18e2bdab493f9a",
+    "e14e027163f8a46feb0fd494",
+    "932f077942c2dd7276fc21a9",
+    "521dc9d837e35e520ff900de",
+    "5bcd2d92114e61fda5a83276"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -1979,7 +1987,15 @@
     "ba431bf734577050f2f7b919",
     "a7c9f214e4fab2e5e5c1639d",
     "c237b5e6cd96c19132db25f1",
-    "3f5b744c59569fbc95edaee1"
+    "3f5b744c59569fbc95edaee1",
+    "9c5591179ce6f25d21153782",
+    "b53a06474a025ed932360103",
+    "fb66a06f0617b9a60c157dce",
+    "09f466de69101a09956cee0e",
+    "cab567f1a7c8bd60c0edb1c8",
+    "2ff59a899c74792453abc50a",
+    "8c86744fb57c91c7d00493f9",
+    "bc711205167b0f0e8621da7a"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2025,11 +2041,12 @@
     "56b41da1109961a61e5d894b",
     "15110b1d70480f218dd5fc85",
     "6ecd7b1ba4aa260fd293dc97",
-    "526d463b406c7df67bdd0f82"
+    "526d463b406c7df67bdd0f82",
+    "fc1ba55135eb1ff245e974fb"
   ],
-  "last_digest_hash": "afa98017ba12f016a0d633dec35e566019b94b61e5cdc8af3f2df9225265c510",
-  "last_run_iso": "2026-04-08T23:50:53.300786+00:00",
-  "last_breaking_run_iso": "2026-04-08T15:40:36.495310+00:00",
+  "last_digest_hash": "d0942f2cab282c1103a9e62f557052f9f0cf6a42ba25c0746b9f3424aaf286d4",
+  "last_run_iso": "2026-04-09T03:25:04.753955+00:00",
+  "last_breaking_run_iso": "2026-04-09T03:25:04.753955+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -3019,6 +3036,14 @@
     "Trump administration signals it is mulling NATO withdrawal after Iran war": "دولت ترامپ اعلام کرده که پس از جنگ ایران در حال بررسی خروج از ناتو است",
     "Americans question Trump’s instinct on Iran war": "آمریکایی ها به غریزه ترامپ درباره جنگ با ایران شک دارند",
     "Jewish families and a rabbi ask to join lawsuit to block Oklahoma Jewish charter school": "خانواده های یهودی و یک خاخام درخواست پیوستن به دادخواست برای مسدود کردن مدرسه چارتر یهودیان اوکلاهما را دادند",
-    "Vance to lead US negotiators at first round of Islamabad talks with Iran on Saturday": "ونس برای رهبری مذاکره کنندگان آمریکایی در دور اول مذاکرات اسلام آباد با ایران در روز شنبه"
+    "Vance to lead US negotiators at first round of Islamabad talks with Iran on Saturday": "ونس برای رهبری مذاکره کنندگان آمریکایی در دور اول مذاکرات اسلام آباد با ایران در روز شنبه",
+    "Hezbollah claims responsibility for rocket fire on north, accuses Israel of breaching US-Iran truce": "حزب الله مسئولیت شلیک راکت به شمال را بر عهده گرفت و اسرائیل را به نقض آتش بس آمریکا و ایران متهم کرد",
+    "Iran war live: Lebanon mourns as Israel raids shake Trump, Tehran ceasefire": "جنگ با ایران زنده: لبنان در حالی که حملات اسرائیل آتش بس ترامپ و تهران را تکان می دهد، سوگواری می کند",
+    "Trump criticises Nato as alliance chief describes meeting as 'very frank'": "ترامپ ناتو را مورد انتقاد قرار داد و رئیس اتحاد این دیدار را «بسیار صریح» توصیف کرد",
+    "‘Israel must be restrained for US-Iran ceasefire to hold’": "«اسرائیل باید مهار شود تا آتش بس آمریکا و ایران حفظ شود»",
+    "Netanyahu left with vague promises, no clear victories after another war ends without a decisive win": "نتانیاهو با وعده های مبهم رفت، هیچ پیروزی روشنی پس از پایان جنگ دیگر بدون پیروزی قاطع نداشت",
+    "Protesters outside Israeli embassy in London condemn assault on Lebanon": "معترضان در مقابل سفارت اسرائیل در لندن حمله به لبنان را محکوم کردند",
+    "US VP JD Vance says Lebanon is not part of the US-Iran ceasefire": "معاون رئیس جمهور آمریکا، جی دی ونس، می گوید لبنان بخشی از آتش بس آمریکا و ایران نیست",
+    "Turkish convoy condemns ‘lawless aggression’ of the US and Israel": "کاروان ترکیه «تجاوز بی قانون» آمریکا و اسرائیل را محکوم می کند"
   }
 }

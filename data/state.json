@@ -1008,7 +1008,13 @@
     "5959a8569e598cd300a7d5c1",
     "3ec9396c5fef8227f16e0423",
     "92a1e5077ab13cd82537b08d",
-    "dee46ce6ce40bcc2896a1780"
+    "dee46ce6ce40bcc2896a1780",
+    "51e185fab2b919b738081a52",
+    "bcf622b168527cbc96a30ed4",
+    "466c4ad57eece672f903fe86",
+    "0fb09f5959aef4a3e6601172",
+    "cc11a5a0c7802d67697e58c6",
+    "805b900e1c0626ccb3ec8682"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2019,7 +2025,13 @@
     "d57d0af84a70ac0a51a3d4a0",
     "1d69402bf8571ed54f34d7a8",
     "5bd0f12bef8647490365c901",
-    "761edfc860fdcda7ab957c59"
+    "761edfc860fdcda7ab957c59",
+    "cdf27f3e39548f8841ec2045",
+    "270eb6a14b3361364b32b4c4",
+    "3a20cc0f9a3d448fcabdfecd",
+    "b9386b70588baea3c4611a1a",
+    "d8463d92b983987cd4daa02e",
+    "59b231f3bd8919f3f6792d4f"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2066,11 +2078,12 @@
     "15110b1d70480f218dd5fc85",
     "6ecd7b1ba4aa260fd293dc97",
     "526d463b406c7df67bdd0f82",
-    "fc1ba55135eb1ff245e974fb"
+    "fc1ba55135eb1ff245e974fb",
+    "51e185fab2b919b738081a52"
   ],
-  "last_digest_hash": "35e0353015381366121a86d1030ce6fa056d6cc9f3a77cc59bbcacd14fdbb3aa",
-  "last_run_iso": "2026-04-09T09:22:02.052582+00:00",
-  "last_breaking_run_iso": "2026-04-09T03:25:04.753955+00:00",
+  "last_digest_hash": "070ad37ecfa3e0fa9ee91a99b6225061efe965761fd66f252bb7197cef54dbb2",
+  "last_run_iso": "2026-04-09T11:14:29.503832+00:00",
+  "last_breaking_run_iso": "2026-04-09T11:14:29.503832+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -3080,6 +3093,12 @@
     "Trump says US forces to stay near Iran, ready for ‘next conquest’": "ترامپ می گوید نیروهای آمریکایی باید نزدیک ایران بمانند و برای «فتح بعدی» آماده باشند",
     "Iran has been bloodied, but it is winning against the US-Israel axis": "ایران خونین شده، اما در حال پیروزی بر محور آمریکا و اسرائیل است",
     "Record animal sacrifice attempts at Al-Aqsa spark status quo fears": "تلاش های بی سابقه برای قربانی کردن حیوانات در الاقصی ترس از وضعیت موجود را شعله ور کرده است",
-    "Thousands of Palestinians pray at Al-Aqsa Mosque after Israel’s 40-day ban": "هزاران فلسطینی پس از ممنوعیت ۴۰ روزه اسرائیل در مسجد الاقصی نماز می خوانند"
+    "Thousands of Palestinians pray at Al-Aqsa Mosque after Israel’s 40-day ban": "هزاران فلسطینی پس از ممنوعیت ۴۰ روزه اسرائیل در مسجد الاقصی نماز می خوانند",
+    "‘Unacceptable’: European countries slam IDF strikes on Hezbollah amid US-Iran truce": "«غیرقابل قبول»: کشورهای اروپایی حملات ارتش اسرائیل به حزب الله را در پی آتش بس آمریکا و ایران محکوم کردند",
+    "Several people reported killed in fresh Israeli attacks on Lebanon": "چندین نفر گزارش دادند که در حملات تازه اسرائیل به لبنان کشته شده اند",
+    "Iran-linked hackers leak photos of ex-IDF chief Halevi’s work and family life": "هکرهای مرتبط با ایران عکس هایی از زندگی کاری و خانوادگی فرمانده سابق ارتش اسرائیل، حلوی، افشا کردند",
+    "Can global supply chains recover from the Iran war?": "آیا زنجیره های تأمین جهانی می توانند پس از جنگ ایران بهبود یابند؟",
+    "Why Israel’s attacks on Lebanon could cripple US-Iran ceasefire": "چرا حملات اسرائیل به لبنان می تواند آتش بس آمریکا و ایران را فلج کند",
+    "The war on Iran: Nobody won, everyone paid": "جنگ علیه ایران: هیچ برنده نشد، همه هزینه دادند"
   }
 }

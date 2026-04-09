@@ -1014,7 +1014,22 @@
     "466c4ad57eece672f903fe86",
     "0fb09f5959aef4a3e6601172",
     "cc11a5a0c7802d67697e58c6",
-    "805b900e1c0626ccb3ec8682"
+    "805b900e1c0626ccb3ec8682",
+    "e14864888dc3781df5896523",
+    "7e93bfdf094cc5cff345694b",
+    "23531d70a85ea29cdf3690a0",
+    "1c38b685423165e30ae08d1c",
+    "544f8cd5664a0c3b9ef9d864",
+    "ce26fe223a551b2ff11d6e16",
+    "3abd9e91063027bfdd3223f8",
+    "ed26dbd533c8ec4b196860db",
+    "f876e24cff3aa2085717b183",
+    "a34b841beb20270efdb26327",
+    "12e7845a759a72064bf4ade2",
+    "6e3604dbc5f82cf1befd7f59",
+    "e40c166e5d15e32fa33d1a85",
+    "0ec98a9d3a9c2a44ff1588c8",
+    "ec375ac3c6a6b84ca128f480"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2031,7 +2046,22 @@
     "3a20cc0f9a3d448fcabdfecd",
     "b9386b70588baea3c4611a1a",
     "d8463d92b983987cd4daa02e",
-    "59b231f3bd8919f3f6792d4f"
+    "59b231f3bd8919f3f6792d4f",
+    "6fb0ceea9da25ac7a55e6343",
+    "548751be397882742597a61f",
+    "a0af06fe2d2c6f03f0f9ebad",
+    "36f151a0b254a8ea946b387e",
+    "9496c78ff7a6a1966bd428f3",
+    "d1d675fe97a11ca37240ad44",
+    "d45bc3bedc004663b61c1d09",
+    "b6b8e8f74ebe6a4af9769d31",
+    "99e93a96e5dc8627e6b4fce0",
+    "e0828d903e84441618206dbe",
+    "c3ffcd26b24e648e91ed7999",
+    "f86f6a84b05fa7b034695259",
+    "a6d4221efecaa27590cd987a",
+    "51c525d430a828b15244856e",
+    "641febb01b6137452e45695b"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2079,11 +2109,12 @@
     "6ecd7b1ba4aa260fd293dc97",
     "526d463b406c7df67bdd0f82",
     "fc1ba55135eb1ff245e974fb",
-    "51e185fab2b919b738081a52"
+    "51e185fab2b919b738081a52",
+    "e14864888dc3781df5896523"
   ],
-  "last_digest_hash": "070ad37ecfa3e0fa9ee91a99b6225061efe965761fd66f252bb7197cef54dbb2",
-  "last_run_iso": "2026-04-09T11:14:29.503832+00:00",
-  "last_breaking_run_iso": "2026-04-09T11:14:29.503832+00:00",
+  "last_digest_hash": "6fa938901f1234d779bbb98068717424adc189fa64c5484fdb892ce20dec71fe",
+  "last_run_iso": "2026-04-09T14:09:06.859594+00:00",
+  "last_breaking_run_iso": "2026-04-09T14:09:06.859594+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -3099,6 +3130,21 @@
     "Iran-linked hackers leak photos of ex-IDF chief Halevi’s work and family life": "هکرهای مرتبط با ایران عکس هایی از زندگی کاری و خانوادگی فرمانده سابق ارتش اسرائیل، حلوی، افشا کردند",
     "Can global supply chains recover from the Iran war?": "آیا زنجیره های تأمین جهانی می توانند پس از جنگ ایران بهبود یابند؟",
     "Why Israel’s attacks on Lebanon could cripple US-Iran ceasefire": "چرا حملات اسرائیل به لبنان می تواند آتش بس آمریکا و ایران را فلج کند",
-    "The war on Iran: Nobody won, everyone paid": "جنگ علیه ایران: هیچ برنده نشد، همه هزینه دادند"
+    "The war on Iran: Nobody won, everyone paid": "جنگ علیه ایران: هیچ برنده نشد، همه هزینه دادند",
+    "IDF says it killed Hezbollah chief’s secretary as dozens of rockets fired from Lebanon": "ارتش اسرائیل اعلام کرد که دبیر رهبر حزب الله را کشته است در حالی که ده ها راکت از لبنان شلیک شد",
+    "Lebanon Latest: Israel kills hundreds in one day": "جدیدترین گزارش لبنان: اسرائیل در یک روز صدها نفر را کشت",
+    "Trump’s Iran war widens rift with European nationalists once viewed as MAGA allies": "جنگ ترامپ با ایران شکاف با ملی گرایان اروپایی را که زمانی متحدان MAGA تلقی می شدند، عمیق تر می کند",
+    "Israeli strikes in Lebanon 'grave violation' of ceasefire, Iran minister tells BBC": "حملات اسرائیل در لبنان «نقض جدی» آتش بس است، وزیر ایران به بی بی سی گفت",
+    "Al Jazeera condemns killing of journalist in Israeli strike in Gaza": "الجزیره قتل خبرنگار در حمله اسرائیل به غزه را محکوم می کند",
+    "US-Iran talks in Pakistan: Who’s attending, what’s on the agenda?": "مذاکرات آمریکا و ایران در پاکستان: چه کسانی شرکت می کنند، چه برنامه ای در برنامه است؟",
+    "Summer school programs to be extended after weeks of wartime closures": "برنامه های مدرسه تابستانی پس از هفته ها تعطیلی در زمان جنگ تمدید خواهند شد",
+    "The economic cost of US-Israel war on Iran": "هزینه اقتصادی جنگ آمریکا و اسرائیل علیه ایران",
+    "Holy sites reopen in Jerusalem’s Old City after over a month of closure": "اماکن مقدس پس از بیش از یک ماه تعطیلی در شهر قدیمی اورشلیم بازگشایی شدند",
+    "Funeral held for Al Jazeera’s Wishah killed in Israeli strike in Gaza": "مراسم خاکسپاری ویشاه از الجزیره که در حمله اسرائیل به غزه کشته شد برگزار شد",
+    "What is Iran’s Strait of Hormuz protocol and will other nations accept it?": "پروتکل تنگه هرمز ایران چیست و آیا کشورهای دیگر آن را خواهند پذیرفت؟",
+    "Israeli settlers storm Al-Aqsa Mosque compound after reopening": "شهرک نشینان اسرائیلی پس از بازگشایی مسجد الاقصی به محوطه یورش بردند",
+    "Daily Briefing April 9 – All sides claim war victory. They can’t all be right": "گزارش روزانه ۹ آوریل – همه طرف ها ادعای پیروزی در جنگ را دارند. همه شان نمی توانند درست باشند",
+    "Haifa man suspected of making explosives to ‘harm’ ex-PM Bennett on Iranian orders": "مردی از حیفا مظنون به ساخت مواد منفجره برای «آسیب رساندن» به نخست وزیر سابق بنت به دستور ایران",
+    "Michigan Democrats, Jewish leaders uneasy over Senate candidate’s alliance with Hasan Piker": "دموکرات ها و رهبران یهودی میشیگان نگران اتحاد نامزد سنا با حسن پیکر هستند"
   }
 }

@@ -1064,7 +1064,9 @@
     "83d7befa7ee7929fbee93f99",
     "d787f5ea49521a1d3bfa377a",
     "c4e709478e03b1564596c7f7",
-    "f6382fd2c9a6cdb332af0d86"
+    "f6382fd2c9a6cdb332af0d86",
+    "f797b554fe8cbdbd5904c455",
+    "4117ab762aff51e43e7f3e4b"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2131,7 +2133,9 @@
     "6773167b72dda4b460fe9f31",
     "80ba8497a8ee63e53acad331",
     "09b0d5cfc1b6dbcef099075c",
-    "16a1e4877c414fc5aaee0a8d"
+    "16a1e4877c414fc5aaee0a8d",
+    "f542168f7bd73f422d89ccd9",
+    "4dcaf86d8bfc15e264789e72"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2183,8 +2187,8 @@
     "e14864888dc3781df5896523",
     "38fc4fb6bef6b6e65976c146"
   ],
-  "last_digest_hash": "4a3f303bf7af8af526517d454cda09d89ecb279b75102cec9d74f53dcbb571ad",
-  "last_run_iso": "2026-04-09T21:02:43.755315+00:00",
+  "last_digest_hash": "6a17277380cc3f7c3fa509f5157a43b94b713a6c75b67fb1de6492c1c3d7a45d",
+  "last_run_iso": "2026-04-09T21:55:17.014858+00:00",
   "last_breaking_run_iso": "2026-04-09T18:07:32.646218+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3251,6 +3255,8 @@
     "Iran: Strait of Hormuz open with restrictions": "ایران: تنگه هرمز با محدودیت ها باز می شود",
     "Netanyahu: ‘No ceasefire in Lebanon’, Israel open to peace talks": "نتانیاهو: «آتش بس در لبنان نیست»، اسرائیل آماده مذاکرات صلح است",
     "Gaza journalists mourn Al Jazeera’s Wishah, killed by Israel": "خبرنگاران غزه برای ویش از الجزیره که توسط اسرائیل کشته شد، سوگواری کردند",
-    "Hamas not expected to okay disarmament offer by Saturday deadline, but talks ongoing": "حماس انتظار ندارد تا مهلت شنبه پیشنهاد خلع سلاح را تأیید کند، اما مذاکرات همچنان ادامه دارد"
+    "Hamas not expected to okay disarmament offer by Saturday deadline, but talks ongoing": "حماس انتظار ندارد تا مهلت شنبه پیشنهاد خلع سلاح را تأیید کند، اما مذاکرات همچنان ادامه دارد",
+    "Hospitals in Beirut struggle to deal with casualties after Israeli attacks": "بیمارستان های بیروت در تلاش برای رسیدگی به مجروحان پس از حملات اسرائیل هستند",
+    "Rafah crossing restrictions derail Palestinian student’s academic dreams": "محدودیت های عبور از رفح رویاهای دانشگاهی دانشجویان فلسطینی را به خطر انداخته است"
   }
 }

@@ -1058,7 +1058,13 @@
     "528d22b6a01434b21fe6e071",
     "2ca97e3b8d3ad838dfe25d3d",
     "43207c59d734546706dc7071",
-    "18d7dbbfc585b8b1202e3807"
+    "18d7dbbfc585b8b1202e3807",
+    "d181113b65776756c54f3d66",
+    "4b127d35b4125f1c34983e99",
+    "83d7befa7ee7929fbee93f99",
+    "d787f5ea49521a1d3bfa377a",
+    "c4e709478e03b1564596c7f7",
+    "f6382fd2c9a6cdb332af0d86"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2119,7 +2125,13 @@
     "b674580f9c992e1f1be20ee0",
     "ecc49b2cc010f6cf463c693b",
     "7e51d2fab8974c0466b8244e",
-    "29df6757571524a479c52f13"
+    "29df6757571524a479c52f13",
+    "6d696b86c1af84b3daeeb584",
+    "9e86a0f539ec1084010a2cfd",
+    "6773167b72dda4b460fe9f31",
+    "80ba8497a8ee63e53acad331",
+    "09b0d5cfc1b6dbcef099075c",
+    "16a1e4877c414fc5aaee0a8d"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2171,8 +2183,8 @@
     "e14864888dc3781df5896523",
     "38fc4fb6bef6b6e65976c146"
   ],
-  "last_digest_hash": "e25fdb72839d7245c3f11d1c5de957d3763feeadcf911eea384b324062a6f947",
-  "last_run_iso": "2026-04-09T20:06:44.308820+00:00",
+  "last_digest_hash": "4a3f303bf7af8af526517d454cda09d89ecb279b75102cec9d74f53dcbb571ad",
+  "last_run_iso": "2026-04-09T21:02:43.755315+00:00",
   "last_breaking_run_iso": "2026-04-09T18:07:32.646218+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3233,6 +3245,12 @@
     "Poll finds 60% of Americans have unfavorable view of Israel, up sharply since 2022": "نظرسنجی نشان می دهد ۶۰٪ آمریکایی ها دیدگاه منفی نسبت به اسرائیل دارند که از سال ۲۰۲۲ به طور چشمگیری افزایش یافته است",
     "Scale of Beirut destruction revealed after wave of Israeli strikes": "ابعاد ویرانی بیروت پس از موج حملات اسرائیل آشکار شد",
     "‘I live alone and I can’t run’: Elderly from the north turn social welfare hot potato": "«تنها زندگی می کنم و نمی توانم فرار کنم»: سالمندی از شمال به سیب زمینی داغ رفاه اجتماعی تبدیل شد",
-    "Zohran Mamdani on 100 days as New York mayor": "زهران مامدانی در صد روز شهرداری نیویورک"
+    "Zohran Mamdani on 100 days as New York mayor": "زهران مامدانی در صد روز شهرداری نیویورک",
+    "Saudi Arabia says operational activities halted at several energy sites": "عربستان سعودی می گوید فعالیت های عملیاتی در چندین سایت انرژی متوقف شده است",
+    "Khamenei says Tehran ‘astonished the world’ during US-Israeli war on Iran": "خامنه ای می گوید تهران در جریان جنگ آمریکا و اسرائیل علیه ایران «جهان را شگفت زده کرد»",
+    "Iran: Strait of Hormuz open with restrictions": "ایران: تنگه هرمز با محدودیت ها باز می شود",
+    "Netanyahu: ‘No ceasefire in Lebanon’, Israel open to peace talks": "نتانیاهو: «آتش بس در لبنان نیست»، اسرائیل آماده مذاکرات صلح است",
+    "Gaza journalists mourn Al Jazeera’s Wishah, killed by Israel": "خبرنگاران غزه برای ویش از الجزیره که توسط اسرائیل کشته شد، سوگواری کردند",
+    "Hamas not expected to okay disarmament offer by Saturday deadline, but talks ongoing": "حماس انتظار ندارد تا مهلت شنبه پیشنهاد خلع سلاح را تأیید کند، اما مذاکرات همچنان ادامه دارد"
   }
 }

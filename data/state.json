@@ -1066,7 +1066,10 @@
     "c4e709478e03b1564596c7f7",
     "f6382fd2c9a6cdb332af0d86",
     "f797b554fe8cbdbd5904c455",
-    "4117ab762aff51e43e7f3e4b"
+    "4117ab762aff51e43e7f3e4b",
+    "01760837128f441295190ae0",
+    "bbfc0346b4a76bfe39f045ca",
+    "9f4b7ff6a8d7e639f9732eaf"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2135,7 +2138,10 @@
     "09b0d5cfc1b6dbcef099075c",
     "16a1e4877c414fc5aaee0a8d",
     "f542168f7bd73f422d89ccd9",
-    "4dcaf86d8bfc15e264789e72"
+    "4dcaf86d8bfc15e264789e72",
+    "5d155bb11e7cecb277af1bef",
+    "98d60a887abae2a9a3f5390a",
+    "efc99a4a8b4b3f583c096662"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2187,8 +2193,8 @@
     "e14864888dc3781df5896523",
     "38fc4fb6bef6b6e65976c146"
   ],
-  "last_digest_hash": "6a17277380cc3f7c3fa509f5157a43b94b713a6c75b67fb1de6492c1c3d7a45d",
-  "last_run_iso": "2026-04-09T21:55:17.014858+00:00",
+  "last_digest_hash": "0f97067a6495bc629d1f03a144a62e65d6f71c8d1dc6102fa60a2695916f3b39",
+  "last_run_iso": "2026-04-09T22:57:05.471917+00:00",
   "last_breaking_run_iso": "2026-04-09T18:07:32.646218+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3257,6 +3263,9 @@
     "Gaza journalists mourn Al Jazeera’s Wishah, killed by Israel": "خبرنگاران غزه برای ویش از الجزیره که توسط اسرائیل کشته شد، سوگواری کردند",
     "Hamas not expected to okay disarmament offer by Saturday deadline, but talks ongoing": "حماس انتظار ندارد تا مهلت شنبه پیشنهاد خلع سلاح را تأیید کند، اما مذاکرات همچنان ادامه دارد",
     "Hospitals in Beirut struggle to deal with casualties after Israeli attacks": "بیمارستان های بیروت در تلاش برای رسیدگی به مجروحان پس از حملات اسرائیل هستند",
-    "Rafah crossing restrictions derail Palestinian student’s academic dreams": "محدودیت های عبور از رفح رویاهای دانشگاهی دانشجویان فلسطینی را به خطر انداخته است"
+    "Rafah crossing restrictions derail Palestinian student’s academic dreams": "محدودیت های عبور از رفح رویاهای دانشگاهی دانشجویان فلسطینی را به خطر انداخته است",
+    "Reservist rabbi who called to ‘flatten’ Gaza will be honored at state Independence Day event": "خاخام ذخیره که خواستار «صاف کردن» غزه شد، در مراسم روز استقلال دولتی مورد تجلیل قرار خواهد گرفت",
+    "A new US anti-Zionist PAC endorses candidates who believe Jews were behind 9/11": "یک کمیته جدید ضد صهیونیستی آمریکا از نامزدهایی حمایت می کند که معتقدند یهودیان پشت ۱۱ سپتامبر بوده اند",
+    "In ‘Yes!,’ Israeli director Nadav Lapid skewers the country’s ‘moral abyss’ after Oct. 7": "در فیلم «بله!»، کارگردان اسرائیلی ناداو لاپید، پس از ۷ اکتبر، «پرتگاه اخلاقی» کشور را به سخره می گیرد"
   }
 }

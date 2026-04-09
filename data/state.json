@@ -1069,7 +1069,11 @@
     "4117ab762aff51e43e7f3e4b",
     "01760837128f441295190ae0",
     "bbfc0346b4a76bfe39f045ca",
-    "9f4b7ff6a8d7e639f9732eaf"
+    "9f4b7ff6a8d7e639f9732eaf",
+    "1ab90167386fd762fab0b79c",
+    "e75b2026db9128eb51a2f342",
+    "e57783702e9ed2fb5dae030d",
+    "a521627360899c920e865b36"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2141,7 +2145,11 @@
     "4dcaf86d8bfc15e264789e72",
     "5d155bb11e7cecb277af1bef",
     "98d60a887abae2a9a3f5390a",
-    "efc99a4a8b4b3f583c096662"
+    "efc99a4a8b4b3f583c096662",
+    "4da9ebb33bfba523b6aea805",
+    "e6ff3de625943ed9655d31c8",
+    "dc8e23f63da734dc6d5c41e8",
+    "6b31ac85ed62232867a73d55"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2191,11 +2199,12 @@
     "fc1ba55135eb1ff245e974fb",
     "51e185fab2b919b738081a52",
     "e14864888dc3781df5896523",
-    "38fc4fb6bef6b6e65976c146"
+    "38fc4fb6bef6b6e65976c146",
+    "1ab90167386fd762fab0b79c"
   ],
-  "last_digest_hash": "0f97067a6495bc629d1f03a144a62e65d6f71c8d1dc6102fa60a2695916f3b39",
-  "last_run_iso": "2026-04-09T22:57:05.471917+00:00",
-  "last_breaking_run_iso": "2026-04-09T18:07:32.646218+00:00",
+  "last_digest_hash": "fa3317411a51b534d8997d96a88f8c03c275b6251584adce1c5d0455860759fc",
+  "last_run_iso": "2026-04-09T23:50:57.773347+00:00",
+  "last_breaking_run_iso": "2026-04-09T23:50:57.773347+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -3266,6 +3275,10 @@
     "Rafah crossing restrictions derail Palestinian student’s academic dreams": "محدودیت های عبور از رفح رویاهای دانشگاهی دانشجویان فلسطینی را به خطر انداخته است",
     "Reservist rabbi who called to ‘flatten’ Gaza will be honored at state Independence Day event": "خاخام ذخیره که خواستار «صاف کردن» غزه شد، در مراسم روز استقلال دولتی مورد تجلیل قرار خواهد گرفت",
     "A new US anti-Zionist PAC endorses candidates who believe Jews were behind 9/11": "یک کمیته جدید ضد صهیونیستی آمریکا از نامزدهایی حمایت می کند که معتقدند یهودیان پشت ۱۱ سپتامبر بوده اند",
-    "In ‘Yes!,’ Israeli director Nadav Lapid skewers the country’s ‘moral abyss’ after Oct. 7": "در فیلم «بله!»، کارگردان اسرائیلی ناداو لاپید، پس از ۷ اکتبر، «پرتگاه اخلاقی» کشور را به سخره می گیرد"
+    "In ‘Yes!,’ Israeli director Nadav Lapid skewers the country’s ‘moral abyss’ after Oct. 7": "در فیلم «بله!»، کارگردان اسرائیلی ناداو لاپید، پس از ۷ اکتبر، «پرتگاه اخلاقی» کشور را به سخره می گیرد",
+    "Hezbollah fires missile at southern city of Ashdod; debris from interception triggers sirens in Tel Aviv": "حزب الله به شهر جنوبی اشدود موشک شلیک می کند؛ بقایای ناشی از رهگیری در تل آویو آژیرها را به صدا درآورد",
+    "US-Iran ceasefire: Uncertainty over what’s next": "آتش بس آمریکا و ایران: عدم قطعیت درباره گام بعدی",
+    "Iran’s Supreme Leader Mojtaba Khamenei says ‘we seek compensation, not war’": "رهبر معظم ایران، مجتبی خامنه ای، می گوید «ما به دنبال غرامت هستیم، نه جنگ»",
+    "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done": "چه آتش بس باشد چه نباشد، تغییرات خاورمیانه هنوز به پایان نرسیده است"
   }
 }

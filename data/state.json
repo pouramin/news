@@ -1038,7 +1038,16 @@
     "06365429ace4679f58ee6082",
     "cf0f1a629aa850a3612057ca",
     "5f8081418a5c95bac9992833",
-    "674725d6f88f39494475a17f"
+    "674725d6f88f39494475a17f",
+    "38fc4fb6bef6b6e65976c146",
+    "7a34cd80da463b7d8ed4f543",
+    "8b05d0760c844bff5a9f82f0",
+    "600c4787ebc7dbb4fe47862d",
+    "460b730a6dfa8220bedb5301",
+    "7c105b5c06c6bc3ec64a22b7",
+    "ff6a6c2bb7a99f09af59866c",
+    "a158084342dc4f616f809c05",
+    "ef5038d9c7eca9d45f2f7e81"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2079,7 +2088,16 @@
     "035b2a1bd54fb76df0f50202",
     "3e5c6db2b44a9ea605a2b797",
     "5aed9c779939a28fda2a8745",
-    "754403a05d1ab945457ede44"
+    "754403a05d1ab945457ede44",
+    "6071b5c1c0a9c1c653e7b2eb",
+    "5e1c71756361c4f13168d2e2",
+    "c419dd8537397b3d9ffe355e",
+    "1c9d22d9f48086534c42fb06",
+    "5a50eec2db60a94067c460fb",
+    "580380860a089b667616935d",
+    "34fb8c1c18073156cc96ec4b",
+    "4f20770f6d78fd1cf0df0ca7",
+    "b87a4a5494473489bedc1889"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2128,11 +2146,12 @@
     "526d463b406c7df67bdd0f82",
     "fc1ba55135eb1ff245e974fb",
     "51e185fab2b919b738081a52",
-    "e14864888dc3781df5896523"
+    "e14864888dc3781df5896523",
+    "38fc4fb6bef6b6e65976c146"
   ],
-  "last_digest_hash": "486ce02311a890128b4049df80fb2b1ac85b01b5607417525e824722a5807d13",
-  "last_run_iso": "2026-04-09T16:24:47.952403+00:00",
-  "last_breaking_run_iso": "2026-04-09T14:09:06.859594+00:00",
+  "last_digest_hash": "c084d1dcd4d1dfa2594c7143995934b551896a65a20c007247657a6f0826ff34",
+  "last_run_iso": "2026-04-09T18:07:32.646218+00:00",
+  "last_breaking_run_iso": "2026-04-09T18:07:32.646218+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -3172,6 +3191,15 @@
     "Has Iran’s 10-point plan changed, as JD Vance claims?": "آیا طرح ده ماده ای ایران تغییر کرده است، همان طور که جی دی ونس ادعا می کند؟",
     "Government approves 34 new settlements as it acts to deepen hold on West Bank": "دولت ۳۴ شهرک جدید را تصویب کرد تا کنترل بر کرانه باختری را تعمیق بخشد",
     "Slamming Israel at Michigan rallies, Hasan Piker boosts Senate candidate Abdul el-Sayed": "حسن پیکر با انتقاد شدید از اسرائیل در تجمعات میشیگان، از نامزد سنا، عبدالالسید حمایت می کند",
-    "Evictions in East Jerusalem surge as Palestinians lose court fight against far-right group": "اخراج ها در شرق اورشلیم افزایش یافته است، در حالی که فلسطینی ها در مبارزه قضایی با گروه راست افراطی شکست می خورند"
+    "Evictions in East Jerusalem surge as Palestinians lose court fight against far-right group": "اخراج ها در شرق اورشلیم افزایش یافته است، در حالی که فلسطینی ها در مبارزه قضایی با گروه راست افراطی شکست می خورند",
+    "IMF warns of looming inflation crisis on back of US-Israel war on Iran": "صندوق بین المللی پول از بحران تورم قریب الوقوع در پی جنگ آمریکا و اسرائیل علیه ایران هشدار داد",
+    "Iran says massive Israeli strikes in Lebanon render peace talks ‘meaningless’": "ایران می گوید حملات گسترده اسرائیل به لبنان مذاکرات صلح را «بی معنی» می کند",
+    "US Democrats warn Trump that Iran ceasefire must apply to Lebanon": "دموکرات های آمریکا به ترامپ هشدار دادند که آتش بس ایران باید شامل لبنان شود",
+    "Does a US-Iran ceasefire mean the end of the war?": "آیا آتش بس آمریکا و ایران به معنای پایان جنگ است؟",
+    "Sidon residents recall horror of Israeli strikes after Iran ceasefire": "ساکنان صیدا وحشت حملات اسرائیل پس از آتش بس ایران را به یاد می آورند",
+    "Israel’s Netanyahu ready for talks with Lebanon ‘as soon as possible’": "نتانیاهو اسرائیل آماده مذاکره با لبنان «هرچه زودتر» است",
+    "Gaza border kibbutz redirects donations to help war-torn north": "کیبوتص مرزی غزه کمک های مالی را به کمک به شمال جنگ زده هدایت می کند",
+    "With a switch of a letter in DNA ‘dark matter,’ Israeli scientists change sex of mouse": "با تغییر یک حرف در DNA «ماده تاریک»، دانشمندان اسرائیلی جنسیت موش را تغییر می دهند",
+    "What Happens Inside Israel’s Detention System": "آنچه در داخل نظام بازداشت اسرائیل رخ می دهد"
   }
 }

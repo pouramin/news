@@ -1029,7 +1029,16 @@
     "6e3604dbc5f82cf1befd7f59",
     "e40c166e5d15e32fa33d1a85",
     "0ec98a9d3a9c2a44ff1588c8",
-    "ec375ac3c6a6b84ca128f480"
+    "ec375ac3c6a6b84ca128f480",
+    "2223bf3199a10582f30b9fcc",
+    "674de046c2cefb49c7d38b36",
+    "97427862686ed001267cc395",
+    "dedcd583d59e5cb7bc062771",
+    "175d9b0b6d199d79a99e6dc7",
+    "06365429ace4679f58ee6082",
+    "cf0f1a629aa850a3612057ca",
+    "5f8081418a5c95bac9992833",
+    "674725d6f88f39494475a17f"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2061,7 +2070,16 @@
     "f86f6a84b05fa7b034695259",
     "a6d4221efecaa27590cd987a",
     "51c525d430a828b15244856e",
-    "641febb01b6137452e45695b"
+    "641febb01b6137452e45695b",
+    "ba7bdcc163de9e1a17121632",
+    "8d9e63c1c3ce433668451649",
+    "d01ab5edcf769b1af17df48c",
+    "cf8b5cbea7c6901441630fb7",
+    "85ae9290ce5ac3582410739c",
+    "035b2a1bd54fb76df0f50202",
+    "3e5c6db2b44a9ea605a2b797",
+    "5aed9c779939a28fda2a8745",
+    "754403a05d1ab945457ede44"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2112,8 +2130,8 @@
     "51e185fab2b919b738081a52",
     "e14864888dc3781df5896523"
   ],
-  "last_digest_hash": "6fa938901f1234d779bbb98068717424adc189fa64c5484fdb892ce20dec71fe",
-  "last_run_iso": "2026-04-09T14:09:06.859594+00:00",
+  "last_digest_hash": "486ce02311a890128b4049df80fb2b1ac85b01b5607417525e824722a5807d13",
+  "last_run_iso": "2026-04-09T16:24:47.952403+00:00",
   "last_breaking_run_iso": "2026-04-09T14:09:06.859594+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3145,6 +3163,15 @@
     "Israeli settlers storm Al-Aqsa Mosque compound after reopening": "شهرک نشینان اسرائیلی پس از بازگشایی مسجد الاقصی به محوطه یورش بردند",
     "Daily Briefing April 9 – All sides claim war victory. They can’t all be right": "گزارش روزانه ۹ آوریل – همه طرف ها ادعای پیروزی در جنگ را دارند. همه شان نمی توانند درست باشند",
     "Haifa man suspected of making explosives to ‘harm’ ex-PM Bennett on Iranian orders": "مردی از حیفا مظنون به ساخت مواد منفجره برای «آسیب رساندن» به نخست وزیر سابق بنت به دستور ایران",
-    "Michigan Democrats, Jewish leaders uneasy over Senate candidate’s alliance with Hasan Piker": "دموکرات ها و رهبران یهودی میشیگان نگران اتحاد نامزد سنا با حسن پیکر هستند"
+    "Michigan Democrats, Jewish leaders uneasy over Senate candidate’s alliance with Hasan Piker": "دموکرات ها و رهبران یهودی میشیگان نگران اتحاد نامزد سنا با حسن پیکر هستند",
+    "Israeli attacks on Lebanon aimed to undermine ceasefire, critics say": "منتقدان می گویند حملات اسرائیل به لبنان با هدف تضعیف آتش بس انجام شده است",
+    "Israel bombed Gaza on 36 of the past 40 days while the war raged in Iran": "اسرائیل در ۳۶ روز از ۴۰ روز گذشته غزه را بمباران کرد، در حالی که جنگ در ایران جریان داشت",
+    "He Fought Terrorists for 12 Hours. Then the Real Battle Began. - Sponsored Content": "او ۱۲ ساعت با تروریست ها جنگید. سپس نبرد واقعی آغاز شد. - محتوای حمایت شده",
+    "Al Jazeera’s Mohammed Wishah, killed by Israeli strike, laid to rest": "محمد ویشاح از الجزیره که بر اثر حمله اسرائیل کشته شد، به خاک سپرده شد",
+    "'Endless fears': Even if fighting stops, the damage to Iran's children will endure": "«ترس های بی پایان»: حتی اگر جنگ متوقف شود، آسیب به کودکان ایران باقی خواهد ماند",
+    "Has Iran’s 10-point plan changed, as JD Vance claims?": "آیا طرح ده ماده ای ایران تغییر کرده است، همان طور که جی دی ونس ادعا می کند؟",
+    "Government approves 34 new settlements as it acts to deepen hold on West Bank": "دولت ۳۴ شهرک جدید را تصویب کرد تا کنترل بر کرانه باختری را تعمیق بخشد",
+    "Slamming Israel at Michigan rallies, Hasan Piker boosts Senate candidate Abdul el-Sayed": "حسن پیکر با انتقاد شدید از اسرائیل در تجمعات میشیگان، از نامزد سنا، عبدالالسید حمایت می کند",
+    "Evictions in East Jerusalem surge as Palestinians lose court fight against far-right group": "اخراج ها در شرق اورشلیم افزایش یافته است، در حالی که فلسطینی ها در مبارزه قضایی با گروه راست افراطی شکست می خورند"
   }
 }

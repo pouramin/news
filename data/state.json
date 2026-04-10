@@ -1087,7 +1087,13 @@
     "4ea32baa311ba2ac11f3f16c",
     "e767c262e757b24a21978ae0",
     "e6789d4cfc3c6b733f67f7f7",
-    "0686355c35a8826409aee2e6"
+    "0686355c35a8826409aee2e6",
+    "01cf42bc22c90d6ac92a9a91",
+    "10e1e4864eaa7a8b7b4bbbc1",
+    "413e7553d34b499a1e638cec",
+    "ad30fa11e1b374c1e6960960",
+    "efe1cfebb10c5588c391aa87",
+    "14f63ee00ddd9b70629e317c"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2177,7 +2183,13 @@
     "eeb37fef4cfb855bacba4036",
     "6d702400228887bbf1287904",
     "6af57ea5367014d62ec3c928",
-    "cb9b318b1ee94cdc4e85ed9f"
+    "cb9b318b1ee94cdc4e85ed9f",
+    "380ede9b1b875667076e0f30",
+    "51188d74df0c010df55ae520",
+    "f3dc75c5d72d4af4b10129de",
+    "00f9e0ba7cb3e5ac52e8b049",
+    "7f0379425a10a638e1f228c9",
+    "51d8f977368e1c8c50d236e5"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2232,8 +2244,8 @@
     "4197230f2e642e6bb7cfb7cb",
     "c9e7b370f40d169d7da22941"
   ],
-  "last_digest_hash": "c7c07d6d57d9485dab2de7a6a2d1325d92d894a58fde3fb633e30f617209b65b",
-  "last_run_iso": "2026-04-10T06:05:42.263289+00:00",
+  "last_digest_hash": "e0353372778f594b84f2f4c6d2ff3cb1cce8b73a82824b540476ea45ee4d251f",
+  "last_run_iso": "2026-04-10T07:58:03.269070+00:00",
   "last_breaking_run_iso": "2026-04-10T06:05:42.263289+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3323,6 +3335,12 @@
     "As ceasefire halts fighting, Iran war becomes a battlefield for votes": "با توقف آتش بس، جنگ ایران به میدان نبردی برای آرا تبدیل می شود",
     "Undeterred by war, foreign students at universities learned what it means to be Israeli": "دانشجویان خارجی که از جنگ دلسرد نشدند، آموختند که اسرائیلی بودن یعنی چه",
     "US Republicans block attempt to rein in Trump’s war powers over Iran campaign": "جمهوری خواهان آمریکا تلاش برای مهار قدرت های جنگی ترامپ بر سر کمپین ایران را مسدود کردند",
-    "Palestinian journalist describes losing prosthetic eye in Israeli prison": "خبرنگار فلسطینی از دست دادن چشم مصنوعی اش در زندان اسرائیل را توصیف می کند"
+    "Palestinian journalist describes losing prosthetic eye in Israeli prison": "خبرنگار فلسطینی از دست دادن چشم مصنوعی اش در زندان اسرائیل را توصیف می کند",
+    "Pakistan’s defense minister calls Israel ‘cancerous’ ahead of US-Iran talks in Islamabad": "وزیر دفاع پاکستان اسرائیل را پیش از مذاکرات آمریکا و ایران در اسلام آباد «سرطانی» خواند",
+    "Iran war: What is happening on day 42 of US-Israeli attacks?": "جنگ ایران: در روز چهل و دوم حملات آمریکا و اسرائیل چه اتفاقی در حال رخ دادن است؟",
+    "Tel Aviv airport reopens but airfares again skyrocket as foreign carriers stay away": "فرودگاه تل آویو دوباره بازگشایی می شود اما قیمت بلیت هواپیما دوباره سر به فلک می کشد زیرا شرکت های هواپیمایی خارجی از آنجا دور نمی ماند",
+    "John Spencer: US can force open Strait of Hormuz if it decides to": "جان اسپنسر: آمریکا می تواند تنگه هرمز را باز کند اگر تصمیم بگیرد",
+    "Melania Trump denies connection to Epstein case, calls accusations ‘baseless lies’": "ملانیا ترامپ ارتباط با پرونده اپستین را رد کرد و اتهامات را «دروغ های بی اساس» خواند.",
+    "A new generation of Jewish leaders is rethinking what comes next - Sponsored Content": "نسل جدیدی از رهبران یهودی در حال بازنگری در آینده هستند - محتوای حمایت شده"
   }
 }

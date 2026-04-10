@@ -1081,7 +1081,13 @@
     "fdbdab43524392a36174a396",
     "71dc09a42fb3158dfd9df8eb",
     "3ec68f03a9bafb944cd9fcc8",
-    "9e3f0a9e33c20345342a52e3"
+    "9e3f0a9e33c20345342a52e3",
+    "c9e7b370f40d169d7da22941",
+    "f1aeb20d3ff0bf7a79e1e905",
+    "4ea32baa311ba2ac11f3f16c",
+    "e767c262e757b24a21978ae0",
+    "e6789d4cfc3c6b733f67f7f7",
+    "0686355c35a8826409aee2e6"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2165,7 +2171,13 @@
     "e0b87e0fb6ca89e7195362a6",
     "e554c489a6138f3bdb696c18",
     "4da776df3c70f66e4b441548",
-    "73287cacfd23bc59fa14c5ec"
+    "73287cacfd23bc59fa14c5ec",
+    "eaa9ff705f7a674eaa5d038b",
+    "701713a1dfcea8bb9cb12290",
+    "eeb37fef4cfb855bacba4036",
+    "6d702400228887bbf1287904",
+    "6af57ea5367014d62ec3c928",
+    "cb9b318b1ee94cdc4e85ed9f"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2217,11 +2229,12 @@
     "e14864888dc3781df5896523",
     "38fc4fb6bef6b6e65976c146",
     "1ab90167386fd762fab0b79c",
-    "4197230f2e642e6bb7cfb7cb"
+    "4197230f2e642e6bb7cfb7cb",
+    "c9e7b370f40d169d7da22941"
   ],
-  "last_digest_hash": "111a463eec310c2e4d03d654d1cb2a970d86702f32a70d6c2edce1e9f8d09fa9",
-  "last_run_iso": "2026-04-10T03:36:49.864746+00:00",
-  "last_breaking_run_iso": "2026-04-10T03:36:49.864746+00:00",
+  "last_digest_hash": "c7c07d6d57d9485dab2de7a6a2d1325d92d894a58fde3fb633e30f617209b65b",
+  "last_run_iso": "2026-04-10T06:05:42.263289+00:00",
+  "last_breaking_run_iso": "2026-04-10T06:05:42.263289+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -3304,6 +3317,12 @@
     "UK PM Keir Starmer visits Gulf to shore up ‘fragile’ US-Iran ceasefire": "نخست وزیر بریتانیا، کیر استارمر، به خلیج فارس سفر کرد تا آتش بس «شکننده» آمریکا و ایران را تقویت کند",
     "Netanyahu’s Likud takes hit in polls, which show most Israelis oppose Iran ceasefire": "حزب لیکود نتانیاهو در نظرسنجی ها که نشان می دهد بیشتر اسرائیلی ها با آتش بس ایران مخالفند، ضربه می خورد",
     "Video shows explosion over Erbil in suspected drone interception": "ویدئو انفجاری را بر فراز اربیل در مظنون به رهگیری پهپاد نشان می دهد",
-    "Democratic National Committee panel rejects measure singling out AIPAC for criticism": "کمیته ملی دموکرات ها طرحی را که آیپک را به طور خاص مورد انتقاد قرار داده بود رد کرد"
+    "Democratic National Committee panel rejects measure singling out AIPAC for criticism": "کمیته ملی دموکرات ها طرحی را که آیپک را به طور خاص مورد انتقاد قرار داده بود رد کرد",
+    "Hezbollah fires missile at southern port of Ashdod as IDF strikes launchers in Lebanon": "حزب الله موشک به بندر جنوبی اشدود شلیک می کند در حالی که ارتش اسرائیل پرتابگرها را در لبنان هدف قرار می دهد",
+    "Kuwait blames Iran for drone strike, Iran denies responsibility": "کویت ایران را مسئول حمله پهپادی می داند، ایران مسئولیت آن را رد می کند",
+    "As ceasefire halts fighting, Iran war becomes a battlefield for votes": "با توقف آتش بس، جنگ ایران به میدان نبردی برای آرا تبدیل می شود",
+    "Undeterred by war, foreign students at universities learned what it means to be Israeli": "دانشجویان خارجی که از جنگ دلسرد نشدند، آموختند که اسرائیلی بودن یعنی چه",
+    "US Republicans block attempt to rein in Trump’s war powers over Iran campaign": "جمهوری خواهان آمریکا تلاش برای مهار قدرت های جنگی ترامپ بر سر کمپین ایران را مسدود کردند",
+    "Palestinian journalist describes losing prosthetic eye in Israeli prison": "خبرنگار فلسطینی از دست دادن چشم مصنوعی اش در زندان اسرائیل را توصیف می کند"
   }
 }

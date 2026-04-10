@@ -1130,7 +1130,12 @@
     "0841fefb94f5e02a480d2068",
     "fa9113fe63114e86b9d1603c",
     "3dc562d7a7d8c66171d059ae",
-    "bb53b4b1bae47638aa8af361"
+    "bb53b4b1bae47638aa8af361",
+    "1287e287c5274dfacc0d5355",
+    "0253ac4991da40faa9a5d642",
+    "d1b19f8160ce16a5391a19f7",
+    "37d8868a488059b4901cb038",
+    "541bd4643fedf3c900bfc885"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2263,7 +2268,12 @@
     "1da9a9ab1af20eca51a9b8e5",
     "46b40c0b4a56be62a2ec4dd6",
     "5e57700ef5c2a516ccf914fb",
-    "dd1e9a51dd9923805da66aff"
+    "dd1e9a51dd9923805da66aff",
+    "16d8d5164e4409455e8c37a1",
+    "cba566b6e9f1236a5d6793f4",
+    "d59d735fc9e328f6e66b8c9d",
+    "a41727b59f9e4f861f3740c2",
+    "7179fbcef3d7cbfdc9e181f9"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2319,8 +2329,8 @@
     "c9e7b370f40d169d7da22941",
     "0841fefb94f5e02a480d2068"
   ],
-  "last_digest_hash": "336df92910f51c8a934045c76ff429e8ca6d00a31501307cf9cd57a057006c94",
-  "last_run_iso": "2026-04-10T17:59:39.352106+00:00",
+  "last_digest_hash": "280782539e8800fbe03eba2790471071393dedf5c3f2e80cf037a98cc5e056f5",
+  "last_run_iso": "2026-04-10T19:09:08.027437+00:00",
   "last_breaking_run_iso": "2026-04-10T17:59:39.352106+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3453,6 +3463,11 @@
     "War in numbers: US hit tens of thousands of targets in Iran, but capabilities remain": "جنگ در تعداد: آمریکا ده ها هزار هدف در ایران را هدف قرار داد، اما توانایی ها همچنان باقی مانده اند",
     "Palestinian shot dead during Israeli settler attack on occupied West Bank village": "فلسطینی ها در جریان حمله شهرک نشینان اسرائیلی به روستای اشغالی کرانه باختری به ضرب گلوله کشته شدند",
     "Starmer and Trump talked military options to reopen Strait of Hormuz": "استارمر و ترامپ درباره گزینه های نظامی برای بازگشایی تنگه هرمز گفتگو کردند",
-    "Israeli settlers turn Passover into celebration of ethnic cleansing": "شهرک نشینان اسرائیلی عید پسح را به جشن پاکسازی قومی تبدیل کردند"
+    "Israeli settlers turn Passover into celebration of ethnic cleansing": "شهرک نشینان اسرائیلی عید پسح را به جشن پاکسازی قومی تبدیل کردند",
+    "Is the US-Iran ceasefire already doomed?": "آیا آتش بس آمریکا و ایران محکوم به شکست است؟",
+    "Over 100,000 Muslim worshipers at Al-Aqsa in first Friday prayers after Jerusalem holy sites reopen": "بیش از ۱۰۰,۰۰۰ نمازگزار مسلمان در نماز جمعه اول پس از بازگشایی اماکن مقدس اورشلیم در نماز الاقصی حضور داشتند",
+    "Lebanon says ceasefire must be in place before Israel talks": "لبنان می گوید پیش از مذاکرات اسرائیل باید آتش بس برقرار شود",
+    "Jewish-owned Israeli restaurant vandalized in Munich; police suspect antisemitic motive": "رستوران اسرائیلی متعلق به یهودیان در مونیخ خرابکاری شد؛ پلیس به انگیزه ضدیهودی مظنون است",
+    "OIC condemns Israeli approval of 34 new West Bank settlements": "سازمان همکاری اسلامی تأیید اسرائیل برای ۳۴ شهرک جدید کرانه باختری را محکوم کرد"
   }
 }

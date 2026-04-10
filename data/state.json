@@ -1111,7 +1111,15 @@
     "96bca66aadf3c859ef257c94",
     "0f7349239660eea3272fdf9e",
     "dfa893452e562a997d1661c5",
-    "5aa4413fea559c7b89f2c2e5"
+    "5aa4413fea559c7b89f2c2e5",
+    "bec01627eac701ce810dbd63",
+    "3a6b1d8fd0a122e69cdd72fa",
+    "828eb5746984ca914be48328",
+    "d50aa09f63934bb785db81e6",
+    "e081c59ed6e6d39bc99eba57",
+    "5b09368e94e154dcb2f2146e",
+    "4d2dbf421b5f68265d98e61c",
+    "4e35419ee4abd2af97c1588e"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2225,7 +2233,15 @@
     "e8f827b8b0caa5bb79c1bbc0",
     "91fd22a9458810a2a1790e2b",
     "93f0f44c173b4c2ead649b9d",
-    "cb5c65920eac5028f38131d0"
+    "cb5c65920eac5028f38131d0",
+    "eb6dc1a4cb537fb9e34ec9e9",
+    "bdddeaab5eca47946e1a71fd",
+    "1e55ec1eb5567d31a08bdc65",
+    "d082d171f934d4e71de6a955",
+    "c918e5d6d4b838b96e364918",
+    "009937552ee9c5096dcf9d19",
+    "51cbad024040bbd06b91ccde",
+    "33861ad220fc8c9f4f8fe184"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2280,8 +2296,8 @@
     "4197230f2e642e6bb7cfb7cb",
     "c9e7b370f40d169d7da22941"
   ],
-  "last_digest_hash": "a9b8247e66eac50a176d1a4aaee8c312d40c37dbdbac272a3a593e8140910bd9",
-  "last_run_iso": "2026-04-10T13:44:57.384131+00:00",
+  "last_digest_hash": "a8ee3b781337aea31a89bff8b74f7a832e045fb05a9ea35833539a1b91df3d2f",
+  "last_run_iso": "2026-04-10T15:06:29.028538+00:00",
   "last_breaking_run_iso": "2026-04-10T06:05:42.263289+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3395,6 +3411,14 @@
     "Gaza father searches for his children’s remains in the rubble for years": "پدر غزه سال هاست که به دنبال بقایای فرزندانش در میان آوار می گردد",
     "Gaza families still unable to bury dead six months into ‘ceasefire’": "خانواده های غزه هنوز قادر به دفن اجساد نیستند، شش ماه پس از «آتش بس»",
     "‘Closer to a break than ever’: Can NATO survive if Trump pulls the US out?": "«نزدیک تر از همیشه به یک جدایی»: آیا ناتو می تواند زنده بماند اگر ترامپ آمریکا را خارج کند؟",
-    "Holocaust survivors in Tel-Aviv need your support now more than ever - Sponsored Content": "بازماندگان هولوکاست در تل آویو اکنون بیش از هر زمان دیگری به حمایت شما نیاز دارند - محتوای حمایت شده"
+    "Holocaust survivors in Tel-Aviv need your support now more than ever - Sponsored Content": "بازماندگان هولوکاست در تل آویو اکنون بیش از هر زمان دیگری به حمایت شما نیاز دارند - محتوای حمایت شده",
+    "Vance warns Iran not to ‘play’ the US as he departs for peace talks in Pakistan": "ونس به ایران هشدار می دهد که هنگام رفتن به مذاکرات صلح به پاکستان، آمریکا را بازی ندهد",
+    "High Court rules 1,000 allowed at Tel Aviv anti-government protest Saturday, 150 in Haifa": "دادگاه عالی حکم داد که ۱۰۰۰ نفر در تظاهرات ضد دولتی تل آویو شنبه مجاز است، ۱۵۰ نفر در حیفا",
+    "Pakistan sets modest goal for US-Iran summit: A deal to keep talks going": "پاکستان هدف متواضعانه ای برای نشست آمریکا و ایران تعیین کرد: توافقی برای ادامه مذاکرات",
+    "Vance expects ‘positive’ Iran talks as he heads to Islamabad": "ونس انتظار دارد مذاکرات «مثبت» با ایران در مسیر اسلام آباد انجام شود",
+    "Charges filed against Rahat man for smuggling goods into Gaza during war": "اتهامات علیه راحت من به دلیل قاچاق کالا به غزه در زمان جنگ مطرح شد",
+    "Wizz Air, Bluebird to resume Tel Aviv flights, while major carriers push off return": "ویز ایر و بلو برد پروازهای تل آویو را از سر می گیرند، در حالی که شرکت های بزرگ هواپیمایی بازگشت را به تعویق می اندازند",
+    "Israel threatens healthcare as it continues to attack Lebanon": "اسرائیل در حالی که به حمله به لبنان ادامه می دهد، مراقبت های بهداشتی را تهدید می کند",
+    "Sorry Keir Starmer, the Middle East does not listen to Britain any more": "ببخشید کیر استارمر، خاورمیانه دیگر به بریتانیا گوش نمی دهد"
   }
 }

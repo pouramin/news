@@ -1123,7 +1123,10 @@
     "a97ec4d997e6cf5842303d78",
     "e9a3a53f54a68a589f705d77",
     "58f6a90d22a807fac9bbc3fb",
-    "dbdbac91f50f85910c376a73"
+    "dbdbac91f50f85910c376a73",
+    "259e7fda1c0ecb4417b5950d",
+    "a239b655da9a6c3181a56967",
+    "359a272ec11b54fc6cc631a6"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2249,7 +2252,10 @@
     "ea11bcf1b1e5a1f6ac5b4902",
     "cc7d80ba2bfb045921a4853c",
     "d323e889be937e44c6ffecdc",
-    "74ec7cc44248709826346666"
+    "74ec7cc44248709826346666",
+    "c10123d6d563663988481d01",
+    "fca8eb1d5bf27d4ff5bda622",
+    "81d8a47e9fad50f2eea59e7e"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2304,8 +2310,8 @@
     "4197230f2e642e6bb7cfb7cb",
     "c9e7b370f40d169d7da22941"
   ],
-  "last_digest_hash": "6095a9b66e39158edeba7ee4a1e8cfa271504f373ecf9d9eb97ba7d3b253e393",
-  "last_run_iso": "2026-04-10T16:06:33.968682+00:00",
+  "last_digest_hash": "7862509da3660143ff535c6b1928878ede0e838a3e2bfccb9c03be8d958ae24e",
+  "last_run_iso": "2026-04-10T17:05:57.717913+00:00",
   "last_breaking_run_iso": "2026-04-10T06:05:42.263289+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3431,6 +3437,9 @@
     "Inflation rises in US amid Iran war, Hormuz blockade": "افزایش تورم در آمریکا در بحبوحه جنگ ایران و محاصره هرمز",
     "Zelenskyy says Ukrainian interceptors downed Iran drones in the Middle East": "زلنسکی می گوید رهگیرهای اوکراینی پهپادهای ایران را در خاورمیانه سرنگون کردند",
     "‘Anti-Israel obsession’: Israel boots Spanish representatives from Gaza ceasefire HQ": "«وسواس ضد اسرائیلی»: اسرائیل نمایندگان اسپانیا را از ستاد آتش بس غزه اخراج می کند",
-    "Netanyahu requests delay in his corruption trial testimony, citing security developments": "نتانیاهو با استناد به تحولات امنیتی، خواستار تأخیر در شهادت خود در دادگاه فساد شده است"
+    "Netanyahu requests delay in his corruption trial testimony, citing security developments": "نتانیاهو با استناد به تحولات امنیتی، خواستار تأخیر در شهادت خود در دادگاه فساد شده است",
+    "JD Vance expects ‘positive’ US-Iran war talks as he departs for Pakistan": "جی دی ونس انتظار مذاکرات «مثبت» جنگ آمریکا و ایران را هنگام عزیمت به پاکستان دارد",
+    "US-Iran peace talks in Islamabad face massive hurdles": "مذاکرات صلح آمریکا و ایران در اسلام آباد با موانع بزرگی روبرو است",
+    "Netanyahu removes Spain from Gaza coordination centre over ‘hostility’": "نتانیاهو اسپانیا را به دلیل «خصومت» از مرکز هماهنگی غزه خارج کرد"
   }
 }

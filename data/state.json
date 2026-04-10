@@ -1095,7 +1095,15 @@
     "efe1cfebb10c5588c391aa87",
     "14f63ee00ddd9b70629e317c",
     "893f3e2cafc135b8b4a8fd20",
-    "8c7c47a5fcad993b758c2367"
+    "8c7c47a5fcad993b758c2367",
+    "9575b6be69f722aff47160b8",
+    "315b74eb2408d6244b7f751f",
+    "a4deef33c26b08847d8e5909",
+    "aca99f8654f0b2d5dd5253e6",
+    "d43662c8e14115d88ac66d54",
+    "b5626ac89aafd71ba0c9d773",
+    "faaacf6360095474795e4c6b",
+    "bb12a1f7d8b8b4374e00975b"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2193,7 +2201,15 @@
     "7f0379425a10a638e1f228c9",
     "51d8f977368e1c8c50d236e5",
     "4a04cabcad8bb792b56fe8bb",
-    "6bfebc424a40b56837310afb"
+    "6bfebc424a40b56837310afb",
+    "6ab585c89329256bb65a2347",
+    "ab5466468e53ad8715d64dd1",
+    "ea64dcfa0195388fb27ef51f",
+    "87beda500dc662a60d45448a",
+    "c411ccca4df9f20af34c8ce1",
+    "cd1118b166d276269b50c160",
+    "abc09739839abdedcfab95f6",
+    "0e0b79c369ad2804c926e75b"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2248,8 +2264,8 @@
     "4197230f2e642e6bb7cfb7cb",
     "c9e7b370f40d169d7da22941"
   ],
-  "last_digest_hash": "c0a9927e203608571faf3433d8d2cbd8e8abfd517c93fcdcde9ffba15c69cb0e",
-  "last_run_iso": "2026-04-10T09:22:10.864797+00:00",
+  "last_digest_hash": "94f87b95bc9a5c84711655c22721302832d68884a6508067c88c318e36e840c3",
+  "last_run_iso": "2026-04-10T11:09:25.304489+00:00",
   "last_breaking_run_iso": "2026-04-10T06:05:42.263289+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3347,6 +3363,14 @@
     "Melania Trump denies connection to Epstein case, calls accusations ‘baseless lies’": "ملانیا ترامپ ارتباط با پرونده اپستین را رد کرد و اتهامات را «دروغ های بی اساس» خواند.",
     "A new generation of Jewish leaders is rethinking what comes next - Sponsored Content": "نسل جدیدی از رهبران یهودی در حال بازنگری در آینده هستند - محتوای حمایت شده",
     "Iran ceasefire: Not an off-ramp for the US but a life-saving ejection seat": "آتش بس ایران: نه یک خروجی برای آمریکا بلکه یک صندلی نجات بخش اخراج",
-    "Pakistan emerges as a key international player as it mediates between US and Iran": "پاکستان به عنوان یک بازیگر کلیدی بین المللی ظاهر می شود و میان آمریکا و ایران میانجی گری می کند"
+    "Pakistan emerges as a key international player as it mediates between US and Iran": "پاکستان به عنوان یک بازیگر کلیدی بین المللی ظاهر می شود و میان آمریکا و ایران میانجی گری می کند",
+    "With all quiet on the Iran front, Israel turns its sights on Hezbollah": "با آرامش در جبهه ایران، اسرائیل توجه خود را به حزب الله معطوف کرده است",
+    "Six months into ‘ceasefire’, Gaza suffers under persistent Israeli attacks": "شش ماه پس از آغاز «آتش بس»، غزه تحت حملات مداوم اسرائیل قرار دارد",
+    "Will Israel and Lebanon start ceasefire talks?": "آیا اسرائیل و لبنان مذاکرات آتش بس را آغاز خواهند کرد؟",
+    "Israel strikes residential areas, destroys homes in southern Lebanon": "اسرائیل مناطق مسکونی را هدف قرار می دهد و خانه ها را در جنوب لبنان ویران می کند",
+    "Lebanon thought there was a ceasefire - then Israel unleashed deadly blitz": "لبنان فکر می کرد آتش بس برقرار شده است - سپس اسرائیل حملات مرگباری را آغاز کرد",
+    "Jerusalem man indicted for passing information to Iranian agent": "مرد اورشلیم به اتهام انتقال اطلاعات به مأمور ایرانی متهم شد",
+    "Has US achieved its war objectives in Iran?": "آیا آمریکا اهداف جنگی خود را در ایران محقق کرده است؟",
+    "Hot in the city: Energy crisis tests Singapore's air-con addiction": "داغ در شهر: بحران انرژی اعتیاد سنگاپور به کولر را آزمایش می کند"
   }
 }

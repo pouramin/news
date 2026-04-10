@@ -1103,7 +1103,15 @@
     "d43662c8e14115d88ac66d54",
     "b5626ac89aafd71ba0c9d773",
     "faaacf6360095474795e4c6b",
-    "bb12a1f7d8b8b4374e00975b"
+    "bb12a1f7d8b8b4374e00975b",
+    "9ac5383002cc7561658142c7",
+    "1445072090e9f3cb586f1920",
+    "6860f47d945a9f914b442751",
+    "8de3ff21b3e6519aea3f3264",
+    "96bca66aadf3c859ef257c94",
+    "0f7349239660eea3272fdf9e",
+    "dfa893452e562a997d1661c5",
+    "5aa4413fea559c7b89f2c2e5"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2209,7 +2217,15 @@
     "c411ccca4df9f20af34c8ce1",
     "cd1118b166d276269b50c160",
     "abc09739839abdedcfab95f6",
-    "0e0b79c369ad2804c926e75b"
+    "0e0b79c369ad2804c926e75b",
+    "4b3b628e7151be3d8140e044",
+    "85c8e74d7c6025c9cfa680b6",
+    "5154a11c33f15270b91e2261",
+    "b2ad31dcf1b767e27dccba96",
+    "e8f827b8b0caa5bb79c1bbc0",
+    "91fd22a9458810a2a1790e2b",
+    "93f0f44c173b4c2ead649b9d",
+    "cb5c65920eac5028f38131d0"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2264,8 +2280,8 @@
     "4197230f2e642e6bb7cfb7cb",
     "c9e7b370f40d169d7da22941"
   ],
-  "last_digest_hash": "94f87b95bc9a5c84711655c22721302832d68884a6508067c88c318e36e840c3",
-  "last_run_iso": "2026-04-10T11:09:25.304489+00:00",
+  "last_digest_hash": "a9b8247e66eac50a176d1a4aaee8c312d40c37dbdbac272a3a593e8140910bd9",
+  "last_run_iso": "2026-04-10T13:44:57.384131+00:00",
   "last_breaking_run_iso": "2026-04-10T06:05:42.263289+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3371,6 +3387,14 @@
     "Lebanon thought there was a ceasefire - then Israel unleashed deadly blitz": "لبنان فکر می کرد آتش بس برقرار شده است - سپس اسرائیل حملات مرگباری را آغاز کرد",
     "Jerusalem man indicted for passing information to Iranian agent": "مرد اورشلیم به اتهام انتقال اطلاعات به مأمور ایرانی متهم شد",
     "Has US achieved its war objectives in Iran?": "آیا آمریکا اهداف جنگی خود را در ایران محقق کرده است؟",
-    "Hot in the city: Energy crisis tests Singapore's air-con addiction": "داغ در شهر: بحران انرژی اعتیاد سنگاپور به کولر را آزمایش می کند"
+    "Hot in the city: Energy crisis tests Singapore's air-con addiction": "داغ در شهر: بحران انرژی اعتیاد سنگاپور به کولر را آزمایش می کند",
+    "Ukrainian forces shot down Shahed drones in Mideast amid Iran war, Zelensky says": "زلنسکی می گوید نیروهای اوکراینی پهپادهای شاهدد را در خاورمیانه در جریان جنگ ایران سرنگون کردند",
+    "Jewish leader of UK’s Green Party calls to end trade, diplomatic ties with Israel": "رهبر یهودی حزب سبز بریتانیا خواستار پایان دادن به روابط تجاری و دیپلماتیک با اسرائیل شد",
+    "‘Neither war nor peace’: What Gaza looks like six months into ‘ceasefire’": "«نه جنگ و نه صلح»: آنچه غزه شش ماه پس از «آتش بس» به نظر می رسد",
+    "Judge rules slain hostage’s family may use his sperm with a surrogate": "قاضی حکم می دهد که خانواده گروگان کشته شده می توانند اسپرم او را با رحم جایگزین استفاده کنند",
+    "Gaza father searches for his children’s remains in the rubble for years": "پدر غزه سال هاست که به دنبال بقایای فرزندانش در میان آوار می گردد",
+    "Gaza families still unable to bury dead six months into ‘ceasefire’": "خانواده های غزه هنوز قادر به دفن اجساد نیستند، شش ماه پس از «آتش بس»",
+    "‘Closer to a break than ever’: Can NATO survive if Trump pulls the US out?": "«نزدیک تر از همیشه به یک جدایی»: آیا ناتو می تواند زنده بماند اگر ترامپ آمریکا را خارج کند؟",
+    "Holocaust survivors in Tel-Aviv need your support now more than ever - Sponsored Content": "بازماندگان هولوکاست در تل آویو اکنون بیش از هر زمان دیگری به حمایت شما نیاز دارند - محتوای حمایت شده"
   }
 }

@@ -1141,7 +1141,10 @@
     "79dd22a4239666abe1f70279",
     "f83db8764995a07e413923f3",
     "48d64430b5f47df2b9f307a5",
-    "e7e4931be10b966ba097e787"
+    "e7e4931be10b966ba097e787",
+    "b65be52d6f284ebd5f82ca80",
+    "6950e6fd7872b194353bb4fd",
+    "ecab17acabb58214ec973e52"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2285,7 +2288,10 @@
     "e9da6638822d4d1cd99015bb",
     "e0892c4aadc06a37eb673d0e",
     "71bd4cc41f54077fcb021da4",
-    "d4444c1565eafc28dfc0c27f"
+    "d4444c1565eafc28dfc0c27f",
+    "ec3c92e44dc6b1357af90d07",
+    "98150f57476ff189385265dd",
+    "e62ce57c413d4ee521cc16de"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2341,8 +2347,8 @@
     "c9e7b370f40d169d7da22941",
     "0841fefb94f5e02a480d2068"
   ],
-  "last_digest_hash": "9fbe77943cc1a15325762a3cfb0e864819b85c09fe28c164dd202db113479fca",
-  "last_run_iso": "2026-04-10T21:51:47.601776+00:00",
+  "last_digest_hash": "4ef1ea3e7cc2d3b30abdda5b4d7dd988538343eef2043d75ba9a8ff5ba36fa00",
+  "last_run_iso": "2026-04-10T22:52:28.306236+00:00",
   "last_breaking_run_iso": "2026-04-10T17:59:39.352106+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3486,6 +3492,9 @@
     "Direct Israel-Lebanon talks set for Tuesday in DC; US said pressing Israel for ceasefire": "مذاکرات مستقیم اسرائیل و لبنان که قرار است سه شنبه در واشنگتن برگزار شود؛ آمریکا اعلام کرد که اسرائیل را برای آتش بس تحت فشار قرار می دهد",
     "Can Iran negotiations lead to peace?": "آیا مذاکرات ایران می تواند به صلح منجر شود؟",
     "The five big sticking points in US-Iran talks": "پنج نقطه اختلاف بزرگ در مذاکرات آمریکا و ایران",
-    "Muslims hold first Friday prayers at Al-Aqsa Mosque after reopening": "مسلمانان پس از بازگشایی، نخستین نماز جمعه را در مسجد الاقصی برگزار می کنند"
+    "Muslims hold first Friday prayers at Al-Aqsa Mosque after reopening": "مسلمانان پس از بازگشایی، نخستین نماز جمعه را در مسجد الاقصی برگزار می کنند",
+    "White House opted against announcing Iran ceasefire on TV, fearing it may not last": "کاخ سفید تصمیم گرفت آتش بس ایران را در تلویزیون اعلام نکند، زیرا نگران بود که این آتش بس پایدار نباشد",
+    "Islamabad on lockdown ahead of US-Iran talks": "اسلام آباد در آستانه مذاکرات آمریکا و ایران در قرنطینه است",
+    "Iranian delegation arrives in Islamabad for talks with US": "هیئتی ایرانی برای گفتگو با آمریکا وارد اسلام آباد می شود"
   }
 }

@@ -1144,7 +1144,9 @@
     "e7e4931be10b966ba097e787",
     "b65be52d6f284ebd5f82ca80",
     "6950e6fd7872b194353bb4fd",
-    "ecab17acabb58214ec973e52"
+    "ecab17acabb58214ec973e52",
+    "6cf0e83b2cac64bcd1c2b8c0",
+    "8732ba2aebcfd1aa8278c4ae"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2291,7 +2293,9 @@
     "d4444c1565eafc28dfc0c27f",
     "ec3c92e44dc6b1357af90d07",
     "98150f57476ff189385265dd",
-    "e62ce57c413d4ee521cc16de"
+    "e62ce57c413d4ee521cc16de",
+    "ca8d6fdd8432931a02bb5f92",
+    "e949d80b81c1b44b315b616f"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2347,8 +2351,8 @@
     "c9e7b370f40d169d7da22941",
     "0841fefb94f5e02a480d2068"
   ],
-  "last_digest_hash": "4ef1ea3e7cc2d3b30abdda5b4d7dd988538343eef2043d75ba9a8ff5ba36fa00",
-  "last_run_iso": "2026-04-10T22:52:28.306236+00:00",
+  "last_digest_hash": "63a997fff9236e09dedf979598f556cb403fe60d79db54d4f89c6d534e778aa6",
+  "last_run_iso": "2026-04-10T23:49:32.695219+00:00",
   "last_breaking_run_iso": "2026-04-10T17:59:39.352106+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3495,6 +3499,8 @@
     "Muslims hold first Friday prayers at Al-Aqsa Mosque after reopening": "مسلمانان پس از بازگشایی، نخستین نماز جمعه را در مسجد الاقصی برگزار می کنند",
     "White House opted against announcing Iran ceasefire on TV, fearing it may not last": "کاخ سفید تصمیم گرفت آتش بس ایران را در تلویزیون اعلام نکند، زیرا نگران بود که این آتش بس پایدار نباشد",
     "Islamabad on lockdown ahead of US-Iran talks": "اسلام آباد در آستانه مذاکرات آمریکا و ایران در قرنطینه است",
-    "Iranian delegation arrives in Islamabad for talks with US": "هیئتی ایرانی برای گفتگو با آمریکا وارد اسلام آباد می شود"
+    "Iranian delegation arrives in Islamabad for talks with US": "هیئتی ایرانی برای گفتگو با آمریکا وارد اسلام آباد می شود",
+    "Arriving in Pakistan, Iran’s top negotiator demands US accept ‘preconditions’ before talks start": "با ورود به پاکستان، مذاکره کننده ارشد ایران خواستار پذیرش «پیش شرط ها» پیش از آغاز مذاکرات شد",
+    "Hezbollah rocket attack damages 1,500-year-old Israeli church": "حمله راکتی حزب الله به کلیسای ۱۵۰۰ ساله اسرائیلی آسیب رساند"
   }
 }

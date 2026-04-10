@@ -1126,7 +1126,11 @@
     "dbdbac91f50f85910c376a73",
     "259e7fda1c0ecb4417b5950d",
     "a239b655da9a6c3181a56967",
-    "359a272ec11b54fc6cc631a6"
+    "359a272ec11b54fc6cc631a6",
+    "0841fefb94f5e02a480d2068",
+    "fa9113fe63114e86b9d1603c",
+    "3dc562d7a7d8c66171d059ae",
+    "bb53b4b1bae47638aa8af361"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2255,7 +2259,11 @@
     "74ec7cc44248709826346666",
     "c10123d6d563663988481d01",
     "fca8eb1d5bf27d4ff5bda622",
-    "81d8a47e9fad50f2eea59e7e"
+    "81d8a47e9fad50f2eea59e7e",
+    "1da9a9ab1af20eca51a9b8e5",
+    "46b40c0b4a56be62a2ec4dd6",
+    "5e57700ef5c2a516ccf914fb",
+    "dd1e9a51dd9923805da66aff"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2308,11 +2316,12 @@
     "38fc4fb6bef6b6e65976c146",
     "1ab90167386fd762fab0b79c",
     "4197230f2e642e6bb7cfb7cb",
-    "c9e7b370f40d169d7da22941"
+    "c9e7b370f40d169d7da22941",
+    "0841fefb94f5e02a480d2068"
   ],
-  "last_digest_hash": "7862509da3660143ff535c6b1928878ede0e838a3e2bfccb9c03be8d958ae24e",
-  "last_run_iso": "2026-04-10T17:05:57.717913+00:00",
-  "last_breaking_run_iso": "2026-04-10T06:05:42.263289+00:00",
+  "last_digest_hash": "336df92910f51c8a934045c76ff429e8ca6d00a31501307cf9cd57a057006c94",
+  "last_run_iso": "2026-04-10T17:59:39.352106+00:00",
+  "last_breaking_run_iso": "2026-04-10T17:59:39.352106+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -3440,6 +3449,10 @@
     "Netanyahu requests delay in his corruption trial testimony, citing security developments": "نتانیاهو با استناد به تحولات امنیتی، خواستار تأخیر در شهادت خود در دادگاه فساد شده است",
     "JD Vance expects ‘positive’ US-Iran war talks as he departs for Pakistan": "جی دی ونس انتظار مذاکرات «مثبت» جنگ آمریکا و ایران را هنگام عزیمت به پاکستان دارد",
     "US-Iran peace talks in Islamabad face massive hurdles": "مذاکرات صلح آمریکا و ایران در اسلام آباد با موانع بزرگی روبرو است",
-    "Netanyahu removes Spain from Gaza coordination centre over ‘hostility’": "نتانیاهو اسپانیا را به دلیل «خصومت» از مرکز هماهنگی غزه خارج کرد"
+    "Netanyahu removes Spain from Gaza coordination centre over ‘hostility’": "نتانیاهو اسپانیا را به دلیل «خصومت» از مرکز هماهنگی غزه خارج کرد",
+    "War in numbers: US hit tens of thousands of targets in Iran, but capabilities remain": "جنگ در تعداد: آمریکا ده ها هزار هدف در ایران را هدف قرار داد، اما توانایی ها همچنان باقی مانده اند",
+    "Palestinian shot dead during Israeli settler attack on occupied West Bank village": "فلسطینی ها در جریان حمله شهرک نشینان اسرائیلی به روستای اشغالی کرانه باختری به ضرب گلوله کشته شدند",
+    "Starmer and Trump talked military options to reopen Strait of Hormuz": "استارمر و ترامپ درباره گزینه های نظامی برای بازگشایی تنگه هرمز گفتگو کردند",
+    "Israeli settlers turn Passover into celebration of ethnic cleansing": "شهرک نشینان اسرائیلی عید پسح را به جشن پاکسازی قومی تبدیل کردند"
   }
 }

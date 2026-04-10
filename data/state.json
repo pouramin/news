@@ -1119,7 +1119,11 @@
     "e081c59ed6e6d39bc99eba57",
     "5b09368e94e154dcb2f2146e",
     "4d2dbf421b5f68265d98e61c",
-    "4e35419ee4abd2af97c1588e"
+    "4e35419ee4abd2af97c1588e",
+    "a97ec4d997e6cf5842303d78",
+    "e9a3a53f54a68a589f705d77",
+    "58f6a90d22a807fac9bbc3fb",
+    "dbdbac91f50f85910c376a73"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2241,7 +2245,11 @@
     "c918e5d6d4b838b96e364918",
     "009937552ee9c5096dcf9d19",
     "51cbad024040bbd06b91ccde",
-    "33861ad220fc8c9f4f8fe184"
+    "33861ad220fc8c9f4f8fe184",
+    "ea11bcf1b1e5a1f6ac5b4902",
+    "cc7d80ba2bfb045921a4853c",
+    "d323e889be937e44c6ffecdc",
+    "74ec7cc44248709826346666"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2296,8 +2304,8 @@
     "4197230f2e642e6bb7cfb7cb",
     "c9e7b370f40d169d7da22941"
   ],
-  "last_digest_hash": "a8ee3b781337aea31a89bff8b74f7a832e045fb05a9ea35833539a1b91df3d2f",
-  "last_run_iso": "2026-04-10T15:06:29.028538+00:00",
+  "last_digest_hash": "6095a9b66e39158edeba7ee4a1e8cfa271504f373ecf9d9eb97ba7d3b253e393",
+  "last_run_iso": "2026-04-10T16:06:33.968682+00:00",
   "last_breaking_run_iso": "2026-04-10T06:05:42.263289+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3419,6 +3427,10 @@
     "Charges filed against Rahat man for smuggling goods into Gaza during war": "اتهامات علیه راحت من به دلیل قاچاق کالا به غزه در زمان جنگ مطرح شد",
     "Wizz Air, Bluebird to resume Tel Aviv flights, while major carriers push off return": "ویز ایر و بلو برد پروازهای تل آویو را از سر می گیرند، در حالی که شرکت های بزرگ هواپیمایی بازگشت را به تعویق می اندازند",
     "Israel threatens healthcare as it continues to attack Lebanon": "اسرائیل در حالی که به حمله به لبنان ادامه می دهد، مراقبت های بهداشتی را تهدید می کند",
-    "Sorry Keir Starmer, the Middle East does not listen to Britain any more": "ببخشید کیر استارمر، خاورمیانه دیگر به بریتانیا گوش نمی دهد"
+    "Sorry Keir Starmer, the Middle East does not listen to Britain any more": "ببخشید کیر استارمر، خاورمیانه دیگر به بریتانیا گوش نمی دهد",
+    "Inflation rises in US amid Iran war, Hormuz blockade": "افزایش تورم در آمریکا در بحبوحه جنگ ایران و محاصره هرمز",
+    "Zelenskyy says Ukrainian interceptors downed Iran drones in the Middle East": "زلنسکی می گوید رهگیرهای اوکراینی پهپادهای ایران را در خاورمیانه سرنگون کردند",
+    "‘Anti-Israel obsession’: Israel boots Spanish representatives from Gaza ceasefire HQ": "«وسواس ضد اسرائیلی»: اسرائیل نمایندگان اسپانیا را از ستاد آتش بس غزه اخراج می کند",
+    "Netanyahu requests delay in his corruption trial testimony, citing security developments": "نتانیاهو با استناد به تحولات امنیتی، خواستار تأخیر در شهادت خود در دادگاه فساد شده است"
   }
 }

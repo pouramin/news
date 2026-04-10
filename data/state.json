@@ -1073,7 +1073,15 @@
     "1ab90167386fd762fab0b79c",
     "e75b2026db9128eb51a2f342",
     "e57783702e9ed2fb5dae030d",
-    "a521627360899c920e865b36"
+    "a521627360899c920e865b36",
+    "4197230f2e642e6bb7cfb7cb",
+    "48e7a6481615f574e3ece791",
+    "0be4e33793b58dc966b4c12c",
+    "d40f23b6cb5f6e9524a9c169",
+    "fdbdab43524392a36174a396",
+    "71dc09a42fb3158dfd9df8eb",
+    "3ec68f03a9bafb944cd9fcc8",
+    "9e3f0a9e33c20345342a52e3"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2149,7 +2157,15 @@
     "4da9ebb33bfba523b6aea805",
     "e6ff3de625943ed9655d31c8",
     "dc8e23f63da734dc6d5c41e8",
-    "6b31ac85ed62232867a73d55"
+    "6b31ac85ed62232867a73d55",
+    "56c0660cc9a5637b163ba491",
+    "e72471387d8ec27967922a5b",
+    "e2a0976b9b2b0269274a90ac",
+    "fbaf7a2638362dfa5755db2d",
+    "e0b87e0fb6ca89e7195362a6",
+    "e554c489a6138f3bdb696c18",
+    "4da776df3c70f66e4b441548",
+    "73287cacfd23bc59fa14c5ec"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2200,11 +2216,12 @@
     "51e185fab2b919b738081a52",
     "e14864888dc3781df5896523",
     "38fc4fb6bef6b6e65976c146",
-    "1ab90167386fd762fab0b79c"
+    "1ab90167386fd762fab0b79c",
+    "4197230f2e642e6bb7cfb7cb"
   ],
-  "last_digest_hash": "fa3317411a51b534d8997d96a88f8c03c275b6251584adce1c5d0455860759fc",
-  "last_run_iso": "2026-04-09T23:50:57.773347+00:00",
-  "last_breaking_run_iso": "2026-04-09T23:50:57.773347+00:00",
+  "last_digest_hash": "111a463eec310c2e4d03d654d1cb2a970d86702f32a70d6c2edce1e9f8d09fa9",
+  "last_run_iso": "2026-04-10T03:36:49.864746+00:00",
+  "last_breaking_run_iso": "2026-04-10T03:36:49.864746+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -3279,6 +3296,14 @@
     "Hezbollah fires missile at southern city of Ashdod; debris from interception triggers sirens in Tel Aviv": "حزب الله به شهر جنوبی اشدود موشک شلیک می کند؛ بقایای ناشی از رهگیری در تل آویو آژیرها را به صدا درآورد",
     "US-Iran ceasefire: Uncertainty over what’s next": "آتش بس آمریکا و ایران: عدم قطعیت درباره گام بعدی",
     "Iran’s Supreme Leader Mojtaba Khamenei says ‘we seek compensation, not war’": "رهبر معظم ایران، مجتبی خامنه ای، می گوید «ما به دنبال غرامت هستیم، نه جنگ»",
-    "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done": "چه آتش بس باشد چه نباشد، تغییرات خاورمیانه هنوز به پایان نرسیده است"
+    "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done": "چه آتش بس باشد چه نباشد، تغییرات خاورمیانه هنوز به پایان نرسیده است",
+    "650 Iranian missiles fired, 24 killed, and 10,800 Israeli strikes: The war in numbers": "۶۵۰ موشک ایرانی شلیک شد، ۲۴ کشته و ۱۰,۸۰۰ حمله اسرائیلی: جنگ در تعداد",
+    "Iran war live: Israeli attacks on Lebanon threaten US-Iran ceasefire talks": "جنگ ایران زنده: حملات اسرائیل به لبنان مذاکرات آتش بس آمریکا و ایران را تهدید می کند",
+    "Shipping in Strait of Hormuz still at a trickle despite US-Iran ceasefire": "حمل و نقل در تنگه هرمز با وجود آتش بس آمریکا و ایران همچنان به تدریج کاهش یافته است",
+    "Commercial areas, tony seafront neighborhoods among parts of Beirut hit in Wednesday’s wave of strikes": "مناطق تجاری، محله های ساحلی شیک و بخش هایی از بیروت در موج اعتصابات چهارشنبه هدف قرار گرفتند",
+    "UK PM Keir Starmer visits Gulf to shore up ‘fragile’ US-Iran ceasefire": "نخست وزیر بریتانیا، کیر استارمر، به خلیج فارس سفر کرد تا آتش بس «شکننده» آمریکا و ایران را تقویت کند",
+    "Netanyahu’s Likud takes hit in polls, which show most Israelis oppose Iran ceasefire": "حزب لیکود نتانیاهو در نظرسنجی ها که نشان می دهد بیشتر اسرائیلی ها با آتش بس ایران مخالفند، ضربه می خورد",
+    "Video shows explosion over Erbil in suspected drone interception": "ویدئو انفجاری را بر فراز اربیل در مظنون به رهگیری پهپاد نشان می دهد",
+    "Democratic National Committee panel rejects measure singling out AIPAC for criticism": "کمیته ملی دموکرات ها طرحی را که آیپک را به طور خاص مورد انتقاد قرار داده بود رد کرد"
   }
 }

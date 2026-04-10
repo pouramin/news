@@ -1093,7 +1093,9 @@
     "413e7553d34b499a1e638cec",
     "ad30fa11e1b374c1e6960960",
     "efe1cfebb10c5588c391aa87",
-    "14f63ee00ddd9b70629e317c"
+    "14f63ee00ddd9b70629e317c",
+    "893f3e2cafc135b8b4a8fd20",
+    "8c7c47a5fcad993b758c2367"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2189,7 +2191,9 @@
     "f3dc75c5d72d4af4b10129de",
     "00f9e0ba7cb3e5ac52e8b049",
     "7f0379425a10a638e1f228c9",
-    "51d8f977368e1c8c50d236e5"
+    "51d8f977368e1c8c50d236e5",
+    "4a04cabcad8bb792b56fe8bb",
+    "6bfebc424a40b56837310afb"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2244,8 +2248,8 @@
     "4197230f2e642e6bb7cfb7cb",
     "c9e7b370f40d169d7da22941"
   ],
-  "last_digest_hash": "e0353372778f594b84f2f4c6d2ff3cb1cce8b73a82824b540476ea45ee4d251f",
-  "last_run_iso": "2026-04-10T07:58:03.269070+00:00",
+  "last_digest_hash": "c0a9927e203608571faf3433d8d2cbd8e8abfd517c93fcdcde9ffba15c69cb0e",
+  "last_run_iso": "2026-04-10T09:22:10.864797+00:00",
   "last_breaking_run_iso": "2026-04-10T06:05:42.263289+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3341,6 +3345,8 @@
     "Tel Aviv airport reopens but airfares again skyrocket as foreign carriers stay away": "فرودگاه تل آویو دوباره بازگشایی می شود اما قیمت بلیت هواپیما دوباره سر به فلک می کشد زیرا شرکت های هواپیمایی خارجی از آنجا دور نمی ماند",
     "John Spencer: US can force open Strait of Hormuz if it decides to": "جان اسپنسر: آمریکا می تواند تنگه هرمز را باز کند اگر تصمیم بگیرد",
     "Melania Trump denies connection to Epstein case, calls accusations ‘baseless lies’": "ملانیا ترامپ ارتباط با پرونده اپستین را رد کرد و اتهامات را «دروغ های بی اساس» خواند.",
-    "A new generation of Jewish leaders is rethinking what comes next - Sponsored Content": "نسل جدیدی از رهبران یهودی در حال بازنگری در آینده هستند - محتوای حمایت شده"
+    "A new generation of Jewish leaders is rethinking what comes next - Sponsored Content": "نسل جدیدی از رهبران یهودی در حال بازنگری در آینده هستند - محتوای حمایت شده",
+    "Iran ceasefire: Not an off-ramp for the US but a life-saving ejection seat": "آتش بس ایران: نه یک خروجی برای آمریکا بلکه یک صندلی نجات بخش اخراج",
+    "Pakistan emerges as a key international player as it mediates between US and Iran": "پاکستان به عنوان یک بازیگر کلیدی بین المللی ظاهر می شود و میان آمریکا و ایران میانجی گری می کند"
   }
 }

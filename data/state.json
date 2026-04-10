@@ -1139,7 +1139,9 @@
     "f7a543eab4e382c628d713dc",
     "d68cf4da91565e78aa93f975",
     "79dd22a4239666abe1f70279",
-    "f83db8764995a07e413923f3"
+    "f83db8764995a07e413923f3",
+    "48d64430b5f47df2b9f307a5",
+    "e7e4931be10b966ba097e787"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2281,7 +2283,9 @@
     "43939727c17c461ad3530537",
     "528aa6dea0ef73e6a6ecdc67",
     "e9da6638822d4d1cd99015bb",
-    "e0892c4aadc06a37eb673d0e"
+    "e0892c4aadc06a37eb673d0e",
+    "71bd4cc41f54077fcb021da4",
+    "d4444c1565eafc28dfc0c27f"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2337,8 +2341,8 @@
     "c9e7b370f40d169d7da22941",
     "0841fefb94f5e02a480d2068"
   ],
-  "last_digest_hash": "6bffbcfbf45d65d7cc1e1993767a996b9ce25d145ef68e3703c84e5f0ce833c1",
-  "last_run_iso": "2026-04-10T20:51:54.807717+00:00",
+  "last_digest_hash": "9fbe77943cc1a15325762a3cfb0e864819b85c09fe28c164dd202db113479fca",
+  "last_run_iso": "2026-04-10T21:51:47.601776+00:00",
   "last_breaking_run_iso": "2026-04-10T17:59:39.352106+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3480,6 +3484,8 @@
     "New tensions emerge before US-Iran war ceasefire talks in Pakistan": "تنش های جدیدی پیش از مذاکرات آتش بس جنگ آمریکا و ایران در پاکستان به وجود آمد",
     "US-Iran negotiations in Islamabad: What to expect?": "مذاکرات آمریکا و ایران در اسلام آباد: چه انتظاری باید داشت؟",
     "Direct Israel-Lebanon talks set for Tuesday in DC; US said pressing Israel for ceasefire": "مذاکرات مستقیم اسرائیل و لبنان که قرار است سه شنبه در واشنگتن برگزار شود؛ آمریکا اعلام کرد که اسرائیل را برای آتش بس تحت فشار قرار می دهد",
-    "Can Iran negotiations lead to peace?": "آیا مذاکرات ایران می تواند به صلح منجر شود؟"
+    "Can Iran negotiations lead to peace?": "آیا مذاکرات ایران می تواند به صلح منجر شود؟",
+    "The five big sticking points in US-Iran talks": "پنج نقطه اختلاف بزرگ در مذاکرات آمریکا و ایران",
+    "Muslims hold first Friday prayers at Al-Aqsa Mosque after reopening": "مسلمانان پس از بازگشایی، نخستین نماز جمعه را در مسجد الاقصی برگزار می کنند"
   }
 }

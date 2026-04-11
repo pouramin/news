@@ -1155,7 +1155,14 @@
     "a2e3f5e878faa123fcceb358",
     "03d22470a7b6cf4ebdbbfe13",
     "8b4e94f0c45efc5e2a57d29b",
-    "fc0dc596d096c4bdc66ef5dc"
+    "fc0dc596d096c4bdc66ef5dc",
+    "45cd7177bfe78b2cd5c1a707",
+    "2cd260a1dcb610755d72a61c",
+    "50d6d0ef692f643ee629f27d",
+    "c248593bd70a525be51e4b5c",
+    "d71bcc60994e1538d511b600",
+    "b9b7cbc4b93aaa3e6ccb51da",
+    "04d0e1b1450669f157b7e089"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2313,7 +2320,14 @@
     "93991013b191e23e418de013",
     "4c7457407e17519a2c89d969",
     "0b2a451f3f7d6508f3934749",
-    "3e6b3b4386c9859bd7033e47"
+    "3e6b3b4386c9859bd7033e47",
+    "8084dbb3ba7b59c075b246c8",
+    "aae695749cd8084a9f7a382b",
+    "09a04674e5abc7d9d751faef",
+    "3d06d679069a8af3242fe13c",
+    "833d9bea326f58c44a5114b1",
+    "36a647060d17ab2d8d6f9888",
+    "b226b4f9eb10e03bba865ff0"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2370,8 +2384,8 @@
     "0841fefb94f5e02a480d2068",
     "73f396cda0336164bbd0e6cb"
   ],
-  "last_digest_hash": "ac32835391799f2e947ef6b244fa3bbbe86dbaf8c8e98049e685c2fd7641cd0d",
-  "last_run_iso": "2026-04-11T03:16:12.058634+00:00",
+  "last_digest_hash": "8b739b3b91ed355775d56de0ab9667e6bbc11e19b3de3d9e2dd5ea70782119e2",
+  "last_run_iso": "2026-04-11T05:37:55.161487+00:00",
   "last_breaking_run_iso": "2026-04-11T03:16:12.058634+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3529,6 +3543,13 @@
     "Amid echoes of war, these survivors will light Yom Hashoah torches in pre-recorded ceremony": "در میان پژواک های جنگ، این بازماندگان مشعل های یوم هشوا را در مراسمی از پیش ضبط شده روشن خواهند کرد",
     "Historic Vance-Ghalibaf talks must bridge deep distrust": "مذاکرات تاریخی ونس-قالیباف باید بی اعتمادی عمیق را پر کند",
     "Israeli strike on government building kills Lebanese officers": "حمله اسرائیل به ساختمان دولتی باعث کشته شدن افسران لبنانی شد",
-    "Artemis II safely splashes down in Pacific Ocean, concluding 10-day moon mission": "آرتمیس ۲ با موفقیت در اقیانوس آرام فرود می آید و مأموریت ۱۰ روزه ماه را به پایان می رساند"
+    "Artemis II safely splashes down in Pacific Ocean, concluding 10-day moon mission": "آرتمیس ۲ با موفقیت در اقیانوس آرام فرود می آید و مأموریت ۱۰ روزه ماه را به پایان می رساند",
+    "Michigan rabbi whose synagogue was attacked slams leftist senate candidate’s response": "خاخام اهل میشیگان که کنیسه اش مورد حمله قرار گرفت، واکنش نامزد چپ گرای سنا را به شدت محکوم کرد",
+    "Iran war: What is happening on day 43 of the US-Iran conflict?": "جنگ ایران: در روز چهل و سوم درگیری آمریکا و ایران چه اتفاقی در حال رخ دادن است؟",
+    "Pakistan’s prime minister calls US-Iran talks ‘make or break’": "نخست وزیر پاکستان مذاکرات آمریکا و ایران را «موفقیت یا شکست» خواند",
+    "Pakistan ambassador speaks to Al Jazeera on eve of US-Iran talks": "سفیر پاکستان در آستانه مذاکرات آمریکا و ایران با الجزیره گفتگو می کند",
+    "Romanian secret police trailed a Jewish photographer in the ’80s. Those files are now a film": "پلیس مخفی رومانی در دهه ۸۰ یک عکاس یهودی را تعقیب می کرد. آن پرونده ها حالا تبدیل به فیلم شده اند",
+    "Sex, Nazism and rock ‘n’ roll: Why rockers love to goose step in the gaslights": "سکس، نازیسم و راک اند رول: چرا راکرها عاشق قدم زدن در گازلایت ها هستند",
+    "Longtime US congressman Eliot Engel, whose defeat augured surge in anti-Israel sentiment, dies at 79": "الیوت انگل، نماینده قدیمی کنگره آمریکا که شکستش نشانه افزایش احساسات ضد اسرائیلی بود، در سن ۷۹ سالگی درگذشت"
   }
 }

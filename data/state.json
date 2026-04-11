@@ -1172,7 +1172,10 @@
     "eb9c5dc9e8e21afbbf3402f9",
     "d4451a60218312f79f058cac",
     "ba13144a89a88ae6d538002f",
-    "4047bcbcf96b07b7e8d24049"
+    "4047bcbcf96b07b7e8d24049",
+    "8dd61093e321a134cbb9afff",
+    "65b582fd693a37845becb383",
+    "650d093f5474a9d37b361dac"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2347,7 +2350,10 @@
     "2cf7281292fb4b318c9994ae",
     "5c4e69900c5e4596f17ebfe9",
     "4dd738566c41613e9cf693aa",
-    "082f34a302b0960424e11802"
+    "082f34a302b0960424e11802",
+    "e5437a49383abae448a196c4",
+    "d80435a7c6d2e0e272e8f17c",
+    "e842e9eea4d75923bd8f48f0"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2402,11 +2408,12 @@
     "4197230f2e642e6bb7cfb7cb",
     "c9e7b370f40d169d7da22941",
     "0841fefb94f5e02a480d2068",
-    "73f396cda0336164bbd0e6cb"
+    "73f396cda0336164bbd0e6cb",
+    "8dd61093e321a134cbb9afff"
   ],
-  "last_digest_hash": "e496858f249be7fda944aeda607f86678209f8aea1bc4deb3cf524a841559a96",
-  "last_run_iso": "2026-04-11T08:59:10.468209+00:00",
-  "last_breaking_run_iso": "2026-04-11T03:16:12.058634+00:00",
+  "last_digest_hash": "f86178aa56ee3a40bbf8bbbbee492a50c7988123ff2a0d01e787127f222a5203",
+  "last_run_iso": "2026-04-11T09:54:34.838464+00:00",
+  "last_breaking_run_iso": "2026-04-11T09:54:34.838464+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -3580,6 +3587,9 @@
     "Video: Vance arrives in Pakistan for talks with Iran": "ویدئو: ونس برای مذاکرات با ایران وارد پاکستان می شود",
     "Israeli drone attack kills Palestinians near Gaza mosque": "حمله پهپادی اسرائیل فلسطینی ها را در نزدیکی مسجد غزه کشت",
     "Over 100,000 rally at Budapest megaconcert in call to vote out Hungary’s Orban on Sunday": "بیش از ۱۰۰,۰۰۰ نفر در کنسرت بزرگ بوداپست روز یکشنبه برای رأی گیری به اوربان مجارستان تجمع کردند",
-    "2,500-year-old infant mass grave cracks open enigma of biblical-era baby burials": "گور دسته جمعی نوزادان ۲۵۰۰ ساله راز دفن نوزادان دوران کتاب مقدس را آشکار می کند"
+    "2,500-year-old infant mass grave cracks open enigma of biblical-era baby burials": "گور دسته جمعی نوزادان ۲۵۰۰ ساله راز دفن نوزادان دوران کتاب مقدس را آشکار می کند",
+    "US intel said to assess Iran can recover underground launchers, fire thousands of missiles": "اطلاعات آمریکا اعلام کرد که برای ارزیابی ایران می تواند پرتابگرهای زیرزمینی را بازیابی کند و هزاران موشک شلیک کند",
+    "At least seven Palestinians killed in Israeli attacks on Gaza": "حداقل هفت فلسطینی در حملات اسرائیل به غزه کشته شدند",
+    "Trump likes to back winners. Hungary’s upcoming election will test his clout": "ترامپ دوست دارد از برندگان حمایت کند. انتخابات پیش رو در مجارستان نفوذ او را به چالش خواهد کشید"
   }
 }

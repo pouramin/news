@@ -1180,7 +1180,10 @@
     "934cf568ed145e36da63d69a",
     "027de2a0e8e6895f0ea2b907",
     "0b321e8d5fdd408f459ad28b",
-    "fd33fa4b3d89529656404d57"
+    "fd33fa4b3d89529656404d57",
+    "a37379f16d6580eb47e624ef",
+    "0b8c0dd39767c9a594d75e35",
+    "2a02d7ae407c63d335a3f3cd"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2363,7 +2366,10 @@
     "14395e3f6a2da5abc30f27bd",
     "a082b930870a438750903e08",
     "e6e6b2c6de8aceb23f42765b",
-    "11cff9988aac524e3dfa0b51"
+    "11cff9988aac524e3dfa0b51",
+    "1f9428dd753e17bc724dcdf5",
+    "3a2dd66b8124265abc1d5b20",
+    "e4e31a1ecdfbc41682e91386"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2421,8 +2427,8 @@
     "73f396cda0336164bbd0e6cb",
     "8dd61093e321a134cbb9afff"
   ],
-  "last_digest_hash": "0052904a5bdf3ea6c90c60e3d646ed3e21160bd31c8527dacea40189e08d7f2a",
-  "last_run_iso": "2026-04-11T11:40:17.552116+00:00",
+  "last_digest_hash": "90b1cb69001ee7b41638b24cdb7a3a87f0116d5c1e8f1d217c59785338eff57d",
+  "last_run_iso": "2026-04-11T13:20:07.727158+00:00",
   "last_breaking_run_iso": "2026-04-11T09:54:34.838464+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3605,6 +3611,9 @@
     "Video: ‘Crucial talks’ says Al Jazeera reporter at US-Iran meeting venue": "ویدئو: «مذاکرات حیاتی» به گفته خبرنگار الجزیره در محل دیدار آمریکا و ایران",
     "We need a regional agreement for the Strait of Hormuz": "ما به توافق منطقه ای برای تنگه هرمز نیاز داریم",
     "IDF removes clip of Passover song slammed as ‘medley of contempt’ for women in military": "ارتش اسرائیل کلیپی از آهنگ عید فصح را که به عنوان «مدلی تحقیر» نسبت به زنان نظامی مورد انتقاد قرار گرفته بود، حذف کرد",
-    "Israel in row with South Korean leader over Palestinian abuse concerns": "اسرائیل با رهبر کره جنوبی بر سر نگرانی های مربوط به سوءاستفاده فلسطینی ها درگیر است"
+    "Israel in row with South Korean leader over Palestinian abuse concerns": "اسرائیل با رهبر کره جنوبی بر سر نگرانی های مربوط به سوءاستفاده فلسطینی ها درگیر است",
+    "Makeshift Gaza university offers chance to resurrect academic studies": "دانشگاه موقت غزه فرصتی برای احیای تحصیلات دانشگاهی فراهم می کند",
+    "Video: JD Vance meets with Pakistani PM ahead of Iran talks": "ویدئو: دیدار جی دی ونس با نخست وزیر پاکستان پیش از مذاکرات ایران",
+    "‘A perfect mission’: NASA celebrates as Artemis II astronauts return to Earth": "«یک مأموریت کامل»: ناسا بازگشت فضانوردان آرتمیس ۲ به زمین را جشن می گیرد"
   }
 }

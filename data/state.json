@@ -1166,7 +1166,13 @@
     "97b84e7396bf2daeaaeebc42",
     "90efda2617c2f912698d0ff0",
     "65e543b60d09d3849459d28e",
-    "9bd5ffd78a4e55b45fac759c"
+    "9bd5ffd78a4e55b45fac759c",
+    "1cbd68facea38f2d889998a3",
+    "b9eac53350003cec4cef2a24",
+    "eb9c5dc9e8e21afbbf3402f9",
+    "d4451a60218312f79f058cac",
+    "ba13144a89a88ae6d538002f",
+    "4047bcbcf96b07b7e8d24049"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2335,7 +2341,13 @@
     "939cd91913e2f7b0efdd9481",
     "546ead6385fdaf5c7c7fce14",
     "92152cd944d688e4eb9de028",
-    "900a387678d0963c8a1e29b0"
+    "900a387678d0963c8a1e29b0",
+    "4c121a15b4a2586116858f29",
+    "1c7f2416515930a2a63f05fc",
+    "2cf7281292fb4b318c9994ae",
+    "5c4e69900c5e4596f17ebfe9",
+    "4dd738566c41613e9cf693aa",
+    "082f34a302b0960424e11802"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2392,8 +2404,8 @@
     "0841fefb94f5e02a480d2068",
     "73f396cda0336164bbd0e6cb"
   ],
-  "last_digest_hash": "e2b7f87df768e48243b24753fd302fdaf25da42f3b1be901008224a5bc65b3fa",
-  "last_run_iso": "2026-04-11T07:15:03.185913+00:00",
+  "last_digest_hash": "e496858f249be7fda944aeda607f86678209f8aea1bc4deb3cf524a841559a96",
+  "last_run_iso": "2026-04-11T08:59:10.468209+00:00",
   "last_breaking_run_iso": "2026-04-11T03:16:12.058634+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3562,6 +3574,12 @@
     "Iran’s supreme leader has disfiguring facial wounds and may have lost a leg, sources say": "به گفته منابع، رهبر معظم ایران جراحات بدشکل صورت دارد و ممکن است یک پا را از دست داده باشد",
     "Concerns after satellite provider restricts Iran images following US pressure": "نگرانی ها پس از محدود کردن تصاویر ایران توسط ارائه دهنده ماهواره پس از فشار آمریکا",
     "After AIPAC-backed primary loss, Malinowski endorses rival who accuses Israel of genocide": "پس از شکست در انتخابات مقدماتی مورد حمایت AIPAC، مالینوفسکی از رقیبی حمایت می کند که اسرائیل را به نسل کشی متهم می کند",
-    "Trump officials unveil plans for gilded, triumphal Washington arch": "مقامات ترامپ برنامه هایی برای طاق طلایی و پیروزمندانه واشنگتن را رونمایی کردند"
+    "Trump officials unveil plans for gilded, triumphal Washington arch": "مقامات ترامپ برنامه هایی برای طاق طلایی و پیروزمندانه واشنگتن را رونمایی کردند",
+    "Israel rejects ceasefire with Hezbollah ahead of Lebanon talks next week": "اسرائیل آتش بس با حزب الله را پیش از مذاکرات لبنان در هفته آینده رد کرد",
+    "Police reportedly forming new unit to tackle Iran spying cases": "گزارش شده است که پلیس واحد جدیدی برای مقابله با پرونده های جاسوسی ایران تشکیل داده است",
+    "Video: Vance arrives in Pakistan for talks with Iran": "ویدئو: ونس برای مذاکرات با ایران وارد پاکستان می شود",
+    "Israeli drone attack kills Palestinians near Gaza mosque": "حمله پهپادی اسرائیل فلسطینی ها را در نزدیکی مسجد غزه کشت",
+    "Over 100,000 rally at Budapest megaconcert in call to vote out Hungary’s Orban on Sunday": "بیش از ۱۰۰,۰۰۰ نفر در کنسرت بزرگ بوداپست روز یکشنبه برای رأی گیری به اوربان مجارستان تجمع کردند",
+    "2,500-year-old infant mass grave cracks open enigma of biblical-era baby burials": "گور دسته جمعی نوزادان ۲۵۰۰ ساله راز دفن نوزادان دوران کتاب مقدس را آشکار می کند"
   }
 }

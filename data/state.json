@@ -1214,7 +1214,10 @@
     "b30a4f8d85e7255571cafffb",
     "e433ec1e635553bacb75a5ba",
     "f3c77e098eb3d12cbc0ae563",
-    "0e265ce27089e428bc399d07"
+    "0e265ce27089e428bc399d07",
+    "76ea7a3ffa7a807468a44830",
+    "ff639f60c03eb14491f20748",
+    "f35c97a9a650441872768e7c"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2431,7 +2434,10 @@
     "c06a21e35650df8169273b1c",
     "3c08ca36d05626e361358e40",
     "2aa9eda21b8cb92e3bda17ff",
-    "f9473960394362c8073bd2f1"
+    "f9473960394362c8073bd2f1",
+    "4ff31466be1ae3e7eaccd7ab",
+    "0d0d4d88eeed334514a9191c",
+    "79f16bf30a4a225c50647730"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2491,8 +2497,8 @@
     "6a141236cbf77d471baa8004",
     "5a8daef3b83322f5d425db20"
   ],
-  "last_digest_hash": "132fddfd7d73cd94c9bb7e7c654026093d840269404bad0a21c0eb11b6cd3c60",
-  "last_run_iso": "2026-04-11T22:48:51.486869+00:00",
+  "last_digest_hash": "daf51a220cd88fc130fffe850468fb2677a7c22be8ac726afa24fbdc1bb60c78",
+  "last_run_iso": "2026-04-11T23:48:28.809961+00:00",
   "last_breaking_run_iso": "2026-04-11T21:46:25.008212+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3709,6 +3715,9 @@
     "Iraqi parliament elects new president": "پارلمان عراق رئیس جمهور جدید را انتخاب کرد",
     "US-Iran talks move to third round as Trump claims ‘no difference’ to him if deal reached": "مذاکرات آمریکا و ایران به دور سوم رفت، چرا که ترامپ ادعا می کند اگر توافق حاصل شود «تفاوتی ندارد»",
     "Five arrested as Syria says it foiled Hezbollah-linked plot to kill Damascus rabbi": "پنج نفر بازداشت شدند در حالی که سوریه ادعا می کند نقشه مرتبط با حزب الله برای قتل خاخام دمشق را خنثی کرده است",
-    "US President Trump says US ‘wins’ regardless of how Iran talks go": "رئیس جمهور آمریکا، ترامپ، می گوید آمریکا فارغ از روند مذاکرات با ایران «پیروز» می شود"
+    "US President Trump says US ‘wins’ regardless of how Iran talks go": "رئیس جمهور آمریکا، ترامپ، می گوید آمریکا فارغ از روند مذاکرات با ایران «پیروز» می شود",
+    "Iran war lands 'triple blow' to flood-ravaged Sri Lankans": "جنگ ایران ضربه سه گانه ای به مردم سیل زده سریلانکا وارد می کند",
+    "We spoke to the man making viral Lego-style AI videos for Iran. Experts say it's powerful propaganda": "ما با مردی که ویدیوهای هوش مصنوعی سبک لگو ویروسی برای ایران می سازد صحبت کردیم. کارشناسان می گویند این یک تبلیغات قدرتمند است",
+    "On the record and off the court: Meet the only Jewish player on the NCAA championship team": "در سوابق و خارج از زمین: با تنها بازیکن یهودی تیم قهرمان NCAA آشنا شوید"
   }
 }

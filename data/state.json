@@ -1193,7 +1193,8 @@
     "35c34640d47f40cf5a3e48de",
     "a42dd37f67bf1083f975c761",
     "ab8634b803ce7ba332087955",
-    "6a141236cbf77d471baa8004"
+    "6a141236cbf77d471baa8004",
+    "6f334f8ae7971a5457854af8"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2389,7 +2390,8 @@
     "ad1c096018dec001bf799935",
     "1100b0110d63763a7685d856",
     "0e2fa6b3f7c002a53c204e5e",
-    "ed7b14fe4aa7161dd1e1eb94"
+    "ed7b14fe4aa7161dd1e1eb94",
+    "a72c2809eaea8caaaa926bb6"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2448,8 +2450,8 @@
     "8dd61093e321a134cbb9afff",
     "6a141236cbf77d471baa8004"
   ],
-  "last_digest_hash": "8a8e61f33029c437064577b523ce01ef5f3e9d83e218a01540b0ddd20c3f6b8e",
-  "last_run_iso": "2026-04-11T16:52:27.970930+00:00",
+  "last_digest_hash": "c0503d4c2508234449f129d24962ef2b1cc68de2ffcc91e8574e73c32e9181d9",
+  "last_run_iso": "2026-04-11T17:46:22.213290+00:00",
   "last_breaking_run_iso": "2026-04-11T16:52:27.970930+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3645,6 +3647,7 @@
     "Shin Bet chief said to downplay Jewish terrorism in West Bank as ‘friction’": "رئیس شین بت گفته شد که کم اهمیت جلوه دادن تروریسم یهودی در کرانه باختری به عنوان «اصطکاک»",
     "US-Iran ceasefire: Can pressure, incentives, and risks deliver a final deal": "آتش بس آمریکا و ایران: آیا فشار، انگیزه ها و ریسک ها می توانند به توافق نهایی منجر شوند",
     "Christians return to Jerusalem’s Holy Sepulchre as Israel eases restriction": "مسیحیان به آرامگاه مقدس اورشلیم بازمی گردند در حالی که اسرائیل محدودیت ها را کاهش می دهد",
-    "IDF and Hezbollah trade strikes, rockets as Israel and Lebanon gear up for direct talks": "حملات تجاری و راکت های ارتش اسرائیل و حزب الله در حالی که اسرائیل و لبنان برای مذاکرات مستقیم آماده می شوند"
+    "IDF and Hezbollah trade strikes, rockets as Israel and Lebanon gear up for direct talks": "حملات تجاری و راکت های ارتش اسرائیل و حزب الله در حالی که اسرائیل و لبنان برای مذاکرات مستقیم آماده می شوند",
+    "Strait of Hormuz leverage looms over US-Iran talks in Islamabad": "اهرم فشار تنگه هرمز بر مذاکرات آمریکا و ایران در اسلام آباد سایه افکنده است"
   }
 }

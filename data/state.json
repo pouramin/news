@@ -1207,7 +1207,11 @@
     "7df4b5c8e3eca4d9471c45ac",
     "395a6cb39043e00a7e8dcd1b",
     "541b30c12d1320cb71d1c9bd",
-    "9f48794542fe7719362febed"
+    "9f48794542fe7719362febed",
+    "5a8daef3b83322f5d425db20",
+    "1052b9bb9391e9499ae88710",
+    "ec60c1df2c08f16847f23cb3",
+    "b30a4f8d85e7255571cafffb"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2417,7 +2421,11 @@
     "08aee6d01ef9f8a8a16202ab",
     "c54df5a614e82b1ef7b6d1f6",
     "22ba9ddbf17e2a64351293bf",
-    "5187ddd37ca43cb4dc0a2bcb"
+    "5187ddd37ca43cb4dc0a2bcb",
+    "688d66cfdb326b6f80381616",
+    "91952c3960c9d88915916a8f",
+    "440c9e555138ef1aad125f98",
+    "c06a21e35650df8169273b1c"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2474,11 +2482,12 @@
     "0841fefb94f5e02a480d2068",
     "73f396cda0336164bbd0e6cb",
     "8dd61093e321a134cbb9afff",
-    "6a141236cbf77d471baa8004"
+    "6a141236cbf77d471baa8004",
+    "5a8daef3b83322f5d425db20"
   ],
-  "last_digest_hash": "e43ed368168f22c69353740f4bcebfcc4e4cbdefa6a46e274d070056513b4b4e",
-  "last_run_iso": "2026-04-11T20:49:03.484092+00:00",
-  "last_breaking_run_iso": "2026-04-11T16:52:27.970930+00:00",
+  "last_digest_hash": "ebdb458d92b6b71c2e9b97b332f558bd0364019eb1c6b76db410216b12a58e44",
+  "last_run_iso": "2026-04-11T21:46:25.008212+00:00",
+  "last_breaking_run_iso": "2026-04-11T21:46:25.008212+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -3687,6 +3696,10 @@
     "Iran’s deputy FM says Tehran has ‘upper hand’ in talks with US": "معاون نخست وزیر ایران می گوید تهران در مذاکرات با آمریکا «دست بالا» دارد",
     "Israeli strikes kill at least 18 people across southern Lebanon": "حملات اسرائیل دست کم ۱۸ نفر را در سراسر جنوب لبنان کشته است",
     "US says two naval ships ‘transited’ Strait of Hormuz for mine-clearing": "آمریکا می گوید دو کشتی نیروی دریایی برای پاکسازی مین از تنگه هرمز عبور کرده اند",
-    "Pakistan sends fighter jets to Saudi Arabia amid fragile US-Iran ceasefire": "پاکستان در پی آتش بس شکننده آمریکا و ایران، جنگنده های خود را به عربستان سعودی اعزام کرد"
+    "Pakistan sends fighter jets to Saudi Arabia amid fragile US-Iran ceasefire": "پاکستان در پی آتش بس شکننده آمریکا و ایران، جنگنده های خود را به عربستان سعودی اعزام کرد",
+    "Several Gazans said killed in IDF strikes; soldier seriously hurt in operational accident": "چندین غزه گفته اند که در حملات ارتش اسرائیل کشته شده اند؛ سرباز در حادثه عملیاتی به شدت زخمی شد",
+    "“Diplomacy is not an event, it’s a process, it takes time.”": "«دیپلماسی یک رویداد نیست، یک فرایند است، زمان می برد.»",
+    "Has Israeli society become conditioned to permanent war?": "آیا جامعه اسرائیل به جنگ دائمی عادت یافته است؟",
+    "Iraqi parliament elects new president": "پارلمان عراق رئیس جمهور جدید را انتخاب کرد"
   }
 }

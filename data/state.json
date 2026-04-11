@@ -1192,7 +1192,8 @@
     "216f4eb43b2e598197d77d77",
     "35c34640d47f40cf5a3e48de",
     "a42dd37f67bf1083f975c761",
-    "ab8634b803ce7ba332087955"
+    "ab8634b803ce7ba332087955",
+    "6a141236cbf77d471baa8004"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2387,7 +2388,8 @@
     "5c6465e3452cc484fa5bc9ca",
     "ad1c096018dec001bf799935",
     "1100b0110d63763a7685d856",
-    "0e2fa6b3f7c002a53c204e5e"
+    "0e2fa6b3f7c002a53c204e5e",
+    "ed7b14fe4aa7161dd1e1eb94"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2443,11 +2445,12 @@
     "c9e7b370f40d169d7da22941",
     "0841fefb94f5e02a480d2068",
     "73f396cda0336164bbd0e6cb",
-    "8dd61093e321a134cbb9afff"
+    "8dd61093e321a134cbb9afff",
+    "6a141236cbf77d471baa8004"
   ],
   "last_digest_hash": "8a8e61f33029c437064577b523ce01ef5f3e9d83e218a01540b0ddd20c3f6b8e",
-  "last_run_iso": "2026-04-11T15:45:37.209434+00:00",
-  "last_breaking_run_iso": "2026-04-11T09:54:34.838464+00:00",
+  "last_run_iso": "2026-04-11T16:52:27.970930+00:00",
+  "last_breaking_run_iso": "2026-04-11T16:52:27.970930+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -3641,6 +3644,7 @@
     "Dan Bilzerian, who says Judaism is ‘terrible’ and wants to ‘kill Israelis,’ runs for Congress": "دن بیلزریان که می گوید یهودیت «وحشتناک» است و می خواهد «اسرائیلی ها را بکشد»، برای کنگره نامزد شده است",
     "Shin Bet chief said to downplay Jewish terrorism in West Bank as ‘friction’": "رئیس شین بت گفته شد که کم اهمیت جلوه دادن تروریسم یهودی در کرانه باختری به عنوان «اصطکاک»",
     "US-Iran ceasefire: Can pressure, incentives, and risks deliver a final deal": "آتش بس آمریکا و ایران: آیا فشار، انگیزه ها و ریسک ها می توانند به توافق نهایی منجر شوند",
-    "Christians return to Jerusalem’s Holy Sepulchre as Israel eases restriction": "مسیحیان به آرامگاه مقدس اورشلیم بازمی گردند در حالی که اسرائیل محدودیت ها را کاهش می دهد"
+    "Christians return to Jerusalem’s Holy Sepulchre as Israel eases restriction": "مسیحیان به آرامگاه مقدس اورشلیم بازمی گردند در حالی که اسرائیل محدودیت ها را کاهش می دهد",
+    "IDF and Hezbollah trade strikes, rockets as Israel and Lebanon gear up for direct talks": "حملات تجاری و راکت های ارتش اسرائیل و حزب الله در حالی که اسرائیل و لبنان برای مذاکرات مستقیم آماده می شوند"
   }
 }

@@ -1194,7 +1194,13 @@
     "a42dd37f67bf1083f975c761",
     "ab8634b803ce7ba332087955",
     "6a141236cbf77d471baa8004",
-    "6f334f8ae7971a5457854af8"
+    "6f334f8ae7971a5457854af8",
+    "844ce45e4031b9b9ebe8cfd2",
+    "6f151a7aa6723171e70c2db3",
+    "76617d831285f7d2a7d84781",
+    "9ea76f1e01b359cbecb3d592",
+    "c5bb746c99a62d1651228c2b",
+    "725795768570131c01e949b8"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2391,7 +2397,13 @@
     "1100b0110d63763a7685d856",
     "0e2fa6b3f7c002a53c204e5e",
     "ed7b14fe4aa7161dd1e1eb94",
-    "a72c2809eaea8caaaa926bb6"
+    "a72c2809eaea8caaaa926bb6",
+    "2956b1ef3b95845898c4b4c5",
+    "a6e2fe34091a605c536351ff",
+    "07553b0889c10d6bebfc428e",
+    "5021d46ba5b2b4755c2f1bbc",
+    "9bb0402997121c3b615bfc5e",
+    "969f7b2a5404dd322b2bbc96"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2450,8 +2462,8 @@
     "8dd61093e321a134cbb9afff",
     "6a141236cbf77d471baa8004"
   ],
-  "last_digest_hash": "c0503d4c2508234449f129d24962ef2b1cc68de2ffcc91e8574e73c32e9181d9",
-  "last_run_iso": "2026-04-11T17:46:22.213290+00:00",
+  "last_digest_hash": "e78e278447a8e39d583fe19a55f57b80fd6599ab688570abb6a2587187b50ac9",
+  "last_run_iso": "2026-04-11T19:02:35.844773+00:00",
   "last_breaking_run_iso": "2026-04-11T16:52:27.970930+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3648,6 +3660,12 @@
     "US-Iran ceasefire: Can pressure, incentives, and risks deliver a final deal": "آتش بس آمریکا و ایران: آیا فشار، انگیزه ها و ریسک ها می توانند به توافق نهایی منجر شوند",
     "Christians return to Jerusalem’s Holy Sepulchre as Israel eases restriction": "مسیحیان به آرامگاه مقدس اورشلیم بازمی گردند در حالی که اسرائیل محدودیت ها را کاهش می دهد",
     "IDF and Hezbollah trade strikes, rockets as Israel and Lebanon gear up for direct talks": "حملات تجاری و راکت های ارتش اسرائیل و حزب الله در حالی که اسرائیل و لبنان برای مذاکرات مستقیم آماده می شوند",
-    "Strait of Hormuz leverage looms over US-Iran talks in Islamabad": "اهرم فشار تنگه هرمز بر مذاکرات آمریکا و ایران در اسلام آباد سایه افکنده است"
+    "Strait of Hormuz leverage looms over US-Iran talks in Islamabad": "اهرم فشار تنگه هرمز بر مذاکرات آمریکا و ایران در اسلام آباد سایه افکنده است",
+    "Ceasefire brings some relief for Iranians but economic outlook remains grim": "آتش بس تا حدی برای ایرانیان آرامش بخش است اما چشم انداز اقتصادی همچنان تیره است",
+    "Gaza families mourn loved ones killed in overnight Israeli air strikes": "خانواده های غزه در سوگ عزیزان کشته شده در حملات هوایی شبانه اسرائیل",
+    "Vigil held in Madrid for victims of Israeli strikes on Lebanon": "مراسم یادبود در مادرید برای قربانیان حملات اسرائیل به لبنان برگزار شد",
+    "Orthodox Christian pilgrims flock to Jerusalem for Holy Fire ceremony": "زائران مسیحی ارتدکس برای مراسم آتش مقدس به اورشلیم هجوم می آورند",
+    "UK police arrest over 200 at London demonstration for Palestine Action support": "پلیس بریتانیا بیش از ۲۰۰ نفر را در تظاهرات لندن برای حمایت از اقدام فلسطین بازداشت کرد",
+    "Iraq parliament elects Kurdish politician Nizar Amedi as president": "پارلمان عراق سیاستمدار کرد، نزار آمدی، را به عنوان رئیس جمهور انتخاب کرد"
   }
 }

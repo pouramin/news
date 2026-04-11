@@ -1175,7 +1175,8 @@
     "4047bcbcf96b07b7e8d24049",
     "8dd61093e321a134cbb9afff",
     "65b582fd693a37845becb383",
-    "650d093f5474a9d37b361dac"
+    "650d093f5474a9d37b361dac",
+    "25736e5a1e458e4fd92450c4"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2353,7 +2354,8 @@
     "082f34a302b0960424e11802",
     "e5437a49383abae448a196c4",
     "d80435a7c6d2e0e272e8f17c",
-    "e842e9eea4d75923bd8f48f0"
+    "e842e9eea4d75923bd8f48f0",
+    "2d9d35265ef1888159067fd9"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2411,8 +2413,8 @@
     "73f396cda0336164bbd0e6cb",
     "8dd61093e321a134cbb9afff"
   ],
-  "last_digest_hash": "f86178aa56ee3a40bbf8bbbbee492a50c7988123ff2a0d01e787127f222a5203",
-  "last_run_iso": "2026-04-11T09:54:34.838464+00:00",
+  "last_digest_hash": "938ac9232dbfba2e5bd0992fc5a10a9e932d2f54f0d5a98e118c5bacbaa3667c",
+  "last_run_iso": "2026-04-11T10:52:34.297815+00:00",
   "last_breaking_run_iso": "2026-04-11T09:54:34.838464+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3590,6 +3592,7 @@
     "2,500-year-old infant mass grave cracks open enigma of biblical-era baby burials": "گور دسته جمعی نوزادان ۲۵۰۰ ساله راز دفن نوزادان دوران کتاب مقدس را آشکار می کند",
     "US intel said to assess Iran can recover underground launchers, fire thousands of missiles": "اطلاعات آمریکا اعلام کرد که برای ارزیابی ایران می تواند پرتابگرهای زیرزمینی را بازیابی کند و هزاران موشک شلیک کند",
     "At least seven Palestinians killed in Israeli attacks on Gaza": "حداقل هفت فلسطینی در حملات اسرائیل به غزه کشته شدند",
-    "Trump likes to back winners. Hungary’s upcoming election will test his clout": "ترامپ دوست دارد از برندگان حمایت کند. انتخابات پیش رو در مجارستان نفوذ او را به چالش خواهد کشید"
+    "Trump likes to back winners. Hungary’s upcoming election will test his clout": "ترامپ دوست دارد از برندگان حمایت کند. انتخابات پیش رو در مجارستان نفوذ او را به چالش خواهد کشید",
+    "German court upholds ban on protest against Israel’s ‘genocide’ at Buchenwald memorial": "دادگاه آلمان ممنوعیت اعتراض به «نسل کشی» اسرائیل در یادبود بوخن والد را تأیید کرد"
   }
 }

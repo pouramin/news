@@ -1211,7 +1211,10 @@
     "5a8daef3b83322f5d425db20",
     "1052b9bb9391e9499ae88710",
     "ec60c1df2c08f16847f23cb3",
-    "b30a4f8d85e7255571cafffb"
+    "b30a4f8d85e7255571cafffb",
+    "e433ec1e635553bacb75a5ba",
+    "f3c77e098eb3d12cbc0ae563",
+    "0e265ce27089e428bc399d07"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2425,7 +2428,10 @@
     "688d66cfdb326b6f80381616",
     "91952c3960c9d88915916a8f",
     "440c9e555138ef1aad125f98",
-    "c06a21e35650df8169273b1c"
+    "c06a21e35650df8169273b1c",
+    "3c08ca36d05626e361358e40",
+    "2aa9eda21b8cb92e3bda17ff",
+    "f9473960394362c8073bd2f1"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2485,8 +2491,8 @@
     "6a141236cbf77d471baa8004",
     "5a8daef3b83322f5d425db20"
   ],
-  "last_digest_hash": "ebdb458d92b6b71c2e9b97b332f558bd0364019eb1c6b76db410216b12a58e44",
-  "last_run_iso": "2026-04-11T21:46:25.008212+00:00",
+  "last_digest_hash": "132fddfd7d73cd94c9bb7e7c654026093d840269404bad0a21c0eb11b6cd3c60",
+  "last_run_iso": "2026-04-11T22:48:51.486869+00:00",
   "last_breaking_run_iso": "2026-04-11T21:46:25.008212+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3700,6 +3706,9 @@
     "Several Gazans said killed in IDF strikes; soldier seriously hurt in operational accident": "چندین غزه گفته اند که در حملات ارتش اسرائیل کشته شده اند؛ سرباز در حادثه عملیاتی به شدت زخمی شد",
     "“Diplomacy is not an event, it’s a process, it takes time.”": "«دیپلماسی یک رویداد نیست، یک فرایند است، زمان می برد.»",
     "Has Israeli society become conditioned to permanent war?": "آیا جامعه اسرائیل به جنگ دائمی عادت یافته است؟",
-    "Iraqi parliament elects new president": "پارلمان عراق رئیس جمهور جدید را انتخاب کرد"
+    "Iraqi parliament elects new president": "پارلمان عراق رئیس جمهور جدید را انتخاب کرد",
+    "US-Iran talks move to third round as Trump claims ‘no difference’ to him if deal reached": "مذاکرات آمریکا و ایران به دور سوم رفت، چرا که ترامپ ادعا می کند اگر توافق حاصل شود «تفاوتی ندارد»",
+    "Five arrested as Syria says it foiled Hezbollah-linked plot to kill Damascus rabbi": "پنج نفر بازداشت شدند در حالی که سوریه ادعا می کند نقشه مرتبط با حزب الله برای قتل خاخام دمشق را خنثی کرده است",
+    "US President Trump says US ‘wins’ regardless of how Iran talks go": "رئیس جمهور آمریکا، ترامپ، می گوید آمریکا فارغ از روند مذاکرات با ایران «پیروز» می شود"
   }
 }

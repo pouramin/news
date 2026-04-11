@@ -1146,7 +1146,16 @@
     "6950e6fd7872b194353bb4fd",
     "ecab17acabb58214ec973e52",
     "6cf0e83b2cac64bcd1c2b8c0",
-    "8732ba2aebcfd1aa8278c4ae"
+    "8732ba2aebcfd1aa8278c4ae",
+    "73f396cda0336164bbd0e6cb",
+    "4c30f9dce6a1e3dd75424e7c",
+    "ca1bc0f59196347b850dc515",
+    "66bf204949425b3662b706f0",
+    "03511ac5cfd9823e214e879a",
+    "a2e3f5e878faa123fcceb358",
+    "03d22470a7b6cf4ebdbbfe13",
+    "8b4e94f0c45efc5e2a57d29b",
+    "fc0dc596d096c4bdc66ef5dc"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2295,7 +2304,16 @@
     "98150f57476ff189385265dd",
     "e62ce57c413d4ee521cc16de",
     "ca8d6fdd8432931a02bb5f92",
-    "e949d80b81c1b44b315b616f"
+    "e949d80b81c1b44b315b616f",
+    "3aba46996b4baa51cfd37da9",
+    "1b022609c5ecb194e6c69ca7",
+    "573c54da82d6a9f3269ee635",
+    "2315016be4d4a290071723d2",
+    "e512167903b0d78d693618c0",
+    "93991013b191e23e418de013",
+    "4c7457407e17519a2c89d969",
+    "0b2a451f3f7d6508f3934749",
+    "3e6b3b4386c9859bd7033e47"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2349,11 +2367,12 @@
     "1ab90167386fd762fab0b79c",
     "4197230f2e642e6bb7cfb7cb",
     "c9e7b370f40d169d7da22941",
-    "0841fefb94f5e02a480d2068"
+    "0841fefb94f5e02a480d2068",
+    "73f396cda0336164bbd0e6cb"
   ],
-  "last_digest_hash": "63a997fff9236e09dedf979598f556cb403fe60d79db54d4f89c6d534e778aa6",
-  "last_run_iso": "2026-04-10T23:49:32.695219+00:00",
-  "last_breaking_run_iso": "2026-04-10T17:59:39.352106+00:00",
+  "last_digest_hash": "ac32835391799f2e947ef6b244fa3bbbe86dbaf8c8e98049e685c2fd7641cd0d",
+  "last_run_iso": "2026-04-11T03:16:12.058634+00:00",
+  "last_breaking_run_iso": "2026-04-11T03:16:12.058634+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -3501,6 +3520,15 @@
     "Islamabad on lockdown ahead of US-Iran talks": "اسلام آباد در آستانه مذاکرات آمریکا و ایران در قرنطینه است",
     "Iranian delegation arrives in Islamabad for talks with US": "هیئتی ایرانی برای گفتگو با آمریکا وارد اسلام آباد می شود",
     "Arriving in Pakistan, Iran’s top negotiator demands US accept ‘preconditions’ before talks start": "با ورود به پاکستان، مذاکره کننده ارشد ایران خواستار پذیرش «پیش شرط ها» پیش از آغاز مذاکرات شد",
-    "Hezbollah rocket attack damages 1,500-year-old Israeli church": "حمله راکتی حزب الله به کلیسای ۱۵۰۰ ساله اسرائیلی آسیب رساند"
+    "Hezbollah rocket attack damages 1,500-year-old Israeli church": "حمله راکتی حزب الله به کلیسای ۱۵۰۰ ساله اسرائیلی آسیب رساند",
+    "Iran war live: US negotiators due to arrive in Pakistan for ceasefire talks": "جنگ ایران زنده: مذاکره کنندگان آمریکایی برای مذاکرات آتش بس به پاکستان خواهند آمد",
+    "US intel said to assess Iran still has thousands of ballistic missiles, can recover launchers": "اطلاعات آمریکا اعلام کرد که ارزیابی ایران هنوز هزاران موشک بالستیک دارد و می تواند پرتابگرها را بازیابی کند",
+    "Trump says Strait of Hormuz to reopen ‘soon’ as US, Iran head to talks": "ترامپ می گوید تنگه هرمز «به زودی» بازگشایی خواهد شد، در حالی که آمریکا و ایران به سوی مذاکرات می روند",
+    "Trump has handed JD Vance his most difficult mission yet": "ترامپ سخت ترین مأموریت خود را به جی دی ونس سپرده است",
+    "US Jewish authors slam Jewish Book Council’s bias toward ‘Israeli and Zionist voices’": "نویسندگان یهودی آمریکایی تعصب شورای کتاب یهودی به سمت «صداهای اسرائیلی و صهیونیستی» را محکوم می کنند",
+    "Amid echoes of war, these survivors will light Yom Hashoah torches in pre-recorded ceremony": "در میان پژواک های جنگ، این بازماندگان مشعل های یوم هشوا را در مراسمی از پیش ضبط شده روشن خواهند کرد",
+    "Historic Vance-Ghalibaf talks must bridge deep distrust": "مذاکرات تاریخی ونس-قالیباف باید بی اعتمادی عمیق را پر کند",
+    "Israeli strike on government building kills Lebanese officers": "حمله اسرائیل به ساختمان دولتی باعث کشته شدن افسران لبنانی شد",
+    "Artemis II safely splashes down in Pacific Ocean, concluding 10-day moon mission": "آرتمیس ۲ با موفقیت در اقیانوس آرام فرود می آید و مأموریت ۱۰ روزه ماه را به پایان می رساند"
   }
 }

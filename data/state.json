@@ -1183,7 +1183,13 @@
     "fd33fa4b3d89529656404d57",
     "a37379f16d6580eb47e624ef",
     "0b8c0dd39767c9a594d75e35",
-    "2a02d7ae407c63d335a3f3cd"
+    "2a02d7ae407c63d335a3f3cd",
+    "d182bcebf50a450b0f215bd2",
+    "d9a7d9837e11ca9713ce923b",
+    "7164b2a598fc842b8fec52f3",
+    "0cf97de0ce04d0b860296246",
+    "d263da4b9f895ca1b7f8b938",
+    "216f4eb43b2e598197d77d77"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2369,7 +2375,13 @@
     "11cff9988aac524e3dfa0b51",
     "1f9428dd753e17bc724dcdf5",
     "3a2dd66b8124265abc1d5b20",
-    "e4e31a1ecdfbc41682e91386"
+    "e4e31a1ecdfbc41682e91386",
+    "d2e6170b6710ab605d1d7a01",
+    "b3ba81c6c32d05cf1d3434fb",
+    "4c6ea9f497447b0858595914",
+    "07e11a4636e0e08808b5bb9f",
+    "1b218237fd525930e65cc814",
+    "5c6465e3452cc484fa5bc9ca"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2427,8 +2439,8 @@
     "73f396cda0336164bbd0e6cb",
     "8dd61093e321a134cbb9afff"
   ],
-  "last_digest_hash": "90b1cb69001ee7b41638b24cdb7a3a87f0116d5c1e8f1d217c59785338eff57d",
-  "last_run_iso": "2026-04-11T13:20:07.727158+00:00",
+  "last_digest_hash": "44ea17f226e6dc841f9ea9b53f4c8867bbc5e9e350f99c3ffaefe606f6142908",
+  "last_run_iso": "2026-04-11T14:51:15.289659+00:00",
   "last_breaking_run_iso": "2026-04-11T09:54:34.838464+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3614,6 +3626,12 @@
     "Israel in row with South Korean leader over Palestinian abuse concerns": "اسرائیل با رهبر کره جنوبی بر سر نگرانی های مربوط به سوءاستفاده فلسطینی ها درگیر است",
     "Makeshift Gaza university offers chance to resurrect academic studies": "دانشگاه موقت غزه فرصتی برای احیای تحصیلات دانشگاهی فراهم می کند",
     "Video: JD Vance meets with Pakistani PM ahead of Iran talks": "ویدئو: دیدار جی دی ونس با نخست وزیر پاکستان پیش از مذاکرات ایران",
-    "‘A perfect mission’: NASA celebrates as Artemis II astronauts return to Earth": "«یک مأموریت کامل»: ناسا بازگشت فضانوردان آرتمیس ۲ به زمین را جشن می گیرد"
+    "‘A perfect mission’: NASA celebrates as Artemis II astronauts return to Earth": "«یک مأموریت کامل»: ناسا بازگشت فضانوردان آرتمیس ۲ به زمین را جشن می گیرد",
+    "US-Iran talks begin in Pakistan; Tehran demands control of Hormuz, truce in Lebanon": "مذاکرات آمریکا و ایران در پاکستان آغاز می شود؛ تهران خواستار کنترل هرمز و آتش بس در لبنان شد",
+    "US-Iran talks on ending war begin in Pakistan": "مذاکرات آمریکا و ایران درباره پایان دادن به جنگ در پاکستان آغاز شد",
+    "Irish police push back fuel protesters at oil refinery": "پلیس ایرلند معترضان سوخت را در پالایشگاه نفت عقب راند",
+    "Lebanon mourns security forces killed in Israeli strike": "لبنان برای نیروهای امنیتی کشته شده در حمله اسرائیل سوگواری می کند",
+    "Al Jazeera’s Diplomatic Editor outlines key issues in US-Iran talks": "سردبیر دیپلماتیک الجزیره مسائل کلیدی مذاکرات آمریکا و ایران را تشریح می کند",
+    "Dan Bilzerian, who says Judaism is ‘terrible’ and wants to ‘kill Israelis,’ runs for Congress": "دن بیلزریان که می گوید یهودیت «وحشتناک» است و می خواهد «اسرائیلی ها را بکشد»، برای کنگره نامزد شده است"
   }
 }

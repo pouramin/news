@@ -1244,7 +1244,17 @@
     "8be03dfa5b5d01778bf1f54a",
     "965b9b000fd218569503cf8d",
     "b0bf08754dd9003f04c1da7d",
-    "8b735811ae3e330ef9973946"
+    "8b735811ae3e330ef9973946",
+    "e7db650034bb1cd3fef47cd7",
+    "f438de67ea796d877a76758b",
+    "0556230f754e07033390f0f1",
+    "d744070661ef84a18bf450a5",
+    "100df655ed9d4e41e1fd0e0b",
+    "ad341e77bf5eabedcd4aaf7c",
+    "e6addc28b6b8781d5a407943",
+    "b32bda42991423323450a86d",
+    "0cba2765de8442dc40c69db9",
+    "a8545b3dd1fd31b8c0bf5760"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2491,7 +2501,17 @@
     "8e38fe48c62d1935017c306f",
     "63157fd2f903e5747582dc33",
     "a097f3fb18fbfd17b58d30dd",
-    "4b9932255c132b8390b0b1cb"
+    "4b9932255c132b8390b0b1cb",
+    "73772e453d93d7369cce4456",
+    "11476a09e57ea6918d517ab5",
+    "e4bdd2d43b2ab8754d653eef",
+    "650c792b1a2e68bd5090204f",
+    "c139a81f1062c130f87d411a",
+    "65c5e9794e98163b53ed8fe5",
+    "fd9fc0d0ba7f49eeeebecfe4",
+    "7839945cf837117daa9a50b5",
+    "76be486c5bc03dc473bfb7a8",
+    "5a416549d1504905a5b2d4e5"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2551,8 +2571,8 @@
     "6a141236cbf77d471baa8004",
     "5a8daef3b83322f5d425db20"
   ],
-  "last_digest_hash": "c7ca48eadd119bfe1d71e61aa063d15073f8557d49d725d8e025ff7f8eacb044",
-  "last_run_iso": "2026-04-12T11:46:05.157687+00:00",
+  "last_digest_hash": "c37fcd25f04d083157b6322f88f736eaf678a9a77b9c5a516aa2aac90277c576",
+  "last_run_iso": "2026-04-12T13:22:49.474141+00:00",
   "last_breaking_run_iso": "2026-04-11T21:46:25.008212+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3799,6 +3819,16 @@
     "Despite war cancellations, Holocaust survivors from Israel to join March of the Living": "با وجود لغو جنگ ها، بازماندگان هولوکاست از اسرائیل به راهپیمایی زندگان پیوستند",
     "More than 500 people arrested at London rally for Palestine Action": "بیش از ۵۰۰ نفر در تجمع لندن برای اقدام فلسطین بازداشت شدند",
     "CIA reportedly used Pegasus software for deception op during rescue of airman in Iran": "گزارش شده که سیا از نرم افزار پگاسوس برای عملیات فریب در جریان نجات خلبان در ایران استفاده کرده است",
-    "Israeli floor gymnasts share podium after winning gold and bronze at Croatia World Cup": "ژیمناست های زمینی اسرائیلی پس از کسب مدال های طلا و برنز در جام جهانی کرواسی، سکو را به اشتراک گذاشتند"
+    "Israeli floor gymnasts share podium after winning gold and bronze at Croatia World Cup": "ژیمناست های زمینی اسرائیلی پس از کسب مدال های طلا و برنز در جام جهانی کرواسی، سکو را به اشتراک گذاشتند",
+    "Daily Briefing April 12 – As US de-mines Strait of Hormuz, traffic status still murky": "جلسه روزانه ۱۲ آوریل – همزمان با پاکسازی مین های تنگه هرمز توسط آمریکا، وضعیت ترافیک همچنان مبهم است",
+    "Nine foreign airlines plan to resume Tel Aviv routes this week, amid US-Iran truce": "نه شرکت هواپیمایی خارجی قصد دارند این هفته مسیرهای تل آویو را از سر بگیرند، در پی آتش بس آمریکا و ایران",
+    "US-Iran ceasefire talks: What are the key sticking points?": "مذاکرات آتش بس آمریکا و ایران: نقاط کلیدی اختلاف نظر چیست؟",
+    "Who is running US foreign policy? Varsha Gandikota and Jeremy Scahill": "چه کسی سیاست خارجی آمریکا را هدایت می کند؟ وارشا گاندیکوتا و جرمی اسکاهیل",
+    "Yaakov Levitan Was Preparing a Hanukkah Celebration. Then the Attack Began. - Sponsored Content": "یعقوب لوویتان در حال آماده سازی جشن حنوکا بود. سپس حمله آغاز شد. - محتوای حمایت شده",
+    "After Iran talks falter, will Trump escalate or negotiate?": "پس از شکست مذاکرات با ایران، آیا ترامپ تشدید خواهد کرد یا مذاکره؟",
+    "Lessons from the Iran war": "درس هایی از جنگ ایران",
+    "PM calls petitions for Ben Gvir’s ouster ‘unconstitutional,’ demands court reject them": "نخست وزیر دادخواست های برکناری بن گویر را «خلاف قانون اساسی» خواند و خواستار رد آن ها توسط دادگاه شد",
+    "Israeli army raids across the occupied West Bank overnight": "ارتش اسرائیل در طول شب در سراسر کرانه باختری اشغالی یورش برد",
+    "Arrest made over 2019 shooting death of 18-year-old whose body was found in pit": "دستگیری انجام شد و در سال ۲۰۱۹ به دلیل تیراندازی به یک جوان ۱۸ ساله که جسدش در گودال پیدا شد، کشته شد"
   }
 }

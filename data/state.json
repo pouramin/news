@@ -1234,7 +1234,11 @@
     "be6002cc3b2532d22de1c1da",
     "84b306b1d980926bb9fe7f0a",
     "431c527d741f764a3d4baef4",
-    "62e145461e33df880b25c17e"
+    "62e145461e33df880b25c17e",
+    "8095849a678e6ea52be7e4a2",
+    "1c3d6b665e4ebb0ec9581869",
+    "77dcd9cc7d4188fb44a9bd2a",
+    "b042cf64206f21fbe97a8c21"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2471,7 +2475,11 @@
     "e29b8e401c6eedc6f0b71523",
     "358d63cf7b3937c762816ea8",
     "24f6776d6fb80711ecd00d75",
-    "e778237faa09ee0a50a78757"
+    "e778237faa09ee0a50a78757",
+    "8edcdf723192ef00c15e66fa",
+    "d12da5ecf073c65b15f49caf",
+    "7598a43dad04e5e9bb20c8e5",
+    "efe1b1f2e6e1d7c1f16649fe"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2531,8 +2539,8 @@
     "6a141236cbf77d471baa8004",
     "5a8daef3b83322f5d425db20"
   ],
-  "last_digest_hash": "24c6f6980a23e7ebc59b8da2d3640a7792bef803a1561a4b73f9343beda841c8",
-  "last_run_iso": "2026-04-12T07:41:35.816372+00:00",
+  "last_digest_hash": "f278597079480a7a74247ce27780453ffe12e0c008c1fd2443b429aefbcc900b",
+  "last_run_iso": "2026-04-12T09:01:59.492895+00:00",
   "last_breaking_run_iso": "2026-04-11T21:46:25.008212+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3769,6 +3777,10 @@
     "Watch JD Vance’s full remarks after US-Iran talks end without deal": "اظهارات کامل جی دی ونس را پس از پایان مذاکرات آمریکا و ایران بدون توافق تماشا کنید",
     "Hungarians vote in landmark election closely watched by EU, Russia, US, Israel": "مجارها در انتخابات تاریخی رأی می دهند که به دقت مورد توجه اتحادیه اروپا، روسیه، آمریکا و اسرائیل قرار دارد",
     "US-Iran talks in Pakistan end after 21 hours with no deal; US negotiators leave": "مذاکرات آمریکا و ایران در پاکستان پس از ۲۱ ساعت بدون توافق پایان یافت؛ مذاکره کنندگان آمریکایی خارج می شوند",
-    "Thousands protest government and Iran war in Tel Aviv, exceeding court-ordered limits": "هزاران نفر علیه جنگ دولت و ایران در تل آویو اعتراض کردند که از محدودیت های دادگاه فراتر رفته است"
+    "Thousands protest government and Iran war in Tel Aviv, exceeding court-ordered limits": "هزاران نفر علیه جنگ دولت و ایران در تل آویو اعتراض کردند که از محدودیت های دادگاه فراتر رفته است",
+    "Iran war: What is happening on day 44 of the US-Iran conflict?": "جنگ ایران: در روز چهل و چهارم درگیری آمریکا و ایران چه اتفاقی در حال رخ دادن است؟",
+    "What happened in 40 days of war on Iran": "در ۴۰ روز جنگ با ایران چه اتفاقی افتاد",
+    "Pope rails at ‘delusion of omnipotence,’ use of Christian language to justify war": "پاپ از «توهم قدرت مطلق» و استفاده از زبان مسیحی برای توجیه جنگ انتقاد می کند",
+    "Bennett names 2 female ex-senior officials as 1st members of party’s electoral slate": "بنت دو مقام ارشد زن سابق را به عنوان اعضای اول فهرست انتخاباتی حزب معرفی می کند"
   }
 }

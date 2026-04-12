@@ -1264,7 +1264,13 @@
     "6c14acc014b3371e216af872",
     "cb5f30f4159dcf49d27371dc",
     "2b37e350fde05515e4dcc741",
-    "825d1622181b172acf555c8b"
+    "825d1622181b172acf555c8b",
+    "78dea0abc1bf8f30f1e6dd09",
+    "4a5b2cabad22ebccf816700f",
+    "d61da3f540878b01227ee4df",
+    "520584f9e2a0be8304efd9df",
+    "0561289ad6b08cd1d363322e",
+    "b8a7fcef73852a6e8db63605"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2531,7 +2537,13 @@
     "56671541982bdb5c0fd88d05",
     "04b6d270b25d61c8ac83da48",
     "30f7853f866d9254f8bfc8b5",
-    "e72a9431f00433eb8cfd0d32"
+    "e72a9431f00433eb8cfd0d32",
+    "f00e9e95b1b610a6dfcadd88",
+    "f7fa2ea55fece6fc829cb360",
+    "8e4de510aec9c159c5d594f0",
+    "dbff686d4458aeb7d63c4b86",
+    "b43bf1da153db8ce41df281c",
+    "f8e2d5e60bfc8eff89a94a68"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2589,11 +2601,13 @@
     "73f396cda0336164bbd0e6cb",
     "8dd61093e321a134cbb9afff",
     "6a141236cbf77d471baa8004",
-    "5a8daef3b83322f5d425db20"
+    "5a8daef3b83322f5d425db20",
+    "78dea0abc1bf8f30f1e6dd09",
+    "4a5b2cabad22ebccf816700f"
   ],
-  "last_digest_hash": "ea6bd1dfae135091b09c8e96b7dba6f773d66943468d1c6d67decda0f38e46e8",
-  "last_run_iso": "2026-04-12T15:49:40.705611+00:00",
-  "last_breaking_run_iso": "2026-04-11T21:46:25.008212+00:00",
+  "last_digest_hash": "16b04790e948d0b9daac09fd7f7dab1441dbce4502adb7e75926b4632d0232bd",
+  "last_run_iso": "2026-04-12T16:54:51.781203+00:00",
+  "last_breaking_run_iso": "2026-04-12T16:54:51.781203+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -3859,6 +3873,12 @@
     "Ahead of Holocaust Remembrance Day, 111,000 survivors living in Israel": "پیش از روز یادبود هولوکاست، ۱۱۱ هزار بازمانده ساکن اسرائیل",
     "Trump says US to blockade ships crossing Strait of Hormuz": "ترامپ می گوید آمریکا کشتی هایی را که از تنگه هرمز عبور می کنند، محاصره خواهد کرد",
     "FIFA rejects Iran’s request to relocate World Cup games amid US-Israel war": "فیفا درخواست ایران برای انتقال بازی های جام جهانی را در بحبوحه جنگ آمریکا و اسرائیل رد کرد",
-    "Global Sumud Flotilla sets sail from Barcelona for Gaza": "ناوگان جهانی سومود از بارسلونا به سمت غزه حرکت می کند"
+    "Global Sumud Flotilla sets sail from Barcelona for Gaza": "ناوگان جهانی سومود از بارسلونا به سمت غزه حرکت می کند",
+    "IDF says it raided hospital used by Hezbollah in group’s Bint Jbeil stronghold": "ارتش اسرائیل می گوید به بیمارستانی که حزب الله در پایگاه اصلی بنت جبیل استفاده می کرد، یورش برده است",
+    "Trump announces Strait of Hormuz blockade after US-Iran peace talks end": "ترامپ پس از پایان مذاکرات صلح آمریکا و ایران، محاصره تنگه هرمز را اعلام کرد",
+    "Did Iran lose the war? - Sponsored Content": "آیا ایران جنگ را باخت؟ - محتوای حمایت شده",
+    "Video: Severe flooding closes schools in Saudi Arabia": "ویدئو: سیل شدید مدارس عربستان سعودی را تعطیل کرد",
+    "What is really happening with Zionism among Jews today? - Sponsored Content": "امروز واقعا چه اتفاقی برای صهیونیسم در میان یهودیان می افتد؟ - محتوای حمایت شده",
+    "‘There is no rule of law’: High Court justices rail at failure to enlist Haredim": "«هیچ حاکمیت قانونی وجود ندارد»: قضات دادگاه عالی از عدم جذب حریدی ها انتقاد می کنند"
   }
 }

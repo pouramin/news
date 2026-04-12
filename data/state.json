@@ -1294,7 +1294,9 @@
     "63439162b7d0e7ea8bbd8bcd",
     "fcf583400210717bf1da0f85",
     "b79050e482a9a5d85b86bb43",
-    "64d0109a916f5e6f53866b01"
+    "64d0109a916f5e6f53866b01",
+    "abbd62e1d4f7bb23aabd8977",
+    "1ceb560e4c3c04cd2b7c41a4"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2591,7 +2593,9 @@
     "bae12e458b5a007135765df7",
     "a61c425ae3a3daee1fcfe539",
     "e9d3f9aeb4e047ca629034fc",
-    "135a2f6e51a9a9cdefddd88a"
+    "135a2f6e51a9a9cdefddd88a",
+    "a57a74a5235290ffeea51a8c",
+    "1fceb2ba025cc8d625f5d6ce"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2653,11 +2657,13 @@
     "78dea0abc1bf8f30f1e6dd09",
     "4a5b2cabad22ebccf816700f",
     "b14c1baab308fdde963d079d",
-    "d984cf08035d4f7f86086068"
+    "d984cf08035d4f7f86086068",
+    "abbd62e1d4f7bb23aabd8977",
+    "1ceb560e4c3c04cd2b7c41a4"
   ],
   "last_digest_hash": "dcbb82e3bca3f9dc61be7ba3fc070ae7cba2308182a634193306e86e43592153",
-  "last_run_iso": "2026-04-12T22:51:41.028637+00:00",
-  "last_breaking_run_iso": "2026-04-12T17:49:49.310491+00:00",
+  "last_run_iso": "2026-04-12T23:49:11.011991+00:00",
+  "last_breaking_run_iso": "2026-04-12T23:49:11.011991+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -3953,6 +3959,8 @@
     "Could the Iran war pose lasting risks to global food security?": "آیا جنگ ایران می تواند خطرات ماندگاری برای امنیت غذایی جهانی ایجاد کند؟",
     "What is a naval blockade and how would it work in Strait of Hormuz?": "محاصره دریایی چیست و چگونه در تنگه هرمز عمل می کند؟",
     "Hungary’s Orban concedes landmark defeat to center-right opposition": "اوربان از مجارستان شکست تاریخی خود را در برابر مخالفان مرکز-راست پذیرفت",
-    "These are people Israel killed in Lebanon on a single day": "این ها افرادی هستند که اسرائیل در لبنان در یک روز کشت"
+    "These are people Israel killed in Lebanon on a single day": "این ها افرادی هستند که اسرائیل در لبنان در یک روز کشت",
+    "Two soldiers moderately hurt by Hezbollah rocket fire in southern Lebanon on Sunday — IDF": "دو سرباز که روز یکشنبه از شلیک راکت حزب الله در جنوب لبنان به طور متوسط زخمی شدند — ارتش اسرائیل",
+    "After talks fail, IDF planning for return to war, Trump mulls strikes on Iran — reports": "پس از شکست مذاکرات، برنامه ریزی ارتش اسرائیل برای بازگشت به جنگ، ترامپ در حال بررسی حملات به ایران است — گزارش ها"
   }
 }

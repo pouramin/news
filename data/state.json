@@ -1238,7 +1238,8 @@
     "8095849a678e6ea52be7e4a2",
     "1c3d6b665e4ebb0ec9581869",
     "77dcd9cc7d4188fb44a9bd2a",
-    "b042cf64206f21fbe97a8c21"
+    "b042cf64206f21fbe97a8c21",
+    "2edffff6567776bfc3ad8cb8"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2479,7 +2480,8 @@
     "8edcdf723192ef00c15e66fa",
     "d12da5ecf073c65b15f49caf",
     "7598a43dad04e5e9bb20c8e5",
-    "efe1b1f2e6e1d7c1f16649fe"
+    "efe1b1f2e6e1d7c1f16649fe",
+    "ab66988e8a8641252bcdcbbc"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2539,8 +2541,8 @@
     "6a141236cbf77d471baa8004",
     "5a8daef3b83322f5d425db20"
   ],
-  "last_digest_hash": "f278597079480a7a74247ce27780453ffe12e0c008c1fd2443b429aefbcc900b",
-  "last_run_iso": "2026-04-12T09:01:59.492895+00:00",
+  "last_digest_hash": "10ac7b2520468deab5781833bcc6a44986046886d70ecf7f65effb2d8ec31610",
+  "last_run_iso": "2026-04-12T09:56:47.020885+00:00",
   "last_breaking_run_iso": "2026-04-11T21:46:25.008212+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3781,6 +3783,7 @@
     "Iran war: What is happening on day 44 of the US-Iran conflict?": "جنگ ایران: در روز چهل و چهارم درگیری آمریکا و ایران چه اتفاقی در حال رخ دادن است؟",
     "What happened in 40 days of war on Iran": "در ۴۰ روز جنگ با ایران چه اتفاقی افتاد",
     "Pope rails at ‘delusion of omnipotence,’ use of Christian language to justify war": "پاپ از «توهم قدرت مطلق» و استفاده از زبان مسیحی برای توجیه جنگ انتقاد می کند",
-    "Bennett names 2 female ex-senior officials as 1st members of party’s electoral slate": "بنت دو مقام ارشد زن سابق را به عنوان اعضای اول فهرست انتخاباتی حزب معرفی می کند"
+    "Bennett names 2 female ex-senior officials as 1st members of party’s electoral slate": "بنت دو مقام ارشد زن سابق را به عنوان اعضای اول فهرست انتخاباتی حزب معرفی می کند",
+    "Netanyahu effigy blown up in Spanish town festival; Israel summons envoy": "مجسمه نتانیاهو در جشنواره شهر اسپانیایی منفجر شد؛ اسرائیل فرستاده ای را فراخواند"
   }
 }

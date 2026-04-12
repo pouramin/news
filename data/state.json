@@ -1270,7 +1270,15 @@
     "d61da3f540878b01227ee4df",
     "520584f9e2a0be8304efd9df",
     "0561289ad6b08cd1d363322e",
-    "b8a7fcef73852a6e8db63605"
+    "b8a7fcef73852a6e8db63605",
+    "b14c1baab308fdde963d079d",
+    "d984cf08035d4f7f86086068",
+    "9d7728a566f8c2b68839b1d1",
+    "db895a3f5b7e95781bdd80d3",
+    "36f745b2360da037f1eebbc8",
+    "121cfec526e39beabfb47ef0",
+    "b60c27244f05aa26ad0acb28",
+    "642412605b3c0e5da67b486c"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2543,7 +2551,15 @@
     "8e4de510aec9c159c5d594f0",
     "dbff686d4458aeb7d63c4b86",
     "b43bf1da153db8ce41df281c",
-    "f8e2d5e60bfc8eff89a94a68"
+    "f8e2d5e60bfc8eff89a94a68",
+    "c84b8cea9c843f37799d68d5",
+    "48ff6a4605e02fc25233d790",
+    "1856949aaca539a104aa4719",
+    "dcc76589741d115d554aaef9",
+    "3d7644e6806927ef75d8e441",
+    "83bab3f9c2e3b8addf1dbbf9",
+    "e5e98012d812fa3ed57be57d",
+    "8347985cc5b3a50e2bfe3aa7"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2603,11 +2619,13 @@
     "6a141236cbf77d471baa8004",
     "5a8daef3b83322f5d425db20",
     "78dea0abc1bf8f30f1e6dd09",
-    "4a5b2cabad22ebccf816700f"
+    "4a5b2cabad22ebccf816700f",
+    "b14c1baab308fdde963d079d",
+    "d984cf08035d4f7f86086068"
   ],
-  "last_digest_hash": "16b04790e948d0b9daac09fd7f7dab1441dbce4502adb7e75926b4632d0232bd",
-  "last_run_iso": "2026-04-12T16:54:51.781203+00:00",
-  "last_breaking_run_iso": "2026-04-12T16:54:51.781203+00:00",
+  "last_digest_hash": "70beda1fd85210d85dc0423d50655ebb9322558d629a0043d931142055f5733d",
+  "last_run_iso": "2026-04-12T17:49:49.310491+00:00",
+  "last_breaking_run_iso": "2026-04-12T17:49:49.310491+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -3879,6 +3897,14 @@
     "Did Iran lose the war? - Sponsored Content": "آیا ایران جنگ را باخت؟ - محتوای حمایت شده",
     "Video: Severe flooding closes schools in Saudi Arabia": "ویدئو: سیل شدید مدارس عربستان سعودی را تعطیل کرد",
     "What is really happening with Zionism among Jews today? - Sponsored Content": "امروز واقعا چه اتفاقی برای صهیونیسم در میان یهودیان می افتد؟ - محتوای حمایت شده",
-    "‘There is no rule of law’: High Court justices rail at failure to enlist Haredim": "«هیچ حاکمیت قانونی وجود ندارد»: قضات دادگاه عالی از عدم جذب حریدی ها انتقاد می کنند"
+    "‘There is no rule of law’: High Court justices rail at failure to enlist Haredim": "«هیچ حاکمیت قانونی وجود ندارد»: قضات دادگاه عالی از عدم جذب حریدی ها انتقاد می کنند",
+    "IDF says Hamas terrorists who abducted, held hostages were killed in Gaza strike": "ارتش اسرائیل می گوید تروریست های حماس که گروگان ها را ربوده و نگه داشته اند، در حمله به غزه کشته شده اند",
+    "Trump declares US Navy to begin blockading Strait of Hormuz ‘effective immediately’": "ترامپ اعلام کرد که نیروی دریایی آمریکا محاصره تنگه هرمز را «فورا» آغاز خواهد کرد",
+    "Revisiting Osirak: the airstrike that shocked the world - Sponsored Content": "بازنگری در اوسیراک: حمله هوایی که جهان را شوکه کرد - محتوای حمایت شده",
+    "Iranian authorities remain defiant, urge supporters to stay in streets": "مقامات ایرانی همچنان سرسختانه عمل می کنند و از حامیان خود می خواهند در خیابان ها بمانند",
+    "Ceasefire? Israel’s Budget. Jewish Terrorism. - Sponsored Content": "آتش بس؟ بودجه اسرائیل. تروریسم یهودی. - محتوای حمایت شده",
+    "Be’eri begins demolishing homes destroyed on October 7, choosing life over ruins": "بئری از ۷ اکتبر شروع به تخریب خانه های ویران شده می کند و زندگی را به خرابه ها ترجیح می دهد",
+    "Why does Judaism have denominations? with Zev Eleff - Sponsored Content": "چرا یهودیت فرقه هایی دارد؟ با زو الف - محتوای حمایت شده",
+    "The battle over the word ‘Zionism’ - Sponsored Content": "نبرد بر سر واژه «صهیونیسم» - محتوای حمایت شده"
   }
 }

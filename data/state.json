@@ -1254,7 +1254,14 @@
     "e6addc28b6b8781d5a407943",
     "b32bda42991423323450a86d",
     "0cba2765de8442dc40c69db9",
-    "a8545b3dd1fd31b8c0bf5760"
+    "a8545b3dd1fd31b8c0bf5760",
+    "6abdc8fe49b044ffbbc834ff",
+    "e1d2653741180590d8391d8f",
+    "6cf2c51ed40e7c26ca9fcba8",
+    "22c6c3802054dbf84a067ce5",
+    "989a320ed33f8e4b0f40530c",
+    "8588cba2c83e3879164c5650",
+    "6c14acc014b3371e216af872"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2511,7 +2518,14 @@
     "fd9fc0d0ba7f49eeeebecfe4",
     "7839945cf837117daa9a50b5",
     "76be486c5bc03dc473bfb7a8",
-    "5a416549d1504905a5b2d4e5"
+    "5a416549d1504905a5b2d4e5",
+    "76dd7959b7bd89eb7db82941",
+    "ce0b5918d57cd860be578466",
+    "790b478a5b22c75e0b8b031c",
+    "87969e75b591835053f094fe",
+    "eb466ca2f5263b2888f95cec",
+    "85521dfec75fb1d8fbd36b43",
+    "56671541982bdb5c0fd88d05"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2571,8 +2585,8 @@
     "6a141236cbf77d471baa8004",
     "5a8daef3b83322f5d425db20"
   ],
-  "last_digest_hash": "c37fcd25f04d083157b6322f88f736eaf678a9a77b9c5a516aa2aac90277c576",
-  "last_run_iso": "2026-04-12T13:22:49.474141+00:00",
+  "last_digest_hash": "e929c3393bb30e0db0422edf058fc03e5c13f1f3077db6bd1a5f441767687e4c",
+  "last_run_iso": "2026-04-12T14:54:26.976883+00:00",
   "last_breaking_run_iso": "2026-04-11T21:46:25.008212+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3829,6 +3843,13 @@
     "Lessons from the Iran war": "درس هایی از جنگ ایران",
     "PM calls petitions for Ben Gvir’s ouster ‘unconstitutional,’ demands court reject them": "نخست وزیر دادخواست های برکناری بن گویر را «خلاف قانون اساسی» خواند و خواستار رد آن ها توسط دادگاه شد",
     "Israeli army raids across the occupied West Bank overnight": "ارتش اسرائیل در طول شب در سراسر کرانه باختری اشغالی یورش برد",
-    "Arrest made over 2019 shooting death of 18-year-old whose body was found in pit": "دستگیری انجام شد و در سال ۲۰۱۹ به دلیل تیراندازی به یک جوان ۱۸ ساله که جسدش در گودال پیدا شد، کشته شد"
+    "Arrest made over 2019 shooting death of 18-year-old whose body was found in pit": "دستگیری انجام شد و در سال ۲۰۱۹ به دلیل تیراندازی به یک جوان ۱۸ ساله که جسدش در گودال پیدا شد، کشته شد",
+    "Several cities nix Independence Day parties due to shaky Iran truce, Hezbollah war": "چندین شهر به دلیل آتش بس متزلزل ایران و جنگ حزب الله، جشن های روز استقلال را لغو کردند",
+    "Palestinians condemn storming of Al-Aqsa Mosque by Israel’s Ben-Gvir": "فلسطینی ها حمله بن گویر اسرائیل به مسجد الاقصی را محکوم کردند",
+    "Noga Erez tells Coachella she’s ‘heartbroken’ about situation at home": "نوگا ارز به کوچلا می گوید که از وضعیت خانه «دل شکسته» است",
+    "Post-Orban Hungary would not expose Israel to more EU pain, though support may ebb": "مجارستان پس از اوربان اسرائیل را در معرض دردهای بیشتر اتحادیه اروپا قرار نمی دهد، هرچند حمایت ها ممکن است کاهش یابد",
+    "Reservist soldier fatally shoots Palestinian amid alleged rock-throwing near Ramallah": "یک سرباز ذخیره فلسطینی را در پی پرتاب سنگ در نزدیکی رام الله به قتل رساند",
+    "Easter prayer fiasco, resolved too late, shows Christians still treated as afterthought": "فاجعه دعای عید پاک که خیلی دیر حل شد، نشان می دهد که مسیحیان هنوز به عنوان فکر ثانویه تلقی می شوند",
+    "Ahead of Holocaust Remembrance Day, 111,000 survivors living in Israel": "پیش از روز یادبود هولوکاست، ۱۱۱ هزار بازمانده ساکن اسرائیل"
   }
 }

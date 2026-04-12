@@ -1217,7 +1217,16 @@
     "0e265ce27089e428bc399d07",
     "76ea7a3ffa7a807468a44830",
     "ff639f60c03eb14491f20748",
-    "f35c97a9a650441872768e7c"
+    "f35c97a9a650441872768e7c",
+    "de8de5afa66006562864109f",
+    "c4f38536653a7f01160613fe",
+    "c0ca23b5ecb5b5ff1dbaf1cb",
+    "a61a279e61b634147e2ff27a",
+    "d38ee9e485c0fce0ea06088c",
+    "7f0fe6df9ced2888e2e9a901",
+    "8d156e488477799081053bc8",
+    "75024ecfa4f0757afe42f381",
+    "cef287c8a74f587af886b5fe"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2437,7 +2446,16 @@
     "f9473960394362c8073bd2f1",
     "4ff31466be1ae3e7eaccd7ab",
     "0d0d4d88eeed334514a9191c",
-    "79f16bf30a4a225c50647730"
+    "79f16bf30a4a225c50647730",
+    "cade5b81fbaaea0e19c84b1e",
+    "c784856c85f686db20819971",
+    "272c253fdc23e9ba2331eaeb",
+    "1f25cd9021aa93b1fb2f11b4",
+    "30766e3f4f32c3770099e937",
+    "0313970f9d7c87f1675010e3",
+    "ccdea39523c7de2ed8691b8d",
+    "0b9fa23378473d315136d776",
+    "9bf5f3408d11b45b6d99e87b"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2497,8 +2515,8 @@
     "6a141236cbf77d471baa8004",
     "5a8daef3b83322f5d425db20"
   ],
-  "last_digest_hash": "daf51a220cd88fc130fffe850468fb2677a7c22be8ac726afa24fbdc1bb60c78",
-  "last_run_iso": "2026-04-11T23:48:28.809961+00:00",
+  "last_digest_hash": "bf7bcb06ff67eb75cfef04b5c2396f3e6605e71d58cb0d700e9f902673eaefa3",
+  "last_run_iso": "2026-04-12T03:42:18.868053+00:00",
   "last_breaking_run_iso": "2026-04-11T21:46:25.008212+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3718,6 +3736,15 @@
     "US President Trump says US ‘wins’ regardless of how Iran talks go": "رئیس جمهور آمریکا، ترامپ، می گوید آمریکا فارغ از روند مذاکرات با ایران «پیروز» می شود",
     "Iran war lands 'triple blow' to flood-ravaged Sri Lankans": "جنگ ایران ضربه سه گانه ای به مردم سیل زده سریلانکا وارد می کند",
     "We spoke to the man making viral Lego-style AI videos for Iran. Experts say it's powerful propaganda": "ما با مردی که ویدیوهای هوش مصنوعی سبک لگو ویروسی برای ایران می سازد صحبت کردیم. کارشناسان می گویند این یک تبلیغات قدرتمند است",
-    "On the record and off the court: Meet the only Jewish player on the NCAA championship team": "در سوابق و خارج از زمین: با تنها بازیکن یهودی تیم قهرمان NCAA آشنا شوید"
+    "On the record and off the court: Meet the only Jewish player on the NCAA championship team": "در سوابق و خارج از زمین: با تنها بازیکن یهودی تیم قهرمان NCAA آشنا شوید",
+    "Netanyahu says campaign against Iran ‘not over,’ touts ‘historic achievements’": "نتانیاهو می گوید کمپین علیه ایران «تمام نشده» و «دستاوردهای تاریخی» را تبلیغ می کند",
+    "US-Iran talks in Pakistan fail to yield deal, end after 21 hours; US negotiators leave": "مذاکرات آمریکا و ایران در پاکستان به توافق نرسید و پس از ۲۱ ساعت پایان یافت؛ مذاکره کنندگان آمریکایی خارج می شوند",
+    "Iran must not be allowed charge tolls in Strait of Hormuz, UN watchdog says": "نهاد ناظر سازمان ملل می گوید نباید اجازه داده شود ایران در تنگه هرمز عوارض بگیرد",
+    "US delegation leaves Pakistan without reaching Iran deal": "هیئت آمریکایی بدون رسیدن به توافق با ایران پاکستان را ترک می کند",
+    "As Turkey reportedly seeks to jail them, Israeli leaders blast Erdogan for ‘massacring Kurds’": "در حالی که گفته می شود ترکیه قصد دارد آن ها را زندانی کند، رهبران اسرائیل اردوغان را به «قتل عام کردها» متهم می کنند",
+    "Iran war live: Vance says no deal reached, US has made ‘best, final offer’": "جنگ ایران زنده: ونس می گوید توافقی حاصل نشد، آمریکا «بهترین و آخرین پیشنهاد» را ارائه داده است",
+    "Netanyahu next to Middle East map: ‘We strangled them and have more to do’": "نتانیاهو کنار نقشه خاورمیانه: «ما آن ها را خفه کردیم و کارهای بیشتری برای انجام دادن داریم»",
+    "Israel reprimands Spanish diplomat over detonation of Netanyahu effigy": "اسرائیل دیپلمات اسپانیایی را به خاطر انفجار تندیس نتانیاهو سرزنش کرد",
+    "Palestinians appalled as Israel approves settlements in occupied West Bank": "فلسطینی ها از تصویب شهرک ها در کرانه باختری اشغالی توسط اسرائیل وحشت زده شدند"
   }
 }

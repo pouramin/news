@@ -1226,7 +1226,13 @@
     "7f0fe6df9ced2888e2e9a901",
     "8d156e488477799081053bc8",
     "75024ecfa4f0757afe42f381",
-    "cef287c8a74f587af886b5fe"
+    "cef287c8a74f587af886b5fe",
+    "4758b8582ed7ab6f24e0fd61",
+    "e0b7b0c74e093000097aad47",
+    "cf5974f06766a5ea18f07c35",
+    "1f1fa441d064f8f9556ab9dd",
+    "be6002cc3b2532d22de1c1da",
+    "84b306b1d980926bb9fe7f0a"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2455,7 +2461,13 @@
     "0313970f9d7c87f1675010e3",
     "ccdea39523c7de2ed8691b8d",
     "0b9fa23378473d315136d776",
-    "9bf5f3408d11b45b6d99e87b"
+    "9bf5f3408d11b45b6d99e87b",
+    "127d34e06f23aba9e7d02ab3",
+    "3ffd36c2b6b7638335b66640",
+    "803e62b46426ee03600576a1",
+    "88d8285a1a8982e52bb3d2bf",
+    "e29b8e401c6eedc6f0b71523",
+    "358d63cf7b3937c762816ea8"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2515,8 +2527,8 @@
     "6a141236cbf77d471baa8004",
     "5a8daef3b83322f5d425db20"
   ],
-  "last_digest_hash": "bf7bcb06ff67eb75cfef04b5c2396f3e6605e71d58cb0d700e9f902673eaefa3",
-  "last_run_iso": "2026-04-12T03:42:18.868053+00:00",
+  "last_digest_hash": "85f8e02888248a85e24ff32342fe003c042c7fc76b1051509d152113d4e28c6f",
+  "last_run_iso": "2026-04-12T06:01:32.507778+00:00",
   "last_breaking_run_iso": "2026-04-11T21:46:25.008212+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3745,6 +3757,12 @@
     "Iran war live: Vance says no deal reached, US has made ‘best, final offer’": "جنگ ایران زنده: ونس می گوید توافقی حاصل نشد، آمریکا «بهترین و آخرین پیشنهاد» را ارائه داده است",
     "Netanyahu next to Middle East map: ‘We strangled them and have more to do’": "نتانیاهو کنار نقشه خاورمیانه: «ما آن ها را خفه کردیم و کارهای بیشتری برای انجام دادن داریم»",
     "Israel reprimands Spanish diplomat over detonation of Netanyahu effigy": "اسرائیل دیپلمات اسپانیایی را به خاطر انفجار تندیس نتانیاهو سرزنش کرد",
-    "Palestinians appalled as Israel approves settlements in occupied West Bank": "فلسطینی ها از تصویب شهرک ها در کرانه باختری اشغالی توسط اسرائیل وحشت زده شدند"
+    "Palestinians appalled as Israel approves settlements in occupied West Bank": "فلسطینی ها از تصویب شهرک ها در کرانه باختری اشغالی توسط اسرائیل وحشت زده شدند",
+    "Oil tankers exit Strait of Hormuz amid fragile US-Iran ceasefire": "نفتکش ها در میان آتش بس شکننده آمریکا و ایران از تنگه هرمز خارج می شوند",
+    "Pakistan urges US and Iran to uphold ceasefire after talks end": "پاکستان از آمریکا و ایران خواست پس از پایان مذاکرات آتش بس را حفظ کنند",
+    "US and Iran fail to reach peace deal after marathon talks in Pakistan": "آمریکا و ایران پس از مذاکرات طولانی در پاکستان به توافق صلح نرسیدند",
+    "Why did US-Iran talks end without an agreement in Pakistan?": "چرا مذاکرات آمریکا و ایران بدون توافق در پاکستان پایان یافت؟",
+    "Watch JD Vance’s full remarks after US-Iran talks end without deal": "اظهارات کامل جی دی ونس را پس از پایان مذاکرات آمریکا و ایران بدون توافق تماشا کنید",
+    "Hungarians vote in landmark election closely watched by EU, Russia, US, Israel": "مجارها در انتخابات تاریخی رأی می دهند که به دقت مورد توجه اتحادیه اروپا، روسیه، آمریکا و اسرائیل قرار دارد"
   }
 }

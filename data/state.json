@@ -1239,7 +1239,10 @@
     "1c3d6b665e4ebb0ec9581869",
     "77dcd9cc7d4188fb44a9bd2a",
     "b042cf64206f21fbe97a8c21",
-    "2edffff6567776bfc3ad8cb8"
+    "2edffff6567776bfc3ad8cb8",
+    "3c8390ae5280a0fe4be2cabb",
+    "8be03dfa5b5d01778bf1f54a",
+    "965b9b000fd218569503cf8d"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2481,7 +2484,10 @@
     "d12da5ecf073c65b15f49caf",
     "7598a43dad04e5e9bb20c8e5",
     "efe1b1f2e6e1d7c1f16649fe",
-    "ab66988e8a8641252bcdcbbc"
+    "ab66988e8a8641252bcdcbbc",
+    "f75f38629e27cae7f8790c6a",
+    "8e38fe48c62d1935017c306f",
+    "63157fd2f903e5747582dc33"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2541,8 +2547,8 @@
     "6a141236cbf77d471baa8004",
     "5a8daef3b83322f5d425db20"
   ],
-  "last_digest_hash": "10ac7b2520468deab5781833bcc6a44986046886d70ecf7f65effb2d8ec31610",
-  "last_run_iso": "2026-04-12T09:56:47.020885+00:00",
+  "last_digest_hash": "37ed97a29c245670ad83ef598c73b49daae83dddc1c4e968f14828c75571dc32",
+  "last_run_iso": "2026-04-12T10:55:50.270211+00:00",
   "last_breaking_run_iso": "2026-04-11T21:46:25.008212+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3784,6 +3790,9 @@
     "What happened in 40 days of war on Iran": "در ۴۰ روز جنگ با ایران چه اتفاقی افتاد",
     "Pope rails at ‘delusion of omnipotence,’ use of Christian language to justify war": "پاپ از «توهم قدرت مطلق» و استفاده از زبان مسیحی برای توجیه جنگ انتقاد می کند",
     "Bennett names 2 female ex-senior officials as 1st members of party’s electoral slate": "بنت دو مقام ارشد زن سابق را به عنوان اعضای اول فهرست انتخاباتی حزب معرفی می کند",
-    "Netanyahu effigy blown up in Spanish town festival; Israel summons envoy": "مجسمه نتانیاهو در جشنواره شهر اسپانیایی منفجر شد؛ اسرائیل فرستاده ای را فراخواند"
+    "Netanyahu effigy blown up in Spanish town festival; Israel summons envoy": "مجسمه نتانیاهو در جشنواره شهر اسپانیایی منفجر شد؛ اسرائیل فرستاده ای را فراخواند",
+    "Saudi Arabia says key oil pipeline back to full capacity after attacks": "عربستان سعودی می گوید خط لوله کلیدی نفت پس از حملات به ظرفیت کامل بازگشته است",
+    "Despite war cancellations, Holocaust survivors from Israel to join March of the Living": "با وجود لغو جنگ ها، بازماندگان هولوکاست از اسرائیل به راهپیمایی زندگان پیوستند",
+    "More than 500 people arrested at London rally for Palestine Action": "بیش از ۵۰۰ نفر در تجمع لندن برای اقدام فلسطین بازداشت شدند"
   }
 }

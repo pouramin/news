@@ -1281,7 +1281,9 @@
     "642412605b3c0e5da67b486c",
     "757c9a92f5eb1438371565ea",
     "73536ddb3f40703a66cbe320",
-    "abb8c3a048e4d66c7e73ba79"
+    "abb8c3a048e4d66c7e73ba79",
+    "63e3a29b8ca2d1e767039319",
+    "ff23fda28f40d6e03c60e975"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2565,7 +2567,9 @@
     "8347985cc5b3a50e2bfe3aa7",
     "eabc3558e02fc8753e3a9f0d",
     "8456e5b6b556bc39071d4201",
-    "0d61a5c7a16f6b55e0542d5c"
+    "0d61a5c7a16f6b55e0542d5c",
+    "cb42bd0acc204d73776c6d34",
+    "32eb78b209cf25b50f6a9174"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2629,8 +2633,8 @@
     "b14c1baab308fdde963d079d",
     "d984cf08035d4f7f86086068"
   ],
-  "last_digest_hash": "3e3f829608dfc05f547707e881f5ececa122499139fa9072698d2842751bfad4",
-  "last_run_iso": "2026-04-12T19:05:15.357277+00:00",
+  "last_digest_hash": "1b58ec846caf81c9211deeffc1481fbd70ae11ec0e727321466dc9e9a1318bb5",
+  "last_run_iso": "2026-04-12T19:50:18.528848+00:00",
   "last_breaking_run_iso": "2026-04-12T17:49:49.310491+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3914,6 +3918,8 @@
     "The battle over the word ‘Zionism’ - Sponsored Content": "نبرد بر سر واژه «صهیونیسم» - محتوای حمایت شده",
     "Trump's Strait of Hormuz blockade threat raises risks and leaves predicaments unchanged": "تهدید محاصره تنگه هرمز توسط ترامپ ریسک هایی را افزایش می دهد و وضعیت ها را بدون تغییر باقی می گذارد",
     "Rescuers dig through rubble after deadly Israeli strikes in south Lebanon": "نجات دهندگان پس از حملات مرگبار اسرائیل در جنوب لبنان، از میان آوار بیرون می روند",
-    "New Gaza aid flotilla sets sail from Spain, trying again to break Israeli blockade": "ناوگان جدید کمک های غزه از اسپانیا حرکت می کند و بار دیگر تلاش می کند محاصره اسرائیل را بشکند"
+    "New Gaza aid flotilla sets sail from Spain, trying again to break Israeli blockade": "ناوگان جدید کمک های غزه از اسپانیا حرکت می کند و بار دیگر تلاش می کند محاصره اسرائیل را بشکند",
+    "Arab pressure reins in Hezbollah protests ahead of Israel-Lebanon talks": "فشار عرب ها اعتراضات حزب الله را پیش از مذاکرات اسرائیل و لبنان مهار می کند",
+    "‘Feels like a blessing’: On Orthodox Easter, Christians flock back to the Holy Sepulchre": "«احساس می شود نعمتی است»: در عید پاک ارتدکس، مسیحیان به آرامگاه مقدس بازمی گردند"
   }
 }

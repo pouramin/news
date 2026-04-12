@@ -1293,7 +1293,8 @@
     "f35ccfaffbe96c4202f9529d",
     "63439162b7d0e7ea8bbd8bcd",
     "fcf583400210717bf1da0f85",
-    "b79050e482a9a5d85b86bb43"
+    "b79050e482a9a5d85b86bb43",
+    "64d0109a916f5e6f53866b01"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2589,7 +2590,8 @@
     "1d270f76346fad25f87e4216",
     "bae12e458b5a007135765df7",
     "a61c425ae3a3daee1fcfe539",
-    "e9d3f9aeb4e047ca629034fc"
+    "e9d3f9aeb4e047ca629034fc",
+    "135a2f6e51a9a9cdefddd88a"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2653,8 +2655,8 @@
     "b14c1baab308fdde963d079d",
     "d984cf08035d4f7f86086068"
   ],
-  "last_digest_hash": "1590d69977499ba0cc2d304c53f78041d97d37a37f03279e628d97ffed3a3f20",
-  "last_run_iso": "2026-04-12T21:48:33.084014+00:00",
+  "last_digest_hash": "dcbb82e3bca3f9dc61be7ba3fc070ae7cba2308182a634193306e86e43592153",
+  "last_run_iso": "2026-04-12T22:51:41.028637+00:00",
   "last_breaking_run_iso": "2026-04-12T17:49:49.310491+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3950,6 +3952,7 @@
     "History of flotilla campaigns to end Israel’s siege of Gaza": "تاریخچه کمپین های ناوگان برای پایان دادن به محاصره غزه توسط اسرائیل",
     "Could the Iran war pose lasting risks to global food security?": "آیا جنگ ایران می تواند خطرات ماندگاری برای امنیت غذایی جهانی ایجاد کند؟",
     "What is a naval blockade and how would it work in Strait of Hormuz?": "محاصره دریایی چیست و چگونه در تنگه هرمز عمل می کند؟",
-    "Hungary’s Orban concedes landmark defeat to center-right opposition": "اوربان از مجارستان شکست تاریخی خود را در برابر مخالفان مرکز-راست پذیرفت"
+    "Hungary’s Orban concedes landmark defeat to center-right opposition": "اوربان از مجارستان شکست تاریخی خود را در برابر مخالفان مرکز-راست پذیرفت",
+    "These are people Israel killed in Lebanon on a single day": "این ها افرادی هستند که اسرائیل در لبنان در یک روز کشت"
   }
 }

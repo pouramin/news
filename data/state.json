@@ -1278,7 +1278,10 @@
     "36f745b2360da037f1eebbc8",
     "121cfec526e39beabfb47ef0",
     "b60c27244f05aa26ad0acb28",
-    "642412605b3c0e5da67b486c"
+    "642412605b3c0e5da67b486c",
+    "757c9a92f5eb1438371565ea",
+    "73536ddb3f40703a66cbe320",
+    "abb8c3a048e4d66c7e73ba79"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2559,7 +2562,10 @@
     "3d7644e6806927ef75d8e441",
     "83bab3f9c2e3b8addf1dbbf9",
     "e5e98012d812fa3ed57be57d",
-    "8347985cc5b3a50e2bfe3aa7"
+    "8347985cc5b3a50e2bfe3aa7",
+    "eabc3558e02fc8753e3a9f0d",
+    "8456e5b6b556bc39071d4201",
+    "0d61a5c7a16f6b55e0542d5c"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2623,8 +2629,8 @@
     "b14c1baab308fdde963d079d",
     "d984cf08035d4f7f86086068"
   ],
-  "last_digest_hash": "70beda1fd85210d85dc0423d50655ebb9322558d629a0043d931142055f5733d",
-  "last_run_iso": "2026-04-12T17:49:49.310491+00:00",
+  "last_digest_hash": "3e3f829608dfc05f547707e881f5ececa122499139fa9072698d2842751bfad4",
+  "last_run_iso": "2026-04-12T19:05:15.357277+00:00",
   "last_breaking_run_iso": "2026-04-12T17:49:49.310491+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3905,6 +3911,9 @@
     "Ceasefire? Israel’s Budget. Jewish Terrorism. - Sponsored Content": "آتش بس؟ بودجه اسرائیل. تروریسم یهودی. - محتوای حمایت شده",
     "Be’eri begins demolishing homes destroyed on October 7, choosing life over ruins": "بئری از ۷ اکتبر شروع به تخریب خانه های ویران شده می کند و زندگی را به خرابه ها ترجیح می دهد",
     "Why does Judaism have denominations? with Zev Eleff - Sponsored Content": "چرا یهودیت فرقه هایی دارد؟ با زو الف - محتوای حمایت شده",
-    "The battle over the word ‘Zionism’ - Sponsored Content": "نبرد بر سر واژه «صهیونیسم» - محتوای حمایت شده"
+    "The battle over the word ‘Zionism’ - Sponsored Content": "نبرد بر سر واژه «صهیونیسم» - محتوای حمایت شده",
+    "Trump's Strait of Hormuz blockade threat raises risks and leaves predicaments unchanged": "تهدید محاصره تنگه هرمز توسط ترامپ ریسک هایی را افزایش می دهد و وضعیت ها را بدون تغییر باقی می گذارد",
+    "Rescuers dig through rubble after deadly Israeli strikes in south Lebanon": "نجات دهندگان پس از حملات مرگبار اسرائیل در جنوب لبنان، از میان آوار بیرون می روند",
+    "New Gaza aid flotilla sets sail from Spain, trying again to break Israeli blockade": "ناوگان جدید کمک های غزه از اسپانیا حرکت می کند و بار دیگر تلاش می کند محاصره اسرائیل را بشکند"
   }
 }

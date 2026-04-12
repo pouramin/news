@@ -1283,7 +1283,14 @@
     "73536ddb3f40703a66cbe320",
     "abb8c3a048e4d66c7e73ba79",
     "63e3a29b8ca2d1e767039319",
-    "ff23fda28f40d6e03c60e975"
+    "ff23fda28f40d6e03c60e975",
+    "3883a4b3114a3d44912ebf91",
+    "93ffe98f310a36b77074f148",
+    "51ab30cf1b8b024489820f2f",
+    "347f5fdd94667853e749ac79",
+    "ca7746b9230642e57d17d5cf",
+    "8b9b7808cbc02bdce9c7c596",
+    "f35ccfaffbe96c4202f9529d"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2569,7 +2576,14 @@
     "8456e5b6b556bc39071d4201",
     "0d61a5c7a16f6b55e0542d5c",
     "cb42bd0acc204d73776c6d34",
-    "32eb78b209cf25b50f6a9174"
+    "32eb78b209cf25b50f6a9174",
+    "be0e41470e4a30053877b2f4",
+    "8c435000affc724a50b36129",
+    "741a8bd46a11ff36e4d1d016",
+    "90d94bb607166c996fe7ff2c",
+    "8648bb6d6ef08058ac005a2a",
+    "185147091122709951df8be0",
+    "1d270f76346fad25f87e4216"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2633,8 +2647,8 @@
     "b14c1baab308fdde963d079d",
     "d984cf08035d4f7f86086068"
   ],
-  "last_digest_hash": "1b58ec846caf81c9211deeffc1481fbd70ae11ec0e727321466dc9e9a1318bb5",
-  "last_run_iso": "2026-04-12T19:50:18.528848+00:00",
+  "last_digest_hash": "1096bbb5424eb490ad8e9bbe3fcf9fd2787155dc001f261e3cd20d32feb48df2",
+  "last_run_iso": "2026-04-12T20:50:24.481168+00:00",
   "last_breaking_run_iso": "2026-04-12T17:49:49.310491+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3920,6 +3934,13 @@
     "Rescuers dig through rubble after deadly Israeli strikes in south Lebanon": "نجات دهندگان پس از حملات مرگبار اسرائیل در جنوب لبنان، از میان آوار بیرون می روند",
     "New Gaza aid flotilla sets sail from Spain, trying again to break Israeli blockade": "ناوگان جدید کمک های غزه از اسپانیا حرکت می کند و بار دیگر تلاش می کند محاصره اسرائیل را بشکند",
     "Arab pressure reins in Hezbollah protests ahead of Israel-Lebanon talks": "فشار عرب ها اعتراضات حزب الله را پیش از مذاکرات اسرائیل و لبنان مهار می کند",
-    "‘Feels like a blessing’: On Orthodox Easter, Christians flock back to the Holy Sepulchre": "«احساس می شود نعمتی است»: در عید پاک ارتدکس، مسیحیان به آرامگاه مقدس بازمی گردند"
+    "‘Feels like a blessing’: On Orthodox Easter, Christians flock back to the Holy Sepulchre": "«احساس می شود نعمتی است»: در عید پاک ارتدکس، مسیحیان به آرامگاه مقدس بازمی گردند",
+    "Iran war cost about NIS 35 billion in budgetary expenses, Finance Ministry says": "وزارت دارایی می گوید جنگ ایران حدود ۳۵ میلیارد شکل هزینه بودجه ای داشته است",
+    "How shaky is the Iran-US ceasefire?": "آتش بس ایران و آمریکا چقدر متزلزل است؟",
+    "Netanyahu’s military secretary Roman Gofman approved to serve as next Mossad chief": "دبیر نظامی نتانیاهو، رومن گافمن، موافقت کرد که به عنوان رئیس بعدی موساد خدمت کند",
+    "“The initiative is in the hands of Tehran, not Washington”": "«ابتکار عمل در دست تهران است، نه واشنگتن»",
+    "What’s next for the US-Iran peace process after talks end without a deal?": "پس از پایان مذاکرات بدون توافق، روند صلح آمریکا و ایران چه خواهد شد؟",
+    "Hezbollah rocket hits remains of 1,500-year-old Byzantine church in Nahariya": "راکت حزب الله بقایای کلیسای بیزانسی ۱۵۰۰ ساله در نهاریا را هدف قرار داد",
+    "History of flotilla campaigns to end Israel’s siege of Gaza": "تاریخچه کمپین های ناوگان برای پایان دادن به محاصره غزه توسط اسرائیل"
   }
 }

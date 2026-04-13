@@ -1314,7 +1314,16 @@
     "8378d88bd2b2cef645e9cffd",
     "5c680240a8f1e262f020c40b",
     "c2267ef110439bcbaab0ce7f",
-    "bf5a9bf602d024ea89a8f543"
+    "bf5a9bf602d024ea89a8f543",
+    "28d6a9ed81b70b29c9736265",
+    "a66c56e663172e1d70959d34",
+    "4e0d74094ad217d128c251ca",
+    "70740f8558838fc423f97881",
+    "3cb2ac19703021253d4f18af",
+    "cd5a944a2adc22c9019649d2",
+    "6604e57ccacca544e0b83c6f",
+    "548c450cac537ff9d39cc223",
+    "d8d2f8bf8073d55073ac9cdd"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2631,7 +2640,16 @@
     "9b0cbb6c6afa02e502dd3423",
     "0b528f42fc33107cd5150be7",
     "1058d56794a25876ce77a1df",
-    "d806e20b4c6355c425a92075"
+    "d806e20b4c6355c425a92075",
+    "984f3f1a9a5781e6f12a226d",
+    "6a45bc24b44360149756234c",
+    "14bcbc62ad2b7bf68cc77e98",
+    "91b42fd84cfa5f3094f4262a",
+    "0380590c75599cb1ee1d5fc8",
+    "d5ae3bb1c40de1110e3e6270",
+    "fcced396d1c2c044debf0b4b",
+    "d55adfe0a09ee9d5c5a20e82",
+    "b3db2e0ee295c2bad1ed395b"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2697,8 +2715,8 @@
     "abbd62e1d4f7bb23aabd8977",
     "1ceb560e4c3c04cd2b7c41a4"
   ],
-  "last_digest_hash": "51108f777dbae9aa542854765fa34351cee64eb61ae36bed2811e0c6caa09512",
-  "last_run_iso": "2026-04-13T09:08:01.712945+00:00",
+  "last_digest_hash": "cffb87ac5e40c4d54d9f37ccf89d41ae9fd7616dbec1ba5cd5dfc45d71981426",
+  "last_run_iso": "2026-04-13T11:36:56.829678+00:00",
   "last_breaking_run_iso": "2026-04-12T23:49:11.011991+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -4015,6 +4033,15 @@
     "In broadside, Trump slams ‘weak’ pope who ‘thinks it’s OK’ for Iran to have a nuclear bomb": "ترامپ به طور قاطع پاپ «ضعیف» را که «فکر می کند داشتن بمب هسته ای توسط ایران اشکالی ندارد» مورد انتقاد قرار می دهد",
     "Refugee in my own city: Surviving Tehran’s bombing, with my cat for company": "پناهنده در شهر خودم: زنده ماندن از بمباران تهران، همراه با گربه ام",
     "Iran executed over 1,600 people in 2025, most since 1989, rights groups say": "گروه های حقوق بشری می گویند ایران در سال ۲۰۲۵ بیش از ۱۶۰۰ نفر را اعدام کرد که بیشترین تعداد از سال ۱۹۸۹ بود",
-    "Orban’s defeat in Hungary has ripple effect for Trump, US conservatives": "شکست اوربان در مجارستان تأثیر موجی بر ترامپ و محافظه کاران آمریکایی دارد"
+    "Orban’s defeat in Hungary has ripple effect for Trump, US conservatives": "شکست اوربان در مجارستان تأثیر موجی بر ترامپ و محافظه کاران آمریکایی دارد",
+    "Starmer says UK will not support US blockade of Strait of Hormuz": "استارمر می گوید بریتانیا از محاصره تنگه هرمز توسط آمریکا حمایت نخواهد کرد",
+    "As US military set to blockade Iranian ports, Tehran says move ‘amounts to piracy’": "در حالی که ارتش آمریکا قصد محاصره بنادر ایران را دارد، تهران می گوید این اقدام «معادل دزدی دریایی» است",
+    "Daily Briefing Apr. 13 – Trump plays chicken with Iran over Strait of Hormuz": "گزارش روزانه ۱۳ آوریل – ترامپ بر سر تنگه هرمز با ایران بازی می کند",
+    "US blockade of Iran would worsen global energy crisis, analysts say": "تحلیل گران می گویند محاصره ایران توسط آمریکا بحران جهانی انرژی را تشدید خواهد کرد",
+    "Iran’s army says US plan to blockade Hormuz ‘amounts to piracy’": "ارتش ایران می گوید برنامه آمریکا برای محاصره هرمز «معادل دزدی دریایی» است",
+    "Israeli forces fire tear gas near Palestinian schoolchildren": "نیروهای اسرائیلی در نزدیکی دانش آموزان فلسطینی گاز اشک آور شلیک می کنند",
+    "How a UK military college sought to distance itself from ban on Israelis": "چگونه یک کالج نظامی بریتانیا تلاش کرد خود را از ممنوعیت اسرائیلی ها دور نگه دارد",
+    "2025 toll of Diaspora Jews killed in antisemitic attacks was highest in three decades": "تلفات یهودیان دیاسپورا در حملات ضدیهودی در سال ۲۰۲۵ بالاترین میزان در سه دهه گذشته بود",
+    "Lapid lashes out at opposition rivals for ‘fleeing’ Knesset, fight against Netanyahu": "لاپید به رقبای مخالف به خاطر «فرار» کنست و مبارزه با نتانیاهو حمله می کند"
   }
 }

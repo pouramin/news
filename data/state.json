@@ -1347,7 +1347,18 @@
     "48f386bd3d926e744c133ac6",
     "0f07e2a30753f0c4b7f57771",
     "1b61b09ef50f891e99660ffa",
-    "e15abb3a7b15ad79b47376d0"
+    "e15abb3a7b15ad79b47376d0",
+    "ce99fad7551791243e3878ad",
+    "54d500567d4ef70cd83b1990",
+    "eda3045baf664cdf11896339",
+    "354400ef033f0cd01eba4d11",
+    "8c58461224509e5ff5830e57",
+    "7405300ed5b6c5900a344cad",
+    "878b1eff93bcd14623b36934",
+    "153a222a426ff9b7a144f7e4",
+    "0613c4e498c56df65d3dd7c2",
+    "6e375d1870c0bc3b132d4c14",
+    "965d097e0e9b2190ebfaad74"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2697,7 +2708,18 @@
     "bfd071f69c8ebe7df202c97f",
     "18f91fde8defa9ad3ef47dd2",
     "3bcfd5c0be84b3014e853d33",
-    "dcac783fc5ff67552ff4eabf"
+    "dcac783fc5ff67552ff4eabf",
+    "4010636962f4fb3f2ac9523f",
+    "a053fae03b58dc633abd2182",
+    "d0349a76f35a3859588f6fac",
+    "062d0b2f78ac043d248649f3",
+    "e0a4ea8a33734dd5bf8dd949",
+    "4dce5ebbd9076145d65e1f1f",
+    "134600fd29a0cd848e385939",
+    "0d69c46040f00687fe661ad3",
+    "c734e235b699334747efccff",
+    "875439541265c454e921376f",
+    "ed2c1431dc5aea18082f6b93"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2763,8 +2785,8 @@
     "abbd62e1d4f7bb23aabd8977",
     "1ceb560e4c3c04cd2b7c41a4"
   ],
-  "last_digest_hash": "e6b02100584ae6d144b1e2e89d471642d5f36b964b836cfc2e0471c8e327ec58",
-  "last_run_iso": "2026-04-13T17:17:28.059150+00:00",
+  "last_digest_hash": "ea3fae9d4a9e5e5206cd69d68dca943f0372325e3b86fde629deaba3d32779a5",
+  "last_run_iso": "2026-04-13T19:36:47.445238+00:00",
   "last_breaking_run_iso": "2026-04-12T23:49:11.011991+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -4114,6 +4136,17 @@
     "‘No time to waste’: Pro-EU Magyar vows ‘new era’ in Hungary after ousting Orban": "«وقت تلف کردن نیست»: مجارهای طرفدار اتحادیه اروپا پس از برکناری اوربان وعده «عصر جدید» در مجارستان را دادند",
     "The US blockade of Iran is a gamble. Will it work?": "محاصره ایران توسط آمریکا یک قمار است. آیا جواب می دهد؟",
     "Lebanon Latest: Talks scheduled as Israeli strikes continue": "جدیدترین گزارش لبنان: مذاکرات برنامه ریزی شده در حالی که حملات اسرائیل ادامه دارد",
-    "What do we know about sea mines in and around the Strait of Hormuz?": "درباره مین های دریایی در داخل و اطراف تنگه هرمز چه می دانیم؟"
+    "What do we know about sea mines in and around the Strait of Hormuz?": "درباره مین های دریایی در داخل و اطراف تنگه هرمز چه می دانیم؟",
+    "Starmer announces talks to address the Strait of Hormuz crisis": "استارمر مذاکراتی را برای حل بحران تنگه هرمز اعلام کرد",
+    "Israelis war-weary but most oppose Iran ceasefire, poll suggests": "اسرائیلی ها از جنگ خسته اند اما بیشترشان مخالف آتش بس ایران هستند، طبق نظرسنجی ها",
+    "EU: No peace possible while “Lebanon is in flames”": "اتحادیه اروپا: هیچ صلحی ممکن نیست تا زمانی که «لبنان در آتش است»",
+    "Bahrain summons Iraqi envoy as pro-Iranian attacks persist in Gulf": "بحرین در حالی که حملات طرفدار ایران در خلیج فارس ادامه دارد، فرستاده عراقی فراخواند",
+    "Trump claims Iran again expressed interest in deal after US naval blockade begins": "ترامپ ادعا می کند ایران بار دیگر پس از آغاز محاصره دریایی آمریکا علاقه مند به توافق شده است",
+    "Jewish Israelis, by large margin, support continued fighting Hezbollah; Arabs don’t": "یهودیان اسرائیلی با اختلاف زیاد از ادامه مبارزه با حزب الله حمایت می کنند؛ عرب ها این کار را نمی کنند",
+    "French court rules cement giant Lafarge guilty of funding Syrian terrorism": "دادگاه فرانسه شرکت بزرگ لافارژ را به خاطر تأمین مالی تروریسم سوریه محکوم کرد",
+    "Israel slams South Korean leader for comparing IDF activity to the Holocaust": "اسرائیل رهبر کره جنوبی را به خاطر مقایسه فعالیت های ارتش اسرائیل با هولوکاست مورد انتقاد قرار داد",
+    "What are the pros and cons of Trump’s Iranian naval blockade?": "مزایا و معایب محاصره دریایی ایران توسط ترامپ چیست؟",
+    "Trump admin fires judges who blocked deportations of pro-Palestinian activists": "دولت ترامپ قضاتی را که مانع اخراج فعالان طرفدار فلسطین شده بودند، اخراج کرد",
+    "French company Lafarge found guilty of paying $6.54 million to jihadists in Syria": "شرکت فرانسوی لافارژ به پرداخت ۶.۵۴ میلیون دلار به جهادی های سوریه محکوم شد"
   }
 }

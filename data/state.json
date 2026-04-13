@@ -1358,7 +1358,15 @@
     "153a222a426ff9b7a144f7e4",
     "0613c4e498c56df65d3dd7c2",
     "6e375d1870c0bc3b132d4c14",
-    "965d097e0e9b2190ebfaad74"
+    "965d097e0e9b2190ebfaad74",
+    "7abdb29988b913f815f3da59",
+    "59c09d49ee5f0c2edda3ccda",
+    "789b4078213acbe1c958dc29",
+    "7bc2892ab1916dc7d17d1918",
+    "93c42e77c62750844d28de8d",
+    "41d5f2bfa20c4e08404bcb09",
+    "96ac81312cc19feb694076d2",
+    "6d4177a59f0f9564a3baaef7"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2719,7 +2727,15 @@
     "0d69c46040f00687fe661ad3",
     "c734e235b699334747efccff",
     "875439541265c454e921376f",
-    "ed2c1431dc5aea18082f6b93"
+    "ed2c1431dc5aea18082f6b93",
+    "bda8e02757e9a3b9ffa3605f",
+    "4706b2b19d417c01cb12ea6f",
+    "7b6d6fc98d50874c59883060",
+    "78c12a46996efebdd6a8cfea",
+    "a28a46045437f1848682c9ff",
+    "2a2f06188b79ac62b893957b",
+    "bbd6e799c32f56e29888cc07",
+    "c19b3c727abaa65db8f2b2b4"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2785,8 +2801,8 @@
     "abbd62e1d4f7bb23aabd8977",
     "1ceb560e4c3c04cd2b7c41a4"
   ],
-  "last_digest_hash": "ea3fae9d4a9e5e5206cd69d68dca943f0372325e3b86fde629deaba3d32779a5",
-  "last_run_iso": "2026-04-13T19:36:47.445238+00:00",
+  "last_digest_hash": "a644d863d8513bbb6f787c00b0ccb053d31ba71c7fc8a23c6865fcf981b388c7",
+  "last_run_iso": "2026-04-13T21:09:45.956760+00:00",
   "last_breaking_run_iso": "2026-04-12T23:49:11.011991+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -4147,6 +4163,14 @@
     "Israel slams South Korean leader for comparing IDF activity to the Holocaust": "اسرائیل رهبر کره جنوبی را به خاطر مقایسه فعالیت های ارتش اسرائیل با هولوکاست مورد انتقاد قرار داد",
     "What are the pros and cons of Trump’s Iranian naval blockade?": "مزایا و معایب محاصره دریایی ایران توسط ترامپ چیست؟",
     "Trump admin fires judges who blocked deportations of pro-Palestinian activists": "دولت ترامپ قضاتی را که مانع اخراج فعالان طرفدار فلسطین شده بودند، اخراج کرد",
-    "French company Lafarge found guilty of paying $6.54 million to jihadists in Syria": "شرکت فرانسوی لافارژ به پرداخت ۶.۵۴ میلیون دلار به جهادی های سوریه محکوم شد"
+    "French company Lafarge found guilty of paying $6.54 million to jihadists in Syria": "شرکت فرانسوی لافارژ به پرداخت ۶.۵۴ میلیون دلار به جهادی های سوریه محکوم شد",
+    "High Court orders IDF to allow women in Armored Corps tanks by November 2026": "دادگاه عالی دستور داد ارتش اسرائیل تا نوامبر ۲۰۲۶ اجازه حضور زنان در تانک های سپاه زرهی را بدهد",
+    "Netanyahu rebukes Europe as Israel commemorates Holocaust in shadow of Iran war": "نتانیاهو اروپا را در حالی که اسرائیل هولوکاست را در سایه جنگ ایران گرامی می دارد، سرزنش می کند",
+    "Trump says Iran wants ‘peace deal’ but insists on ‘no nukes’": "ترامپ می گوید ایران خواهان «توافق صلح» است اما بر «بدون سلاح هسته ای» اصرار دارد",
+    "Hezbollah chief demands Lebanon back out of ‘futile’ planned talks with Israel": "رهبر حزب الله خواستار عقب نشینی لبنان از مذاکرات برنامه ریزی شده «بی فایده» با اسرائیل شد",
+    "Bernie Sanders vows to push resolution to block US weapons to Israel": "برنی سندرز قول داد قطعنامه ای برای جلوگیری از تسلیحات آمریکا به اسرائیل ارائه دهد",
+    "Hezbollah rejects Lebanon’s direct negotiations with Israel": "حزب الله مذاکرات مستقیم لبنان با اسرائیل را رد می کند",
+    "Actress Hana Laszlo backs out of lighting torch at Independence Day ceremony": "بازیگر هانا لازلو در مراسم روز استقلال از روشن کردن مشعل عقب نشینی می کند",
+    "Aron Heller: 1.5 million-strong Jewish band of brothers": "آرون هلر: گروه برادری یهودی با ۱.۵ میلیون نفر"
   }
 }

@@ -1344,7 +1344,10 @@
     "f60157fd3e0f8bf738243c7b",
     "85ac44f1433a0527e089a7c4",
     "761cc44d1c48882e3956e69e",
-    "48f386bd3d926e744c133ac6"
+    "48f386bd3d926e744c133ac6",
+    "0f07e2a30753f0c4b7f57771",
+    "1b61b09ef50f891e99660ffa",
+    "e15abb3a7b15ad79b47376d0"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2691,7 +2694,10 @@
     "131c03a1d24b0579017c19e3",
     "d95af6a81e39f6c17ce2510b",
     "755fc5f935a2de693613ecd8",
-    "bfd071f69c8ebe7df202c97f"
+    "bfd071f69c8ebe7df202c97f",
+    "18f91fde8defa9ad3ef47dd2",
+    "3bcfd5c0be84b3014e853d33",
+    "dcac783fc5ff67552ff4eabf"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2757,8 +2763,8 @@
     "abbd62e1d4f7bb23aabd8977",
     "1ceb560e4c3c04cd2b7c41a4"
   ],
-  "last_digest_hash": "0283c96008f494c5eb8e0508dc117de00a99ea3f7b6896dfd562f1756cbc7097",
-  "last_run_iso": "2026-04-13T15:43:01.505111+00:00",
+  "last_digest_hash": "e6b02100584ae6d144b1e2e89d471642d5f36b964b836cfc2e0471c8e327ec58",
+  "last_run_iso": "2026-04-13T17:17:28.059150+00:00",
   "last_breaking_run_iso": "2026-04-12T23:49:11.011991+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -4105,6 +4111,9 @@
     "Trump’s threat to blockade Hormuz: Why it’s the latest major escalation": "تهدید ترامپ به محاصره هرمز: چرا این آخرین تشدید بزرگ است",
     "Trump says Iranian ships will be ‘eliminated’ as US naval blockade begins": "ترامپ می گوید کشتی های ایرانی با آغاز محاصره دریایی آمریکا «نابود» خواهند شد",
     "Turkish FM: Israel trying to ‘declare Turkey the new enemy’ after Iran": "وزیر اعظم ترکیه: اسرائیل پس از ایران تلاش می کند «ترکیه را دشمن جدید اعلام کند»",
-    "‘No time to waste’: Pro-EU Magyar vows ‘new era’ in Hungary after ousting Orban": "«وقت تلف کردن نیست»: مجارهای طرفدار اتحادیه اروپا پس از برکناری اوربان وعده «عصر جدید» در مجارستان را دادند"
+    "‘No time to waste’: Pro-EU Magyar vows ‘new era’ in Hungary after ousting Orban": "«وقت تلف کردن نیست»: مجارهای طرفدار اتحادیه اروپا پس از برکناری اوربان وعده «عصر جدید» در مجارستان را دادند",
+    "The US blockade of Iran is a gamble. Will it work?": "محاصره ایران توسط آمریکا یک قمار است. آیا جواب می دهد؟",
+    "Lebanon Latest: Talks scheduled as Israeli strikes continue": "جدیدترین گزارش لبنان: مذاکرات برنامه ریزی شده در حالی که حملات اسرائیل ادامه دارد",
+    "What do we know about sea mines in and around the Strait of Hormuz?": "درباره مین های دریایی در داخل و اطراف تنگه هرمز چه می دانیم؟"
   }
 }

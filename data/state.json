@@ -1303,7 +1303,9 @@
     "882f5d4126f6d9807a7a2bb7",
     "4a6abf0dbbbaecfcf55f4353",
     "b44abc722c470b4f789e6c31",
-    "2a2e29f6a21a849d0cc4bc31"
+    "2a2e29f6a21a849d0cc4bc31",
+    "66dbb98dec48b1dabe8e2b1e",
+    "c706a18f206ccbeffb9a382b"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2609,7 +2611,9 @@
     "1e4f9a177e4d3a45aa0b7377",
     "5cdc6a1e45789f91b60b1b92",
     "62a724cf891dca62a1a08bfe",
-    "a24cc550e65b033322d318d7"
+    "a24cc550e65b033322d318d7",
+    "35330ffc1b893ec167e69cf3",
+    "2bde59a306a028039e29043a"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2675,8 +2679,8 @@
     "abbd62e1d4f7bb23aabd8977",
     "1ceb560e4c3c04cd2b7c41a4"
   ],
-  "last_digest_hash": "01a2000ae7e72fe8fa0466dc20d8a16c1d5e843374214e126aaa854adb578906",
-  "last_run_iso": "2026-04-13T03:49:24.705062+00:00",
+  "last_digest_hash": "31837adf129935154dcb42bb2b6b91f923ad88437f7663a0eeb6c3f0ef806107",
+  "last_run_iso": "2026-04-13T06:24:58.259759+00:00",
   "last_breaking_run_iso": "2026-04-12T23:49:11.011991+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3982,6 +3986,8 @@
     "US military threatens to blockade all Iranian ports starting on Monday": "ارتش آمریکا تهدید کرد که از روز دوشنبه همه بنادر ایران را محاصره خواهد کرد",
     "Shin Bet chief reportedly tells court PM can’t testify at trial over danger to life": "گزارش شده است که رئیس شین بت به دادگاه گفته نخست وزیر نمی تواند در دادگاه به دلیل خطر جانی شهادت دهد",
     "European leaders fete Hungarian opposition’s victory over Orban as win for democracy": "رهبران اروپایی پیروزی مخالفان مجارستان بر اوربان را پیروزی دموکراسی می دانند",
-    "Judge lifts gag order on names of brothers charged last month in Iran spy case": "قاضی دستور سکوت اسامی برادرانی را که ماه گذشته در پرونده جاسوسی ایران متهم شده بودند، لغو کرد"
+    "Judge lifts gag order on names of brothers charged last month in Iran spy case": "قاضی دستور سکوت اسامی برادرانی را که ماه گذشته در پرونده جاسوسی ایران متهم شده بودند، لغو کرد",
+    "‘Terrible for foreign policy’: Trump attacks Pope Leo after peace appeal": "«فاجعه بار برای سیاست خارجی»: ترامپ پس از درخواست صلح به پاپ لئو حمله می کند",
+    "From generation to generation: Holocaust and Oct. 7 meet in intimate salon memorials": "از نسلی به نسل: هولوکاست و ۷ اکتبر در یادبودهای صمیمی سالن ها گرد هم می آیند"
   }
 }

@@ -1296,7 +1296,14 @@
     "b79050e482a9a5d85b86bb43",
     "64d0109a916f5e6f53866b01",
     "abbd62e1d4f7bb23aabd8977",
-    "1ceb560e4c3c04cd2b7c41a4"
+    "1ceb560e4c3c04cd2b7c41a4",
+    "1235fb52af91e0efc3bd88ed",
+    "5dea870109a3254f0d1a5d36",
+    "be2ff35e24f1425bce72f244",
+    "882f5d4126f6d9807a7a2bb7",
+    "4a6abf0dbbbaecfcf55f4353",
+    "b44abc722c470b4f789e6c31",
+    "2a2e29f6a21a849d0cc4bc31"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2595,7 +2602,14 @@
     "e9d3f9aeb4e047ca629034fc",
     "135a2f6e51a9a9cdefddd88a",
     "a57a74a5235290ffeea51a8c",
-    "1fceb2ba025cc8d625f5d6ce"
+    "1fceb2ba025cc8d625f5d6ce",
+    "a3c1b3bd7c45c5a6039b87e5",
+    "a5ea811085763395c79e9203",
+    "9cf68ec07cb9955ea581c20b",
+    "1e4f9a177e4d3a45aa0b7377",
+    "5cdc6a1e45789f91b60b1b92",
+    "62a724cf891dca62a1a08bfe",
+    "a24cc550e65b033322d318d7"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2661,8 +2675,8 @@
     "abbd62e1d4f7bb23aabd8977",
     "1ceb560e4c3c04cd2b7c41a4"
   ],
-  "last_digest_hash": "dcbb82e3bca3f9dc61be7ba3fc070ae7cba2308182a634193306e86e43592153",
-  "last_run_iso": "2026-04-12T23:49:11.011991+00:00",
+  "last_digest_hash": "01a2000ae7e72fe8fa0466dc20d8a16c1d5e843374214e126aaa854adb578906",
+  "last_run_iso": "2026-04-13T03:49:24.705062+00:00",
   "last_breaking_run_iso": "2026-04-12T23:49:11.011991+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3961,6 +3975,13 @@
     "Hungary’s Orban concedes landmark defeat to center-right opposition": "اوربان از مجارستان شکست تاریخی خود را در برابر مخالفان مرکز-راست پذیرفت",
     "These are people Israel killed in Lebanon on a single day": "این ها افرادی هستند که اسرائیل در لبنان در یک روز کشت",
     "Two soldiers moderately hurt by Hezbollah rocket fire in southern Lebanon on Sunday — IDF": "دو سرباز که روز یکشنبه از شلیک راکت حزب الله در جنوب لبنان به طور متوسط زخمی شدند — ارتش اسرائیل",
-    "After talks fail, IDF planning for return to war, Trump mulls strikes on Iran — reports": "پس از شکست مذاکرات، برنامه ریزی ارتش اسرائیل برای بازگشت به جنگ، ترامپ در حال بررسی حملات به ایران است — گزارش ها"
+    "After talks fail, IDF planning for return to war, Trump mulls strikes on Iran — reports": "پس از شکست مذاکرات، برنامه ریزی ارتش اسرائیل برای بازگشت به جنگ، ترامپ در حال بررسی حملات به ایران است — گزارش ها",
+    "Oil prices surge past $103 a barrel after US announces blockade of Iran": "قیمت نفت پس از اعلام محاصره ایران توسط آمریکا از ۱۰۳ دلار به ازای هر بشکه فراتر رفت",
+    "Oil back above $100 as US to blockade Iranian ports after peace talks fail": "قیمت نفت به بالای ۱۰۰ دلار بازمی گردد در حالی که آمریکا پس از شکست مذاکرات صلح بنادر ایران را محاصره می کند",
+    "Iran war live: US military says it will block Iranian traffic in Hormuz": "جنگ ایران زنده: ارتش آمریکا اعلام کرده که ترافیک ایران در هرمز را مسدود خواهد کرد",
+    "US military threatens to blockade all Iranian ports starting on Monday": "ارتش آمریکا تهدید کرد که از روز دوشنبه همه بنادر ایران را محاصره خواهد کرد",
+    "Shin Bet chief reportedly tells court PM can’t testify at trial over danger to life": "گزارش شده است که رئیس شین بت به دادگاه گفته نخست وزیر نمی تواند در دادگاه به دلیل خطر جانی شهادت دهد",
+    "European leaders fete Hungarian opposition’s victory over Orban as win for democracy": "رهبران اروپایی پیروزی مخالفان مجارستان بر اوربان را پیروزی دموکراسی می دانند",
+    "Judge lifts gag order on names of brothers charged last month in Iran spy case": "قاضی دستور سکوت اسامی برادرانی را که ماه گذشته در پرونده جاسوسی ایران متهم شده بودند، لغو کرد"
   }
 }

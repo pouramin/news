@@ -1305,7 +1305,16 @@
     "b44abc722c470b4f789e6c31",
     "2a2e29f6a21a849d0cc4bc31",
     "66dbb98dec48b1dabe8e2b1e",
-    "c706a18f206ccbeffb9a382b"
+    "c706a18f206ccbeffb9a382b",
+    "103b8aac006b2168e13585a3",
+    "71f874a98934e5066b4e5a50",
+    "1b8072e1bc144b67ae2ffcd4",
+    "61983958df46f6b2e2a4e266",
+    "d0474e7fd3dc50027adf1df7",
+    "8378d88bd2b2cef645e9cffd",
+    "5c680240a8f1e262f020c40b",
+    "c2267ef110439bcbaab0ce7f",
+    "bf5a9bf602d024ea89a8f543"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2613,7 +2622,16 @@
     "62a724cf891dca62a1a08bfe",
     "a24cc550e65b033322d318d7",
     "35330ffc1b893ec167e69cf3",
-    "2bde59a306a028039e29043a"
+    "2bde59a306a028039e29043a",
+    "888edaf595ccd356ac783352",
+    "e77806aaa7f7d1c21f2bb197",
+    "6c0d2eb0ce4f42f7356323ff",
+    "bfd5786fcaea15a389c5eeda",
+    "c7a6166200b55767ec1a6094",
+    "9b0cbb6c6afa02e502dd3423",
+    "0b528f42fc33107cd5150be7",
+    "1058d56794a25876ce77a1df",
+    "d806e20b4c6355c425a92075"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2679,8 +2697,8 @@
     "abbd62e1d4f7bb23aabd8977",
     "1ceb560e4c3c04cd2b7c41a4"
   ],
-  "last_digest_hash": "31837adf129935154dcb42bb2b6b91f923ad88437f7663a0eeb6c3f0ef806107",
-  "last_run_iso": "2026-04-13T06:24:58.259759+00:00",
+  "last_digest_hash": "51108f777dbae9aa542854765fa34351cee64eb61ae36bed2811e0c6caa09512",
+  "last_run_iso": "2026-04-13T09:08:01.712945+00:00",
   "last_breaking_run_iso": "2026-04-12T23:49:11.011991+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -3988,6 +4006,15 @@
     "European leaders fete Hungarian opposition’s victory over Orban as win for democracy": "رهبران اروپایی پیروزی مخالفان مجارستان بر اوربان را پیروزی دموکراسی می دانند",
     "Judge lifts gag order on names of brothers charged last month in Iran spy case": "قاضی دستور سکوت اسامی برادرانی را که ماه گذشته در پرونده جاسوسی ایران متهم شده بودند، لغو کرد",
     "‘Terrible for foreign policy’: Trump attacks Pope Leo after peace appeal": "«فاجعه بار برای سیاست خارجی»: ترامپ پس از درخواست صلح به پاپ لئو حمله می کند",
-    "From generation to generation: Holocaust and Oct. 7 meet in intimate salon memorials": "از نسلی به نسل: هولوکاست و ۷ اکتبر در یادبودهای صمیمی سالن ها گرد هم می آیند"
+    "From generation to generation: Holocaust and Oct. 7 meet in intimate salon memorials": "از نسلی به نسل: هولوکاست و ۷ اکتبر در یادبودهای صمیمی سالن ها گرد هم می آیند",
+    "IDF says close to capturing Hezbollah’s historic Bint Jbeil stronghold": "ارتش اسرائیل می گوید نزدیک به تصرف پایگاه تاریخی بنت جبیل حزب الله است",
+    "What Iran is saying about US plan to blockade ports": "آنچه ایران درباره برنامه آمریکا برای محاصره بنادر می گوید",
+    "Iran war: What is happening on day 45 of the US-Iran conflict?": "جنگ ایران: در روز چهل و پنجم درگیری آمریکا و ایران چه اتفاقی در حال رخ دادن است؟",
+    "Trump attacks Pope over criticism of Iran war": "ترامپ به پاپ به خاطر انتقاد از جنگ ایران حمله می کند",
+    "Who is Yechiel Leiter, Israel’s US envoy leading talks with Lebanon?": "یحیئل لایتر، نماینده آمریکا اسرائیل که مذاکرات با لبنان را رهبری می کند، کیست؟",
+    "In broadside, Trump slams ‘weak’ pope who ‘thinks it’s OK’ for Iran to have a nuclear bomb": "ترامپ به طور قاطع پاپ «ضعیف» را که «فکر می کند داشتن بمب هسته ای توسط ایران اشکالی ندارد» مورد انتقاد قرار می دهد",
+    "Refugee in my own city: Surviving Tehran’s bombing, with my cat for company": "پناهنده در شهر خودم: زنده ماندن از بمباران تهران، همراه با گربه ام",
+    "Iran executed over 1,600 people in 2025, most since 1989, rights groups say": "گروه های حقوق بشری می گویند ایران در سال ۲۰۲۵ بیش از ۱۶۰۰ نفر را اعدام کرد که بیشترین تعداد از سال ۱۹۸۹ بود",
+    "Orban’s defeat in Hungary has ripple effect for Trump, US conservatives": "شکست اوربان در مجارستان تأثیر موجی بر ترامپ و محافظه کاران آمریکایی دارد"
   }
 }

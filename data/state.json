@@ -1339,7 +1339,12 @@
     "491983a95f21dde172701920",
     "4c976fa795ad0e10b46fa024",
     "1f7371cbb830d8f7a4fdb2db",
-    "5db97c582310b55d5cb3082d"
+    "5db97c582310b55d5cb3082d",
+    "3867b81ea4fb8786f7928c72",
+    "f60157fd3e0f8bf738243c7b",
+    "85ac44f1433a0527e089a7c4",
+    "761cc44d1c48882e3956e69e",
+    "48f386bd3d926e744c133ac6"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2681,7 +2686,12 @@
     "ee29db969a042f72dd7a5763",
     "cf966d73f0847359d0191317",
     "a9638a0f9f6d795cf432ca91",
-    "d0ed217422acae1693a55715"
+    "d0ed217422acae1693a55715",
+    "93c8b59223c5518a9150b11d",
+    "131c03a1d24b0579017c19e3",
+    "d95af6a81e39f6c17ce2510b",
+    "755fc5f935a2de693613ecd8",
+    "bfd071f69c8ebe7df202c97f"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2747,8 +2757,8 @@
     "abbd62e1d4f7bb23aabd8977",
     "1ceb560e4c3c04cd2b7c41a4"
   ],
-  "last_digest_hash": "3513da31372cb8bc727e7b9c9adccdc2c0eff170748c45339476f15b16852c2e",
-  "last_run_iso": "2026-04-13T14:04:59.205888+00:00",
+  "last_digest_hash": "0283c96008f494c5eb8e0508dc117de00a99ea3f7b6896dfd562f1756cbc7097",
+  "last_run_iso": "2026-04-13T15:43:01.505111+00:00",
   "last_breaking_run_iso": "2026-04-12T23:49:11.011991+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -4090,6 +4100,11 @@
     "How the US-Iran talks in Islamabad unfolded": "چگونه مذاکرات آمریکا و ایران در اسلام آباد پیش رفت",
     "Trump family dealings may forever break taboo on US presidents profiting from office": "معاملات خانوادگی ترامپ ممکن است برای همیشه تابوی سود بردن روسای جمهور آمریکا از مقام را بشکند",
     "As Antisemitism spikes, JWed.com sees more Jewish marriages with a record 4,100 - Sponsored Content": "با افزایش یهودستیزی، JWed.com شاهد افزایش ازدواج های یهودیان با رکورد ۴۱۰۰ ازدواج است - محتوای حمایت شده",
-    "Israel is trying to change Jerusalem’s religious identity": "اسرائیل در تلاش است هویت مذهبی اورشلیم را تغییر دهد"
+    "Israel is trying to change Jerusalem’s religious identity": "اسرائیل در تلاش است هویت مذهبی اورشلیم را تغییر دهد",
+    "Massive Attack frontman arrested in London for backing banned anti-Israel group": "خواننده گروه Massive Attack در لندن به دلیل حمایت از گروه ممنوعه ضد اسرائیلی دستگیر شد",
+    "Trump’s threat to blockade Hormuz: Why it’s the latest major escalation": "تهدید ترامپ به محاصره هرمز: چرا این آخرین تشدید بزرگ است",
+    "Trump says Iranian ships will be ‘eliminated’ as US naval blockade begins": "ترامپ می گوید کشتی های ایرانی با آغاز محاصره دریایی آمریکا «نابود» خواهند شد",
+    "Turkish FM: Israel trying to ‘declare Turkey the new enemy’ after Iran": "وزیر اعظم ترکیه: اسرائیل پس از ایران تلاش می کند «ترکیه را دشمن جدید اعلام کند»",
+    "‘No time to waste’: Pro-EU Magyar vows ‘new era’ in Hungary after ousting Orban": "«وقت تلف کردن نیست»: مجارهای طرفدار اتحادیه اروپا پس از برکناری اوربان وعده «عصر جدید» در مجارستان را دادند"
   }
 }

@@ -1375,7 +1375,9 @@
     "3ec2490d0743716917a558e2",
     "2ddee01a9375eb774c2ec928",
     "272589f7e802774ae543269a",
-    "564a7d98449a865c12187545"
+    "564a7d98449a865c12187545",
+    "a5e32a3b64fc61846b8537ce",
+    "ec56dbc8a02a79fb6dc63d67"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2753,7 +2755,9 @@
     "84022dddc101ad99f109ea92",
     "a358382db022b651e0f3515f",
     "bbbbd88f9c35f395f499da62",
-    "85fa1b25087723cf8e5c34c4"
+    "85fa1b25087723cf8e5c34c4",
+    "e28296c130b051c418d11435",
+    "b225e4a1276bf201bfc54471"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2817,11 +2821,12 @@
     "b14c1baab308fdde963d079d",
     "d984cf08035d4f7f86086068",
     "abbd62e1d4f7bb23aabd8977",
-    "1ceb560e4c3c04cd2b7c41a4"
+    "1ceb560e4c3c04cd2b7c41a4",
+    "a5e32a3b64fc61846b8537ce"
   ],
-  "last_digest_hash": "1c9cb1c3dcde8edc2d3905e4d91763bdb146212351b3aa7d3a91e8f46c6e74b3",
-  "last_run_iso": "2026-04-13T22:59:05.745009+00:00",
-  "last_breaking_run_iso": "2026-04-12T23:49:11.011991+00:00",
+  "last_digest_hash": "9cc8522b23f24cc22df76a2e38b617d33e75b860479b9576aee0cd9c08fef3b6",
+  "last_run_iso": "2026-04-13T23:55:33.087649+00:00",
+  "last_breaking_run_iso": "2026-04-13T23:55:33.087649+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -4198,6 +4203,8 @@
     "Hezbollah leader urges Lebanon’s government to pull out of Israel talks": "رهبر حزب الله از دولت لبنان خواست تا از مذاکرات با اسرائیل خارج شود",
     "BBC joins paramedics on duty in Lebanon after Israeli strikes": "بی بی سی پس از حملات اسرائیل به امدادگران در لبنان پیوست",
     "Over 80 years after fleeing the Nazis, a survivor moves to Israel, finally home": "بیش از ۸۰ سال پس از فرار از دست نازی ها، یکی از بازماندگان به اسرائیل بازمی گردد و سرانجام به خانه بازمی گردد",
-    "French cement giant Lafarge guilty of financing ISIL in Syria": "غول سیمان فرانسوی لافارژ به تأمین مالی داعش در سوریه متهم شده است"
+    "French cement giant Lafarge guilty of financing ISIL in Syria": "غول سیمان فرانسوی لافارژ به تأمین مالی داعش در سوریه متهم شده است",
+    "Vance: Lots of progress made in Pakistan talks, there could be ‘a grand deal’ but ball is in Iran’s court": "ونس: پیشرفت زیادی در مذاکرات پاکستان حاصل شده، ممکن است «توافق بزرگ» باشد اما توپ در زمین ایران است",
+    "US positions warships in region as it moves to enforce naval blockade of Iran": "آمریکا در منطقه ناوهای جنگی مستقر می کند تا محاصره دریایی ایران را اعمال کند"
   }
 }

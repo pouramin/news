@@ -1416,7 +1416,16 @@
     "f98fef8c6b08bb52f483b744",
     "5d07db8ba54c80482fea566d",
     "332a721f6b0339d49fabaf17",
-    "7eb33071145cab591fd0deaa"
+    "7eb33071145cab591fd0deaa",
+    "09af056c6a069900a434e03a",
+    "92ab5ad96cb67dee931a0590",
+    "d7a99fb4e17208b52f09e395",
+    "b5137d2a705f80f1ad5cd254",
+    "77fbfdcddd3a44cdb5eadc69",
+    "18b0543ae290da1392c6369a",
+    "2215ab2faae03ba49a779c4b",
+    "48f2c4ffc00f24412ff336f1",
+    "b53a84f0c1fc8a78f67a4192"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2835,7 +2844,16 @@
     "40ea76946ca007b269ffd396",
     "70278980675c203e3b962f9e",
     "2fabc68225d318bd0fce9280",
-    "de41d921edc13d08f728892a"
+    "de41d921edc13d08f728892a",
+    "507b259c95ba1a9131cda252",
+    "9f926dc83e0d4a21b35d78a3",
+    "2c98df351ccdacb52db8a0d2",
+    "cf3a8a358c8eb92f77834f0d",
+    "ac8b69a77669a7048028475b",
+    "05e29a282386cd969b7fcad4",
+    "20bdbf18acb7673663c1988d",
+    "d136c0703e8f352584123808",
+    "56017c6446c54184809cae7a"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2902,8 +2920,8 @@
     "1ceb560e4c3c04cd2b7c41a4",
     "a5e32a3b64fc61846b8537ce"
   ],
-  "last_digest_hash": "0343043c6f1eb88a3568677b4036ffebb4281c7fd5bfbbb980229ff29008683e",
-  "last_run_iso": "2026-04-14T14:10:01.404362+00:00",
+  "last_digest_hash": "9fb2a3f388e6332f8453048d7b73bb65ee2d620c9f84eb5a9396ce43fe3f1379",
+  "last_run_iso": "2026-04-14T16:19:36.969011+00:00",
   "last_breaking_run_iso": "2026-04-13T23:55:33.087649+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -4322,6 +4340,15 @@
     "How the sewers under Nazi-occupied Ukraine gave rise to unexpected Holocaust heroes": "چگونه فاضلاب های تحت اشغال اوکراین نازی ها باعث ظهور قهرمانان غیرمنتظره هولوکاست شدند",
     "Can Pakistan juggle US-Iran mediation with Saudi defence commitments?": "آیا پاکستان می تواند میانجی گری آمریکا و ایران را با تعهدات دفاعی عربستان هماهنگ کند؟",
     "Iran remains an obstacle to the ‘Greater Israel’ project": "ایران همچنان مانعی برای پروژه «اسرائیل بزرگ» است",
-    "Israel ‘wants to reach peace and normalisation with Lebanon’": "اسرائیل «می خواهد با لبنان به صلح و عادی سازی برسد»"
+    "Israel ‘wants to reach peace and normalisation with Lebanon’": "اسرائیل «می خواهد با لبنان به صلح و عادی سازی برسد»",
+    "US blockade of Iran ports irresponsible and dangerous, China says": "محاصره بنادر ایران توسط آمریکا غیرمسئولانه و خطرناک است، چین می گوید",
+    "Italy’s PM: Defence agreement with Israel suspended": "نخست وزیر ایتالیا: توافق دفاعی با اسرائیل تعلیق شد",
+    "Hamas rejects Gaza disarmament plan, Palestinian official says": "حماس طرح خلع سلاح غزه را رد کرد، مقام فلسطینی می گوید",
+    "Gaza shoe display in Amsterdam appears to appropriate Holocaust imagery ahead of Yom Hashoah": "نمایش کفش غزه در آمستردام ظاهرا تصاویر هولوکاست پیش از یوم هشوآ را اقتباس می کند",
+    "Why are the US, Iran arguing over duration of uranium enrichment ban?": "چرا آمریکا و ایران بر سر مدت زمان ممنوعیت غنی سازی اورانیوم بحث می کنند؟",
+    "Italy halts defense agreement with Israel amid Mideast conflict, PM Meloni says": "ایتالیا توافق دفاعی با اسرائیل را در پی درگیری خاورمیانه متوقف کرد، نخست وزیر ملونی می گوید",
+    "US-based Credo Tech snaps up Israeli maker of silicon chips for up to $1.3 billion": "شرکت آمریکایی Credo Tech تولیدکننده تراشه های سیلیکونی اسرائیلی را با قیمتی تا ۱.۳ میلیارد دلار خریداری کرد",
+    "With no one to say Kaddish for many children killed in the Holocaust, a US synagogue steps up": "با نبود کسی که برای بسیاری از کودکان کشته شده در هولوکاست قدیش بگوید، یک کنیسه آمریکایی وارد عمل می شود",
+    "At Auschwitz, Diaspora Jews who lived through terror march alongside Holocaust survivors": "در آشویتس، یهودیان دیاسپورا که از راهپیمایی تروریستی جان سالم به در برده اند، در کنار بازماندگان هولوکاست شرکت می کنند"
   }
 }

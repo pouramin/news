@@ -1406,7 +1406,17 @@
     "b5ada43c1d04e7836aa9c17f",
     "05fc56decfe44eacb661024a",
     "3ad20cd8f00cb131dfa01c7c",
-    "d5533578f1c8e3f9330f7e72"
+    "d5533578f1c8e3f9330f7e72",
+    "8a284b50e273d5422c4e1bc6",
+    "cae1140a659c8421ddb35710",
+    "3435c391c929037cbc319c13",
+    "1a33a23cc7d5f1195be7e83a",
+    "be1c98e64e9276ab345ee450",
+    "472b47b4fdb304f0199a7a1b",
+    "f98fef8c6b08bb52f483b744",
+    "5d07db8ba54c80482fea566d",
+    "332a721f6b0339d49fabaf17",
+    "7eb33071145cab591fd0deaa"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2815,7 +2825,17 @@
     "c013ac1a8226f3f221e6ae1e",
     "b21c4861220d7d9dec9723b2",
     "02b8da629a6676d6514ff13b",
-    "d9d1cf2fbda01d2041599853"
+    "d9d1cf2fbda01d2041599853",
+    "1265cf2a72a0cc40a7fe98f7",
+    "0bce18ad6fdb24c52a0ca2fe",
+    "e6c2026f1db2b0c99fc99fda",
+    "b65d4c00ee3ac6711f0d8e2d",
+    "13178a73ca47b4eae5f3edbd",
+    "9526c14a8042abd2fcbc11d6",
+    "40ea76946ca007b269ffd396",
+    "70278980675c203e3b962f9e",
+    "2fabc68225d318bd0fce9280",
+    "de41d921edc13d08f728892a"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2882,8 +2902,8 @@
     "1ceb560e4c3c04cd2b7c41a4",
     "a5e32a3b64fc61846b8537ce"
   ],
-  "last_digest_hash": "a1fec1389d2f4722968abc5d198a21d01a15e9a3d64ffb32281c8ac3f1531dc2",
-  "last_run_iso": "2026-04-14T12:06:35.004762+00:00",
+  "last_digest_hash": "0343043c6f1eb88a3568677b4036ffebb4281c7fd5bfbbb980229ff29008683e",
+  "last_run_iso": "2026-04-14T14:10:01.404362+00:00",
   "last_breaking_run_iso": "2026-04-13T23:55:33.087649+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -4292,6 +4312,16 @@
     "Israel’s ambassador to Germany assails Smotrich for attack on chancellor": "سفیر اسرائیل در آلمان اسموتریچ را به خاطر حمله به صدر اعظم مورد انتقاد قرار داد",
     "What we know about US-hosted talks between Israel and Lebanon": "آنچه درباره مذاکرات میزبانی شده توسط آمریکا بین اسرائیل و لبنان می دانیم",
     "Petition filed against incoming Mossad director over lack of ‘trustworthiness’": "دادخواست علیه مدیر جدید موساد به دلیل عدم «قابل اعتمادی» ثبت شده است",
-    "Israel-Lebanon direct talks in the US: All to know": "مذاکرات مستقیم اسرائیل و لبنان در آمریکا: همه چیز برای دانستن"
+    "Israel-Lebanon direct talks in the US: All to know": "مذاکرات مستقیم اسرائیل و لبنان در آمریکا: همه چیز برای دانستن",
+    "How many ships have passed the Strait of Hormuz and how many were attacked?": "چند کشتی از تنگه هرمز عبور کرده اند و چند کشتی مورد حمله قرار گرفته اند؟",
+    "How much will US Hormuz blockade hurt Iran, and does Tehran have an escape?": "محاصره هرمز آمریکا چقدر به ایران آسیب خواهد زد و آیا تهران راه فراری دارد؟",
+    "Daily Briefing April 14 – Lebanon and Israel get talking, with shared goal to disarm Hezbollah": "نشست روزانه ۱۴ آوریل – لبنان و اسرائیل با هدف مشترک خلع سلاح حزب الله گفتگو می کنند",
+    "Italy suspends defence agreement with Israel": "ایتالیا توافق دفاعی با اسرائیل را تعلیق کرد",
+    "With memorial siren wailing, Israel remembers Holocaust victims in shadow of war tensions": "با آژیر یادبود، اسرائیل قربانیان هولوکاست را در سایه تنش های جنگی گرامی می دارد",
+    "Jerusalem ceremony recognizes four Jews who rescued other Jews during Holocaust": "مراسم اورشلیم چهار یهودی را که در دوران هولوکاست دیگر یهودیان را نجات دادند، به رسمیت می شناسد",
+    "How the sewers under Nazi-occupied Ukraine gave rise to unexpected Holocaust heroes": "چگونه فاضلاب های تحت اشغال اوکراین نازی ها باعث ظهور قهرمانان غیرمنتظره هولوکاست شدند",
+    "Can Pakistan juggle US-Iran mediation with Saudi defence commitments?": "آیا پاکستان می تواند میانجی گری آمریکا و ایران را با تعهدات دفاعی عربستان هماهنگ کند؟",
+    "Iran remains an obstacle to the ‘Greater Israel’ project": "ایران همچنان مانعی برای پروژه «اسرائیل بزرگ» است",
+    "Israel ‘wants to reach peace and normalisation with Lebanon’": "اسرائیل «می خواهد با لبنان به صلح و عادی سازی برسد»"
   }
 }

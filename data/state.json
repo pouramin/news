@@ -1383,7 +1383,11 @@
     "fc1653c9207189a3abee824d",
     "c02bca05f86fd044e4816386",
     "55efea5b15eebb2fc00610f2",
-    "0e58115d476ba79c1a957068"
+    "0e58115d476ba79c1a957068",
+    "738f82cdceeec2683e3fb11b",
+    "b2f071fb7b6012821494cf18",
+    "de9706814e1118c90410e67c",
+    "5f1945ce62ef6589987aac68"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2769,7 +2773,11 @@
     "d201f389b2f04303916a9579",
     "ef5148dd611519cc1ba2ac02",
     "b006107036ba7d0bd7a62c1d",
-    "8e0aaad135a719f3af2ca7ea"
+    "8e0aaad135a719f3af2ca7ea",
+    "db61f99b29f7e85ae507c126",
+    "0705e8c481d8006eb850fc7d",
+    "235e7beeab513474d674f7c7",
+    "b35621609e4c74b2c308b85b"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2836,8 +2844,8 @@
     "1ceb560e4c3c04cd2b7c41a4",
     "a5e32a3b64fc61846b8537ce"
   ],
-  "last_digest_hash": "6850d44839353d5c95da6c0fb48bcaf3ecf694dc423868c94c405e9122c4dc9b",
-  "last_run_iso": "2026-04-14T03:37:15.828228+00:00",
+  "last_digest_hash": "fa2d578270d6807a162065a88f41bdd5e4a0f9046978b90d9efe950e31094303",
+  "last_run_iso": "2026-04-14T06:07:42.383358+00:00",
   "last_breaking_run_iso": "2026-04-13T23:55:33.087649+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -4223,6 +4231,10 @@
     "Officials seek to temper expectations as Israel, Lebanon envoys set to hold historic meeting": "مقامات تلاش می کنند انتظارات را تعدیل کنند، چرا که نمایندگان اسرائیل و لبنان قرار است دیدار تاریخی برگزار کنند",
     "Anti-war protesters arrested in New York urging end to Israel weapon sales": "معترضان ضد جنگ در نیویورک که خواستار پایان فروش سلاح در اسرائیل بودند دستگیر شدند",
     "Lebanon enters talks with Israel but with no cards to play": "لبنان وارد مذاکرات با اسرائیل می شود اما کارتی برای بازی ندارد",
-    "How an oath by Buchenwald survivors is being used to fuel anti-Israel protests": "چگونه سوگند بازماندگان بوخن والد برای دامن زدن به اعتراضات ضد اسرائیلی استفاده می شود"
+    "How an oath by Buchenwald survivors is being used to fuel anti-Israel protests": "چگونه سوگند بازماندگان بوخن والد برای دامن زدن به اعتراضات ضد اسرائیلی استفاده می شود",
+    "Asia’s stock markets surge, oil falls on hopes for US-Iran talks": "بازارهای سهام آسیا جهش کردند و نفت به دلیل امیدها به مذاکرات آمریکا و ایران کاهش یافت",
+    "IDF eases home front limits in parts of north, tightens rules elsewhere amid Iran truce": "ارتش اسرائیل محدودیت های جبهه داخلی را در بخش هایی از شمال کاهش داده و قوانین را در جاهای دیگر به دلیل آتش بس ایران سخت تر می کند",
+    "Avenging angel risked her life to try to save Warsaw’s Jews — and lived to write about it": "فرشته انتقام جو جان خود را به خطر انداخت تا یهودیان ورشو را نجات دهد — و زنده ماند تا درباره آن بنویسد",
+    "Dublin’s National Concert Hall scraps fundraiser for Israel’s MDA, sparking outcry": "سالن ملی کنسرت دوبلین مراسم جمع آوری کمک مالی برای MDA اسرائیل را لغو کرد و اعتراضاتی را برانگیخت"
   }
 }

@@ -1392,7 +1392,13 @@
     "8dff233cf0b7d4e385c41e14",
     "bdfffa754091a3d8e667fdd8",
     "658cd81484038e721eb7a915",
-    "c3f66326c758cd313759e20d"
+    "c3f66326c758cd313759e20d",
+    "c903f8202d3d0d3569434b81",
+    "28935f28b7510cae798d2b2d",
+    "3be25fb4d24aefe2e89a7afa",
+    "7af2e434e510ca1a36c024a7",
+    "c70b38ef6cc0b2219cc1efb1",
+    "28bb81bd109e06ccaef21352"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2787,7 +2793,13 @@
     "db0e46a677de9d2f38834722",
     "ef326a6e2234618733d7274a",
     "be4039ffaa676884c9a507cd",
-    "44e8181d77a00c7809ac0dd4"
+    "44e8181d77a00c7809ac0dd4",
+    "6e579fabec0571014d6dfd1c",
+    "a14d17bfbd13b3e80313bcb7",
+    "6b843f6e21428f5fd912d1e4",
+    "0bbba86556e60964b6233c27",
+    "c3825b0845da38eddead3c46",
+    "efdd42f56df45cecf0ced62c"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2854,8 +2866,8 @@
     "1ceb560e4c3c04cd2b7c41a4",
     "a5e32a3b64fc61846b8537ce"
   ],
-  "last_digest_hash": "86141327770820618bf16c67769712588e83716acf140eaf5c192f8e982dc70c",
-  "last_run_iso": "2026-04-14T08:50:51.752110+00:00",
+  "last_digest_hash": "9d789e42ed55ea6775a35a8c7cf1820ff335f7f968209d2db8ca0494a47ca236",
+  "last_run_iso": "2026-04-14T10:24:41.540638+00:00",
   "last_breaking_run_iso": "2026-04-13T23:55:33.087649+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -4250,6 +4262,12 @@
     "IDF reservist killed, three injured as vehicle crashes in south Lebanon": "یک سرباز ذخیره ارتش اسرائیل کشته و سه نفر زخمی در تصادفات خودرو در جنوب لبنان",
     "Iran war: What is happening on day 46 of the US-Iran conflict?": "جنگ ایران: در روز چهل و ششم درگیری آمریکا و ایران چه اتفاقی در حال رخ دادن است؟",
     "Palestine weekly wrap: ‘Master of the house’ says Ben-Gvir as Al-Aqsa opens": "خلاصه هفتگی فلسطین: «ارباب خانه» بن گویر در آغاز الاقصی می گوید",
-    "Neo-Nazi pleads guilty to trying to give Hezbollah intel on Israeli officials in US": "نئونازی به تلاش برای دادن اطلاعات به حزب الله درباره مقامات اسرائیلی در آمریکا اعتراف کرد"
+    "Neo-Nazi pleads guilty to trying to give Hezbollah intel on Israeli officials in US": "نئونازی به تلاش برای دادن اطلاعات به حزب الله درباره مقامات اسرائیلی در آمریکا اعتراف کرد",
+    "World faces food ‘catastrophe’ if Strait of Hormuz disruption persists: FAO": "اگر اختلالات تنگه هرمز ادامه یابد، جهان با «فاجعه» غذایی روبرو خواهد شد: فائو",
+    "Sanctioned tankers transit Strait of Hormuz amid US blockade": "تانکرهای تحریم شده در میان محاصره آمریکا از تنگه هرمز عبور می کنند",
+    "Russia’s Lavrov visits China as US pressures Iran with Hormuz blockade": "لاوروف روسیه در حالی که آمریکا با محاصره هرمز به ایران فشار می آورد، به چین سفر می کند",
+    "Standing with Our Soldiers - Sponsored Content": "ایستادن در کنار سربازان ما - محتوای حمایت شده",
+    "Live on Sunday: Declaration of Independence at the Kotel - Sponsored Content": "زنده در یکشنبه: اعلام استقلال در کتل - محتوای حمایت شده",
+    "Who still reads Holocaust stories? A publisher sees shifting trends after October 7": "چه کسی هنوز داستان های هولوکاست را می خواند؟ یک ناشر شاهد تغییر روندها پس از ۷ اکتبر است"
   }
 }

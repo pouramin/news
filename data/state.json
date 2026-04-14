@@ -1387,7 +1387,12 @@
     "738f82cdceeec2683e3fb11b",
     "b2f071fb7b6012821494cf18",
     "de9706814e1118c90410e67c",
-    "5f1945ce62ef6589987aac68"
+    "5f1945ce62ef6589987aac68",
+    "2332ce5574cdb3312ac9f825",
+    "8dff233cf0b7d4e385c41e14",
+    "bdfffa754091a3d8e667fdd8",
+    "658cd81484038e721eb7a915",
+    "c3f66326c758cd313759e20d"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2777,7 +2782,12 @@
     "db61f99b29f7e85ae507c126",
     "0705e8c481d8006eb850fc7d",
     "235e7beeab513474d674f7c7",
-    "b35621609e4c74b2c308b85b"
+    "b35621609e4c74b2c308b85b",
+    "0f738791b185b7f68837d61c",
+    "db0e46a677de9d2f38834722",
+    "ef326a6e2234618733d7274a",
+    "be4039ffaa676884c9a507cd",
+    "44e8181d77a00c7809ac0dd4"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2844,8 +2854,8 @@
     "1ceb560e4c3c04cd2b7c41a4",
     "a5e32a3b64fc61846b8537ce"
   ],
-  "last_digest_hash": "fa2d578270d6807a162065a88f41bdd5e4a0f9046978b90d9efe950e31094303",
-  "last_run_iso": "2026-04-14T06:07:42.383358+00:00",
+  "last_digest_hash": "86141327770820618bf16c67769712588e83716acf140eaf5c192f8e982dc70c",
+  "last_run_iso": "2026-04-14T08:50:51.752110+00:00",
   "last_breaking_run_iso": "2026-04-13T23:55:33.087649+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -4235,6 +4245,11 @@
     "Asia’s stock markets surge, oil falls on hopes for US-Iran talks": "بازارهای سهام آسیا جهش کردند و نفت به دلیل امیدها به مذاکرات آمریکا و ایران کاهش یافت",
     "IDF eases home front limits in parts of north, tightens rules elsewhere amid Iran truce": "ارتش اسرائیل محدودیت های جبهه داخلی را در بخش هایی از شمال کاهش داده و قوانین را در جاهای دیگر به دلیل آتش بس ایران سخت تر می کند",
     "Avenging angel risked her life to try to save Warsaw’s Jews — and lived to write about it": "فرشته انتقام جو جان خود را به خطر انداخت تا یهودیان ورشو را نجات دهد — و زنده ماند تا درباره آن بنویسد",
-    "Dublin’s National Concert Hall scraps fundraiser for Israel’s MDA, sparking outcry": "سالن ملی کنسرت دوبلین مراسم جمع آوری کمک مالی برای MDA اسرائیل را لغو کرد و اعتراضاتی را برانگیخت"
+    "Dublin’s National Concert Hall scraps fundraiser for Israel’s MDA, sparking outcry": "سالن ملی کنسرت دوبلین مراسم جمع آوری کمک مالی برای MDA اسرائیل را لغو کرد و اعتراضاتی را برانگیخت",
+    "Vance: Lot of progress made in talks toward ‘grand deal,’ but ball in Iran’s court": "ونس: پیشرفت زیادی در مذاکرات به سوی «توافق بزرگ» حاصل شده، اما توپ در زمین ایران است",
+    "IDF reservist killed, three injured as vehicle crashes in south Lebanon": "یک سرباز ذخیره ارتش اسرائیل کشته و سه نفر زخمی در تصادفات خودرو در جنوب لبنان",
+    "Iran war: What is happening on day 46 of the US-Iran conflict?": "جنگ ایران: در روز چهل و ششم درگیری آمریکا و ایران چه اتفاقی در حال رخ دادن است؟",
+    "Palestine weekly wrap: ‘Master of the house’ says Ben-Gvir as Al-Aqsa opens": "خلاصه هفتگی فلسطین: «ارباب خانه» بن گویر در آغاز الاقصی می گوید",
+    "Neo-Nazi pleads guilty to trying to give Hezbollah intel on Israeli officials in US": "نئونازی به تلاش برای دادن اطلاعات به حزب الله درباره مقامات اسرائیلی در آمریکا اعتراف کرد"
   }
 }

@@ -1447,7 +1447,8 @@
     "ae43a0620585096f8f59464f",
     "1d140879111df5f168e460e3",
     "b2d3ecd5ab0901f6ddef23b2",
-    "762494d14fe3fad0eeab791c"
+    "762494d14fe3fad0eeab791c",
+    "b6da3ee41a5f11039fabbff6"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2897,7 +2898,8 @@
     "ded2c253f157c685c2eaad22",
     "fded7629b80efe594c01a076",
     "97dd3022650399eaac6c8637",
-    "52f1fad851b77e66b28cab64"
+    "52f1fad851b77e66b28cab64",
+    "4ca37f90379fbb09741a3240"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2965,8 +2967,8 @@
     "a5e32a3b64fc61846b8537ce",
     "7d669b49ca292b63dafa8cbc"
   ],
-  "last_digest_hash": "f86f72a613d80e11c6c8c955b9f0ba43e830a1058639f14f4232743f2ccfdc9b",
-  "last_run_iso": "2026-04-14T22:01:33.189329+00:00",
+  "last_digest_hash": "4310804cb0416624e9fd9aea7b7c9f3ffc789d5829bb8c22d62b93a15aa98afc",
+  "last_run_iso": "2026-04-14T22:59:35.829153+00:00",
   "last_breaking_run_iso": "2026-04-14T20:13:57.786281+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -4416,6 +4418,7 @@
     "Israeli attack kills several people in Gaza refugee camp": "حمله اسرائیل چندین نفر را در اردوگاه پناهندگان غزه کشت",
     "Tunisia broadens access to annual Jewish pilgrimage to Africa’s oldest synagogue": "تونس دسترسی به زیارت سالانه یهودیان به قدیمی ترین کنیسه آفریقا را گسترش می دهد",
     "Knesset finance panel approves nearly NIS 100M in additional funds for Haredi schools": "هیئت مالی کنست تقریبا ۱۰۰ میلیون شِکل بودجه اضافی برای مدارس حریدی تصویب کرد",
-    "100 bereaved families ask coalition MKs to skip cemetery speeches on upcoming Memorial Day": "۱۰۰ خانواده داغدار از نمایندگان ائتلاف می خواهند که در روز یادبود پیش رو سخنرانی های قبرستان را نکنند"
+    "100 bereaved families ask coalition MKs to skip cemetery speeches on upcoming Memorial Day": "۱۰۰ خانواده داغدار از نمایندگان ائتلاف می خواهند که در روز یادبود پیش رو سخنرانی های قبرستان را نکنند",
+    "Ukraine asks Israel to detain Russian ship carrying stolen grain that docked in Haifa": "اوکراین از اسرائیل خواست کشتی روسی حامل غلات دزدیده شده که در حیفا پهلو گرفته بود را بازداشت کند"
   }
 }

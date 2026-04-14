@@ -1398,7 +1398,15 @@
     "3be25fb4d24aefe2e89a7afa",
     "7af2e434e510ca1a36c024a7",
     "c70b38ef6cc0b2219cc1efb1",
-    "28bb81bd109e06ccaef21352"
+    "28bb81bd109e06ccaef21352",
+    "53a60ddbfe148715da91fecb",
+    "39336f8086eb4c0e575fa56f",
+    "b78c94c96af8ecdcecc18397",
+    "0f309316f477d4894a62efcf",
+    "b5ada43c1d04e7836aa9c17f",
+    "05fc56decfe44eacb661024a",
+    "3ad20cd8f00cb131dfa01c7c",
+    "d5533578f1c8e3f9330f7e72"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2799,7 +2807,15 @@
     "6b843f6e21428f5fd912d1e4",
     "0bbba86556e60964b6233c27",
     "c3825b0845da38eddead3c46",
-    "efdd42f56df45cecf0ced62c"
+    "efdd42f56df45cecf0ced62c",
+    "c079e79e70c1e8e823f135a3",
+    "f9e4798d917c684ac70264b2",
+    "bb47130eecc5fad82626468e",
+    "0da3ce9127abcce76eea42b9",
+    "c013ac1a8226f3f221e6ae1e",
+    "b21c4861220d7d9dec9723b2",
+    "02b8da629a6676d6514ff13b",
+    "d9d1cf2fbda01d2041599853"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2866,8 +2882,8 @@
     "1ceb560e4c3c04cd2b7c41a4",
     "a5e32a3b64fc61846b8537ce"
   ],
-  "last_digest_hash": "9d789e42ed55ea6775a35a8c7cf1820ff335f7f968209d2db8ca0494a47ca236",
-  "last_run_iso": "2026-04-14T10:24:41.540638+00:00",
+  "last_digest_hash": "a1fec1389d2f4722968abc5d198a21d01a15e9a3d64ffb32281c8ac3f1531dc2",
+  "last_run_iso": "2026-04-14T12:06:35.004762+00:00",
   "last_breaking_run_iso": "2026-04-13T23:55:33.087649+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -4268,6 +4284,14 @@
     "Russia’s Lavrov visits China as US pressures Iran with Hormuz blockade": "لاوروف روسیه در حالی که آمریکا با محاصره هرمز به ایران فشار می آورد، به چین سفر می کند",
     "Standing with Our Soldiers - Sponsored Content": "ایستادن در کنار سربازان ما - محتوای حمایت شده",
     "Live on Sunday: Declaration of Independence at the Kotel - Sponsored Content": "زنده در یکشنبه: اعلام استقلال در کتل - محتوای حمایت شده",
-    "Who still reads Holocaust stories? A publisher sees shifting trends after October 7": "چه کسی هنوز داستان های هولوکاست را می خواند؟ یک ناشر شاهد تغییر روندها پس از ۷ اکتبر است"
+    "Who still reads Holocaust stories? A publisher sees shifting trends after October 7": "چه کسی هنوز داستان های هولوکاست را می خواند؟ یک ناشر شاهد تغییر روندها پس از ۷ اکتبر است",
+    "Global oil demand to plunge amid disruptions caused by war on Iran: IEA": "تقاضای جهانی نفت در پی اختلالات ناشی از جنگ علیه ایران کاهش خواهد یافت: آژانس بین المللی انرژی",
+    "Iran slams YouTube ban on pro-Iranian group’s Lego-style AI videos": "ایران ممنوعیت یوتیوب بر ویدیوهای هوش مصنوعی سبک لگو گروه طرفدار ایران را محکوم کرد",
+    "Who controls the Strait of Hormuz?": "چه کسی تنگه هرمز را کنترل می کند؟",
+    "Prosecutors demand copy of Shin Bet head’s letter on PM’s inability to testify": "دادستان ها خواستار نسخه ای از نامه رئیس شین بت درباره ناتوانی نخست وزیر در شهادت شدند",
+    "Israel’s ambassador to Germany assails Smotrich for attack on chancellor": "سفیر اسرائیل در آلمان اسموتریچ را به خاطر حمله به صدر اعظم مورد انتقاد قرار داد",
+    "What we know about US-hosted talks between Israel and Lebanon": "آنچه درباره مذاکرات میزبانی شده توسط آمریکا بین اسرائیل و لبنان می دانیم",
+    "Petition filed against incoming Mossad director over lack of ‘trustworthiness’": "دادخواست علیه مدیر جدید موساد به دلیل عدم «قابل اعتمادی» ثبت شده است",
+    "Israel-Lebanon direct talks in the US: All to know": "مذاکرات مستقیم اسرائیل و لبنان در آمریکا: همه چیز برای دانستن"
   }
 }

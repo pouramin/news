@@ -1377,7 +1377,13 @@
     "272589f7e802774ae543269a",
     "564a7d98449a865c12187545",
     "a5e32a3b64fc61846b8537ce",
-    "ec56dbc8a02a79fb6dc63d67"
+    "ec56dbc8a02a79fb6dc63d67",
+    "dc504661ac4d7870ff73bcac",
+    "16654e91ac2acfdec8e82f42",
+    "fc1653c9207189a3abee824d",
+    "c02bca05f86fd044e4816386",
+    "55efea5b15eebb2fc00610f2",
+    "0e58115d476ba79c1a957068"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2757,7 +2763,13 @@
     "bbbbd88f9c35f395f499da62",
     "85fa1b25087723cf8e5c34c4",
     "e28296c130b051c418d11435",
-    "b225e4a1276bf201bfc54471"
+    "b225e4a1276bf201bfc54471",
+    "ca650878e70ce9295f0e7f93",
+    "baf881208b3d13f6d176c3ad",
+    "d201f389b2f04303916a9579",
+    "ef5148dd611519cc1ba2ac02",
+    "b006107036ba7d0bd7a62c1d",
+    "8e0aaad135a719f3af2ca7ea"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2824,8 +2836,8 @@
     "1ceb560e4c3c04cd2b7c41a4",
     "a5e32a3b64fc61846b8537ce"
   ],
-  "last_digest_hash": "9cc8522b23f24cc22df76a2e38b617d33e75b860479b9576aee0cd9c08fef3b6",
-  "last_run_iso": "2026-04-13T23:55:33.087649+00:00",
+  "last_digest_hash": "6850d44839353d5c95da6c0fb48bcaf3ecf694dc423868c94c405e9122c4dc9b",
+  "last_run_iso": "2026-04-14T03:37:15.828228+00:00",
   "last_breaking_run_iso": "2026-04-13T23:55:33.087649+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -4205,6 +4217,12 @@
     "Over 80 years after fleeing the Nazis, a survivor moves to Israel, finally home": "بیش از ۸۰ سال پس از فرار از دست نازی ها، یکی از بازماندگان به اسرائیل بازمی گردد و سرانجام به خانه بازمی گردد",
     "French cement giant Lafarge guilty of financing ISIL in Syria": "غول سیمان فرانسوی لافارژ به تأمین مالی داعش در سوریه متهم شده است",
     "Vance: Lots of progress made in Pakistan talks, there could be ‘a grand deal’ but ball is in Iran’s court": "ونس: پیشرفت زیادی در مذاکرات پاکستان حاصل شده، ممکن است «توافق بزرگ» باشد اما توپ در زمین ایران است",
-    "US positions warships in region as it moves to enforce naval blockade of Iran": "آمریکا در منطقه ناوهای جنگی مستقر می کند تا محاصره دریایی ایران را اعمال کند"
+    "US positions warships in region as it moves to enforce naval blockade of Iran": "آمریکا در منطقه ناوهای جنگی مستقر می کند تا محاصره دریایی ایران را اعمال کند",
+    "Trump deletes meme depicting him as Jesus, refuses to apologize amid feud with pope over Iran war": "ترامپ میم هایی را که او را به عنوان عیسی نشان می دادند حذف کرد و در میان اختلافات با پاپ بر سر جنگ ایران از عذرخواهی خودداری کرد",
+    "Iran war live: Trump says Tehran wants deal as US blockade in Hormuz begins": "جنگ ایران زنده: ترامپ می گوید تهران خواهان توافق است در حالی که محاصره آمریکا در هرمز آغاز شده است",
+    "Officials seek to temper expectations as Israel, Lebanon envoys set to hold historic meeting": "مقامات تلاش می کنند انتظارات را تعدیل کنند، چرا که نمایندگان اسرائیل و لبنان قرار است دیدار تاریخی برگزار کنند",
+    "Anti-war protesters arrested in New York urging end to Israel weapon sales": "معترضان ضد جنگ در نیویورک که خواستار پایان فروش سلاح در اسرائیل بودند دستگیر شدند",
+    "Lebanon enters talks with Israel but with no cards to play": "لبنان وارد مذاکرات با اسرائیل می شود اما کارتی برای بازی ندارد",
+    "How an oath by Buchenwald survivors is being used to fuel anti-Israel protests": "چگونه سوگند بازماندگان بوخن والد برای دامن زدن به اعتراضات ضد اسرائیلی استفاده می شود"
   }
 }

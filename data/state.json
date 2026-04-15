@@ -1460,7 +1460,12 @@
     "4d9168f57f05b8441d87b30e",
     "dd9cc1a0d9bb7f01d71f8d3f",
     "ab9bfe15d83117c58de24f27",
-    "25d98ebfb6db9e3cd22f9129"
+    "25d98ebfb6db9e3cd22f9129",
+    "bdd6393fc92efc9792ca6931",
+    "ca521205189083223b50af13",
+    "f3a97bdd35860b10c3dc0216",
+    "8c7865a356c6df06bd0a2b2b",
+    "c51fa931a3c5a6302610c924"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2923,7 +2928,12 @@
     "58048cc2dec112c278472be1",
     "4ab75453a8b454f25fc896e5",
     "75c1ca30b25bb087cb1459a0",
-    "d0311b8b39bc20697998eff0"
+    "d0311b8b39bc20697998eff0",
+    "a4bacf43ba3f456108a27bc5",
+    "0d544389bf1d4166c26e99a4",
+    "8cd336f4d78fed44e1611586",
+    "53bc6476dbb9da52252efdc5",
+    "b1af07b1682599ccca8581e9"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -2991,8 +3001,8 @@
     "a5e32a3b64fc61846b8537ce",
     "7d669b49ca292b63dafa8cbc"
   ],
-  "last_digest_hash": "fdceeeec124f32ba88978a641fb0605c4caf343ae65da8939a97c83bf0be06b9",
-  "last_run_iso": "2026-04-15T03:36:22.526499+00:00",
+  "last_digest_hash": "972aa6612d6009e6095b97e94bbf71354a0cac567e280036c4d1c0eb9ed65659",
+  "last_run_iso": "2026-04-15T06:07:16.701562+00:00",
   "last_breaking_run_iso": "2026-04-14T20:13:57.786281+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -4455,6 +4465,11 @@
     "Israel and Lebanon hold direct talks for first time in decades": "اسرائیل و لبنان برای اولین بار در دهه ها مذاکرات مستقیم برگزار می کنند",
     "'Bit of pain' worth long-term security from Iran, Bessent tells BBC": "بسنت به بی بی سی گفت «کمی درد» ارزش امنیت بلندمدت از ایران را دارد",
     "My grandfather, the Nazi: A German historian helps families unravel forebears’ crimes": "پدربزرگم، نازی: یک مورخ آلمانی به خانواده ها کمک می کند تا جنایات نیاکان را کشف کنند",
-    "Cops detain 70 Palestinians hiding in garbage truck while trying to enter Israel": "پلیس ۷۰ فلسطینی را که هنگام تلاش برای ورود به اسرائیل در کامیون زباله پنهان شده بودند، بازداشت کرد"
+    "Cops detain 70 Palestinians hiding in garbage truck while trying to enter Israel": "پلیس ۷۰ فلسطینی را که هنگام تلاش برای ورود به اسرائیل در کامیون زباله پنهان شده بودند، بازداشت کرد",
+    "US military says blockade of Iran ports ‘completely’ halts economic trade": "ارتش آمریکا می گوید محاصره بنادر ایران «کاملا» تجارت اقتصادی را متوقف کرده است",
+    "Israeli legal advocay group files ICC case against Spanish PM over exports to Iran": "گروه حقوقی اسرائیل علیه نخست وزیر اسپانیا به دلیل صادرات به ایران، شکایت دادگاه کیفری بین المللی را مطرح کرد",
+    "In first for an Israeli, Avdija leads Portland to NBA playoffs with 41 points": "آودیا که برای یک اسرائیلی در رتبه اول قرار دارد، با ۴۱ امتیاز پورتلند را به پلی آف NBA هدایت می کند",
+    "Ben and Jerry’s founder wants Magnum to sell brand; conglomerate says it’s not for sale": "بنیان گذار بن و جری می خواهد مگنوم برند خود را بفروشد؛ شرکت بزرگ می گوید برای فروش نیست",
+    "College that pioneered Holocaust studies and birthed Yiddish Book Center to close": "دانشگاهی که پیشگام مطالعات هولوکاست بود و مرکز کتاب ییدیش را تعطیل کرد"
   }
 }

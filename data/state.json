@@ -1477,7 +1477,14 @@
     "73f7c5704750ef808e8b96f4",
     "f7c4ed8a0bd6084d44b0fbbf",
     "072d52ce9f5c07f0410dc278",
-    "51fd11bd3be3241a528af78e"
+    "51fd11bd3be3241a528af78e",
+    "e2264f497ab08d6a227fc50d",
+    "38d36fedaa7a8b6c9b3c8454",
+    "8eddd9785ed3d957b2cd5e05",
+    "7fe8a1a6af2332a45ba8ea91",
+    "3425621c5da05f669629d433",
+    "9a4d6d02d22ee8498a017e50",
+    "ea3c00d6ab7fea883f7d104b"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2957,7 +2964,14 @@
     "c9c68c2562b1806ddf55a374",
     "7c63438e1dc7b2345df6cf0f",
     "936690826712834eeac145da",
-    "477d5235303968f25080e14c"
+    "477d5235303968f25080e14c",
+    "22f682240b8e6878358b6c81",
+    "e6e47c1e5430296c061274b2",
+    "e1b6e394e9098570505b9f1c",
+    "fe98ae236e7f35a79a3234f5",
+    "63140d3373ed98b673a1548c",
+    "a302972d1b87fd4166dcc453",
+    "7501075f7bcc73c1b810a9fc"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3026,8 +3040,8 @@
     "7d669b49ca292b63dafa8cbc",
     "e49e9acc9ea276da4e465c0a"
   ],
-  "last_digest_hash": "023eef88574875b6d3429d39ae761b59e44655eada72473eaf8fc9752628cf44",
-  "last_run_iso": "2026-04-15T09:47:03.931802+00:00",
+  "last_digest_hash": "8842eef89148e5ae280bc2ca1a51484219f0590bd4f9d49c950e5fbd3d037c4b",
+  "last_run_iso": "2026-04-15T11:13:32.963939+00:00",
   "last_breaking_run_iso": "2026-04-15T08:03:56.449860+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -4507,6 +4521,13 @@
     "Palestinian leader Barghouti endures ‘violent’ assaults in Israeli prisons": "رهبر فلسطینی بارغوثی در زندان های اسرائیل با حملات «خشونت آمیز» مواجه است",
     "‘Food is unifying’: How Lebanon’s migrants are feeding the war-displaced": "«غذا وحدت بخش است»: چگونه مهاجران لبنان به آوارگان جنگ زده غذا می دهند",
     "Petition seeks probe of Channel 14, calling it ‘pure poison capsule’ undermining court": "دادخواست خواستار تحقیق درباره کانال ۱۴ است و آن را «کپسول سم خالص» خوانده و دادگاه را تضعیف می کند",
-    "Iran citizen held in France over pro-Palestine comments returns home": "شهروند ایرانی که به دلیل اظهارنظرهای طرفدار فلسطین در فرانسه بازداشت شده بود، به کشورش بازمی گردد"
+    "Iran citizen held in France over pro-Palestine comments returns home": "شهروند ایرانی که به دلیل اظهارنظرهای طرفدار فلسطین در فرانسه بازداشت شده بود، به کشورش بازمی گردد",
+    "Nazareth woman charged with spying for Iran": "زن ناصره به جاسوسی برای ایران متهم شده است",
+    "Daily Briefing April 15 — Hezbollah rockets continue to pummel Israel’s north": "گزارش روزانه ۱۵ آوریل — راکت های حزب الله همچنان شمال اسرائیل را هدف قرار می دهند",
+    "More than 200 Iranian sailors stranded after US torpedo attack return home": "بیش از ۲۰۰ ملوان ایرانی پس از حمله اژدر آمریکا به خانه بازمی گردند",
+    "Kanye West postpones Marseille concert after French authorities say they’ll seek ban": "کانیه وست کنسرت مارسی را پس از آنکه مقامات فرانسوی اعلام کردند قصد دارند ممنوع شود، به تعویق انداخت",
+    "What you need to know about Israel’s ambassador to the US": "آنچه باید درباره سفیر اسرائیل در آمریکا بدانید",
+    "Italy suspends long-standing defence agreement with Israel": "ایتالیا توافق دفاعی طولانی مدت با اسرائیل را تعلیق کرد",
+    "US scraps deadline for Holocaust-looted art claims, paving way for new restitution efforts": "مهلت ضایعات آمریکا برای ادعاهای آثار هنری غارت شده در هولوکاست را لغو کرد و راه را برای تلاش های جدید بازگرداندن اموال هموار کرد"
   }
 }

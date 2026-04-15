@@ -1484,7 +1484,16 @@
     "7fe8a1a6af2332a45ba8ea91",
     "3425621c5da05f669629d433",
     "9a4d6d02d22ee8498a017e50",
-    "ea3c00d6ab7fea883f7d104b"
+    "ea3c00d6ab7fea883f7d104b",
+    "664551b11a5c21dd2d0aeaa8",
+    "b0fe31696b90e92caaa84b87",
+    "f128d57eca0f19bfaacf769d",
+    "1737285a35b6417651e923e7",
+    "5f771ed8587748a3e34922b1",
+    "f81843ea77fdf967513c8b35",
+    "aaa99ee36b0e8d5d55762078",
+    "e3270304f085920cba81dea8",
+    "0081eee5b1b8085f20dd436f"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2971,7 +2980,16 @@
     "fe98ae236e7f35a79a3234f5",
     "63140d3373ed98b673a1548c",
     "a302972d1b87fd4166dcc453",
-    "7501075f7bcc73c1b810a9fc"
+    "7501075f7bcc73c1b810a9fc",
+    "ccf3edc79216b3ce191c1abf",
+    "cf011a709ef10139d7537a68",
+    "478fcdf6af37dfe7a77bedaf",
+    "6b4792c093813167027f643f",
+    "e87b232a553a66d1bcbbf752",
+    "703953ea9ffee38230279d23",
+    "0ae45ccc42ce3d7274a66eaa",
+    "5f2ac05acf25192208143f9b",
+    "0b7844a7ccfba23bc1e45df2"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3040,8 +3058,8 @@
     "7d669b49ca292b63dafa8cbc",
     "e49e9acc9ea276da4e465c0a"
   ],
-  "last_digest_hash": "8842eef89148e5ae280bc2ca1a51484219f0590bd4f9d49c950e5fbd3d037c4b",
-  "last_run_iso": "2026-04-15T11:13:32.963939+00:00",
+  "last_digest_hash": "b147edb35e0a41bebaec30c77d9c3775f930c77e9903aa90dd6a9ffa66032946",
+  "last_run_iso": "2026-04-15T14:01:30.369453+00:00",
   "last_breaking_run_iso": "2026-04-15T08:03:56.449860+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -4528,6 +4546,15 @@
     "Kanye West postpones Marseille concert after French authorities say they’ll seek ban": "کانیه وست کنسرت مارسی را پس از آنکه مقامات فرانسوی اعلام کردند قصد دارند ممنوع شود، به تعویق انداخت",
     "What you need to know about Israel’s ambassador to the US": "آنچه باید درباره سفیر اسرائیل در آمریکا بدانید",
     "Italy suspends long-standing defence agreement with Israel": "ایتالیا توافق دفاعی طولانی مدت با اسرائیل را تعلیق کرد",
-    "US scraps deadline for Holocaust-looted art claims, paving way for new restitution efforts": "مهلت ضایعات آمریکا برای ادعاهای آثار هنری غارت شده در هولوکاست را لغو کرد و راه را برای تلاش های جدید بازگرداندن اموال هموار کرد"
+    "US scraps deadline for Holocaust-looted art claims, paving way for new restitution efforts": "مهلت ضایعات آمریکا برای ادعاهای آثار هنری غارت شده در هولوکاست را لغو کرد و راه را برای تلاش های جدید بازگرداندن اموال هموار کرد",
+    "Anger in Lebanon as Israel launches deadly strikes despite diplomatic drive": "خشم در لبنان در حالی که اسرائیل با وجود تلاش های دیپلماتیک حملات مرگبار انجام می دهد",
+    "Starmer 'not going to yield' to pressure from Trump on Iran war": "استارمر در برابر فشار ترامپ درباره جنگ ایران «تسلیم نخواهد شد»",
+    "Comptroller pans government for failing to plan for air travel turbulence during war": "حسابرس کل دولت را به خاطر عدم برنامه ریزی برای تلاطم های هوایی در طول جنگ مورد انتقاد قرار داد",
+    "One hurt as Hezbollah fires over 40 rockets at northern Israel": "یک نفر زخمی شد در حالی که حزب الله بیش از ۴۰ راکت به شمال اسرائیل شلیک کرد",
+    "What are Iran’s $100bn in frozen assets and where are they held?": "دارایی های منجمد شده ۱۰۰ میلیارد دلاری ایران چقدر است و کجا نگهداری می شوند؟",
+    "Asian Cup 2027 draw in Saudi Arabia moved to May 9 over Iran war": "قرعه کشی جام ملت های آسیا ۲۰۲۷ در عربستان سعودی به ۹ مه منتقل شد به دلیل جنگ با ایران",
+    "North Macedonian synagogue hit by arson in country’s 1st antisemitic attack since Holocaust": "کنیسه مقدونیه شمالی در نخستین حمله ضدیهودی این کشور پس از هولوکاست هدف آتش سوزی عمدی قرار گرفت",
+    "As world focuses on Iran, Israel ‘engineering starvation policy’ in Gaza": "در حالی که جهان بر ایران تمرکز دارد، اسرائیل «سیاست قحطی سازی» در غزه را مهندسی می کند",
+    "Double standards? Why Iran’s nukes are scrutinised, Israel gets a pass": "استانداردهای دوگانه؟ چرا سلاح های هسته ای ایران زیر ذره بین قرار می گیرند، اسرائیل بخشیده می شود"
   }
 }

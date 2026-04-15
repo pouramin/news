@@ -1493,7 +1493,15 @@
     "f81843ea77fdf967513c8b35",
     "aaa99ee36b0e8d5d55762078",
     "e3270304f085920cba81dea8",
-    "0081eee5b1b8085f20dd436f"
+    "0081eee5b1b8085f20dd436f",
+    "a7924b377065d0222c614321",
+    "2279fa8085befbc2262af63a",
+    "103b46d1139af2c5fd2076ce",
+    "2f9b7014b44e57d825682a38",
+    "8e79d99776d60424ad901f57",
+    "dbad526dedac31f924563e19",
+    "42d9de5f0668716c4be30a44",
+    "ddc2832a4f50b02887b42cf8"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2989,7 +2997,15 @@
     "703953ea9ffee38230279d23",
     "0ae45ccc42ce3d7274a66eaa",
     "5f2ac05acf25192208143f9b",
-    "0b7844a7ccfba23bc1e45df2"
+    "0b7844a7ccfba23bc1e45df2",
+    "4f74e1306be1773fe7ff219e",
+    "cdf0e5ef75b154b84622d582",
+    "83e49f0b02dbcb57f1a3fcae",
+    "5a5ddd9497c13d4345a4db67",
+    "902de993607624d8f49321f2",
+    "26cc8810b4cbd46666fb907f",
+    "ab670d72d654dc37e49e6478",
+    "af8c92b00661b098828ee377"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3058,8 +3074,8 @@
     "7d669b49ca292b63dafa8cbc",
     "e49e9acc9ea276da4e465c0a"
   ],
-  "last_digest_hash": "b147edb35e0a41bebaec30c77d9c3775f930c77e9903aa90dd6a9ffa66032946",
-  "last_run_iso": "2026-04-15T14:01:30.369453+00:00",
+  "last_digest_hash": "b8001c4ebbf91b41bf56c4daf476c2d999ecd39c5721416808f6fb24fada90eb",
+  "last_run_iso": "2026-04-15T15:18:57.025345+00:00",
   "last_breaking_run_iso": "2026-04-15T08:03:56.449860+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -4555,6 +4571,14 @@
     "Asian Cup 2027 draw in Saudi Arabia moved to May 9 over Iran war": "قرعه کشی جام ملت های آسیا ۲۰۲۷ در عربستان سعودی به ۹ مه منتقل شد به دلیل جنگ با ایران",
     "North Macedonian synagogue hit by arson in country’s 1st antisemitic attack since Holocaust": "کنیسه مقدونیه شمالی در نخستین حمله ضدیهودی این کشور پس از هولوکاست هدف آتش سوزی عمدی قرار گرفت",
     "As world focuses on Iran, Israel ‘engineering starvation policy’ in Gaza": "در حالی که جهان بر ایران تمرکز دارد، اسرائیل «سیاست قحطی سازی» در غزه را مهندسی می کند",
-    "Double standards? Why Iran’s nukes are scrutinised, Israel gets a pass": "استانداردهای دوگانه؟ چرا سلاح های هسته ای ایران زیر ذره بین قرار می گیرند، اسرائیل بخشیده می شود"
+    "Double standards? Why Iran’s nukes are scrutinised, Israel gets a pass": "استانداردهای دوگانه؟ چرا سلاح های هسته ای ایران زیر ذره بین قرار می گیرند، اسرائیل بخشیده می شود",
+    "Israel and Hezbollah continue attacks after Israel-Lebanon talks in US": "اسرائیل و حزب الله پس از مذاکرات اسرائیل و لبنان در آمریکا به حملات خود ادامه می دهند",
+    "Conflicting reactions to direct talks with Israel underscore Lebanon’s deep internal rift": "واکنش های متناقض به مذاکرات مستقیم با اسرائیل شکاف عمیق داخلی لبنان را برجسته می کند",
+    "US-Iran talks: What’s the latest on mediation efforts?": "مذاکرات آمریکا و ایران: آخرین اخبار درباره تلاش های میانجی گری چیست؟",
+    "Israel boxes Paris out of Lebanon talks, halts arms buys as French disconnect grows": "اسرائیل پاریس را از مذاکرات لبنان کنار می زند، خرید تسلیحات را متوقف می کند در حالی که شکاف فرانسه رو به افزایش است",
+    "Year-long IDF closure said to bolster settler violence by only barring Palestinians’ allies": "بسته شدن یک ساله ارتش اسرائیل گفته می شود که خشونت شهرک نشینان را تقویت می کند و تنها متحدان فلسطینی را ممنوع می کند",
+    "What people in Lebanon are saying about talks with Israel": "آنچه مردم لبنان درباره مذاکرات با اسرائیل می گویند",
+    "Italian magazine cover of Israeli settler sparks diplomatic backlash": "جلد مجله ایتالیایی شهرک نشین اسرائیلی واکنش دیپلماتیک را برانگیخت",
+    "Netanyahu claims to have prevented an Iranian-wrought second Holocaust. If only we could be so sure": "نتانیاهو ادعا می کند که از وقوع هولوکاست دوم به دست ایران جلوگیری کرده است. کاش می توانستیم اینقدر مطمئن باشیم"
   }
 }

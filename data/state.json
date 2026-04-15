@@ -1470,7 +1470,14 @@
     "84df29bb9060cdc2afdb8983",
     "7f1681ee941ccd90c4d31e7e",
     "4a2d907a9a8c62b85dad35d4",
-    "db47d2f2129fbb8b940a07b8"
+    "db47d2f2129fbb8b940a07b8",
+    "16bf08fcd0a1fe6c015b0ac8",
+    "936f2ac57bd297fe538950dc",
+    "0923281751970e4db59730b2",
+    "73f7c5704750ef808e8b96f4",
+    "f7c4ed8a0bd6084d44b0fbbf",
+    "072d52ce9f5c07f0410dc278",
+    "51fd11bd3be3241a528af78e"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -2943,7 +2950,14 @@
     "0d0f8ec0fea742360b794884",
     "dbee8d977b4c027e235e6cb3",
     "e64521d1eabfb6b9a2b3f64b",
-    "0e7938cadcb7cc821db9b74f"
+    "0e7938cadcb7cc821db9b74f",
+    "c333a657f9bb0f1e29260ea4",
+    "ff5b152fc25bf1f3efeadba6",
+    "7bc3162d8a8c0078f884928f",
+    "c9c68c2562b1806ddf55a374",
+    "7c63438e1dc7b2345df6cf0f",
+    "936690826712834eeac145da",
+    "477d5235303968f25080e14c"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3012,8 +3026,8 @@
     "7d669b49ca292b63dafa8cbc",
     "e49e9acc9ea276da4e465c0a"
   ],
-  "last_digest_hash": "6b4daa9c1d1933f9a54af3cd5bc8904476c4ab7abf7059c182070cc8ffaa5d2f",
-  "last_run_iso": "2026-04-15T08:03:56.449860+00:00",
+  "last_digest_hash": "023eef88574875b6d3429d39ae761b59e44655eada72473eaf8fc9752628cf44",
+  "last_run_iso": "2026-04-15T09:47:03.931802+00:00",
   "last_breaking_run_iso": "2026-04-15T08:03:56.449860+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -4486,6 +4500,13 @@
     "Iran says $270bn war loss must be compensated, as fresh talks with US loom": "ایران می گوید باید ۲۷۰ میلیارد دلار خسارت جنگی جبران شود، در حالی که مذاکرات تازه با آمریکا در راه است",
     "Trump turns on Meloni, saying she lacks ‘courage’ over US-Israel war on Iran": "ترامپ علیه ملونی موضع گرفت و گفت او در جنگ آمریکا و اسرائیل علیه ایران «شجاعت» ندارد",
     "China’s Xi meets Russian FM Lavrov, calls relations with Moscow ‘precious’": "شی چین با وزیر امور خارجه روسیه، لاوروف، دیدار کرد و روابط با مسکو را «ارزشمند» خواند",
-    "Ukraine says Russian ship carrying stolen grain docked at Haifa, asks Israel to detain it": "اوکراین می گوید کشتی روسی حامل غلات دزدیده شده در حیفا پهلو گرفته و از اسرائیل خواسته آن را بازداشت کند"
+    "Ukraine says Russian ship carrying stolen grain docked at Haifa, asks Israel to detain it": "اوکراین می گوید کشتی روسی حامل غلات دزدیده شده در حیفا پهلو گرفته و از اسرائیل خواسته آن را بازداشت کند",
+    "Kenya fuel prices rise sharply despite reduction in tax due to Iran war": "قیمت سوخت کنیا با وجود کاهش مالیات به دلیل جنگ ایران به شدت افزایش یافت",
+    "Trump says no need to extend Iran ceasefire, predicts ‘an amazing two days ahead’": "ترامپ می گوید نیازی به تمدید آتش بس با ایران نیست و پیش بینی می کند «دو روز شگفت انگیز» پیش بینی می کند",
+    "Iran war: What is happening on day 47 of the US-Iran conflict?": "جنگ ایران: در روز چهل و هفتم درگیری آمریکا و ایران چه اتفاقی می افتد؟",
+    "Palestinian leader Barghouti endures ‘violent’ assaults in Israeli prisons": "رهبر فلسطینی بارغوثی در زندان های اسرائیل با حملات «خشونت آمیز» مواجه است",
+    "‘Food is unifying’: How Lebanon’s migrants are feeding the war-displaced": "«غذا وحدت بخش است»: چگونه مهاجران لبنان به آوارگان جنگ زده غذا می دهند",
+    "Petition seeks probe of Channel 14, calling it ‘pure poison capsule’ undermining court": "دادخواست خواستار تحقیق درباره کانال ۱۴ است و آن را «کپسول سم خالص» خوانده و دادگاه را تضعیف می کند",
+    "Iran citizen held in France over pro-Palestine comments returns home": "شهروند ایرانی که به دلیل اظهارنظرهای طرفدار فلسطین در فرانسه بازداشت شده بود، به کشورش بازمی گردد"
   }
 }

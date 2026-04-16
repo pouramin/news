@@ -1605,7 +1605,9 @@
     "a0ff1cf7fb2bb174d675cdbb",
     "527a64136087f4b95eebdf44",
     "eeef59ee6be9362890e65dc5",
-    "b1ea829d922bc505c983902e"
+    "b1ea829d922bc505c983902e",
+    "65403d1083bf3e5c612d7428",
+    "4a9de3221c2aff87dfb8e16c"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3213,7 +3215,9 @@
     "394d02f48308eb9f26804f3b",
     "2ca798fd35d5b126622fb662",
     "3caa6eb591286670894076e2",
-    "42b14bf2a7ec323da834661e"
+    "42b14bf2a7ec323da834661e",
+    "653b32b232a45e913e68a50e",
+    "4b6dcf47edb9c4d684c19644"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3282,8 +3286,8 @@
     "7d669b49ca292b63dafa8cbc",
     "e49e9acc9ea276da4e465c0a"
   ],
-  "last_digest_hash": "828412096fbe60ca54972d8d2d1a4fd7c0a1ce5c97c4d65b3dcc37bc99432ca8",
-  "last_run_iso": "2026-04-16T22:58:31.326820+00:00",
+  "last_digest_hash": "66a4c8d44fb222ecc7e0225798b33353ff0bc84b78f459fe0eac6e9a70001ad8",
+  "last_run_iso": "2026-04-16T23:54:36.390874+00:00",
   "last_breaking_run_iso": "2026-04-15T08:03:56.449860+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -4891,6 +4895,8 @@
     "Senior Iran leader claims credit for truce as residents who fled Hezbollah’s Beirut stronghold start returning": "رهبر ارشد ایران ادعای مسئولیت آتش بس را اعلام کرد، در حالی که ساکنانی که از پایگاه حزب الله بیروت فرار کرده بودند، شروع به بازگشت کرده اند",
     "Trump-imposed truce between Israel and Hezbollah takes effect; 2 badly hurt by rocket fire hours before": "آتش بس تحمیلی ترامپ میان اسرائیل و حزب الله اجرایی می شود؛ ۲ نفر چند ساعت قبل از شلیک راکت به شدت زخمی شدند",
     "Displaced Lebanese wary as ceasefire between Israel and Hezbollah begins": "لبنانی های آواره با آغاز آتش بس میان اسرائیل و حزب الله محتاط هستند",
-    "Israel and Lebanon’s 10-day ceasefire goes into effect": "آتش بس ۱۰ روزه اسرائیل و لبنان اجرایی می شود"
+    "Israel and Lebanon’s 10-day ceasefire goes into effect": "آتش بس ۱۰ روزه اسرائیل و لبنان اجرایی می شود",
+    "Trump says second round of talks with Iran could take place this weekend": "ترامپ می گوید دور دوم مذاکرات با ایران ممکن است این آخر هفته برگزار شود",
+    "People in Beirut wary of trusting Israel will uphold Lebanon ceasefire": "مردم بیروت از اعتماد به اینکه اسرائیل آتش بس لبنان را حفظ خواهد کرد، محتاط اند"
   }
 }

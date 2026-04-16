@@ -1532,7 +1532,17 @@
     "692d08e155cbab81f5ab0bd1",
     "b13c949e058f25af0a53e8d2",
     "8d9dbdd3f1747ff2859f94a7",
-    "85bc529b68cec5609e99cb24"
+    "85bc529b68cec5609e99cb24",
+    "aa98efa9a17148ccde9a6a4d",
+    "95de8a4d8765686cd6a6c742",
+    "fe198eb1ef3f55e656ab9ec1",
+    "ddb8453c953ce34e94fc2443",
+    "1d9a752fbc548fb9436ad3e7",
+    "27bc5991101486f086a15dee",
+    "0cc2ee94a6eeb713d517ff16",
+    "2ee41c39295151a9ca9cb65e",
+    "18427df35b2d22ff6cf7a78e",
+    "0084dd8eb0cd82f2cca48ae6"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3067,7 +3077,17 @@
     "bc21a7b369e79c1e2e1b685b",
     "49dfc2c2cc6cce2da13b4b49",
     "5b6ae267c88a90b2e2a385ca",
-    "b63634266d5e25f7e231d328"
+    "b63634266d5e25f7e231d328",
+    "d16c7e3d21205623c45f04f4",
+    "7431efb945d38e0cb71475c3",
+    "7513c8dd23577c366f181bed",
+    "382ae2f408404ecd70a62130",
+    "3631596622846cb97c3936b8",
+    "f4ed2b6f7bc2832bec7fd99d",
+    "c8c63af4b7c33b117c1ed507",
+    "4b8313d257c3244c5a7f7d6c",
+    "eccd7c966fdf0e5ff501bef7",
+    "5ef5f4478c0c7427f442e7af"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3136,8 +3156,8 @@
     "7d669b49ca292b63dafa8cbc",
     "e49e9acc9ea276da4e465c0a"
   ],
-  "last_digest_hash": "4479482646a655000d940db904d887527614631e90c4c2aa0263fc5d503e1bec",
-  "last_run_iso": "2026-04-16T06:11:02.133294+00:00",
+  "last_digest_hash": "103031c93e3b686621e61ba655cb6a7f0ddd65bc66012fa57aca969f0aa1da79",
+  "last_run_iso": "2026-04-16T08:53:06.070530+00:00",
   "last_breaking_run_iso": "2026-04-15T08:03:56.449860+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -4672,6 +4692,16 @@
     "Top British private Jewish school closing amid funding challenges": "تعطیلی مدرسه خصوصی یهودی برتر بریتانیا به دلیل مشکلات مالی",
     "US Senate foils effort to nix Israel arms sale, but 75% of Dems vote to block it": "سنای آمریکا تلاش برای لغو فروش تسلیحات با اسرائیل را ناکام می گذارد، اما ۷۵٪ دموکرات ها به مسدود کردن آن رأی می دهند",
     "Hopes grow for a breakthrough in US-Iran talks as Pakistan mediates": "امیدها برای پیشرفت در مذاکرات آمریکا و ایران در حالی که پاکستان میانجی گری می کند، افزایش یافته است",
-    "Trump says Israel and Lebanon’s leaders will speak on Thursday": "ترامپ می گوید رهبران اسرائیل و لبنان روز پنج شنبه سخنرانی خواهند کرد"
+    "Trump says Israel and Lebanon’s leaders will speak on Thursday": "ترامپ می گوید رهبران اسرائیل و لبنان روز پنج شنبه سخنرانی خواهند کرد",
+    "Settlers try to steal Palestinian-owned sheep in Hebron Hills as West Bank violence soars": "شهرک نشینان تلاش می کنند گوسفندان متعلق به فلسطینی ها را در تپه های الخلیل بدزدند، در حالی که خشونت ها در کرانه باختری افزایش یافته است",
+    "Israel’s military kills four Lebanese paramedics in consecutive strikes": "ارتش اسرائیل چهار امدادگر لبنانی را در حملات متوالی کشت",
+    "Why many Kashmiris are donating gold, breaking piggy banks for Iran": "چرا بسیاری از کشمیری ها طلا اهدا می کنند و قلک ها را برای ایران می شکنند",
+    "For 5th time, Netanyahu included on Time’s annual list of 100 most influential people": "برای پنجمین بار، نتانیاهو در فهرست سالانه ۱۰۰ فرد تأثیرگذار مجله تایم قرار گرفت",
+    "Iran war: What is happening on day 48 of the US-Iran conflict?": "جنگ ایران: در روز ۴۸ درگیری آمریکا و ایران چه اتفاقی در حال رخ دادن است؟",
+    "Fire at key Australian refinery deepens fuel risks amid Iran war shortages": "آتش سوزی در پالایشگاه کلیدی استرالیا خطرات سوخت را در پی کمبود جنگ ایران تشدید می کند",
+    "Satellite images reveal scale of Israeli demolitions as Lebanese villages destroyed": "تصاویر ماهواره ای مقیاس تخریب های اسرائیلی را نشان می دهد در حالی که روستاهای لبنانی ویران شده اند",
+    "This Sunday: How people are buying property in Israel right now - Sponsored Content": "این یکشنبه: چگونه مردم در حال حاضر در اسرائیل ملک می خرند - محتوای حمایت شده",
+    "New rabbinical school arises in Cincinnati as Hebrew Union College sued over closure": "مدرسه خاخامی جدیدی در سینسیناتی شکل گرفت، چرا که کالج عبری یونیون به دلیل تعطیلی شکایت کرد",
+    "Jewish groups ask US Supreme Court to rule on Ohio man barred from hosting home prayers": "گروه های یهودی از دیوان عالی آمریکا خواستند تا درباره مردی در اوهایو که از میزبانی نماز در خانه منع شده بود، حکم دهد"
   }
 }

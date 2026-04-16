@@ -1576,7 +1576,14 @@
     "b0ea7b5eeacb096f02c990b0",
     "5517346099d8f64e1629b496",
     "df7c6e6b161b944582b55f91",
-    "63efcf4a95aa297c91f75402"
+    "63efcf4a95aa297c91f75402",
+    "8e9c87aca86c11728727c725",
+    "0228925b9596cf20bb6a8bb8",
+    "17f27a22f9f0bce1ee98f948",
+    "676bf91a811052301b62bfea",
+    "bddfba7cde8f877c73669556",
+    "e33c01be870c3a4fe82c2fe7",
+    "68d9d6ec907a17961983c0be"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3155,7 +3162,14 @@
     "ffe26219c21219a0e0d5ae49",
     "37f7ae83e1dcb02a76852639",
     "e16aaefc01eef992f430efda",
-    "205eccbde565f066564699b3"
+    "205eccbde565f066564699b3",
+    "c9d17895bda9727ea7ca716b",
+    "83dbafb8b333ece10fb64aa6",
+    "1e73caddf68f6b69bd4542a5",
+    "3e39a0b6af2f45777cc3ce7a",
+    "9d21418b75700977bd409934",
+    "36daa64870d11fba8198f2eb",
+    "e04baf9a57ed120ffbe1edf6"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3224,8 +3238,8 @@
     "7d669b49ca292b63dafa8cbc",
     "e49e9acc9ea276da4e465c0a"
   ],
-  "last_digest_hash": "ee38447e8b3dcbeee22b1261f7850de92748261eaa5756ba077bbbeb4a9be1c4",
-  "last_run_iso": "2026-04-16T16:47:42.169938+00:00",
+  "last_digest_hash": "f8b3a2d0876b40975ff27a1669973dda36748ce8fdf2e031b1f6116ca158f686",
+  "last_run_iso": "2026-04-16T18:15:56.472223+00:00",
   "last_breaking_run_iso": "2026-04-15T08:03:56.449860+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -4804,6 +4818,13 @@
     "Syria takes control of all bases where US forces were deployed": "سوریه کنترل تمام پایگاه هایی را که نیروهای آمریکایی در آن ها مستقر بودند، به دست می گیرد",
     "Israel says it’s West’s defender, but cares little for European critics": "اسرائیل می گوید مدافع غرب است، اما برای منتقدان اروپایی اهمیتی قائل نیست",
     "Thousands of bees swarm southern Israel": "هزاران زنبور در جنوب اسرائیل هجوم آورده اند",
-    "NY governor pushes to double funding for protection against hate crimes": "فرماندار نیویورک تلاش می کند بودجه حفاظت در برابر جرایم ناشی از نفرت را دو برابر کند"
+    "NY governor pushes to double funding for protection against hate crimes": "فرماندار نیویورک تلاش می کند بودجه حفاظت در برابر جرایم ناشی از نفرت را دو برابر کند",
+    "US general clarifies Iranian ports under blockade, not Strait of Hormuz": "ژنرال آمریکایی بنادر ایران تحت محاصره را روشن می کند، نه تنگه هرمز",
+    "No date set for US-Iran talks, as Pakistan pushes to keep diplomacy alive": "تاریخ مشخصی برای مذاکرات آمریکا و ایران تعیین نشده است، در حالی که پاکستان برای حفظ دیپلماسی تلاش می کند",
+    "10-day Lebanon-Israel ceasefire announced by Trump": "آتش بس ۱۰ روزه لبنان و اسرائیل توسط ترامپ اعلام شد",
+    "Israel tells Ukraine too late to seize Russian grain ship as it left Haifa — report": "اسرائیل خیلی دیر به اوکراین اطلاع می دهد که کشتی غله روسی را هنگام ترک حیفا توقیف کند — گزارش",
+    "‘Whose is he?’: A Gaza father’s fight for a child who might not be his": "‘Whose is he?’: A Gaza father’s fight for a child who might not be his",
+    "Younger Americans, those informed by social media more antisemitic — poll": "آمریکایی های جوان تر، کسانی که از شبکه های اجتماعی مطلع شده اند، یهودستیز تر هستند — نظرسنجی",
+    "At court’s behest, Ben Gvir agrees to reevaluate refusal to promote police detective": "به درخواست دادگاه، بن گویر موافقت می کند که امتناع از ارتقای کارآگاه پلیس را بازنگری کند"
   }
 }

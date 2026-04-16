@@ -1542,7 +1542,11 @@
     "0cc2ee94a6eeb713d517ff16",
     "2ee41c39295151a9ca9cb65e",
     "18427df35b2d22ff6cf7a78e",
-    "0084dd8eb0cd82f2cca48ae6"
+    "0084dd8eb0cd82f2cca48ae6",
+    "d899f6401c7082efe4c344c8",
+    "7039d52cc7d37ae891bc9208",
+    "05b5d1fd0a61199cc3cdf184",
+    "eadfe01cea1b95e803d75fc8"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3087,7 +3091,11 @@
     "c8c63af4b7c33b117c1ed507",
     "4b8313d257c3244c5a7f7d6c",
     "eccd7c966fdf0e5ff501bef7",
-    "5ef5f4478c0c7427f442e7af"
+    "5ef5f4478c0c7427f442e7af",
+    "f1fff82b921e76999d79313e",
+    "9ffe266d5b65281d2de68904",
+    "1868b0d899017ba12bee5fd7",
+    "b49fcbf5c490e155c945b055"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3156,8 +3164,8 @@
     "7d669b49ca292b63dafa8cbc",
     "e49e9acc9ea276da4e465c0a"
   ],
-  "last_digest_hash": "103031c93e3b686621e61ba655cb6a7f0ddd65bc66012fa57aca969f0aa1da79",
-  "last_run_iso": "2026-04-16T08:53:06.070530+00:00",
+  "last_digest_hash": "f51eb167bf49b1294c2b8087c2b590cc9dc1e107d77ff044cfe16387ced1b4e9",
+  "last_run_iso": "2026-04-16T10:24:28.586785+00:00",
   "last_breaking_run_iso": "2026-04-15T08:03:56.449860+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -4702,6 +4710,10 @@
     "Satellite images reveal scale of Israeli demolitions as Lebanese villages destroyed": "تصاویر ماهواره ای مقیاس تخریب های اسرائیلی را نشان می دهد در حالی که روستاهای لبنانی ویران شده اند",
     "This Sunday: How people are buying property in Israel right now - Sponsored Content": "این یکشنبه: چگونه مردم در حال حاضر در اسرائیل ملک می خرند - محتوای حمایت شده",
     "New rabbinical school arises in Cincinnati as Hebrew Union College sued over closure": "مدرسه خاخامی جدیدی در سینسیناتی شکل گرفت، چرا که کالج عبری یونیون به دلیل تعطیلی شکایت کرد",
-    "Jewish groups ask US Supreme Court to rule on Ohio man barred from hosting home prayers": "گروه های یهودی از دیوان عالی آمریکا خواستند تا درباره مردی در اوهایو که از میزبانی نماز در خانه منع شده بود، حکم دهد"
+    "Jewish groups ask US Supreme Court to rule on Ohio man barred from hosting home prayers": "گروه های یهودی از دیوان عالی آمریکا خواستند تا درباره مردی در اوهایو که از میزبانی نماز در خانه منع شده بود، حکم دهد",
+    "Israeli air attack destroys buildings around south Lebanon hospital": "حمله هوایی اسرائیل ساختمان های اطراف بیمارستان جنوب لبنان را ویران کرد",
+    "China's economy grows faster than expected despite Iran war": "اقتصاد چین با وجود جنگ ایران سریع تر از حد انتظار رشد می کند",
+    "Israeli ambassador said to meet discreetly with French far right’s Marine Le Pen": "سفیر اسرائیل گفته شده تا به طور محرمانه با مارین لوپن، رهبر راست افراطی فرانسه، دیدار کند",
+    "‘Iran has to come’ to the US for the World Cup, FIFA’s Infantino says": "اینفانتینو از فیفا می گوید «ایران باید برای جام جهانی به آمریکا بیاید»"
   }
 }

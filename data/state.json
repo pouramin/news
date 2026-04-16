@@ -1601,7 +1601,11 @@
     "4547aeb997a518ec287bc005",
     "9f4d50db62b9478d5049d1c1",
     "40d7779abde77330e940cf71",
-    "2da4a0b40d5abd748ef60a81"
+    "2da4a0b40d5abd748ef60a81",
+    "a0ff1cf7fb2bb174d675cdbb",
+    "527a64136087f4b95eebdf44",
+    "eeef59ee6be9362890e65dc5",
+    "b1ea829d922bc505c983902e"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3205,7 +3209,11 @@
     "3ac25b2a8436005e86dd2696",
     "3edfe586767646c3a6d4fe48",
     "371077826ce1b14aca53a8a6",
-    "d97d3f640b34abfc97222b48"
+    "d97d3f640b34abfc97222b48",
+    "394d02f48308eb9f26804f3b",
+    "2ca798fd35d5b126622fb662",
+    "3caa6eb591286670894076e2",
+    "42b14bf2a7ec323da834661e"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3274,8 +3282,8 @@
     "7d669b49ca292b63dafa8cbc",
     "e49e9acc9ea276da4e465c0a"
   ],
-  "last_digest_hash": "6171d592f9a197d0990ddbd4e3d8c4d312fb7f83f89d544bc905c697caa1bb1f",
-  "last_run_iso": "2026-04-16T21:56:37.212616+00:00",
+  "last_digest_hash": "828412096fbe60ca54972d8d2d1a4fd7c0a1ce5c97c4d65b3dcc37bc99432ca8",
+  "last_run_iso": "2026-04-16T22:58:31.326820+00:00",
   "last_breaking_run_iso": "2026-04-15T08:03:56.449860+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -4879,6 +4887,10 @@
     "Qatar hosts talks aimed at putting Iran peace process back on track": "قطر میزبان مذاکراتی است که هدف آن بازگرداندن روند صلح ایران به مسیر درست است",
     "Border Police officers sent to jail for barbecuing on base over Shabbat": "افسران پلیس مرزی به دلیل کباب کردن در پایگاه در روز شبات به زندان فرستاده شدند",
     "A ceasefire in Lebanon — will it hold?": "آتش بس در لبنان — آیا پابرجا خواهد ماند؟",
-    "What role is China playing in the Iran war and how is it affected?": "چین چه نقشی در جنگ ایران ایفا می کند و چگونه تحت تأثیر قرار می گیرد؟"
+    "What role is China playing in the Iran war and how is it affected?": "چین چه نقشی در جنگ ایران ایفا می کند و چگونه تحت تأثیر قرار می گیرد؟",
+    "Senior Iran leader claims credit for truce as residents who fled Hezbollah’s Beirut stronghold start returning": "رهبر ارشد ایران ادعای مسئولیت آتش بس را اعلام کرد، در حالی که ساکنانی که از پایگاه حزب الله بیروت فرار کرده بودند، شروع به بازگشت کرده اند",
+    "Trump-imposed truce between Israel and Hezbollah takes effect; 2 badly hurt by rocket fire hours before": "آتش بس تحمیلی ترامپ میان اسرائیل و حزب الله اجرایی می شود؛ ۲ نفر چند ساعت قبل از شلیک راکت به شدت زخمی شدند",
+    "Displaced Lebanese wary as ceasefire between Israel and Hezbollah begins": "لبنانی های آواره با آغاز آتش بس میان اسرائیل و حزب الله محتاط هستند",
+    "Israel and Lebanon’s 10-day ceasefire goes into effect": "آتش بس ۱۰ روزه اسرائیل و لبنان اجرایی می شود"
   }
 }

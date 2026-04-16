@@ -1583,7 +1583,18 @@
     "676bf91a811052301b62bfea",
     "bddfba7cde8f877c73669556",
     "e33c01be870c3a4fe82c2fe7",
-    "68d9d6ec907a17961983c0be"
+    "68d9d6ec907a17961983c0be",
+    "16f8aae974da6418d6920d23",
+    "0895ae076365ae009548937f",
+    "6fbb435f3b0a0071cf98a315",
+    "fd0dff3710a686314acb4717",
+    "7a35da7c361e4936d508276a",
+    "735923a6d118787abeb1d85a",
+    "586007b516faf6c100a61828",
+    "cdbdd2b748da97bc64067a50",
+    "1617d233f8e6f70e5ba3dde0",
+    "12ae4567a7671a8daef63c38",
+    "f780fc5daf997d0ae21f66c9"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3169,7 +3180,18 @@
     "3e39a0b6af2f45777cc3ce7a",
     "9d21418b75700977bd409934",
     "36daa64870d11fba8198f2eb",
-    "e04baf9a57ed120ffbe1edf6"
+    "e04baf9a57ed120ffbe1edf6",
+    "d33175590e1e947c52155962",
+    "775a8bd35fc1c34bae4a7662",
+    "31faa4300ffd3527b079f091",
+    "af4b9f41953766b2336b1203",
+    "7ca8a97ce4a302a11656af86",
+    "4489dbab794b565d3a6804be",
+    "212b75ab2cceff2f7f1b7bb7",
+    "25c4610a048b0e7be26d8603",
+    "c71d319d4ddd79954fa300ea",
+    "bfcf0d0dc7712ff3677699cc",
+    "a397f6f7aa93c5d53c75fab4"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3238,8 +3260,8 @@
     "7d669b49ca292b63dafa8cbc",
     "e49e9acc9ea276da4e465c0a"
   ],
-  "last_digest_hash": "f8b3a2d0876b40975ff27a1669973dda36748ce8fdf2e031b1f6116ca158f686",
-  "last_run_iso": "2026-04-16T18:15:56.472223+00:00",
+  "last_digest_hash": "f8ee845ff13dc138e6a7064305efa7d7a88994b099c0dc0fc04c08972960b4e5",
+  "last_run_iso": "2026-04-16T20:04:58.802339+00:00",
   "last_breaking_run_iso": "2026-04-15T08:03:56.449860+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -4825,6 +4847,17 @@
     "Israel tells Ukraine too late to seize Russian grain ship as it left Haifa — report": "اسرائیل خیلی دیر به اوکراین اطلاع می دهد که کشتی غله روسی را هنگام ترک حیفا توقیف کند — گزارش",
     "‘Whose is he?’: A Gaza father’s fight for a child who might not be his": "‘Whose is he?’: A Gaza father’s fight for a child who might not be his",
     "Younger Americans, those informed by social media more antisemitic — poll": "آمریکایی های جوان تر، کسانی که از شبکه های اجتماعی مطلع شده اند، یهودستیز تر هستند — نظرسنجی",
-    "At court’s behest, Ben Gvir agrees to reevaluate refusal to promote police detective": "به درخواست دادگاه، بن گویر موافقت می کند که امتناع از ارتقای کارآگاه پلیس را بازنگری کند"
+    "At court’s behest, Ben Gvir agrees to reevaluate refusal to promote police detective": "به درخواست دادگاه، بن گویر موافقت می کند که امتناع از ارتقای کارآگاه پلیس را بازنگری کند",
+    "Navy says commandos conducted unprecedented op amid war, thousands of kilometers away": "نیروی دریایی می گوید کماندوها عملیاتی بی سابقه در میان جنگ، هزاران کیلومتر دورتر، انجام دادند",
+    "Hezbollah strikes north Israel ahead of Lebanon ceasefire announcement": "حزب الله پیش از اعلام آتش بس لبنان به شمال اسرائیل حمله می کند",
+    "US House rejects effort to pull forces from Iran war as Republicans stick with Trump": "مجلس نمایندگان آمریکا تلاش برای خارج کردن نیروها از جنگ ایران را رد کرد و جمهوری خواهان همچنان به ترامپ وفادار ماندند",
+    "Full text of Israel-Lebanon 10-day ceasefire, sides aim for ‘lasting peace’": "متن کامل آتش بس ۱۰ روزه اسرائیل و لبنان، طرفین به دنبال «صلح پایدار» هستند",
+    "US House votes down latest effort to curtail Trump’s power to wage Iran war": "مجلس نمایندگان آمریکا آخرین تلاش برای محدود کردن قدرت ترامپ در جنگ با ایران را رد کرد",
+    "Opposition, northern mayors decry imposed ceasefires as Lebanon truce declared": "اپوزیسیون و شهرداران شمالی آتش بس تحمیلی را محکوم کردند و لبنان آتش بس اعلام کرد",
+    "High Court orders AG and Ben Gvir to reach deal on safeguarding police independence": "دادگاه عالی دستور داد دادستان کل و بن گویر به توافق در زمینه حفاظت از استقلال پلیس برسند.",
+    "Three arrested after attempted arson at dissident Iranian news station in London": "سه نفر پس از تلاش برای آتش سوزی در ایستگاه خبری مخالف ایرانی در لندن بازداشت شدند",
+    "Trump says Netanyahu, Aoun may meet at White House": "ترامپ می گوید نتانیاهو و عون ممکن است در کاخ سفید دیدار کنند",
+    "Rare pygmy hippo arrives in Israel to launch breeding program": "اسب آبی کوتوله نادر وارد اسرائیل شد تا برنامه پرورش را راه اندازی کند",
+    "Gaza’s new generation of journalists face challenges, but stay resilient": "نسل جدید روزنامه نگاران غزه با چالش هایی روبرو هستند، اما مقاوم باقی می مانند"
   }
 }

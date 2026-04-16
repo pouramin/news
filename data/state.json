@@ -1597,7 +1597,11 @@
     "f780fc5daf997d0ae21f66c9",
     "9189e4156eed046e0cb15607",
     "1f3562a979a19b458420b875",
-    "365ea6dcf4bb0bbe1e0c0530"
+    "365ea6dcf4bb0bbe1e0c0530",
+    "4547aeb997a518ec287bc005",
+    "9f4d50db62b9478d5049d1c1",
+    "40d7779abde77330e940cf71",
+    "2da4a0b40d5abd748ef60a81"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3197,7 +3201,11 @@
     "a397f6f7aa93c5d53c75fab4",
     "e23abfe19670cfe1b3c7ca6a",
     "3a75ebba5d6f4841b2a59d1e",
-    "77972fb05baec73735e99d9c"
+    "77972fb05baec73735e99d9c",
+    "3ac25b2a8436005e86dd2696",
+    "3edfe586767646c3a6d4fe48",
+    "371077826ce1b14aca53a8a6",
+    "d97d3f640b34abfc97222b48"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3266,8 +3274,8 @@
     "7d669b49ca292b63dafa8cbc",
     "e49e9acc9ea276da4e465c0a"
   ],
-  "last_digest_hash": "a6ffe342a5cf79b5f9f3dcfb77fe71db555a47102ae84825d0c75cf7d67f25e6",
-  "last_run_iso": "2026-04-16T21:01:40.526663+00:00",
+  "last_digest_hash": "6171d592f9a197d0990ddbd4e3d8c4d312fb7f83f89d544bc905c697caa1bb1f",
+  "last_run_iso": "2026-04-16T21:56:37.212616+00:00",
   "last_breaking_run_iso": "2026-04-15T08:03:56.449860+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -4867,6 +4875,10 @@
     "Gaza’s new generation of journalists face challenges, but stay resilient": "نسل جدید روزنامه نگاران غزه با چالش هایی روبرو هستند، اما مقاوم باقی می مانند",
     "Israel and Lebanon agree 10-day ceasefire, Trump says": "اسرائیل و لبنان به توافق آتش بس ۱۰ روزه رسیدند، ترامپ می گوید",
     "Senate vote on arms sale shows ‘massive cracks’ in US support for Israel": "رأی گیری سنا درباره فروش تسلیحات نشان دهنده «ترک های عظیم» در حمایت آمریکا از اسرائیل است",
-    "Displaced Lebanese in Beirut uncertain if they can trust ceasefire": "لبنانی های آواره در بیروت که مطمئن نیستند آیا می توانند به آتش بس اعتماد کنند"
+    "Displaced Lebanese in Beirut uncertain if they can trust ceasefire": "لبنانی های آواره در بیروت که مطمئن نیستند آیا می توانند به آتش بس اعتماد کنند",
+    "Qatar hosts talks aimed at putting Iran peace process back on track": "قطر میزبان مذاکراتی است که هدف آن بازگرداندن روند صلح ایران به مسیر درست است",
+    "Border Police officers sent to jail for barbecuing on base over Shabbat": "افسران پلیس مرزی به دلیل کباب کردن در پایگاه در روز شبات به زندان فرستاده شدند",
+    "A ceasefire in Lebanon — will it hold?": "آتش بس در لبنان — آیا پابرجا خواهد ماند؟",
+    "What role is China playing in the Iran war and how is it affected?": "چین چه نقشی در جنگ ایران ایفا می کند و چگونه تحت تأثیر قرار می گیرد؟"
   }
 }

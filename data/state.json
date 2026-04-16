@@ -1529,7 +1529,10 @@
     "0f8e3a6872b5936e7f778838",
     "8d3d29cf91d587ff4ee48fad",
     "9022e738d12bc5ba2523d1c4",
-    "692d08e155cbab81f5ab0bd1"
+    "692d08e155cbab81f5ab0bd1",
+    "b13c949e058f25af0a53e8d2",
+    "8d9dbdd3f1747ff2859f94a7",
+    "85bc529b68cec5609e99cb24"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3061,7 +3064,10 @@
     "b78a91fda549e91fb15e9dd1",
     "3edb39ccf6ca8a7ab4f61882",
     "f2eb64bdfbddcdbc8d2abedd",
-    "bc21a7b369e79c1e2e1b685b"
+    "bc21a7b369e79c1e2e1b685b",
+    "49dfc2c2cc6cce2da13b4b49",
+    "5b6ae267c88a90b2e2a385ca",
+    "b63634266d5e25f7e231d328"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3130,8 +3136,8 @@
     "7d669b49ca292b63dafa8cbc",
     "e49e9acc9ea276da4e465c0a"
   ],
-  "last_digest_hash": "94ec0bbb99c3c25d1fa34b2762e0404b978881257d1c45aa9535ac16a35d543a",
-  "last_run_iso": "2026-04-16T03:43:15.889710+00:00",
+  "last_digest_hash": "4479482646a655000d940db904d887527614631e90c4c2aa0263fc5d503e1bec",
+  "last_run_iso": "2026-04-16T06:11:02.133294+00:00",
   "last_breaking_run_iso": "2026-04-15T08:03:56.449860+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -4663,6 +4669,9 @@
     "Could the EU’s alliance with Israel soon change?": "آیا اتحاد اتحادیه اروپا با اسرائیل می تواند به زودی تغییر کند؟",
     "Israel appoints first ambassador to Somaliland": "اسرائیل نخستین سفیر خود را در سومالی لند منصوب کرد",
     "Israeli artist adopts classical motifs to frame contemporary trauma in new exhibit": "هنرمند اسرائیلی با استفاده از موتیف های کلاسیک، تروماهای معاصر را در نمایشگاه جدید قاب بندی می کند",
-    "Top British private Jewish school closing amid funding challenges": "تعطیلی مدرسه خصوصی یهودی برتر بریتانیا به دلیل مشکلات مالی"
+    "Top British private Jewish school closing amid funding challenges": "تعطیلی مدرسه خصوصی یهودی برتر بریتانیا به دلیل مشکلات مالی",
+    "US Senate foils effort to nix Israel arms sale, but 75% of Dems vote to block it": "سنای آمریکا تلاش برای لغو فروش تسلیحات با اسرائیل را ناکام می گذارد، اما ۷۵٪ دموکرات ها به مسدود کردن آن رأی می دهند",
+    "Hopes grow for a breakthrough in US-Iran talks as Pakistan mediates": "امیدها برای پیشرفت در مذاکرات آمریکا و ایران در حالی که پاکستان میانجی گری می کند، افزایش یافته است",
+    "Trump says Israel and Lebanon’s leaders will speak on Thursday": "ترامپ می گوید رهبران اسرائیل و لبنان روز پنج شنبه سخنرانی خواهند کرد"
   }
 }

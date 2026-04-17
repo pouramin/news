@@ -1672,7 +1672,14 @@
     "22e063d57a420c59a2005da3",
     "98a8b933b49b8f58f8c70f3c",
     "36fba5192046f627d33d268c",
-    "2f2f68bc19849e826787a089"
+    "2f2f68bc19849e826787a089",
+    "fee544ad047a22cd4601c74d",
+    "19942f08a5d2023603c81156",
+    "7992fd425e6f39ac9c05ce7e",
+    "493016379b62f06127501652",
+    "f875ca475427332e320da4bb",
+    "120fe6ecec89dd603011f653",
+    "e67897ddf17bd34b686099da"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3347,7 +3354,14 @@
     "c21f6cda61d9cd6f6a5d80fd",
     "a46851756296c0ac56a1134e",
     "c6bb16c23e8a1fc43fdf9f94",
-    "80d7cd5c911acadd1b20ac3c"
+    "80d7cd5c911acadd1b20ac3c",
+    "985a2b86d2aeaa26f1810941",
+    "ce25a9462e5ef43e72ff463c",
+    "e64333688b00618ab6a72cc2",
+    "95c13cebb092c285072f1300",
+    "4944ec585e985fc6fb32607d",
+    "c797bfcbfb84ec3016e7c52f",
+    "8ee5da6796af1abaa16d186d"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3418,8 +3432,8 @@
     "be892ed1f75b95a63a790411",
     "2178e3e9b2293e9b162aa629"
   ],
-  "last_digest_hash": "9a07b92185cafdd37860cda005fe7612ac89db9f6065868f55365bb6e2256a1d",
-  "last_run_iso": "2026-04-17T19:16:45.946001+00:00",
+  "last_digest_hash": "1a2b639516a27c559fc8db0dadef75455002ea3ec5271bbd8dd89015ff93d6e8",
+  "last_run_iso": "2026-04-17T20:59:47.917683+00:00",
   "last_breaking_run_iso": "2026-04-17T19:16:45.946001+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -5094,6 +5108,13 @@
     "Kosovo approves troop contribution for Gaza stabilization force": "کوزوو با کمک نیرو به نیروی تثبیت کننده غزه موافقت کرد",
     "What has Trump said before possible US-Iran talks and what could it mean?": "ترامپ پیش از مذاکرات احتمالی آمریکا و ایران چه گفته و این چه معنایی می تواند داشته باشد؟",
     "Shipping firms seek clarifications before crossing Hormuz": "شرکت های کشتیرانی پیش از عبور از هرمز به دنبال توضیحات بیشتری هستند",
-    "Two Israeli films to premiere at Tribeca in June": "دو فیلم اسرائیلی که در ژوئن در تریبکا به نمایش درمی آیند"
+    "Two Israeli films to premiere at Tribeca in June": "دو فیلم اسرائیلی که در ژوئن در تریبکا به نمایش درمی آیند",
+    "World reacts to Strait of Hormuz reopening amid US-Iran conflict": "واکنش جهان به بازگشایی تنگه هرمز در بحبوحه درگیری آمریکا و ایران",
+    "Lebanon president says country is no longer a pawn amid Israel ceasefire": "رئیس جمهور لبنان می گوید این کشور دیگر مهره ای در میان آتش بس اسرائیل نیست",
+    "Trump says ‘no sticking points at all,’ predicts deal with Iran could come in days": "ترامپ می گوید «هیچ نقطه اختلافی وجود ندارد» و پیش بینی می کند که توافق با ایران ممکن است ظرف چند روز حاصل شود",
+    "NYC judge declines to dismiss case in 1979 disappearance of Jewish boy Etan Patz": "قاضی نیویورک از رد پرونده ناپدید شدن پسر یهودی اتان پاتز در سال ۱۹۷۹ خودداری کرد",
+    "Will the ceasefire in Lebanon hold?": "آیا آتش بس در لبنان پابرجا خواهد بود؟",
+    "Displaced family reunited with grandfather in Lebanon’s Tyre": "خانواده آواره با پدربزرگش در صور لبنان دوباره متحد شدند",
+    "Pro-Palestinian Tufts University graduate targeted by Trump admin returns to Turkey": "فارغ التحصیل دانشگاه تافتس طرفدار فلسطین که هدف دولت ترامپ قرار گرفته بود، به ترکیه بازمی گردد"
   }
 }

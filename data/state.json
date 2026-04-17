@@ -1642,7 +1642,19 @@
     "9babda9cb902fde510e567f5",
     "b850c5fab363da981a640ac9",
     "7f95c441ce389371523c45a2",
-    "bd9c76c9d21cf06f8cfbb2f4"
+    "bd9c76c9d21cf06f8cfbb2f4",
+    "30427a828d81cab43feca78c",
+    "04d43dddf2e14e0b879424e8",
+    "054976890ec4cae8e22c870f",
+    "58922362af257902a8ba8443",
+    "5c5be262069ffe3d4d208649",
+    "87e81a0d5ec4db1205061be3",
+    "49c6ee36cf1d618868c62fd2",
+    "13e3f2a7f3f6ed5ba6e358b7",
+    "565cc736ee5084ac9ad49611",
+    "01a10760b0ff2c00ab90e6a4",
+    "00dca8e69f8b379cf757cff2",
+    "ef2c6ae3123f63c569dd8883"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3287,7 +3299,19 @@
     "a817e28a281ac00380fbc5b3",
     "c2c3c4e73ee918dadd0a80bc",
     "b3fb1316ba3f860ab4530809",
-    "3e5564c15e4411ef0bd453ac"
+    "3e5564c15e4411ef0bd453ac",
+    "09b7d91e048e0a74434304e7",
+    "1a4e9cd06511b45f981dcf61",
+    "6ee06b1a820f4d1ffcb0f036",
+    "c8162cba818c44ab5992777f",
+    "f797eada978b0352eb72fa7c",
+    "ad12eef18cb7c8b53c52400b",
+    "7a5f69508778874fb0446cea",
+    "184afb3851cb4341ca8fb4bc",
+    "f06ca64aa8b0d63a0cbebf73",
+    "4873747e435037db36072151",
+    "f552c5663cc4124079d0c4aa",
+    "163ecaeb0ccfddfb86c997ff"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3356,8 +3380,8 @@
     "7d669b49ca292b63dafa8cbc",
     "e49e9acc9ea276da4e465c0a"
   ],
-  "last_digest_hash": "56b1628dcfa80c88aa143e08a0077b3ba945d97cfca558c5223e4c523985c431",
-  "last_run_iso": "2026-04-17T12:01:08.862530+00:00",
+  "last_digest_hash": "969e4d90ba3117f4751c036c1b1cb8a3658363a66d22f69e05e6f7b93d05493c",
+  "last_run_iso": "2026-04-17T13:55:14.442706+00:00",
   "last_breaking_run_iso": "2026-04-15T08:03:56.449860+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -5002,6 +5026,18 @@
     "Could the Lebanon ceasefire lead to US-Iran talks breakthrough?": "آیا آتش بس لبنان می تواند به موفقیت مذاکرات آمریکا و ایران منجر شود؟",
     "Israeli attacks kill several over two days in Gaza despite ‘ceasefire’": "حملات اسرائیل طی دو روز در غزه با وجود «آتش بس» چندین نفر را کشت",
     "Lebanese celebrate return to homes as 10-day ceasefire begins": "لبنانی ها بازگشت به خانه ها را جشن می گیرند و آتش بس ۱۰ روزه آغاز می شود",
-    "As ceasefire holds, displaced Lebanese trickle home to find out what remains": "در حالی که آتش بس برقرار است، لبنانی های آواره به تدریج به خانه بازمی گردند تا بفهمند چه چیزی باقی مانده است"
+    "As ceasefire holds, displaced Lebanese trickle home to find out what remains": "در حالی که آتش بس برقرار است، لبنانی های آواره به تدریج به خانه بازمی گردند تا بفهمند چه چیزی باقی مانده است",
+    "In turnaround, Energy Ministry calls to relocate, not close, Bazan oil refinery": "در راستای تغییر، وزارت انرژی خواستار جابجایی پالایشگاه نفت بازان به جای بستن آن شد",
+    "UK police search near Israel’s London Embassy after threat of drone attack with ‘dangerous substances’": "پلیس بریتانیا پس از تهدید حمله پهپادی با «مواد خطرناک» در نزدیکی سفارت اسرائیل در لندن جستجو می کند",
+    "Israelis upset by Iran ceasefire, pessimistic about war’s outcome, poll shows": "نظرسنجی نشان می دهد اسرائیلی ها از آتش بس ایران ناراضی اند و نسبت به نتیجه جنگ بدبین هستند",
+    "Macron and Starmer host allies for summit on Hormuz maritime security": "مکرون و استارمر متحدان خود را برای اجلاس امنیت دریایی هرمز میزبانی می کنند",
+    "BBC in Iran: 'Tehran does not think it has lost this war'": "بی بی سی در ایران: «تهران فکر نمی کند این جنگ را باخته باشد»",
+    "The three clocks of the Iran war": "سه ساعت جنگ ایران",
+    "Iran negotiators were escorted home from talks by Pakistani air force, fearing Israeli hit": "مذاکره کنندگان ایرانی توسط نیروی هوایی پاکستان به دلیل ترس از حمله اسرائیل به خانه بازگردانده شدند",
+    "The Iran war has exposed the limits of neutrality": "جنگ ایران محدودیت های بی طرفی را آشکار کرده است",
+    "Levin says judge selection panel to meet, but no Supreme Court picks until his nominees okayed": "لوین می گوید هیئت انتخاب قضات باید تشکیل جلسه دهد، اما تا زمانی که نامزدهایش تأیید نکنند، هیچ انتخاب دیوان عالی انجام نمی شود",
+    "How the Lebanon ceasefire is viewed in Israel": "نحوه نگاه به آتش بس لبنان در اسرائیل",
+    "With DEI out of favor, some push to honor Jewish philanthropist behind 5,000 Black schools": "با حذف DEI، برخی تلاش می کنند تا نیکوکار یهودی پشت ۵۰۰۰ مدرسه سیاه پوست را گرامی بدارند",
+    "World Cup 2026: Saudi Arabia sack coach Herve Renard": "جام جهانی ۲۰۲۶: اخراج مربی عربستان سعودی، هروه رنارد،"
   }
 }

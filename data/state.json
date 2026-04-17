@@ -1658,7 +1658,14 @@
     "20fe4578c564744998bbff38",
     "33108a0bc7ee917b5be14479",
     "329ac68360bd309646331f8f",
-    "f9480eec8e22945637ddc1d5"
+    "f9480eec8e22945637ddc1d5",
+    "82d4752719d0c96e239c44b1",
+    "5a0cf060ef7b8670615a20bb",
+    "eb0391115e299e890afcbbae",
+    "e03885e73f555ea508829d5a",
+    "2c2ad490372a40fb897a1a8c",
+    "5f5a5d709326f9b038446a08",
+    "3c177597d997b5b37389ab5b"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3319,7 +3326,14 @@
     "208b48ec905e6ac0a3dfc5cf",
     "1867d3862346a26e1ea92260",
     "a9691df103fd0a8ef8ac7f59",
-    "ef941d22bc73702d60b13555"
+    "ef941d22bc73702d60b13555",
+    "4bc2fc3d601f1549e1e02bcc",
+    "326ea314dab775bffedda215",
+    "42da2cd7169d59a39ae3e791",
+    "f146b3b6ec0c5c0cfffc59a8",
+    "3590c87d9239f6515b3b1122",
+    "939b6814b39e968b73faeb07",
+    "5d2df35b76fb6e2c4398f643"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3388,8 +3402,8 @@
     "7d669b49ca292b63dafa8cbc",
     "e49e9acc9ea276da4e465c0a"
   ],
-  "last_digest_hash": "38b34d116cb38ba0da7e09fa0021f9659c589880b85883d6ae60ffa696decc32",
-  "last_run_iso": "2026-04-17T15:10:07.849586+00:00",
+  "last_digest_hash": "34bdb0bea67bc371d8c519eeb8469f949c30945bbce10fa46751841317400171",
+  "last_run_iso": "2026-04-17T17:04:06.918834+00:00",
   "last_breaking_run_iso": "2026-04-15T08:03:56.449860+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -5050,6 +5064,13 @@
     "Oil prices plunge as Iran says Strait 'open'": "قیمت نفت سقوط کرد در حالی که ایران اعلام کرد تنگه «باز» است",
     "Iran foreign minister says Strait of Hormuz ‘completely open’": "وزیر امور خارجه ایران می گوید تنگه هرمز «کاملا باز» است",
     "Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain": "آتش بس با اسرائیل به لبنان آرامش می بخشد، اما موانع صلح همچنان باقی است",
-    "‘Waiting without answers’: Gaza mother’s fear for her three imprisoned sons": "«انتظار بدون پاسخ»: ترس مادر غزه از سه پسر زندانی اش"
+    "‘Waiting without answers’: Gaza mother’s fear for her three imprisoned sons": "«انتظار بدون پاسخ»: ترس مادر غزه از سه پسر زندانی اش",
+    "Netanyahu: Long ‘road to peace’ begins, as Trump says Israel ‘PROHIBITED’ from bombing Lebanon": "نتانیاهو: «راه طولانی به سوی صلح» آغاز می شود، چرا که ترامپ می گوید اسرائیل «ممنوع» است که لبنان را بمباران کند",
+    "Controversy as Lebanese banker Sehnaoui is praised for supporting Israel": "جنجال به وجود آمده است؛ بانکدار لبنانی سهناوی به خاطر حمایت از اسرائیل مورد ستایش قرار گرفت",
+    "IDF on high alert amid fragile, temporary ceasefires in Iran and Lebanon": "ارتش اسرائیل در حالت آماده باش کامل در میان آتش بس های شکننده و موقت در ایران و لبنان",
+    "Southern Lebanon’s only functioning hospital damaged by Israeli strikes": "تنها بیمارستان فعال جنوب لبنان که بر اثر حملات اسرائیل آسیب دیده است",
+    "Macron demands assurances after Iran opens Strait of Hormuz": "مکرون پس از باز شدن تنگه هرمز توسط ایران خواستار تضمین ها شد",
+    "Can Pakistan secure Iran-US nuclear compromise, as Trump says deal ‘close’?": "آیا پاکستان می تواند به توافق هسته ای ایران و آمریکا دست یابد، همان طور که ترامپ می گوید توافق «نزدیک» است؟",
+    "Aner Shapira, hero of October 7, is heard in duet with Yehudit Ravitz": "آنر شاپیرا، قهرمان ۷ اکتبر، در دوئت با یهودیت راویتز شنیده می شود"
   }
 }

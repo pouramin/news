@@ -1633,7 +1633,8 @@
     "18ffdce2f36fc15f09dbd725",
     "8f78652224d82f3030dd52a7",
     "fc5e1d4f8369fed40f8db6f5",
-    "f0da6cec34e9c4a5322e2a8b"
+    "f0da6cec34e9c4a5322e2a8b",
+    "3e84034ad4d4f469a602b6fa"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3269,7 +3270,8 @@
     "42adbfbeffe1435c74c30013",
     "b2d0b6e4c004997e54ea5264",
     "84f136a9bac10b6cebe693cc",
-    "1d6972548f086a24805d450f"
+    "1d6972548f086a24805d450f",
+    "2766c9e6b809190f9a652cba"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3338,8 +3340,8 @@
     "7d669b49ca292b63dafa8cbc",
     "e49e9acc9ea276da4e465c0a"
   ],
-  "last_digest_hash": "897db000a459085e50d71e7583560f99afb43df097bcbbbc605670415e1fcd9e",
-  "last_run_iso": "2026-04-17T08:51:18.174787+00:00",
+  "last_digest_hash": "4912f64c4b246f74bbff7a881703649c322840e72764847222edb2c4139ee477",
+  "last_run_iso": "2026-04-17T10:21:53.331156+00:00",
   "last_breaking_run_iso": "2026-04-15T08:03:56.449860+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -4975,6 +4977,7 @@
     "Palestinian Prisoner’s Day: What happened in Palestine on April 17, 1971?": "روز زندانیان فلسطینی: در ۱۷ آوریل ۱۹۷۱ در فلسطین چه اتفاقی افتاد؟",
     "Yom HaZikaron: Stand with the Widows and Orphans of the Fallen - Sponsored Content": "یوم هازیکارون: ایستادن در کنار بیوه ها و یتیمان سقوط کرده - محتوای حمایت شده",
     "Celebrate Israel at 78: Free game connecting Jewish hearts to the homeland - Sponsored Content": "جشن گرفتن اسرائیل در ۷۸ سالگی: بازی رایگانی که قلب های یهودیان را به وطن متصل می کند - محتوای حمایت شده",
-    "Mamdani’s wife Rama Duwaji apologizes for using slurs online as a teenager": "همسر مامدانی، راما دواجی، بابت استفاده از الفاظ ناسزا در فضای آنلاین در نوجوانی عذرخواهی می کند"
+    "Mamdani’s wife Rama Duwaji apologizes for using slurs online as a teenager": "همسر مامدانی، راما دواجی، بابت استفاده از الفاظ ناسزا در فضای آنلاین در نوجوانی عذرخواهی می کند",
+    "Polls find PM’s bloc far from majority, but most say Zionist opposition also falls short": "نظرسنجی ها بلوک نخست وزیری را از اکثریت دور می دانند، اما اکثر مردم می گویند مخالفان صهیونیستی نیز ناکافی است"
   }
 }

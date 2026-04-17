@@ -1679,7 +1679,8 @@
     "493016379b62f06127501652",
     "f875ca475427332e320da4bb",
     "120fe6ecec89dd603011f653",
-    "e67897ddf17bd34b686099da"
+    "e67897ddf17bd34b686099da",
+    "0352933fccee93d8c58442c2"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3361,7 +3362,8 @@
     "95c13cebb092c285072f1300",
     "4944ec585e985fc6fb32607d",
     "c797bfcbfb84ec3016e7c52f",
-    "8ee5da6796af1abaa16d186d"
+    "8ee5da6796af1abaa16d186d",
+    "8e42c8fe5cc2320a4da797c9"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3432,8 +3434,8 @@
     "be892ed1f75b95a63a790411",
     "2178e3e9b2293e9b162aa629"
   ],
-  "last_digest_hash": "1a2b639516a27c559fc8db0dadef75455002ea3ec5271bbd8dd89015ff93d6e8",
-  "last_run_iso": "2026-04-17T20:59:47.917683+00:00",
+  "last_digest_hash": "2d48d4a47069ef8e8555c465387ee64bb1580cd544ebd3cf927084b3e82fdcda",
+  "last_run_iso": "2026-04-17T21:57:00.441855+00:00",
   "last_breaking_run_iso": "2026-04-17T19:16:45.946001+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -5115,6 +5117,7 @@
     "NYC judge declines to dismiss case in 1979 disappearance of Jewish boy Etan Patz": "قاضی نیویورک از رد پرونده ناپدید شدن پسر یهودی اتان پاتز در سال ۱۹۷۹ خودداری کرد",
     "Will the ceasefire in Lebanon hold?": "آیا آتش بس در لبنان پابرجا خواهد بود؟",
     "Displaced family reunited with grandfather in Lebanon’s Tyre": "خانواده آواره با پدربزرگش در صور لبنان دوباره متحد شدند",
-    "Pro-Palestinian Tufts University graduate targeted by Trump admin returns to Turkey": "فارغ التحصیل دانشگاه تافتس طرفدار فلسطین که هدف دولت ترامپ قرار گرفته بود، به ترکیه بازمی گردد"
+    "Pro-Palestinian Tufts University graduate targeted by Trump admin returns to Turkey": "فارغ التحصیل دانشگاه تافتس طرفدار فلسطین که هدف دولت ترامپ قرار گرفته بود، به ترکیه بازمی گردد",
+    "Argentina’s Milei to arrive in Israel on Sunday, his third trip in last three years": "میلی آرژانتین روز یکشنبه وارد اسرائیل می شود، سومین سفر او در سه سال گذشته"
   }
 }

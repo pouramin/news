@@ -1665,7 +1665,14 @@
     "e03885e73f555ea508829d5a",
     "2c2ad490372a40fb897a1a8c",
     "5f5a5d709326f9b038446a08",
-    "3c177597d997b5b37389ab5b"
+    "3c177597d997b5b37389ab5b",
+    "be892ed1f75b95a63a790411",
+    "2178e3e9b2293e9b162aa629",
+    "752d1ebcee6ec03d061a1f86",
+    "22e063d57a420c59a2005da3",
+    "98a8b933b49b8f58f8c70f3c",
+    "36fba5192046f627d33d268c",
+    "2f2f68bc19849e826787a089"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3333,7 +3340,14 @@
     "f146b3b6ec0c5c0cfffc59a8",
     "3590c87d9239f6515b3b1122",
     "939b6814b39e968b73faeb07",
-    "5d2df35b76fb6e2c4398f643"
+    "5d2df35b76fb6e2c4398f643",
+    "6defd16d88df4f37fe81768d",
+    "1a11ae13a2c0841bf66317a9",
+    "e987cab61a833d7315478ce6",
+    "c21f6cda61d9cd6f6a5d80fd",
+    "a46851756296c0ac56a1134e",
+    "c6bb16c23e8a1fc43fdf9f94",
+    "80d7cd5c911acadd1b20ac3c"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3400,11 +3414,13 @@
     "1ceb560e4c3c04cd2b7c41a4",
     "a5e32a3b64fc61846b8537ce",
     "7d669b49ca292b63dafa8cbc",
-    "e49e9acc9ea276da4e465c0a"
+    "e49e9acc9ea276da4e465c0a",
+    "be892ed1f75b95a63a790411",
+    "2178e3e9b2293e9b162aa629"
   ],
-  "last_digest_hash": "34bdb0bea67bc371d8c519eeb8469f949c30945bbce10fa46751841317400171",
-  "last_run_iso": "2026-04-17T18:01:21.499733+00:00",
-  "last_breaking_run_iso": "2026-04-15T08:03:56.449860+00:00",
+  "last_digest_hash": "9a07b92185cafdd37860cda005fe7612ac89db9f6065868f55365bb6e2256a1d",
+  "last_run_iso": "2026-04-17T19:16:45.946001+00:00",
+  "last_breaking_run_iso": "2026-04-17T19:16:45.946001+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -5071,6 +5087,13 @@
     "Southern Lebanon’s only functioning hospital damaged by Israeli strikes": "تنها بیمارستان فعال جنوب لبنان که بر اثر حملات اسرائیل آسیب دیده است",
     "Macron demands assurances after Iran opens Strait of Hormuz": "مکرون پس از باز شدن تنگه هرمز توسط ایران خواستار تضمین ها شد",
     "Can Pakistan secure Iran-US nuclear compromise, as Trump says deal ‘close’?": "آیا پاکستان می تواند به توافق هسته ای ایران و آمریکا دست یابد، همان طور که ترامپ می گوید توافق «نزدیک» است؟",
-    "Aner Shapira, hero of October 7, is heard in duet with Yehudit Ravitz": "آنر شاپیرا، قهرمان ۷ اکتبر، در دوئت با یهودیت راویتز شنیده می شود"
+    "Aner Shapira, hero of October 7, is heard in duet with Yehudit Ravitz": "آنر شاپیرا، قهرمان ۷ اکتبر، در دوئت با یهودیت راویتز شنیده می شود",
+    "After Lebanon truce, Iran says Hormuz ‘completely open’; US maintains naval blockade": "پس از آتش بس لبنان، ایران می گوید هرمز «کاملا باز» است؛ آمریکا محاصره دریایی را حفظ می کند",
+    "Oil prices drop more than 10% and US stocks soar after Iran reopens Strait of Hormuz": "قیمت نفت بیش از ۱۰٪ کاهش یافت و سهام آمریکا پس از بازگشایی تنگه هرمز توسط ایران به شدت افزایش یافت",
+    "Inside Kharg Island, Iran’s oil lifeline under threat": "درون جزیره خارگ، خط حیاتی نفت ایران در معرض تهدید",
+    "Kosovo approves troop contribution for Gaza stabilization force": "کوزوو با کمک نیرو به نیروی تثبیت کننده غزه موافقت کرد",
+    "What has Trump said before possible US-Iran talks and what could it mean?": "ترامپ پیش از مذاکرات احتمالی آمریکا و ایران چه گفته و این چه معنایی می تواند داشته باشد؟",
+    "Shipping firms seek clarifications before crossing Hormuz": "شرکت های کشتیرانی پیش از عبور از هرمز به دنبال توضیحات بیشتری هستند",
+    "Two Israeli films to premiere at Tribeca in June": "دو فیلم اسرائیلی که در ژوئن در تریبکا به نمایش درمی آیند"
   }
 }

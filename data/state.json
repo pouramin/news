@@ -1607,7 +1607,14 @@
     "eeef59ee6be9362890e65dc5",
     "b1ea829d922bc505c983902e",
     "65403d1083bf3e5c612d7428",
-    "4a9de3221c2aff87dfb8e16c"
+    "4a9de3221c2aff87dfb8e16c",
+    "efd5baab8edd1ee4b930d9f4",
+    "8c490f0f1bd7acf1817c71ed",
+    "323997b9b6f4c4d98bf6f80e",
+    "8cd015fd768259e4af6fc29b",
+    "058da8bf4e480ae908e48928",
+    "de73ccfa7d6ca76057f95c0b",
+    "3c5d7403271089960187c351"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3217,7 +3224,14 @@
     "3caa6eb591286670894076e2",
     "42b14bf2a7ec323da834661e",
     "653b32b232a45e913e68a50e",
-    "4b6dcf47edb9c4d684c19644"
+    "4b6dcf47edb9c4d684c19644",
+    "bd43f073720412f2ba9a849f",
+    "7ce79cde1d259e8d9b194876",
+    "f81c6721e3e73fdb5be6fb77",
+    "94af506d71a38924282e5fc8",
+    "eb61041439a66e93e44f99ba",
+    "9d2fbd330757c778ba310e75",
+    "0cefcb13ebb6272d5096b49a"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3286,8 +3300,8 @@
     "7d669b49ca292b63dafa8cbc",
     "e49e9acc9ea276da4e465c0a"
   ],
-  "last_digest_hash": "66a4c8d44fb222ecc7e0225798b33353ff0bc84b78f459fe0eac6e9a70001ad8",
-  "last_run_iso": "2026-04-16T23:54:36.390874+00:00",
+  "last_digest_hash": "f0fe9b86c3e5d38a32b6f336a43c1bb7df70124a1244dc6ca3d02034031edc1d",
+  "last_run_iso": "2026-04-17T03:39:34.287308+00:00",
   "last_breaking_run_iso": "2026-04-15T08:03:56.449860+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -4897,6 +4911,13 @@
     "Displaced Lebanese wary as ceasefire between Israel and Hezbollah begins": "لبنانی های آواره با آغاز آتش بس میان اسرائیل و حزب الله محتاط هستند",
     "Israel and Lebanon’s 10-day ceasefire goes into effect": "آتش بس ۱۰ روزه اسرائیل و لبنان اجرایی می شود",
     "Trump says second round of talks with Iran could take place this weekend": "ترامپ می گوید دور دوم مذاکرات با ایران ممکن است این آخر هفته برگزار شود",
-    "People in Beirut wary of trusting Israel will uphold Lebanon ceasefire": "مردم بیروت از اعتماد به اینکه اسرائیل آتش بس لبنان را حفظ خواهد کرد، محتاط اند"
+    "People in Beirut wary of trusting Israel will uphold Lebanon ceasefire": "مردم بیروت از اعتماد به اینکه اسرائیل آتش بس لبنان را حفظ خواهد کرد، محتاط اند",
+    "Iran war live: Ceasefire starts in Lebanon as Trump says Tehran deal close": "جنگ با ایران زنده: آتش بس در لبنان آغاز شد در حالی که ترامپ می گوید توافق تهران بسته می شود",
+    "Trump official defends seeking identifies of Jews at Penn for campus antisemitism probe": "مقام ترامپ از جستجوی هویت یهودیان در دانشگاه پن برای تحقیق درباره یهودستیزی در دانشگاه ها دفاع می کند",
+    "Bennett unveils plan for increasing disability access across Israel": "بنت برنامه ای برای افزایش دسترسی افراد دارای معلولیت در سراسر اسرائیل رونمایی کرد",
+    "‘Trump forced Israel into a ceasefire’ with Lebanon": "«ترامپ اسرائیل را به آتش بس با لبنان وادار کرد»",
+    "How Israel’s war upended daily life in Lebanon": "چگونه جنگ اسرائیل زندگی روزمره در لبنان را دگرگون کرد",
+    "Celebrations on the road as people begin returning to southern Lebanon": "جشن ها در جاده ها برگزار می شود و مردم شروع به بازگشت به جنوب لبنان می کنند",
+    "Many peptides are named to sound like Yiddish words. Here’s why": "بسیاری از پپتیدها به گونه ای نام گذاری می شوند که شبیه کلمات ییدیش باشند. دلیلش این است"
   }
 }

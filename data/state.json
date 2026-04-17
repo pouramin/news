@@ -1634,7 +1634,15 @@
     "8f78652224d82f3030dd52a7",
     "fc5e1d4f8369fed40f8db6f5",
     "f0da6cec34e9c4a5322e2a8b",
-    "3e84034ad4d4f469a602b6fa"
+    "3e84034ad4d4f469a602b6fa",
+    "2cdc2b2a8bacfb8d4252490f",
+    "4d081d5beaa07d1ae6ac8a12",
+    "f119631b50eb46315ea1a73a",
+    "9ab7bb3b1f3156ec2ce07533",
+    "9babda9cb902fde510e567f5",
+    "b850c5fab363da981a640ac9",
+    "7f95c441ce389371523c45a2",
+    "bd9c76c9d21cf06f8cfbb2f4"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3271,7 +3279,15 @@
     "b2d0b6e4c004997e54ea5264",
     "84f136a9bac10b6cebe693cc",
     "1d6972548f086a24805d450f",
-    "2766c9e6b809190f9a652cba"
+    "2766c9e6b809190f9a652cba",
+    "a630a53fe86f04e15da47ee6",
+    "2a96dfce867628a5156c1f4f",
+    "845d7039888f25d5dd538a89",
+    "1a90ba9adcd95e71761b449f",
+    "a817e28a281ac00380fbc5b3",
+    "c2c3c4e73ee918dadd0a80bc",
+    "b3fb1316ba3f860ab4530809",
+    "3e5564c15e4411ef0bd453ac"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3340,8 +3356,8 @@
     "7d669b49ca292b63dafa8cbc",
     "e49e9acc9ea276da4e465c0a"
   ],
-  "last_digest_hash": "4912f64c4b246f74bbff7a881703649c322840e72764847222edb2c4139ee477",
-  "last_run_iso": "2026-04-17T10:21:53.331156+00:00",
+  "last_digest_hash": "56b1628dcfa80c88aa143e08a0077b3ba945d97cfca558c5223e4c523985c431",
+  "last_run_iso": "2026-04-17T12:01:08.862530+00:00",
   "last_breaking_run_iso": "2026-04-15T08:03:56.449860+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -4978,6 +4994,14 @@
     "Yom HaZikaron: Stand with the Widows and Orphans of the Fallen - Sponsored Content": "یوم هازیکارون: ایستادن در کنار بیوه ها و یتیمان سقوط کرده - محتوای حمایت شده",
     "Celebrate Israel at 78: Free game connecting Jewish hearts to the homeland - Sponsored Content": "جشن گرفتن اسرائیل در ۷۸ سالگی: بازی رایگانی که قلب های یهودیان را به وطن متصل می کند - محتوای حمایت شده",
     "Mamdani’s wife Rama Duwaji apologizes for using slurs online as a teenager": "همسر مامدانی، راما دواجی، بابت استفاده از الفاظ ناسزا در فضای آنلاین در نوجوانی عذرخواهی می کند",
-    "Polls find PM’s bloc far from majority, but most say Zionist opposition also falls short": "نظرسنجی ها بلوک نخست وزیری را از اکثریت دور می دانند، اما اکثر مردم می گویند مخالفان صهیونیستی نیز ناکافی است"
+    "Polls find PM’s bloc far from majority, but most say Zionist opposition also falls short": "نظرسنجی ها بلوک نخست وزیری را از اکثریت دور می دانند، اما اکثر مردم می گویند مخالفان صهیونیستی نیز ناکافی است",
+    "Australia scrambles to secure energy as war on Iran fuels uncertainty": "استرالیا در تلاش برای تأمین انرژی است در حالی که جنگ علیه ایران عدم قطعیت را افزایش داده است",
+    "Syria’s Sharaa: Israel has acted with ‘brutality,’ but talks with it not at dead end": "شریعت سوریه: اسرائیل با «خشونت» عمل کرده، اما با آن به بن بست نرسیده است",
+    "Lebanese return to devastated south as fragile 10-day truce takes hold": "بازگشت لبنانی ها به جنوب ویران شده در حالی که آتش بس شکننده ۱۰ روزه برقرار شده است",
+    "No rockets but no relief: Nahariya residents see no end to war despite Lebanon ceasefire": "بدون راکت اما بدون کمک: ساکنان نهاریا با وجود آتش بس لبنان پایان جنگ را نمی بینند",
+    "Could the Lebanon ceasefire lead to US-Iran talks breakthrough?": "آیا آتش بس لبنان می تواند به موفقیت مذاکرات آمریکا و ایران منجر شود؟",
+    "Israeli attacks kill several over two days in Gaza despite ‘ceasefire’": "حملات اسرائیل طی دو روز در غزه با وجود «آتش بس» چندین نفر را کشت",
+    "Lebanese celebrate return to homes as 10-day ceasefire begins": "لبنانی ها بازگشت به خانه ها را جشن می گیرند و آتش بس ۱۰ روزه آغاز می شود",
+    "As ceasefire holds, displaced Lebanese trickle home to find out what remains": "در حالی که آتش بس برقرار است، لبنانی های آواره به تدریج به خانه بازمی گردند تا بفهمند چه چیزی باقی مانده است"
   }
 }

@@ -1654,7 +1654,11 @@
     "565cc736ee5084ac9ad49611",
     "01a10760b0ff2c00ab90e6a4",
     "00dca8e69f8b379cf757cff2",
-    "ef2c6ae3123f63c569dd8883"
+    "ef2c6ae3123f63c569dd8883",
+    "20fe4578c564744998bbff38",
+    "33108a0bc7ee917b5be14479",
+    "329ac68360bd309646331f8f",
+    "f9480eec8e22945637ddc1d5"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3311,7 +3315,11 @@
     "f06ca64aa8b0d63a0cbebf73",
     "4873747e435037db36072151",
     "f552c5663cc4124079d0c4aa",
-    "163ecaeb0ccfddfb86c997ff"
+    "163ecaeb0ccfddfb86c997ff",
+    "208b48ec905e6ac0a3dfc5cf",
+    "1867d3862346a26e1ea92260",
+    "a9691df103fd0a8ef8ac7f59",
+    "ef941d22bc73702d60b13555"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3380,8 +3388,8 @@
     "7d669b49ca292b63dafa8cbc",
     "e49e9acc9ea276da4e465c0a"
   ],
-  "last_digest_hash": "969e4d90ba3117f4751c036c1b1cb8a3658363a66d22f69e05e6f7b93d05493c",
-  "last_run_iso": "2026-04-17T13:55:14.442706+00:00",
+  "last_digest_hash": "38b34d116cb38ba0da7e09fa0021f9659c589880b85883d6ae60ffa696decc32",
+  "last_run_iso": "2026-04-17T15:10:07.849586+00:00",
   "last_breaking_run_iso": "2026-04-15T08:03:56.449860+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -5038,6 +5046,10 @@
     "Levin says judge selection panel to meet, but no Supreme Court picks until his nominees okayed": "لوین می گوید هیئت انتخاب قضات باید تشکیل جلسه دهد، اما تا زمانی که نامزدهایش تأیید نکنند، هیچ انتخاب دیوان عالی انجام نمی شود",
     "How the Lebanon ceasefire is viewed in Israel": "نحوه نگاه به آتش بس لبنان در اسرائیل",
     "With DEI out of favor, some push to honor Jewish philanthropist behind 5,000 Black schools": "با حذف DEI، برخی تلاش می کنند تا نیکوکار یهودی پشت ۵۰۰۰ مدرسه سیاه پوست را گرامی بدارند",
-    "World Cup 2026: Saudi Arabia sack coach Herve Renard": "جام جهانی ۲۰۲۶: اخراج مربی عربستان سعودی، هروه رنارد،"
+    "World Cup 2026: Saudi Arabia sack coach Herve Renard": "جام جهانی ۲۰۲۶: اخراج مربی عربستان سعودی، هروه رنارد،",
+    "Oil prices plunge as Iran says Strait 'open'": "قیمت نفت سقوط کرد در حالی که ایران اعلام کرد تنگه «باز» است",
+    "Iran foreign minister says Strait of Hormuz ‘completely open’": "وزیر امور خارجه ایران می گوید تنگه هرمز «کاملا باز» است",
+    "Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain": "آتش بس با اسرائیل به لبنان آرامش می بخشد، اما موانع صلح همچنان باقی است",
+    "‘Waiting without answers’: Gaza mother’s fear for her three imprisoned sons": "«انتظار بدون پاسخ»: ترس مادر غزه از سه پسر زندانی اش"
   }
 }

@@ -1702,7 +1702,10 @@
     "c9bf74e81047e9f11efa3027",
     "bf89f82c775a23a8f9adf6d7",
     "333a88384c7b7a683050eb46",
-    "5b71b4ffb457bf05cf3cd8b8"
+    "5b71b4ffb457bf05cf3cd8b8",
+    "153bd3336c6878c8cff1e97f",
+    "933b22286b58dbbe0edb5e4d",
+    "1d3f3f901eed39204d50ab59"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3407,7 +3410,10 @@
     "9c19e66253f296b29289dd92",
     "c9a9e26d88c981326fd51665",
     "c1cdedb2f6b4c1228d0707cc",
-    "616c55e15b3ca1b2434fcb75"
+    "616c55e15b3ca1b2434fcb75",
+    "07e7acfe1dfba4f895c1045d",
+    "e39837da3104aa30e387f58b",
+    "e174101d8469f1e3bc2a6b82"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3478,8 +3484,8 @@
     "be892ed1f75b95a63a790411",
     "2178e3e9b2293e9b162aa629"
   ],
-  "last_digest_hash": "7fe34d815678c456382476ed00e2e497fac098ed12600b982cdb2fd0544012bb",
-  "last_run_iso": "2026-04-18T09:58:36.014278+00:00",
+  "last_digest_hash": "2bd5085338803e854b72d1ea1143121631f28edecaa038b1b41babf59a2c286f",
+  "last_run_iso": "2026-04-18T10:56:29.621057+00:00",
   "last_breaking_run_iso": "2026-04-17T19:16:45.946001+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -5184,6 +5190,9 @@
     "Iran has learned that the Strait of Hormuz is its strongest deterrent": "ایران دریافته است که تنگه هرمز قوی ترین بازدارنده آن است",
     "UK police charge fourth suspect over attack on Jewish community ambulances": "پلیس بریتانیا چهارمین مظنون را به اتهام حمله به آمبولانس های جامعه یهودی متهم کرد",
     "Palestinian armed with knife breaches West Bank settlement, is shot dead — IDF": "فلسطینی مسلح به چاقو به شهرک کرانه باختری نفوذ کرد و به ضرب گلوله کشته شد — ارتش اسرائیل",
-    "Pakistan PM, army chief wrap up key trips in push for more US-Iran talks": "نخست وزیر پاکستان و فرمانده ارتش سفرهای کلیدی خود را برای افزایش مذاکرات آمریکا و ایران به پایان رساندند"
+    "Pakistan PM, army chief wrap up key trips in push for more US-Iran talks": "نخست وزیر پاکستان و فرمانده ارتش سفرهای کلیدی خود را برای افزایش مذاکرات آمریکا و ایران به پایان رساندند",
+    "Iranians fear fresh government crackdown after war: ‘There’s fire under the ashes’": "ایرانیان از سرکوب جدید دولت پس از جنگ می ترسند: «زیر خاکسترها آتش هست»",
+    "Hegseth compares media to the Pharisees, an ancient Jewish sect derided by Christians": "هگست رسانه ها را با فریسیان، فرقه ای باستانی یهودی که توسط مسیحیان تمسخر می شد، مقایسه می کند",
+    "Death penalty law proves the EU must treat Israel as an apartheid state": "قانون مجازات اعدام ثابت می کند که اتحادیه اروپا باید اسرائیل را به عنوان یک کشور آپارتاید در نظر بگیرد"
   }
 }

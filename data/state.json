@@ -1689,7 +1689,11 @@
     "b0841b835676310e5fe921b4",
     "8313a3bebe3debd13e5f0b34",
     "7359d3f668a6134abd64989d",
-    "d0510c8cb7d37825b62f6cfd"
+    "d0510c8cb7d37825b62f6cfd",
+    "f9c4b901e3c7ec1e26a2beec",
+    "8ba84c06156ce0d39cee3327",
+    "de24e5ac499139f6920ee6f4",
+    "ddf6488054654f83cf457a5a"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3381,7 +3385,11 @@
     "f745944d7169fd83cc47261a",
     "320c4983db47f354c48af4dc",
     "7af9cc0e5367645ad54b5992",
-    "6ec6828df3e62c8f4887176b"
+    "6ec6828df3e62c8f4887176b",
+    "aee4ea7834aa0019371bc6ba",
+    "e17e0ace6159992bfc0d57d1",
+    "ef8e26d85923688214e7d4e9",
+    "24ce2cb3d60080c917942da0"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3452,8 +3460,8 @@
     "be892ed1f75b95a63a790411",
     "2178e3e9b2293e9b162aa629"
   ],
-  "last_digest_hash": "f029fc576ed0f6c960e49e63b1026b4b39bb7469c7cba718d7d333028fb52d73",
-  "last_run_iso": "2026-04-18T03:27:03.552769+00:00",
+  "last_digest_hash": "023fa325b0f4deb8995da76cb36c0a7c8ef97f099068a5bfa72b54402ad1fee0",
+  "last_run_iso": "2026-04-18T05:47:29.815496+00:00",
   "last_breaking_run_iso": "2026-04-17T19:16:45.946001+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -5145,6 +5153,10 @@
     "Polish town’s new ‘information center’ denies murders of Jews by local Poles in 1941": "مرکز اطلاعات جدید این شهر لهستانی، قتل یهودیان توسط لهستانی های محلی در سال ۱۹۴۱ را رد می کند",
     "Lebanese man removes Israeli flag from castle in southern Lebanon": "مرد لبنانی پرچم اسرائیل را از قلعه ای در جنوب لبنان برمی دارد",
     "Iran’s top negotiator threatens to close Strait of Hormuz if US blockade continues": "مذاکره کننده ارشد ایران تهدید می کند که اگر محاصره آمریکا ادامه یابد، تنگه هرمز را خواهد بست",
-    "French court rules antisemitism not a motive in nanny’s poisoning of Jewish family": "دادگاه فرانسه حکم می دهد که یهودستیزی انگیزه مسموم کردن خانواده یهودی توسط پرستار کودک نیست"
+    "French court rules antisemitism not a motive in nanny’s poisoning of Jewish family": "دادگاه فرانسه حکم می دهد که یهودستیزی انگیزه مسموم کردن خانواده یهودی توسط پرستار کودک نیست",
+    "Trump antisemitism envoy: US will bar World Cup attendees tied to antisemitism abroad": "نماینده یهودستیزی ترامپ: آمریکا شرکت کنندگان جام جهانی مرتبط با یهودستیزی در خارج را ممنوع خواهد کرد",
+    "Jewish groups urge Trump to prioritize Americans held in Iran during ceasefire talks": "گروه های یهودی از ترامپ می خواهند که آمریکایی هایی را که در ایران در جریان مذاکرات آتش بس بازداشت شده اند، در اولویت قرار دهد",
+    "Al-Noor centre: A lifeline for blind children in Gaza": "مرکز النور: خط نجاتی برای کودکان نابینا در غزه",
+    "Was Henri Matisse’s sojourn in Vichy France de facto collaboration or quiet resistance?": "آیا اقامت آنری ماتیس در فرانسه ویشی عملا همکاری بود یا مقاومت آرام؟"
   }
 }

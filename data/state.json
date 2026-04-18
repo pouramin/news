@@ -1682,7 +1682,14 @@
     "e67897ddf17bd34b686099da",
     "0352933fccee93d8c58442c2",
     "4b6ee942ee19c27fa5255c8a",
-    "250eefea2186dba5d2c00850"
+    "250eefea2186dba5d2c00850",
+    "305172531f1fa2f9b301562c",
+    "4e3fab77c5f14328d9c30d9c",
+    "3464518b2b6ee34d3e799baa",
+    "b0841b835676310e5fe921b4",
+    "8313a3bebe3debd13e5f0b34",
+    "7359d3f668a6134abd64989d",
+    "d0510c8cb7d37825b62f6cfd"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3367,7 +3374,14 @@
     "8ee5da6796af1abaa16d186d",
     "8e42c8fe5cc2320a4da797c9",
     "a176f6d34c9b59d1a342eefa",
-    "971540c15a7812660231917f"
+    "971540c15a7812660231917f",
+    "ff869da70f8ac6ca57f13f25",
+    "891d247ee7ef671af4903026",
+    "4e23a1f43fffe572a2896548",
+    "f745944d7169fd83cc47261a",
+    "320c4983db47f354c48af4dc",
+    "7af9cc0e5367645ad54b5992",
+    "6ec6828df3e62c8f4887176b"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3438,8 +3452,8 @@
     "be892ed1f75b95a63a790411",
     "2178e3e9b2293e9b162aa629"
   ],
-  "last_digest_hash": "da50e819f83b21fc2b4e495ff3bad5002726997769962fcb899db1a81368de03",
-  "last_run_iso": "2026-04-17T23:53:06.248539+00:00",
+  "last_digest_hash": "f029fc576ed0f6c960e49e63b1026b4b39bb7469c7cba718d7d333028fb52d73",
+  "last_run_iso": "2026-04-18T03:27:03.552769+00:00",
   "last_breaking_run_iso": "2026-04-17T19:16:45.946001+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -5124,6 +5138,13 @@
     "Pro-Palestinian Tufts University graduate targeted by Trump admin returns to Turkey": "فارغ التحصیل دانشگاه تافتس طرفدار فلسطین که هدف دولت ترامپ قرار گرفته بود، به ترکیه بازمی گردد",
     "Argentina’s Milei to arrive in Israel on Sunday, his third trip in last three years": "میلی آرژانتین روز یکشنبه وارد اسرائیل می شود، سومین سفر او در سه سال گذشته",
     "‘Dystopian’ Iran war bets spark US crackdown on prediction markets": "شرط بندی های جنگ «دیستوپیایی» ایران باعث سرکوب بازارهای پیش بینی آمریکا می شود",
-    "Iran rejects Trump claim on deal to surrender nuclear material stockpiles": "ایران ادعای ترامپ درباره توافق تسلیم ذخایر مواد هسته ای را رد کرد"
+    "Iran rejects Trump claim on deal to surrender nuclear material stockpiles": "ایران ادعای ترامپ درباره توافق تسلیم ذخایر مواد هسته ای را رد کرد",
+    "Amid truce with Israel, Aoun says Lebanon to now seek ‘permanent agreements’": "در بحبوحه آتش بس با اسرائیل، عون می گوید لبنان اکنون به دنبال «توافقات دائمی» خواهد بود",
+    "Iran war live: Tehran says Trump made ‘false’ claims, amid peace talks": "جنگ ایران زنده: تهران می گوید ترامپ در جریان مذاکرات صلح ادعاهای «نادرست» مطرح کرده است",
+    "Trump thanks Gulf states for their ‘tremendous’ support": "ترامپ از کشورهای خلیج فارس بابت حمایت «فوق العاده» شان تشکر می کند",
+    "Polish town’s new ‘information center’ denies murders of Jews by local Poles in 1941": "مرکز اطلاعات جدید این شهر لهستانی، قتل یهودیان توسط لهستانی های محلی در سال ۱۹۴۱ را رد می کند",
+    "Lebanese man removes Israeli flag from castle in southern Lebanon": "مرد لبنانی پرچم اسرائیل را از قلعه ای در جنوب لبنان برمی دارد",
+    "Iran’s top negotiator threatens to close Strait of Hormuz if US blockade continues": "مذاکره کننده ارشد ایران تهدید می کند که اگر محاصره آمریکا ادامه یابد، تنگه هرمز را خواهد بست",
+    "French court rules antisemitism not a motive in nanny’s poisoning of Jewish family": "دادگاه فرانسه حکم می دهد که یهودستیزی انگیزه مسموم کردن خانواده یهودی توسط پرستار کودک نیست"
   }
 }

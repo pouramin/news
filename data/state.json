@@ -1709,7 +1709,17 @@
     "ae8adb70226ce04756ff6a18",
     "1443c663fc7a03a89b2e9d28",
     "3b45caafd7eb6c55986b0964",
-    "2d0330a28139c0fa8189792a"
+    "2d0330a28139c0fa8189792a",
+    "bd3563b54622b5e7d7a4bf87",
+    "30cd18c9d67db03ba35c67d6",
+    "ae6e47da4a9fe4cb22059057",
+    "d9b69f20155d205adf26971c",
+    "391d92f6054bf826758455f0",
+    "74c76816e7e756b61a6faaed",
+    "42890ba68e07facb2681f4c4",
+    "c3607c0ee2fb6b06d5567d12",
+    "342c07adc145e9ba3ec9945a",
+    "64bd117d8b2f6d7e9770dd1c"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3421,7 +3431,17 @@
     "e8809d305a9c93d77c35fc17",
     "d5104f407842bec06f126154",
     "54eb25c04b19e7a6d70f8623",
-    "3831eb7d0b77fb6d65b7d486"
+    "3831eb7d0b77fb6d65b7d486",
+    "899c588e774c4a08e14551f8",
+    "c16a869ac423313d5d0fa00a",
+    "a8fe5fe5f6129bfa7dfc9295",
+    "3655983a161b868d19801882",
+    "076ec7c95f9ce07db216a2ba",
+    "7df505f8732a68f66eeac656",
+    "22e9dedd18b96ddfea3be80b",
+    "1177553bb1c429e56752599a",
+    "7d7f73c723b69b447939da6e",
+    "97e90da5efca41765e340030"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3492,8 +3512,8 @@
     "be892ed1f75b95a63a790411",
     "2178e3e9b2293e9b162aa629"
   ],
-  "last_digest_hash": "2de9de32f83385d184a01ae4b03cad234d447b8394531b4ea37c1ab21bd246ed",
-  "last_run_iso": "2026-04-18T11:47:22.498769+00:00",
+  "last_digest_hash": "e4035fa8ef8043d05d17256c4ca582e2f6980b6e627d6ebb7ee59f942ecd54ad",
+  "last_run_iso": "2026-04-18T13:23:40.378665+00:00",
   "last_breaking_run_iso": "2026-04-17T19:16:45.946001+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -5205,6 +5225,16 @@
     "Ambulance crew in south Lebanon describes Israel’s ‘triple-tap’ attack": "تیم آمبولانس در جنوب لبنان حمله «سه ضربه» اسرائیل را توصیف می کند",
     "Iran reimposes Strait of Hormuz restrictions, accuses US of violating deal to reopen waterway": "ایران محدودیت های تنگه هرمز را دوباره اعمال می کند و آمریکا را به نقض توافق بازگشایی آبراه متهم می کند",
     "As oil prices plunge below $91 after weeks, a new Hormuz crisis emerges": "با سقوط قیمت نفت به پایین ۹۱ دلار پس از هفته ها، بحران جدیدی در هرمز پدید آمد",
-    "Hormuz: Spin in the Strait": "هرمز: چرخش در تنگه"
+    "Hormuz: Spin in the Strait": "هرمز: چرخش در تنگه",
+    "Iran’s supreme leader warns of ‘new bitter defeats’ for US and Israel": "رهبر معظم ایران نسبت به «شکست های تلخ جدید» برای آمریکا و اسرائیل هشدار داد",
+    "Settlers set fire to Palestinian buildings, cars in West Bank; no injuries or arrests": "شهرک نشینان ساختمان ها و خودروهای فلسطینی را در کرانه باختری به آتش کشیدند؛ هیچ جراحت یا دستگیری رخ نداده است",
+    "Iran closes Strait of Hormuz again over US blockade of its ports": "ایران بار دیگر تنگه هرمز را به دلیل محاصره بنادرش توسط آمریکا بست",
+    "Iran’s deputy FM says no date for more US talks until ‘framework’ agreed": "معاون نخست وزیر ایران اعلام کرد تا زمانی که «چارچوب» توافق نشود، تاریخ مذاکرات بیشتر با آمریکا وجود ندارد",
+    "Turkiye woos investors amid Iran war fallout in Gulf economies": "ترکیه سرمایه گذاران را در پی پیامدهای جنگ ایران در اقتصادهای خلیج فارس جذب می کند",
+    "Trump claims on Iranian concessions trigger questions, rejections in Tehran": "ادعاهای ترامپ درباره امتیازات ایران سوالات و رد شدن ها را در تهران برانگیخته است",
+    "Gunfire reported by vessel in Strait of Hormuz": "آتش توپخانه توسط کشتی در تنگه هرمز گزارش شد",
+    "US blockade of Iran needs to end before the Strait of Hormuz is fully reope": "محاصره آمریکا بر ایران باید پیش از آنکه تنگه هرمز کاملا لغو شود، پایان یابد",
+    "Displaced Lebanese return as Israeli shelling violates ceasefire in south": "بازگشت آوارگان لبنانی در حالی که گلوله باران اسرائیل آتش بس در جنوب را نقض می کند",
+    "Entertainment figures add names to letter rejecting calls to kick Israel out of Eurovision": "چهره های سرگرمی نام خود را به نامه اضافه کردند و درخواست ها برای اخراج اسرائیل از یوروویژن را رد کردند"
   }
 }

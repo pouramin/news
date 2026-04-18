@@ -1737,7 +1737,9 @@
     "9ccaa7146bcda542eed6f752",
     "3c3444fc4e89e03c56c1f006",
     "594f4943e32979de36942d21",
-    "562f74ea0997b677771a2441"
+    "562f74ea0997b677771a2441",
+    "065750f907f939e8f6ff4af4",
+    "fb29c3a476d53530c65d735b"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3477,7 +3479,9 @@
     "fa35aae473ed7c93f97a0bc2",
     "361fd80b4f58f6015d6cf71f",
     "bfe5efa9b86f9fbc0dbf392e",
-    "7f857406ccfcc55647d9d489"
+    "7f857406ccfcc55647d9d489",
+    "43b74e667661463ec11dd7e9",
+    "33acf919fa7ef9c26f04e9a8"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3548,8 +3552,8 @@
     "be892ed1f75b95a63a790411",
     "2178e3e9b2293e9b162aa629"
   ],
-  "last_digest_hash": "07109c46f0d98e62f25dacc368b2dbaf4b8ed2a52f50a9861d6b07466dcaf0f7",
-  "last_run_iso": "2026-04-18T21:48:49.060362+00:00",
+  "last_digest_hash": "1e928a09c855ed733be20fe8bf59dcefc3124bb61e905e076b45b09052946b03",
+  "last_run_iso": "2026-04-18T22:51:48.745766+00:00",
   "last_breaking_run_iso": "2026-04-17T19:16:45.946001+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -5289,6 +5293,8 @@
     "Strait of Hormuz closed again, Iran says, as ships attacked": "ایران می گوید تنگه هرمز دوباره بسته شد، زیرا کشتی ها حمله کردند",
     "Iran military orders Indian ship to abort Strait of Hormuz passage": "ارتش ایران دستور داد کشتی هندی عبور از تنگه هرمز را لغو کند",
     "‘We won’t let them forget’: Tel Aviv protest demands Oct. 7 inquiry ahead of Memorial Day": "«نمی گذاریم فراموش کنند»: اعتراض تل آویو خواستار تحقیق در ۷ اکتبر پیش از روز یادبود است",
-    "Israel says established a ‘yellow line’ in Lebanon, as it has in Gaza": "اسرائیل می گوید در لبنان یک «خط زرد» ایجاد کرده است، همان طور که در غزه کرده است"
+    "Israel says established a ‘yellow line’ in Lebanon, as it has in Gaza": "اسرائیل می گوید در لبنان یک «خط زرد» ایجاد کرده است، همان طور که در غزه کرده است",
+    "Iran reasserts control of Hormuz Strait as Trump warns against ‘blackmail’": "ایران کنترل تنگه هرمز را دوباره به دست می گیرد در حالی که ترامپ درباره «باج خواهی» هشدار می دهد",
+    "Settlers reportedly beat Palestinian woman, raid several West Bank towns": "گزارش شده که شهرک نشینان زن فلسطینی را کتک زده و به چندین شهر کرانه باختری یورش برده اند"
   }
 }

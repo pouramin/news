@@ -1720,7 +1720,11 @@
     "c3607c0ee2fb6b06d5567d12",
     "342c07adc145e9ba3ec9945a",
     "64bd117d8b2f6d7e9770dd1c",
-    "7b55654bad9e550c8e275d76"
+    "7b55654bad9e550c8e275d76",
+    "e015028fd4c8be8af19fbf80",
+    "2ca303c33c76080ed86410c3",
+    "e648650c059dfb042130f2ad",
+    "48fa70d8fba963ae4a31d2a1"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3443,7 +3447,11 @@
     "1177553bb1c429e56752599a",
     "7d7f73c723b69b447939da6e",
     "97e90da5efca41765e340030",
-    "2b98e43ddefd21dcf3ba2d75"
+    "2b98e43ddefd21dcf3ba2d75",
+    "51ef3a6e528a7d1b1c526022",
+    "d5ef0e933372a0bdb3ba0393",
+    "05c66f08297f53ac3925d0c0",
+    "ca79d40863df4a5a8a633222"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3514,8 +3522,8 @@
     "be892ed1f75b95a63a790411",
     "2178e3e9b2293e9b162aa629"
   ],
-  "last_digest_hash": "07462859915708f032caad3dd7fcb845dc26864f131f3a9dea54062503ad08e5",
-  "last_run_iso": "2026-04-18T14:54:36.542300+00:00",
+  "last_digest_hash": "66a0c3d90b20b475ecc9b768989329a0d9956ec85d30388c5b537564c12135d0",
+  "last_run_iso": "2026-04-18T15:50:56.241180+00:00",
   "last_breaking_run_iso": "2026-04-17T19:16:45.946001+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -5238,6 +5246,10 @@
     "US blockade of Iran needs to end before the Strait of Hormuz is fully reope": "محاصره آمریکا بر ایران باید پیش از آنکه تنگه هرمز کاملا لغو شود، پایان یابد",
     "Displaced Lebanese return as Israeli shelling violates ceasefire in south": "بازگشت آوارگان لبنانی در حالی که گلوله باران اسرائیل آتش بس در جنوب را نقض می کند",
     "Entertainment figures add names to letter rejecting calls to kick Israel out of Eurovision": "چهره های سرگرمی نام خود را به نامه اضافه کردند و درخواست ها برای اخراج اسرائیل از یوروویژن را رد کردند",
-    "UNICEF ‘outraged’ after Israeli forces kill water truck drivers in Gaza": "یونیسف پس از آنکه نیروهای اسرائیلی رانندگان کامیون های آب را در غزه کشتند، «خشمگین» شد"
+    "UNICEF ‘outraged’ after Israeli forces kill water truck drivers in Gaza": "یونیسف پس از آنکه نیروهای اسرائیلی رانندگان کامیون های آب را در غزه کشتند، «خشمگین» شد",
+    "IDF confirms strikes on Hezbollah operatives in Lebanon, in first since ceasefire": "ارتش اسرائیل حملات به عوامل حزب الله در لبنان را تأیید کرد، که این اولین بار از زمان آتش بس است",
+    "French soldier serving with UNIFIL killed in Lebanon attack": "یک سرباز فرانسوی که در یونی فیل خدمت می کرد در حمله به لبنان کشته شد",
+    "Macron, UNIFIL blame Hezbollah after French peacekeeper killed in Lebanon": "مکرون و یونیفیل پس از کشته شدن حافظ صلح فرانسوی در لبنان، حزب الله را مقصر دانستند",
+    "French peacekeeper killed in southern Lebanon": "حافظ صلح فرانسوی در جنوب لبنان کشته شد"
   }
 }

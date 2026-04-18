@@ -1719,7 +1719,8 @@
     "42890ba68e07facb2681f4c4",
     "c3607c0ee2fb6b06d5567d12",
     "342c07adc145e9ba3ec9945a",
-    "64bd117d8b2f6d7e9770dd1c"
+    "64bd117d8b2f6d7e9770dd1c",
+    "7b55654bad9e550c8e275d76"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3441,7 +3442,8 @@
     "22e9dedd18b96ddfea3be80b",
     "1177553bb1c429e56752599a",
     "7d7f73c723b69b447939da6e",
-    "97e90da5efca41765e340030"
+    "97e90da5efca41765e340030",
+    "2b98e43ddefd21dcf3ba2d75"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3512,8 +3514,8 @@
     "be892ed1f75b95a63a790411",
     "2178e3e9b2293e9b162aa629"
   ],
-  "last_digest_hash": "e4035fa8ef8043d05d17256c4ca582e2f6980b6e627d6ebb7ee59f942ecd54ad",
-  "last_run_iso": "2026-04-18T13:23:40.378665+00:00",
+  "last_digest_hash": "07462859915708f032caad3dd7fcb845dc26864f131f3a9dea54062503ad08e5",
+  "last_run_iso": "2026-04-18T14:54:36.542300+00:00",
   "last_breaking_run_iso": "2026-04-17T19:16:45.946001+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -5235,6 +5237,7 @@
     "Gunfire reported by vessel in Strait of Hormuz": "آتش توپخانه توسط کشتی در تنگه هرمز گزارش شد",
     "US blockade of Iran needs to end before the Strait of Hormuz is fully reope": "محاصره آمریکا بر ایران باید پیش از آنکه تنگه هرمز کاملا لغو شود، پایان یابد",
     "Displaced Lebanese return as Israeli shelling violates ceasefire in south": "بازگشت آوارگان لبنانی در حالی که گلوله باران اسرائیل آتش بس در جنوب را نقض می کند",
-    "Entertainment figures add names to letter rejecting calls to kick Israel out of Eurovision": "چهره های سرگرمی نام خود را به نامه اضافه کردند و درخواست ها برای اخراج اسرائیل از یوروویژن را رد کردند"
+    "Entertainment figures add names to letter rejecting calls to kick Israel out of Eurovision": "چهره های سرگرمی نام خود را به نامه اضافه کردند و درخواست ها برای اخراج اسرائیل از یوروویژن را رد کردند",
+    "UNICEF ‘outraged’ after Israeli forces kill water truck drivers in Gaza": "یونیسف پس از آنکه نیروهای اسرائیلی رانندگان کامیون های آب را در غزه کشتند، «خشمگین» شد"
   }
 }

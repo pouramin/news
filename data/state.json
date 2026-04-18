@@ -1705,7 +1705,11 @@
     "5b71b4ffb457bf05cf3cd8b8",
     "153bd3336c6878c8cff1e97f",
     "933b22286b58dbbe0edb5e4d",
-    "1d3f3f901eed39204d50ab59"
+    "1d3f3f901eed39204d50ab59",
+    "ae8adb70226ce04756ff6a18",
+    "1443c663fc7a03a89b2e9d28",
+    "3b45caafd7eb6c55986b0964",
+    "2d0330a28139c0fa8189792a"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3413,7 +3417,11 @@
     "616c55e15b3ca1b2434fcb75",
     "07e7acfe1dfba4f895c1045d",
     "e39837da3104aa30e387f58b",
-    "e174101d8469f1e3bc2a6b82"
+    "e174101d8469f1e3bc2a6b82",
+    "e8809d305a9c93d77c35fc17",
+    "d5104f407842bec06f126154",
+    "54eb25c04b19e7a6d70f8623",
+    "3831eb7d0b77fb6d65b7d486"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3484,8 +3492,8 @@
     "be892ed1f75b95a63a790411",
     "2178e3e9b2293e9b162aa629"
   ],
-  "last_digest_hash": "2bd5085338803e854b72d1ea1143121631f28edecaa038b1b41babf59a2c286f",
-  "last_run_iso": "2026-04-18T10:56:29.621057+00:00",
+  "last_digest_hash": "2de9de32f83385d184a01ae4b03cad234d447b8394531b4ea37c1ab21bd246ed",
+  "last_run_iso": "2026-04-18T11:47:22.498769+00:00",
   "last_breaking_run_iso": "2026-04-17T19:16:45.946001+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -5193,6 +5201,10 @@
     "Pakistan PM, army chief wrap up key trips in push for more US-Iran talks": "نخست وزیر پاکستان و فرمانده ارتش سفرهای کلیدی خود را برای افزایش مذاکرات آمریکا و ایران به پایان رساندند",
     "Iranians fear fresh government crackdown after war: ‘There’s fire under the ashes’": "ایرانیان از سرکوب جدید دولت پس از جنگ می ترسند: «زیر خاکسترها آتش هست»",
     "Hegseth compares media to the Pharisees, an ancient Jewish sect derided by Christians": "هگست رسانه ها را با فریسیان، فرقه ای باستانی یهودی که توسط مسیحیان تمسخر می شد، مقایسه می کند",
-    "Death penalty law proves the EU must treat Israel as an apartheid state": "قانون مجازات اعدام ثابت می کند که اتحادیه اروپا باید اسرائیل را به عنوان یک کشور آپارتاید در نظر بگیرد"
+    "Death penalty law proves the EU must treat Israel as an apartheid state": "قانون مجازات اعدام ثابت می کند که اتحادیه اروپا باید اسرائیل را به عنوان یک کشور آپارتاید در نظر بگیرد",
+    "Ambulance crew in south Lebanon describes Israel’s ‘triple-tap’ attack": "تیم آمبولانس در جنوب لبنان حمله «سه ضربه» اسرائیل را توصیف می کند",
+    "Iran reimposes Strait of Hormuz restrictions, accuses US of violating deal to reopen waterway": "ایران محدودیت های تنگه هرمز را دوباره اعمال می کند و آمریکا را به نقض توافق بازگشایی آبراه متهم می کند",
+    "As oil prices plunge below $91 after weeks, a new Hormuz crisis emerges": "با سقوط قیمت نفت به پایین ۹۱ دلار پس از هفته ها، بحران جدیدی در هرمز پدید آمد",
+    "Hormuz: Spin in the Strait": "هرمز: چرخش در تنگه"
   }
 }

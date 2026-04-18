@@ -1724,7 +1724,9 @@
     "e015028fd4c8be8af19fbf80",
     "2ca303c33c76080ed86410c3",
     "e648650c059dfb042130f2ad",
-    "48fa70d8fba963ae4a31d2a1"
+    "48fa70d8fba963ae4a31d2a1",
+    "94434771284d99f8652d7470",
+    "149c03c0ef06a1531edb562e"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3451,7 +3453,9 @@
     "51ef3a6e528a7d1b1c526022",
     "d5ef0e933372a0bdb3ba0393",
     "05c66f08297f53ac3925d0c0",
-    "ca79d40863df4a5a8a633222"
+    "ca79d40863df4a5a8a633222",
+    "7d58eff156118c76d2c85140",
+    "c55ee0b7112f349fec103d0e"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3522,8 +3526,8 @@
     "be892ed1f75b95a63a790411",
     "2178e3e9b2293e9b162aa629"
   ],
-  "last_digest_hash": "66a0c3d90b20b475ecc9b768989329a0d9956ec85d30388c5b537564c12135d0",
-  "last_run_iso": "2026-04-18T15:50:56.241180+00:00",
+  "last_digest_hash": "20381ee42cb42acedcbd70142d311f93728f6cab7be3af1c34b72bbf33498691",
+  "last_run_iso": "2026-04-18T16:55:52.519866+00:00",
   "last_breaking_run_iso": "2026-04-17T19:16:45.946001+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -5250,6 +5254,8 @@
     "IDF confirms strikes on Hezbollah operatives in Lebanon, in first since ceasefire": "ارتش اسرائیل حملات به عوامل حزب الله در لبنان را تأیید کرد، که این اولین بار از زمان آتش بس است",
     "French soldier serving with UNIFIL killed in Lebanon attack": "یک سرباز فرانسوی که در یونی فیل خدمت می کرد در حمله به لبنان کشته شد",
     "Macron, UNIFIL blame Hezbollah after French peacekeeper killed in Lebanon": "مکرون و یونیفیل پس از کشته شدن حافظ صلح فرانسوی در لبنان، حزب الله را مقصر دانستند",
-    "French peacekeeper killed in southern Lebanon": "حافظ صلح فرانسوی در جنوب لبنان کشته شد"
+    "French peacekeeper killed in southern Lebanon": "حافظ صلح فرانسوی در جنوب لبنان کشته شد",
+    "London police probe arson attack on building tied to Jewish organization": "پلیس لندن حمله به آتش سوزی به ساختمانی مرتبط با سازمان یهودی را بررسی کرد",
+    "Harsh Israel critic Analilia Mejía wins US House seat in New Jersey special election": "منتقد سخت گیر اسرائیل، آناللیا مجیا، کرسی مجلس نمایندگان آمریکا را در انتخابات ویژه نیوجرسی به دست آورد"
   }
 }

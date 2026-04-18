@@ -1693,7 +1693,11 @@
     "f9c4b901e3c7ec1e26a2beec",
     "8ba84c06156ce0d39cee3327",
     "de24e5ac499139f6920ee6f4",
-    "ddf6488054654f83cf457a5a"
+    "ddf6488054654f83cf457a5a",
+    "88c2586599286507581f3a1e",
+    "7b1b48d64da75ca51cda7849",
+    "233315d5b9e299ba986fe156",
+    "a948cd33612e9b5382043a73"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3389,7 +3393,11 @@
     "aee4ea7834aa0019371bc6ba",
     "e17e0ace6159992bfc0d57d1",
     "ef8e26d85923688214e7d4e9",
-    "24ce2cb3d60080c917942da0"
+    "24ce2cb3d60080c917942da0",
+    "21a0ac867d7c552e2137047e",
+    "e6a7e87be530a9a1bb16bb64",
+    "e284ff2ec8d89724db61b942",
+    "d64ab4b6e62e9264cb7b592b"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3460,8 +3468,8 @@
     "be892ed1f75b95a63a790411",
     "2178e3e9b2293e9b162aa629"
   ],
-  "last_digest_hash": "023fa325b0f4deb8995da76cb36c0a7c8ef97f099068a5bfa72b54402ad1fee0",
-  "last_run_iso": "2026-04-18T05:47:29.815496+00:00",
+  "last_digest_hash": "229c168e98baa1f9a151ac061e88efbfda77aa586246def5e8b81373ce897b2e",
+  "last_run_iso": "2026-04-18T07:23:06.799367+00:00",
   "last_breaking_run_iso": "2026-04-17T19:16:45.946001+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -5157,6 +5165,10 @@
     "Trump antisemitism envoy: US will bar World Cup attendees tied to antisemitism abroad": "نماینده یهودستیزی ترامپ: آمریکا شرکت کنندگان جام جهانی مرتبط با یهودستیزی در خارج را ممنوع خواهد کرد",
     "Jewish groups urge Trump to prioritize Americans held in Iran during ceasefire talks": "گروه های یهودی از ترامپ می خواهند که آمریکایی هایی را که در ایران در جریان مذاکرات آتش بس بازداشت شده اند، در اولویت قرار دهد",
     "Al-Noor centre: A lifeline for blind children in Gaza": "مرکز النور: خط نجاتی برای کودکان نابینا در غزه",
-    "Was Henri Matisse’s sojourn in Vichy France de facto collaboration or quiet resistance?": "آیا اقامت آنری ماتیس در فرانسه ویشی عملا همکاری بود یا مقاومت آرام؟"
+    "Was Henri Matisse’s sojourn in Vichy France de facto collaboration or quiet resistance?": "آیا اقامت آنری ماتیس در فرانسه ویشی عملا همکاری بود یا مقاومت آرام؟",
+    "Iran war: What is happening on day 50 of the US-Iran conflict?": "جنگ ایران: در روز پنجاهمین درگیری آمریکا و ایران چه اتفاقی در حال رخ دادن است؟",
+    "Trump says US will ‘start dropping bombs again’ if no Iran deal is reached": "ترامپ می گوید اگر توافقی با ایران حاصل نشود، آمریکا «دوباره شروع به انداختن بمب خواهد کرد»",
+    "British tourists hurl antisemitic abuse at Israeli couple in Vietnam: ‘Rats running away’": "گردشگران بریتانیایی در ویتنام به زوج اسرائیلی توهین های یهودستیزانه می کنند: «موش ها فرار می کنند»",
+    "For first time in decades, PA bringing municipal vote to city in Gaza": "برای اولین بار در دهه ها، تشکیلات خودگردان رأی شهرداری را به شهر غزه می آورد"
   }
 }

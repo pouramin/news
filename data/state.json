@@ -1726,7 +1726,9 @@
     "e648650c059dfb042130f2ad",
     "48fa70d8fba963ae4a31d2a1",
     "94434771284d99f8652d7470",
-    "149c03c0ef06a1531edb562e"
+    "149c03c0ef06a1531edb562e",
+    "d9719bdb761f361882f223da",
+    "25e717368e9fbb3237debaec"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3455,7 +3457,9 @@
     "05c66f08297f53ac3925d0c0",
     "ca79d40863df4a5a8a633222",
     "7d58eff156118c76d2c85140",
-    "c55ee0b7112f349fec103d0e"
+    "c55ee0b7112f349fec103d0e",
+    "3894c7345c46697b1d005577",
+    "e64fab11ea8be7eb298cc84f"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3526,8 +3530,8 @@
     "be892ed1f75b95a63a790411",
     "2178e3e9b2293e9b162aa629"
   ],
-  "last_digest_hash": "20381ee42cb42acedcbd70142d311f93728f6cab7be3af1c34b72bbf33498691",
-  "last_run_iso": "2026-04-18T17:51:01.475546+00:00",
+  "last_digest_hash": "771a71d266f5e1bcea2954dadd7c324704494d31b06f915a5206f3089054d30d",
+  "last_run_iso": "2026-04-18T19:06:15.671708+00:00",
   "last_breaking_run_iso": "2026-04-17T19:16:45.946001+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -5256,6 +5260,8 @@
     "Macron, UNIFIL blame Hezbollah after French peacekeeper killed in Lebanon": "مکرون و یونیفیل پس از کشته شدن حافظ صلح فرانسوی در لبنان، حزب الله را مقصر دانستند",
     "French peacekeeper killed in southern Lebanon": "حافظ صلح فرانسوی در جنوب لبنان کشته شد",
     "London police probe arson attack on building tied to Jewish organization": "پلیس لندن حمله به آتش سوزی به ساختمانی مرتبط با سازمان یهودی را بررسی کرد",
-    "Harsh Israel critic Analilia Mejía wins US House seat in New Jersey special election": "منتقد سخت گیر اسرائیل، آناللیا مجیا، کرسی مجلس نمایندگان آمریکا را در انتخابات ویژه نیوجرسی به دست آورد"
+    "Harsh Israel critic Analilia Mejía wins US House seat in New Jersey special election": "منتقد سخت گیر اسرائیل، آناللیا مجیا، کرسی مجلس نمایندگان آمریکا را در انتخابات ویژه نیوجرسی به دست آورد",
+    "Trump: Iran ‘got a little cute’ by blocking Hormuz again, but talks going ‘really well’": "ترامپ: ایران با مسدود کردن دوباره هرمز کمی شوخ طبع شد، اما مذاکرات «خیلی خوب» پیش می رود",
+    "‘Test tube orgy’: Israeli scientists use yeast to assess humans’ mating preferences": "«اورژی لوله آزمایش»: دانشمندان اسرائیلی از مخمر برای ارزیابی ترجیحات جفت گیری انسان ها استفاده می کنند"
   }
 }

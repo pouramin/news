@@ -1697,7 +1697,11 @@
     "88c2586599286507581f3a1e",
     "7b1b48d64da75ca51cda7849",
     "233315d5b9e299ba986fe156",
-    "a948cd33612e9b5382043a73"
+    "a948cd33612e9b5382043a73",
+    "c79227cd606cafa9247a70aa",
+    "c9bf74e81047e9f11efa3027",
+    "bf89f82c775a23a8f9adf6d7",
+    "333a88384c7b7a683050eb46"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3397,7 +3401,11 @@
     "21a0ac867d7c552e2137047e",
     "e6a7e87be530a9a1bb16bb64",
     "e284ff2ec8d89724db61b942",
-    "d64ab4b6e62e9264cb7b592b"
+    "d64ab4b6e62e9264cb7b592b",
+    "05d9ea6e786d255d6baf94c0",
+    "9c19e66253f296b29289dd92",
+    "c9a9e26d88c981326fd51665",
+    "c1cdedb2f6b4c1228d0707cc"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3468,8 +3476,8 @@
     "be892ed1f75b95a63a790411",
     "2178e3e9b2293e9b162aa629"
   ],
-  "last_digest_hash": "229c168e98baa1f9a151ac061e88efbfda77aa586246def5e8b81373ce897b2e",
-  "last_run_iso": "2026-04-18T07:23:06.799367+00:00",
+  "last_digest_hash": "f484735180d5e3c3f968e42c46e882af457e61195c1bff057125bb190d1f4398",
+  "last_run_iso": "2026-04-18T09:02:52.404063+00:00",
   "last_breaking_run_iso": "2026-04-17T19:16:45.946001+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -5169,6 +5177,10 @@
     "Iran war: What is happening on day 50 of the US-Iran conflict?": "جنگ ایران: در روز پنجاهمین درگیری آمریکا و ایران چه اتفاقی در حال رخ دادن است؟",
     "Trump says US will ‘start dropping bombs again’ if no Iran deal is reached": "ترامپ می گوید اگر توافقی با ایران حاصل نشود، آمریکا «دوباره شروع به انداختن بمب خواهد کرد»",
     "British tourists hurl antisemitic abuse at Israeli couple in Vietnam: ‘Rats running away’": "گردشگران بریتانیایی در ویتنام به زوج اسرائیلی توهین های یهودستیزانه می کنند: «موش ها فرار می کنند»",
-    "For first time in decades, PA bringing municipal vote to city in Gaza": "برای اولین بار در دهه ها، تشکیلات خودگردان رأی شهرداری را به شهر غزه می آورد"
+    "For first time in decades, PA bringing municipal vote to city in Gaza": "برای اولین بار در دهه ها، تشکیلات خودگردان رأی شهرداری را به شهر غزه می آورد",
+    "IDF court-martials female troops who showed up for discharge in tank tops, short skirt": "ارتش اسرائیل زنان سربازی را که برای ترخیص با تاپ و دامن کوتاه آمده بودند، دادگاهی نظامی می کند",
+    "Iran has learned that the Strait of Hormuz is its strongest deterrent": "ایران دریافته است که تنگه هرمز قوی ترین بازدارنده آن است",
+    "UK police charge fourth suspect over attack on Jewish community ambulances": "پلیس بریتانیا چهارمین مظنون را به اتهام حمله به آمبولانس های جامعه یهودی متهم کرد",
+    "Palestinian armed with knife breaches West Bank settlement, is shot dead — IDF": "فلسطینی مسلح به چاقو به شهرک کرانه باختری نفوذ کرد و به ضرب گلوله کشته شد — ارتش اسرائیل"
   }
 }

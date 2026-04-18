@@ -1733,7 +1733,11 @@
     "d766e04852b35259cdb7ec8c",
     "cd8218cafd03137281d63ec7",
     "1fd4719dda0ece502715ecc7",
-    "02090206bb738421f69d5e71"
+    "02090206bb738421f69d5e71",
+    "9ccaa7146bcda542eed6f752",
+    "3c3444fc4e89e03c56c1f006",
+    "594f4943e32979de36942d21",
+    "562f74ea0997b677771a2441"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3469,7 +3473,11 @@
     "9f21dc63d134a5f55409a27f",
     "56b72120b02ef255f3fb406e",
     "515f883c45382b8cf0f1bae4",
-    "09020305f271c28661e4d9a8"
+    "09020305f271c28661e4d9a8",
+    "fa35aae473ed7c93f97a0bc2",
+    "361fd80b4f58f6015d6cf71f",
+    "bfe5efa9b86f9fbc0dbf392e",
+    "7f857406ccfcc55647d9d489"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3540,8 +3548,8 @@
     "be892ed1f75b95a63a790411",
     "2178e3e9b2293e9b162aa629"
   ],
-  "last_digest_hash": "39900b1c67a668a30eed181c9cc8e782851600b01897231b9cd6c48ff9c9eaa9",
-  "last_run_iso": "2026-04-18T20:50:34.940420+00:00",
+  "last_digest_hash": "07109c46f0d98e62f25dacc368b2dbaf4b8ed2a52f50a9861d6b07466dcaf0f7",
+  "last_run_iso": "2026-04-18T21:48:49.060362+00:00",
   "last_breaking_run_iso": "2026-04-17T19:16:45.946001+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -5277,6 +5285,10 @@
     "US envoy argues Israeli policy on Syria and Turkey strategically counter-productive": "نماینده آمریکا استدلال می کند که سیاست اسرائیل در قبال سوریه و ترکیه از نظر استراتژیک نتیجه معکوس دارد",
     "Pope Leo XIV downplays feud with Trump: ‘Not in my interest’ to debate him": "پاپ لئو چهاردهم دشمنی با ترامپ را کم اهمیت جلوه می دهد: «به نفع من نیست» که با او مناظره کنم",
     "IDF reservist killed by Hezbollah explosive in Lebanon amid truce, 3 troops hurt": "سرباز ذخیره ارتش اسرائیل در لبنان در جریان آتش بس بر اثر انفجار حزب الله کشته شد، ۳ سرباز زخمی شدند",
-    "BBC reports from Lebanese border town as residents try to return home": "بی بی سی از شهر مرزی لبنان گزارش می دهد در حالی که ساکنان تلاش می کنند به خانه بازگردند"
+    "BBC reports from Lebanese border town as residents try to return home": "بی بی سی از شهر مرزی لبنان گزارش می دهد در حالی که ساکنان تلاش می کنند به خانه بازگردند",
+    "Strait of Hormuz closed again, Iran says, as ships attacked": "ایران می گوید تنگه هرمز دوباره بسته شد، زیرا کشتی ها حمله کردند",
+    "Iran military orders Indian ship to abort Strait of Hormuz passage": "ارتش ایران دستور داد کشتی هندی عبور از تنگه هرمز را لغو کند",
+    "‘We won’t let them forget’: Tel Aviv protest demands Oct. 7 inquiry ahead of Memorial Day": "«نمی گذاریم فراموش کنند»: اعتراض تل آویو خواستار تحقیق در ۷ اکتبر پیش از روز یادبود است",
+    "Israel says established a ‘yellow line’ in Lebanon, as it has in Gaza": "اسرائیل می گوید در لبنان یک «خط زرد» ایجاد کرده است، همان طور که در غزه کرده است"
   }
 }

@@ -1746,7 +1746,10 @@
     "c9662b4e960f105230bc760b",
     "a37bcdfb4952ad71c086efaf",
     "ab7e6cc5f4ec5f4e8328671e",
-    "46767deb75adade58005463b"
+    "46767deb75adade58005463b",
+    "6420070b6a89f5f98f5ad6c4",
+    "bdba8374b842ce5bea52efb9",
+    "18aac4799e2101e0f7509949"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3495,7 +3498,10 @@
     "5dc9824c370dc39f5a7637a3",
     "404453c27fedff89a5319ccc",
     "570394e0ad9cb76f80c6f143",
-    "d8f2f14817426c2ea15e71d6"
+    "d8f2f14817426c2ea15e71d6",
+    "77aa6f74e9a118b4aa647fb4",
+    "7f3a71a5dbf31dad71165380",
+    "f7bb5fc8128275a8ea48f46c"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3566,8 +3572,8 @@
     "be892ed1f75b95a63a790411",
     "2178e3e9b2293e9b162aa629"
   ],
-  "last_digest_hash": "b8bd8e73ad942115f0cfc92ee9b9d59ee9626f02ae39e8621739ef93513a1b7f",
-  "last_run_iso": "2026-04-19T07:44:47.618749+00:00",
+  "last_digest_hash": "31969848e281910a29187f8bf4105b96311e1aad21ed092ef3dc9b69b1e2d0a4",
+  "last_run_iso": "2026-04-19T09:04:33.193337+00:00",
   "last_breaking_run_iso": "2026-04-17T19:16:45.946001+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -5316,6 +5322,9 @@
     "Hind Rajab Foundation files formal complaint against released IDF soldier in Sri Lanka": "بنیاد هند رجب شکایت رسمی علیه سرباز آزادشده ارتش اسرائیل در سریلانکا ثبت کرد",
     "Cash shortages grip Yemen despite currency stabilisation": "کمبود نقدینگی با وجود تثبیت ارز، یمن را فرا گرفته است",
     "Watch: Fuel truck leaves trail of fire on road in Syria": "تماشا کنید: کامیون سوخت در جاده سوریه رد آتش به جا می گذارد",
-    "Iran parliament speaker touts ‘progress’ in US talks, but Strait of Hormuz still shut": "رئیس پارلمان ایران از «پیشرفت» در مذاکرات آمریکا سخن می گوید، اما تنگه هرمز همچنان بسته است"
+    "Iran parliament speaker touts ‘progress’ in US talks, but Strait of Hormuz still shut": "رئیس پارلمان ایران از «پیشرفت» در مذاکرات آمریکا سخن می گوید، اما تنگه هرمز همچنان بسته است",
+    "On 1st day, Shin Bet chief changed background pic on all agency PCs to Temple Mount – report": "در روز اول، رئیس شین بت تصویر پس زمینه همه کامپیوترهای آژانس را به کوه معبد تغییر داد – گزارش",
+    "Bennett, Eisenkot and Lapid said holding contacts on forming joint party": "بنت، آیزنکوت و لاپید گفتند که برای تشکیل حزب مشترک تماس دارند",
+    "Fire engulfs more than 200 homes in Malaysian floating village": "آتش بیش از ۲۰۰ خانه در روستای شناور مالزی را در بر گرفت"
   }
 }

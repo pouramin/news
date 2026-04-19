@@ -1758,7 +1758,11 @@
     "a18a73151e314694462da586",
     "60edd7e6a9a9755ecc2e040d",
     "b0443490c16d3b2cddf816c5",
-    "f5fff0fb016d36d249628192"
+    "f5fff0fb016d36d249628192",
+    "d4347b9b2df7e6c6f9426738",
+    "5f268635cffa3409693509de",
+    "8582bcd97b8c0812b62c9a7b",
+    "94a106d37507fb9837b5d089"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3519,7 +3523,11 @@
     "a33b477c771639f3d3a24d39",
     "423a0e645f480f2a96d98e77",
     "e995d6e96be33fce35acb062",
-    "9aa044ad86f061418321f84c"
+    "9aa044ad86f061418321f84c",
+    "4a9eae1c2e252719f003fba0",
+    "e972dda9e908bdd9cfceec5d",
+    "27b5776138b8085c5831d8ce",
+    "4c16ec0b83d3b38fe21cbb00"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3591,8 +3599,8 @@
     "2178e3e9b2293e9b162aa629",
     "730f98b14ecc7fa84f9391d8"
   ],
-  "last_digest_hash": "f15c64ff60ec72ab92e667c1615d2393bc8ee2605aa8833c1e7429747ddb567e",
-  "last_run_iso": "2026-04-19T10:56:39.131313+00:00",
+  "last_digest_hash": "27e9f1e873c53ece082d90fe733b044baf613d03db75481202ede96989823bab",
+  "last_run_iso": "2026-04-19T11:48:10.632019+00:00",
   "last_breaking_run_iso": "2026-04-19T10:56:39.131313+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -5353,6 +5361,10 @@
     "Arson attempt hits London synagogue; Iran-linked group claims attack on Jewish-tied building": "تلاش برای آتش سوزی عمدی کنیسه لندن را هدف قرار داد؛ گروه مرتبط با ایران ادعای حمله به ساختمانی مرتبط با یهودیان را بر عهده دارد",
     "Displaced Lebanese families return home despite Israeli attacks": "خانواده های آواره لبنانی با وجود حملات اسرائیل به خانه بازگشتند",
     "Allies back Starmer as Mandelson’s Epstein link leaves UK leader fighting for his job": "متحدان از استارمر حمایت می کنند، چرا که ارتباط ماندلسون با اپستین باعث می شود رهبر بریتانیا برای جایگاهش بجنگد",
-    "LIVESTREAM: Reading of the Declaration of Independence at the Kotel - Sponsored Content": "پخش زنده: خوانش اعلامیه استقلال در کتل - محتوای حمایت شده"
+    "LIVESTREAM: Reading of the Declaration of Independence at the Kotel - Sponsored Content": "پخش زنده: خوانش اعلامیه استقلال در کتل - محتوای حمایت شده",
+    "Iran warns Hormuz will stay shut unless US lifts siege on its ports": "ایران هشدار داد که هرمز بسته خواهد ماند مگر اینکه آمریکا محاصره بنادرش را بردارد.",
+    "Daily Briefing Apr. 19 – 5 points of apparent failure in the Iran war": "گزارش روزانه ۱۹ آوریل – ۵ نکته شکست ظاهری در جنگ ایران",
+    "Iran war: 10 frequently used words and their meanings": "جنگ ایران: ۱۰ واژه پرکاربرد و معانی آن ها",
+    "Does Israel’s ‘Yellow Line’ violate the Lebanon ceasefire?": "آیا «خط زرد» اسرائیل آتش بس لبنان را نقض می کند؟"
   }
 }

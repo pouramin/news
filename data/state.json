@@ -1766,7 +1766,13 @@
     "e328a997ac27c8f6b2504dd2",
     "bbabcb15b0739aa92eae05a5",
     "d5c161f5589e697db7035bca",
-    "6efa3c2ab9e942cee92ffdc0"
+    "6efa3c2ab9e942cee92ffdc0",
+    "40d9b4c278d0a5c3ba330d57",
+    "478a1107ea96ccf936926bd7",
+    "1e36afede5411424ac7ca10e",
+    "29e6a5d0d34fbb5d38fb8ba9",
+    "4120a406d4f882de03e9258f",
+    "bcbcf058dfcb8fa41d4c9505"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3535,7 +3541,13 @@
     "1a5b8f8864b3be3ac32119d6",
     "ec1d175b459f6454de016ac3",
     "405e3857b4a1f9bb493170a0",
-    "21643e778499f1f23a137458"
+    "21643e778499f1f23a137458",
+    "b314bbf2eabb081cccae5fa1",
+    "1f766b92db63bf7a650291da",
+    "1748fa3fe1a25f2f5b2162a4",
+    "6be150760b48dcf60e0943cf",
+    "92423b069f6f418024a65547",
+    "3a507f3a24adf8153f45c147"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3608,8 +3620,8 @@
     "730f98b14ecc7fa84f9391d8",
     "e328a997ac27c8f6b2504dd2"
   ],
-  "last_digest_hash": "4c57f35dfbd25371a8fe599d29484f5944c6936bafd780dd717f0a035440f6d2",
-  "last_run_iso": "2026-04-19T13:23:18.841818+00:00",
+  "last_digest_hash": "18185f2e36706bc6d2768047bfcd5771d7dcec3f586a09e6d9991a054f8f6554",
+  "last_run_iso": "2026-04-19T14:55:06.110133+00:00",
   "last_breaking_run_iso": "2026-04-19T13:23:18.841818+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -5378,6 +5390,12 @@
     "Trump says US negotiators to head to Pakistan for Iran ceasefire talks": "ترامپ می گوید مذاکره کنندگان آمریکایی برای مذاکرات آتش بس با ایران به پاکستان خواهند رفت",
     "New site offers travel by armchair to Eilat’s magnificent coral reefs": "سایت جدید امکان سفر با صندلی راحتی به صخره های مرجانی باشکوه ایلات را فراهم می کند",
     "Eric Robic, Tel Aviv hit-and-run perpetrator shot in Paris, had long history of financial crime": "اریک روبیک، مجرم تصادف و فرار در تل آویو که در پاریس هدف گلوله قرار گرفت، سابقه طولانی در جرایم مالی داشت",
-    "Supreme Court justices accuse Levin of abusing power to block judicial appointments": "قضات دیوان عالی لوین را به سوءاستفاده از قدرت برای جلوگیری از انتصابات قضایی متهم کردند"
+    "Supreme Court justices accuse Levin of abusing power to block judicial appointments": "قضات دیوان عالی لوین را به سوءاستفاده از قدرت برای جلوگیری از انتصابات قضایی متهم کردند",
+    "Trump managing Iran war based on conflicting caprices that blindside his aides — report": "ترامپ جنگ ایران را بر اساس هوس های متضاد که دستیارانش را غافلگیر می کند، مدیریت می کند — گزارش",
+    "What to know about US-Iran standoff over the Strait of Hormuz": "آنچه باید درباره بن بست آمریکا و ایران بر سر تنگه هرمز بدانید",
+    "Former US vice president Harris accuses Netanyahu of dragging Trump into Iran war": "هریس، معاون سابق رئیس جمهور آمریکا، نتانیاهو را متهم کرد که ترامپ را وارد جنگ ایران کرده است",
+    "Green in the valley: Israel’s abandoned fishponds are turning into a solar goldmine": "سبز در دره: استخرهای ماهی متروکه اسرائیل به معدن طلای خورشیدی تبدیل می شوند",
+    "Displaced Lebanese woman returns to find home destroyed after ceasefire": "زن لبنانی آواره بازمی گردد و خانه ای ویران شده پس از آتش بس را می یابد",
+    "As Israel approaches 78th Independence Day, its population stands at 10.244 million": "با نزدیک شدن به هفتاد و هشتمین روز استقلال، جمعیت آن به ۱۰.۲۴۴ میلیون نفر رسیده است"
   }
 }

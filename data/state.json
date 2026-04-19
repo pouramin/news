@@ -1749,7 +1749,10 @@
     "46767deb75adade58005463b",
     "6420070b6a89f5f98f5ad6c4",
     "bdba8374b842ce5bea52efb9",
-    "18aac4799e2101e0f7509949"
+    "18aac4799e2101e0f7509949",
+    "081fcd8148c00ed5d471b0e6",
+    "6ddf65da600b2704c8c7c8d2",
+    "f11bf4a2d87d9f41b3c08102"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3501,7 +3504,10 @@
     "d8f2f14817426c2ea15e71d6",
     "77aa6f74e9a118b4aa647fb4",
     "7f3a71a5dbf31dad71165380",
-    "f7bb5fc8128275a8ea48f46c"
+    "f7bb5fc8128275a8ea48f46c",
+    "88ee83071bb4915d21053bef",
+    "cc28f2326b93ecd436a87db5",
+    "56811d892fe6aa40cef7dbbd"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3572,8 +3578,8 @@
     "be892ed1f75b95a63a790411",
     "2178e3e9b2293e9b162aa629"
   ],
-  "last_digest_hash": "31969848e281910a29187f8bf4105b96311e1aad21ed092ef3dc9b69b1e2d0a4",
-  "last_run_iso": "2026-04-19T09:04:33.193337+00:00",
+  "last_digest_hash": "989abde080e76c080032573f67ebf6ea347ea51e8ecf525230b469e774892e6f",
+  "last_run_iso": "2026-04-19T09:58:40.408749+00:00",
   "last_breaking_run_iso": "2026-04-17T19:16:45.946001+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -5325,6 +5331,9 @@
     "Iran parliament speaker touts ‘progress’ in US talks, but Strait of Hormuz still shut": "رئیس پارلمان ایران از «پیشرفت» در مذاکرات آمریکا سخن می گوید، اما تنگه هرمز همچنان بسته است",
     "On 1st day, Shin Bet chief changed background pic on all agency PCs to Temple Mount – report": "در روز اول، رئیس شین بت تصویر پس زمینه همه کامپیوترهای آژانس را به کوه معبد تغییر داد – گزارش",
     "Bennett, Eisenkot and Lapid said holding contacts on forming joint party": "بنت، آیزنکوت و لاپید گفتند که برای تشکیل حزب مشترک تماس دارند",
-    "Fire engulfs more than 200 homes in Malaysian floating village": "آتش بیش از ۲۰۰ خانه در روستای شناور مالزی را در بر گرفت"
+    "Fire engulfs more than 200 homes in Malaysian floating village": "آتش بیش از ۲۰۰ خانه در روستای شناور مالزی را در بر گرفت",
+    "Iran war: What is happening on day 51 of the US-Iran conflict?": "جنگ ایران: در روز پنجاه و یکم درگیری آمریکا و ایران چه اتفاقی در حال رخ دادن است؟",
+    "How the Israeli military targets the people who save lives": "چگونه ارتش اسرائیل کسانی را هدف قرار می دهد که جان ها را نجات می دهند",
+    "Iran, US still ‘far’ from breakthrough amid Strait of Hormuz impasse": "ایران و آمریکا هنوز «دور» از پیشرفت در بن بست تنگه هرمز هستند"
   }
 }

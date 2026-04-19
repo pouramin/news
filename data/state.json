@@ -1800,7 +1800,13 @@
     "ea795ddd76f9da9458e346ad",
     "39e147fabea01a30afb9cd65",
     "859247827069a1ef668fde38",
-    "c57807cfcc3c245496a5481e"
+    "c57807cfcc3c245496a5481e",
+    "1fe13855b8ee2e2aa6485be0",
+    "2dfe9b8d650b621b2e55dab6",
+    "ea0ea941308c4069ca252f3c",
+    "d238b1d3f9f0968ac82ba7ed",
+    "47e503a8e4f9875fd5ec8160",
+    "f95a2bf60fbe15305820811c"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3603,7 +3609,13 @@
     "fd6c760eb5a91a54f2512d66",
     "8d9c6f8072999cce5cc6ad9e",
     "b51ffe9b9c4776170eb3cac7",
-    "34b33af8634b3b9305f89856"
+    "34b33af8634b3b9305f89856",
+    "30438cc9fc3f2a272dcb74a7",
+    "9740369c353db5a2b487f5ff",
+    "3e46c21cd41bc564ccf6bf59",
+    "19977c037c3e13833c6ad674",
+    "2a2c991b84756b4edb2f1b5e",
+    "373380a09dd99f74e3491ca4"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3676,8 +3688,8 @@
     "730f98b14ecc7fa84f9391d8",
     "e328a997ac27c8f6b2504dd2"
   ],
-  "last_digest_hash": "41600c8eb26a6b85b69a4072cd90b9c6fc24fd036634806278553ccd1396e938",
-  "last_run_iso": "2026-04-19T20:51:46.235757+00:00",
+  "last_digest_hash": "7bba925baadd4604fb370bb195e36d41411190081db8cb8c63d37b7f118d9400",
+  "last_run_iso": "2026-04-19T21:49:00.166906+00:00",
   "last_breaking_run_iso": "2026-04-19T13:23:18.841818+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -5480,6 +5492,12 @@
     "26 years later, IDF restores its south Lebanon security zone — with key changes": "۲۶ سال بعد، ارتش اسرائیل منطقه امنیتی جنوب لبنان را با تغییرات کلیدی بازگرداند",
     "Milei, Netanyahu announce Tel Aviv-Buenos Aires flights, ink strategic Isaac Accords": "میلی، نتانیاهو پروازهای تل آویو-بوئنوس آیرس را اعلام کردند و توافقات استراتژیک آیزاک را امضا کردند",
     "Trump says US seized Iran-flagged ship trying to get past Hormuz blockade": "ترامپ می گوید آمریکا کشتی با پرچم ایران را که تلاش داشت از محاصره هرمز عبور کند، توقیف کرده است",
-    "‘You are my family’: Ending a chapter, Central Park bench dedicated to Gaza hostages": "«شما خانواده من هستید»: پایان فصل، نیمکت پارک مرکزی به گروگان های غزه اختصاص یافته است"
+    "‘You are my family’: Ending a chapter, Central Park bench dedicated to Gaza hostages": "«شما خانواده من هستید»: پایان فصل، نیمکت پارک مرکزی به گروگان های غزه اختصاص یافته است",
+    "Protesters defy Berlin rain to call for end to global wars": "معترضان باران برلین را به چالش کشیدند تا خواستار پایان جنگ های جهانی شوند",
+    "US intercepts and seizes Iranian-flagged cargo ship, Trump says": "ترامپ می گوید آمریکا کشتی باری با پرچم ایران را رهگیری و توقیف می کند",
+    "Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC": "تهران هرگز کنترل تنگه هرمز را واگذار نخواهد کرد، سیاستمدار ارشد ایرانی به بی بی سی گفت",
+    "Argentina’s Milei backs US-Israel war on Iran in Jerusalem visit": "میلی از آرژانتین از جنگ آمریکا و اسرائیل علیه ایران در سفر به اورشلیم حمایت می کند",
+    "West Bank settlement of Sa-Nur reestablished, 21 years after its evacuation": "شهرک سانور در کرانه باختری پس از ۲۱ سال پس از تخلیه دوباره تأسیس شد",
+    "Schools, shops shut in northern Israel to protest the Lebanon ceasefire": "مدارس و مغازه ها در شمال اسرائیل برای اعتراض به آتش بس لبنان تعطیل شدند"
   }
 }

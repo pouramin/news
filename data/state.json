@@ -1775,7 +1775,16 @@
     "bcbcf058dfcb8fa41d4c9505",
     "3ad0ae767720aa132172b211",
     "102255878ce772f0c8f38542",
-    "cdd90c1d2fed3c346dac946d"
+    "cdd90c1d2fed3c346dac946d",
+    "ba3b0d26f299c5b3472d4848",
+    "885794c3b4f831ed958d5d83",
+    "4e56d85855a97b406e032141",
+    "52642e8caab6d42f325f2342",
+    "3341bf88ae6da9aaf5d81657",
+    "a1c8ffd1a19c74c010d8106a",
+    "c231743b71113450517f9f79",
+    "a73491e873d4ce23c0967e16",
+    "6a7594a6803c3a7f4e043e6b"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3553,7 +3562,16 @@
     "3a507f3a24adf8153f45c147",
     "60bf566ef93165c7987f6002",
     "1f50cf3052a9661cd6e9b1e5",
-    "9c924ebd1aed005746f6decc"
+    "9c924ebd1aed005746f6decc",
+    "006ccc8f5bbe18b2acde5098",
+    "80fea153370bf1b471d62623",
+    "5d739da302a64301749dea0d",
+    "ed2757b4ade15af2a957b933",
+    "7af5a7e132cd6b507c455533",
+    "40fde357d8f6ece9d77df486",
+    "32c1cbd3736aa432f3c58579",
+    "9dc543199c7e683cc808f2c5",
+    "8534002f9f56fd61627b8049"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3626,8 +3644,8 @@
     "730f98b14ecc7fa84f9391d8",
     "e328a997ac27c8f6b2504dd2"
   ],
-  "last_digest_hash": "c7dbc2f780e1120c2689a26d5eff776ca128623a17ad7ac253bc23a9860419fd",
-  "last_run_iso": "2026-04-19T15:51:01.302398+00:00",
+  "last_digest_hash": "61fb001ae8c21acc0d18390860639e2307a3a797acaf165215093aa328b20e2d",
+  "last_run_iso": "2026-04-19T16:55:35.589610+00:00",
   "last_breaking_run_iso": "2026-04-19T13:23:18.841818+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -5405,6 +5423,15 @@
     "As Israel approaches 78th Independence Day, its population stands at 10.244 million": "با نزدیک شدن به هفتاد و هشتمین روز استقلال، جمعیت آن به ۱۰.۲۴۴ میلیون نفر رسیده است",
     "Iran’s entrepreneurs vexed as internet blackout chokes ability to earn and run firms": "کارآفرینان ایرانی از اینکه خاموشی اینترنت توانایی کسب و اداره شرکت ها را محدود کرده است، ناراحت شدند",
     "Syria says it foiled Hezbollah-linked cross-border attack planned from area near Israel": "سوریه می گوید حمله فرامرزی مرتبط با حزب الله که از منطقه ای نزدیک اسرائیل برنامه ریزی شده بود، را ناکام گذاشته است",
-    "Smotrich urges PM to order the IDF to ‘prepare for the full occupation’ of Gaza": "اسموتریچ از نخست وزیر خواست تا به ارتش اسرائیل دستور دهد «برای اشغال کامل» غزه آماده شود"
+    "Smotrich urges PM to order the IDF to ‘prepare for the full occupation’ of Gaza": "اسموتریچ از نخست وزیر خواست تا به ارتش اسرائیل دستور دهد «برای اشغال کامل» غزه آماده شود",
+    "Kiryat Shmona residents protest Lebanon ceasefire outside US embassy in Jerusalem": "ساکنان کریات شمونا در مقابل سفارت آمریکا در اورشلیم به آتش بس لبنان اعتراض کردند",
+    "Trump says US-Iran talks to take place Tuesday, threatens ‘NO MORE MR. NICE GUY!’": "ترامپ می گوید مذاکرات آمریکا و ایران قرار است سه شنبه برگزار شود و تهدید می کند «دیگر آقای مهربان نیست!»",
+    "Will the ceasefire last? - Sponsored Content": "آیا آتش بس پایدار خواهد بود؟ - محتوای حمایت شده",
+    "Satellite images reveal Israel expanding Gaza military sites": "تصاویر ماهواره ای نشان می دهد اسرائیل در حال گسترش مواضع نظامی غزه است",
+    "How To Rebuild Jewish Systems - Sponsored Content": "چگونه سیستم های یهودی را بازسازی کنیم - محتوای حمایت شده",
+    "Israel’s 10 Days of Awe: From Yom HaShoah to Yom HaAtzmaut - Sponsored Content": "۱۰ روز شگفتی اسرائیل: از یوم هشوآ تا یوم هعتماعوت - محتوای حمایت شده",
+    "Why do we pray? - Sponsored Content": "چرا دعا می کنیم؟ - محتوای حمایت شده",
+    "Will Conservative Judaism survive? - Sponsored Content": "آیا یهودیت محافظه کار دوام خواهد آورد؟ - محتوای حمایت شده",
+    "Is Israeli-Palestinian peace still possible? with Ittay Flescher - Sponsored Content": "آیا صلح اسرائیل و فلسطین هنوز ممکن است؟ با ایتای فلشر - محتوای حمایت شده"
   }
 }

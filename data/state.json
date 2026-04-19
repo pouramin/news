@@ -1796,7 +1796,11 @@
     "d4b2595614f50900e1e32561",
     "5e6879b3f70666a57f0d38ce",
     "846d849f4599d3530f5190d1",
-    "06c2e944f116cb699b2abb5f"
+    "06c2e944f116cb699b2abb5f",
+    "ea795ddd76f9da9458e346ad",
+    "39e147fabea01a30afb9cd65",
+    "859247827069a1ef668fde38",
+    "c57807cfcc3c245496a5481e"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3595,7 +3599,11 @@
     "d2e99a9fc1b6bd5faeceffee",
     "7fac0e132222821f756bbe3f",
     "c3037536852ccb6376d77ce3",
-    "dd17749686ccbc27b0152f76"
+    "dd17749686ccbc27b0152f76",
+    "fd6c760eb5a91a54f2512d66",
+    "8d9c6f8072999cce5cc6ad9e",
+    "b51ffe9b9c4776170eb3cac7",
+    "34b33af8634b3b9305f89856"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3668,8 +3676,8 @@
     "730f98b14ecc7fa84f9391d8",
     "e328a997ac27c8f6b2504dd2"
   ],
-  "last_digest_hash": "c10b70effbc9069ec7545bc8550cdc18d920722e53ec31f4c47347a807a84eb4",
-  "last_run_iso": "2026-04-19T19:51:37.927233+00:00",
+  "last_digest_hash": "41600c8eb26a6b85b69a4072cd90b9c6fc24fd036634806278553ccd1396e938",
+  "last_run_iso": "2026-04-19T20:51:46.235757+00:00",
   "last_breaking_run_iso": "2026-04-19T13:23:18.841818+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -5468,6 +5476,10 @@
     "Israel wins 3 medals in European Judo Championships, including gold for Raz Hershko": "اسرائیل ۳ مدال در مسابقات جودوی اروپا کسب کرده است که شامل طلای راز هرشکو می شود",
     "Did the US misjudge Iran? A military strategist answers": "آیا آمریکا ایران را اشتباه قضاوت کرد؟ یک استراتژیست نظامی پاسخ می دهد",
     "Israeli ministers celebrate re-establishment of Sa-Nur West Bank settlement": "وزرای اسرائیلی بازتأسیس شهرک سا-نور در کرانه باختری را جشن گرفتند",
-    "Charges against PM’s top aides could be dropped as prosecution fails to extradite Einhorn": "اتهامات علیه دستیاران ارشد نخست وزیر ممکن است به دلیل عدم استرداد اینهورن توسط دادستان، کنار گذاشته شود"
+    "Charges against PM’s top aides could be dropped as prosecution fails to extradite Einhorn": "اتهامات علیه دستیاران ارشد نخست وزیر ممکن است به دلیل عدم استرداد اینهورن توسط دادستان، کنار گذاشته شود",
+    "26 years later, IDF restores its south Lebanon security zone — with key changes": "۲۶ سال بعد، ارتش اسرائیل منطقه امنیتی جنوب لبنان را با تغییرات کلیدی بازگرداند",
+    "Milei, Netanyahu announce Tel Aviv-Buenos Aires flights, ink strategic Isaac Accords": "میلی، نتانیاهو پروازهای تل آویو-بوئنوس آیرس را اعلام کردند و توافقات استراتژیک آیزاک را امضا کردند",
+    "Trump says US seized Iran-flagged ship trying to get past Hormuz blockade": "ترامپ می گوید آمریکا کشتی با پرچم ایران را که تلاش داشت از محاصره هرمز عبور کند، توقیف کرده است",
+    "‘You are my family’: Ending a chapter, Central Park bench dedicated to Gaza hostages": "«شما خانواده من هستید»: پایان فصل، نیمکت پارک مرکزی به گروگان های غزه اختصاص یافته است"
   }
 }

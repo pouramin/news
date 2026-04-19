@@ -1743,7 +1743,9 @@
     "f13b2970c40ea94f2de886a4",
     "0b97a9ccab2c61ee435c94b8",
     "24db74f79561c152f7a3eef5",
-    "c9662b4e960f105230bc760b"
+    "c9662b4e960f105230bc760b",
+    "a37bcdfb4952ad71c086efaf",
+    "ab7e6cc5f4ec5f4e8328671e"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3489,7 +3491,9 @@
     "a309472d26229ce209348855",
     "4acf480ba01cc572a97563dd",
     "52e380aac33aa926da55d9fa",
-    "5dc9824c370dc39f5a7637a3"
+    "5dc9824c370dc39f5a7637a3",
+    "404453c27fedff89a5319ccc",
+    "570394e0ad9cb76f80c6f143"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3560,8 +3564,8 @@
     "be892ed1f75b95a63a790411",
     "2178e3e9b2293e9b162aa629"
   ],
-  "last_digest_hash": "7b5b749727388ba027258a010d5f4e33593ebe0a4f5aac010ce332bdaaeb9f7d",
-  "last_run_iso": "2026-04-19T03:46:37.510498+00:00",
+  "last_digest_hash": "ae7abcd76b307f0ec7173f98d3acab448393df9886ae7880a99d5611188e1c49",
+  "last_run_iso": "2026-04-19T06:06:10.683284+00:00",
   "last_breaking_run_iso": "2026-04-17T19:16:45.946001+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -5307,6 +5311,8 @@
     "Two water delivery contractors killed by Israeli forces in Gaza, UN says": "سازمان ملل اعلام کرد دو پیمانکار تحویل آب توسط نیروهای اسرائیلی در غزه کشته شدند",
     "Iran war live: Tehran says no date set for US talks, Hormuz Strait closed": "جنگ ایران زنده: تهران اعلام کرد تاریخ مذاکرات آمریکا مشخص نیست و تنگه هرمز بسته شد",
     "IDF reservist killed, nine others wounded by explosive in southern Lebanon": "یک سرباز ذخیره ارتش اسرائیل کشته و نه نفر دیگر بر اثر انفجار در جنوب لبنان زخمی شدند",
-    "Hind Rajab Foundation files formal complaint against released IDF soldier in Sri Lanka": "بنیاد هند رجب شکایت رسمی علیه سرباز آزادشده ارتش اسرائیل در سریلانکا ثبت کرد"
+    "Hind Rajab Foundation files formal complaint against released IDF soldier in Sri Lanka": "بنیاد هند رجب شکایت رسمی علیه سرباز آزادشده ارتش اسرائیل در سریلانکا ثبت کرد",
+    "Cash shortages grip Yemen despite currency stabilisation": "کمبود نقدینگی با وجود تثبیت ارز، یمن را فرا گرفته است",
+    "Watch: Fuel truck leaves trail of fire on road in Syria": "تماشا کنید: کامیون سوخت در جاده سوریه رد آتش به جا می گذارد"
   }
 }

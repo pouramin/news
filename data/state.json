@@ -1772,7 +1772,10 @@
     "1e36afede5411424ac7ca10e",
     "29e6a5d0d34fbb5d38fb8ba9",
     "4120a406d4f882de03e9258f",
-    "bcbcf058dfcb8fa41d4c9505"
+    "bcbcf058dfcb8fa41d4c9505",
+    "3ad0ae767720aa132172b211",
+    "102255878ce772f0c8f38542",
+    "cdd90c1d2fed3c346dac946d"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3547,7 +3550,10 @@
     "1748fa3fe1a25f2f5b2162a4",
     "6be150760b48dcf60e0943cf",
     "92423b069f6f418024a65547",
-    "3a507f3a24adf8153f45c147"
+    "3a507f3a24adf8153f45c147",
+    "60bf566ef93165c7987f6002",
+    "1f50cf3052a9661cd6e9b1e5",
+    "9c924ebd1aed005746f6decc"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3620,8 +3626,8 @@
     "730f98b14ecc7fa84f9391d8",
     "e328a997ac27c8f6b2504dd2"
   ],
-  "last_digest_hash": "18185f2e36706bc6d2768047bfcd5771d7dcec3f586a09e6d9991a054f8f6554",
-  "last_run_iso": "2026-04-19T14:55:06.110133+00:00",
+  "last_digest_hash": "c7dbc2f780e1120c2689a26d5eff776ca128623a17ad7ac253bc23a9860419fd",
+  "last_run_iso": "2026-04-19T15:51:01.302398+00:00",
   "last_breaking_run_iso": "2026-04-19T13:23:18.841818+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -5396,6 +5402,9 @@
     "Former US vice president Harris accuses Netanyahu of dragging Trump into Iran war": "هریس، معاون سابق رئیس جمهور آمریکا، نتانیاهو را متهم کرد که ترامپ را وارد جنگ ایران کرده است",
     "Green in the valley: Israel’s abandoned fishponds are turning into a solar goldmine": "سبز در دره: استخرهای ماهی متروکه اسرائیل به معدن طلای خورشیدی تبدیل می شوند",
     "Displaced Lebanese woman returns to find home destroyed after ceasefire": "زن لبنانی آواره بازمی گردد و خانه ای ویران شده پس از آتش بس را می یابد",
-    "As Israel approaches 78th Independence Day, its population stands at 10.244 million": "با نزدیک شدن به هفتاد و هشتمین روز استقلال، جمعیت آن به ۱۰.۲۴۴ میلیون نفر رسیده است"
+    "As Israel approaches 78th Independence Day, its population stands at 10.244 million": "با نزدیک شدن به هفتاد و هشتمین روز استقلال، جمعیت آن به ۱۰.۲۴۴ میلیون نفر رسیده است",
+    "Iran’s entrepreneurs vexed as internet blackout chokes ability to earn and run firms": "کارآفرینان ایرانی از اینکه خاموشی اینترنت توانایی کسب و اداره شرکت ها را محدود کرده است، ناراحت شدند",
+    "Syria says it foiled Hezbollah-linked cross-border attack planned from area near Israel": "سوریه می گوید حمله فرامرزی مرتبط با حزب الله که از منطقه ای نزدیک اسرائیل برنامه ریزی شده بود، را ناکام گذاشته است",
+    "Smotrich urges PM to order the IDF to ‘prepare for the full occupation’ of Gaza": "اسموتریچ از نخست وزیر خواست تا به ارتش اسرائیل دستور دهد «برای اشغال کامل» غزه آماده شود"
   }
 }

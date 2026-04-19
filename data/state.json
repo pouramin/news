@@ -1788,7 +1788,12 @@
     "5530bc458e27c5cb54cf31fa",
     "e25cc04a0b245cf00ce21475",
     "723e20eccb4d9c933fe58689",
-    "7ce867b4c1044c9cefc6987a"
+    "7ce867b4c1044c9cefc6987a",
+    "3c150a9133dfea458d10a36e",
+    "0a2327291e326c56ae2af8db",
+    "b05b38e1d56cafda901d7bc5",
+    "ff51122ed1e20af5855b7e28",
+    "d4b2595614f50900e1e32561"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3579,7 +3584,12 @@
     "abc68f0551b0d55635b7f322",
     "a720cbbe7daf2a5e179f9aed",
     "21bf60aae04abac62e6a65c9",
-    "5fb1cb6c15f371a7d079ef57"
+    "5fb1cb6c15f371a7d079ef57",
+    "2a320c4628a9eae00ef94c6b",
+    "35063dd9710ccfbe79394ee3",
+    "1a6e9222e2d1ad327541da2c",
+    "9e7e8d61ac2f8c34d41eb476",
+    "d2e99a9fc1b6bd5faeceffee"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3652,8 +3662,8 @@
     "730f98b14ecc7fa84f9391d8",
     "e328a997ac27c8f6b2504dd2"
   ],
-  "last_digest_hash": "5fa60b7012b146e04a8d9841528984ffaed8cce3e9c077c9ebfb3a49371a79cb",
-  "last_run_iso": "2026-04-19T17:50:19.471181+00:00",
+  "last_digest_hash": "ed4df682536ea8a32022bffb220a0c1a262b3522fcdaa3370385f1c43f023de2",
+  "last_run_iso": "2026-04-19T19:06:10.530768+00:00",
   "last_breaking_run_iso": "2026-04-19T13:23:18.841818+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -5444,6 +5454,11 @@
     "Weary Iranians expect no postwar respite under entrenched regime": "ایرانیان خسته انتظار هیچ فرصتی پس از جنگ در دوران رژیم مستقر ندارند",
     "Met Police investigate potential Iran links to London arson attacks": "پلیس متروپولیتن ارتباطات احتمالی ایران با حملات آتش سوزی لندن را بررسی می کند",
     "Female IDF soldiers required to wear long pants at Jerusalem Marathon during heat wave": "سربازان زن ارتش اسرائیل که در ماراتن اورشلیم در جریان موج گرما مجبور به پوشیدن شلوار بلند شدند",
-    "What would it take for the Iran-US talks to succeed?": "برای موفقیت مذاکرات ایران و آمریکا چه چیزی لازم است؟"
+    "What would it take for the Iran-US talks to succeed?": "برای موفقیت مذاکرات ایران و آمریکا چه چیزی لازم است؟",
+    "Turkey’s FM accuses Israel of using security ‘as an excuse to occupy more land’": "وزیر خارجه ترکیه اسرائیل را متهم می کند که از امنیت «به عنوان بهانه ای برای اشغال سرزمین های بیشتر» استفاده می کند",
+    "Iran and Israel: From friends to enemies": "ایران و اسرائیل: از دوستان تا دشمنان",
+    "Israeli attacks on healthcare across Iran, Lebanon and Gaza": "حملات اسرائیل به مراقبت های بهداشتی در سراسر ایران، لبنان و غزه",
+    "Culture Minister Miki Zohar questioned by police in Histadrut corruption probe": "وزیر فرهنگ، میکی زوهار، توسط پلیس در پرونده فساد هستدروت مورد بازجویی قرار گرفت",
+    "Israel wins 3 medals in European Judo Championships, including gold for Raz Hershko": "اسرائیل ۳ مدال در مسابقات جودوی اروپا کسب کرده است که شامل طلای راز هرشکو می شود"
   }
 }

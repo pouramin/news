@@ -1784,7 +1784,11 @@
     "a1c8ffd1a19c74c010d8106a",
     "c231743b71113450517f9f79",
     "a73491e873d4ce23c0967e16",
-    "6a7594a6803c3a7f4e043e6b"
+    "6a7594a6803c3a7f4e043e6b",
+    "5530bc458e27c5cb54cf31fa",
+    "e25cc04a0b245cf00ce21475",
+    "723e20eccb4d9c933fe58689",
+    "7ce867b4c1044c9cefc6987a"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3571,7 +3575,11 @@
     "40fde357d8f6ece9d77df486",
     "32c1cbd3736aa432f3c58579",
     "9dc543199c7e683cc808f2c5",
-    "8534002f9f56fd61627b8049"
+    "8534002f9f56fd61627b8049",
+    "abc68f0551b0d55635b7f322",
+    "a720cbbe7daf2a5e179f9aed",
+    "21bf60aae04abac62e6a65c9",
+    "5fb1cb6c15f371a7d079ef57"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3644,8 +3652,8 @@
     "730f98b14ecc7fa84f9391d8",
     "e328a997ac27c8f6b2504dd2"
   ],
-  "last_digest_hash": "61fb001ae8c21acc0d18390860639e2307a3a797acaf165215093aa328b20e2d",
-  "last_run_iso": "2026-04-19T16:55:35.589610+00:00",
+  "last_digest_hash": "5fa60b7012b146e04a8d9841528984ffaed8cce3e9c077c9ebfb3a49371a79cb",
+  "last_run_iso": "2026-04-19T17:50:19.471181+00:00",
   "last_breaking_run_iso": "2026-04-19T13:23:18.841818+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -5432,6 +5440,10 @@
     "Israel’s 10 Days of Awe: From Yom HaShoah to Yom HaAtzmaut - Sponsored Content": "۱۰ روز شگفتی اسرائیل: از یوم هشوآ تا یوم هعتماعوت - محتوای حمایت شده",
     "Why do we pray? - Sponsored Content": "چرا دعا می کنیم؟ - محتوای حمایت شده",
     "Will Conservative Judaism survive? - Sponsored Content": "آیا یهودیت محافظه کار دوام خواهد آورد؟ - محتوای حمایت شده",
-    "Is Israeli-Palestinian peace still possible? with Ittay Flescher - Sponsored Content": "آیا صلح اسرائیل و فلسطین هنوز ممکن است؟ با ایتای فلشر - محتوای حمایت شده"
+    "Is Israeli-Palestinian peace still possible? with Ittay Flescher - Sponsored Content": "آیا صلح اسرائیل و فلسطین هنوز ممکن است؟ با ایتای فلشر - محتوای حمایت شده",
+    "Weary Iranians expect no postwar respite under entrenched regime": "ایرانیان خسته انتظار هیچ فرصتی پس از جنگ در دوران رژیم مستقر ندارند",
+    "Met Police investigate potential Iran links to London arson attacks": "پلیس متروپولیتن ارتباطات احتمالی ایران با حملات آتش سوزی لندن را بررسی می کند",
+    "Female IDF soldiers required to wear long pants at Jerusalem Marathon during heat wave": "سربازان زن ارتش اسرائیل که در ماراتن اورشلیم در جریان موج گرما مجبور به پوشیدن شلوار بلند شدند",
+    "What would it take for the Iran-US talks to succeed?": "برای موفقیت مذاکرات ایران و آمریکا چه چیزی لازم است؟"
   }
 }

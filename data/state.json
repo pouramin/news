@@ -1740,7 +1740,10 @@
     "562f74ea0997b677771a2441",
     "065750f907f939e8f6ff4af4",
     "fb29c3a476d53530c65d735b",
-    "f13b2970c40ea94f2de886a4"
+    "f13b2970c40ea94f2de886a4",
+    "0b97a9ccab2c61ee435c94b8",
+    "24db74f79561c152f7a3eef5",
+    "c9662b4e960f105230bc760b"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3483,7 +3486,10 @@
     "7f857406ccfcc55647d9d489",
     "43b74e667661463ec11dd7e9",
     "33acf919fa7ef9c26f04e9a8",
-    "a309472d26229ce209348855"
+    "a309472d26229ce209348855",
+    "4acf480ba01cc572a97563dd",
+    "52e380aac33aa926da55d9fa",
+    "5dc9824c370dc39f5a7637a3"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3554,8 +3560,8 @@
     "be892ed1f75b95a63a790411",
     "2178e3e9b2293e9b162aa629"
   ],
-  "last_digest_hash": "74191afc3d38b371b625db77e2e044878264f11f8aa7c4887281f02ea2d8aa60",
-  "last_run_iso": "2026-04-18T23:48:37.007054+00:00",
+  "last_digest_hash": "7b5b749727388ba027258a010d5f4e33593ebe0a4f5aac010ce332bdaaeb9f7d",
+  "last_run_iso": "2026-04-19T03:46:37.510498+00:00",
   "last_breaking_run_iso": "2026-04-17T19:16:45.946001+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -5298,6 +5304,9 @@
     "Israel says established a ‘yellow line’ in Lebanon, as it has in Gaza": "اسرائیل می گوید در لبنان یک «خط زرد» ایجاد کرده است، همان طور که در غزه کرده است",
     "Iran reasserts control of Hormuz Strait as Trump warns against ‘blackmail’": "ایران کنترل تنگه هرمز را دوباره به دست می گیرد در حالی که ترامپ درباره «باج خواهی» هشدار می دهد",
     "Settlers reportedly beat Palestinian woman, raid several West Bank towns": "گزارش شده که شهرک نشینان زن فلسطینی را کتک زده و به چندین شهر کرانه باختری یورش برده اند",
-    "Two water delivery contractors killed by Israeli forces in Gaza, UN says": "سازمان ملل اعلام کرد دو پیمانکار تحویل آب توسط نیروهای اسرائیلی در غزه کشته شدند"
+    "Two water delivery contractors killed by Israeli forces in Gaza, UN says": "سازمان ملل اعلام کرد دو پیمانکار تحویل آب توسط نیروهای اسرائیلی در غزه کشته شدند",
+    "Iran war live: Tehran says no date set for US talks, Hormuz Strait closed": "جنگ ایران زنده: تهران اعلام کرد تاریخ مذاکرات آمریکا مشخص نیست و تنگه هرمز بسته شد",
+    "IDF reservist killed, nine others wounded by explosive in southern Lebanon": "یک سرباز ذخیره ارتش اسرائیل کشته و نه نفر دیگر بر اثر انفجار در جنوب لبنان زخمی شدند",
+    "Hind Rajab Foundation files formal complaint against released IDF soldier in Sri Lanka": "بنیاد هند رجب شکایت رسمی علیه سرباز آزادشده ارتش اسرائیل در سریلانکا ثبت کرد"
   }
 }

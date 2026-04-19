@@ -1806,7 +1806,10 @@
     "ea0ea941308c4069ca252f3c",
     "d238b1d3f9f0968ac82ba7ed",
     "47e503a8e4f9875fd5ec8160",
-    "f95a2bf60fbe15305820811c"
+    "f95a2bf60fbe15305820811c",
+    "eee56dabbf30f6389ce4ff0a",
+    "1716222655fc3349ad826b5f",
+    "b75b24550b7a7a7010bed851"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3615,7 +3618,10 @@
     "3e46c21cd41bc564ccf6bf59",
     "19977c037c3e13833c6ad674",
     "2a2c991b84756b4edb2f1b5e",
-    "373380a09dd99f74e3491ca4"
+    "373380a09dd99f74e3491ca4",
+    "71f925c9745463fecdcc62a2",
+    "f65505adde88c20806e56d8c",
+    "06de942e7d5f3d9469c2b7e6"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3688,8 +3694,8 @@
     "730f98b14ecc7fa84f9391d8",
     "e328a997ac27c8f6b2504dd2"
   ],
-  "last_digest_hash": "7bba925baadd4604fb370bb195e36d41411190081db8cb8c63d37b7f118d9400",
-  "last_run_iso": "2026-04-19T21:49:00.166906+00:00",
+  "last_digest_hash": "ad55d9c27f70cb39bfa2f4f99759a3edc3860591c7d6cc7999d20dc9a3cdeb98",
+  "last_run_iso": "2026-04-19T22:52:28.941660+00:00",
   "last_breaking_run_iso": "2026-04-19T13:23:18.841818+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -5498,6 +5504,9 @@
     "Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC": "تهران هرگز کنترل تنگه هرمز را واگذار نخواهد کرد، سیاستمدار ارشد ایرانی به بی بی سی گفت",
     "Argentina’s Milei backs US-Israel war on Iran in Jerusalem visit": "میلی از آرژانتین از جنگ آمریکا و اسرائیل علیه ایران در سفر به اورشلیم حمایت می کند",
     "West Bank settlement of Sa-Nur reestablished, 21 years after its evacuation": "شهرک سانور در کرانه باختری پس از ۲۱ سال پس از تخلیه دوباره تأسیس شد",
-    "Schools, shops shut in northern Israel to protest the Lebanon ceasefire": "مدارس و مغازه ها در شمال اسرائیل برای اعتراض به آتش بس لبنان تعطیل شدند"
+    "Schools, shops shut in northern Israel to protest the Lebanon ceasefire": "مدارس و مغازه ها در شمال اسرائیل برای اعتراض به آتش بس لبنان تعطیل شدند",
+    "US forces attack and seize Iranian ship Touska near Strait of Hormuz": "نیروهای آمریکایی به کشتی ایرانی توسکا در نزدیکی تنگه هرمز حمله کرده و آن ها را توقیف می کنند",
+    "IDF says photo of soldier destroying Jesus statue in Lebanon is genuine, vows action": "ارتش اسرائیل می گوید عکس سربازی که مجسمه عیسی را در لبنان نابود می کند واقعی است و قول اقدام می دهد",
+    "Police scrap plan for officers to join audience of contentious right-wing talk show": "پلیس برنامه ای برای پیوستن افسران به مخاطبان برنامه گفت وگوی جنجالی راست گرا را لغو کرد"
   }
 }

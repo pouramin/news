@@ -1752,7 +1752,13 @@
     "18aac4799e2101e0f7509949",
     "081fcd8148c00ed5d471b0e6",
     "6ddf65da600b2704c8c7c8d2",
-    "f11bf4a2d87d9f41b3c08102"
+    "f11bf4a2d87d9f41b3c08102",
+    "730f98b14ecc7fa84f9391d8",
+    "b86be7e402df1a9a7d44c52d",
+    "a18a73151e314694462da586",
+    "60edd7e6a9a9755ecc2e040d",
+    "b0443490c16d3b2cddf816c5",
+    "f5fff0fb016d36d249628192"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3507,7 +3513,13 @@
     "f7bb5fc8128275a8ea48f46c",
     "88ee83071bb4915d21053bef",
     "cc28f2326b93ecd436a87db5",
-    "56811d892fe6aa40cef7dbbd"
+    "56811d892fe6aa40cef7dbbd",
+    "bf9022aee0941a246de4a4bd",
+    "6876bcb8fb8e903b3d7d7eda",
+    "a33b477c771639f3d3a24d39",
+    "423a0e645f480f2a96d98e77",
+    "e995d6e96be33fce35acb062",
+    "9aa044ad86f061418321f84c"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3576,11 +3588,12 @@
     "7d669b49ca292b63dafa8cbc",
     "e49e9acc9ea276da4e465c0a",
     "be892ed1f75b95a63a790411",
-    "2178e3e9b2293e9b162aa629"
+    "2178e3e9b2293e9b162aa629",
+    "730f98b14ecc7fa84f9391d8"
   ],
-  "last_digest_hash": "989abde080e76c080032573f67ebf6ea347ea51e8ecf525230b469e774892e6f",
-  "last_run_iso": "2026-04-19T09:58:40.408749+00:00",
-  "last_breaking_run_iso": "2026-04-17T19:16:45.946001+00:00",
+  "last_digest_hash": "f15c64ff60ec72ab92e667c1615d2393bc8ee2605aa8833c1e7429747ddb567e",
+  "last_run_iso": "2026-04-19T10:56:39.131313+00:00",
+  "last_breaking_run_iso": "2026-04-19T10:56:39.131313+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -5334,6 +5347,12 @@
     "Fire engulfs more than 200 homes in Malaysian floating village": "آتش بیش از ۲۰۰ خانه در روستای شناور مالزی را در بر گرفت",
     "Iran war: What is happening on day 51 of the US-Iran conflict?": "جنگ ایران: در روز پنجاه و یکم درگیری آمریکا و ایران چه اتفاقی در حال رخ دادن است؟",
     "How the Israeli military targets the people who save lives": "چگونه ارتش اسرائیل کسانی را هدف قرار می دهد که جان ها را نجات می دهند",
-    "Iran, US still ‘far’ from breakthrough amid Strait of Hormuz impasse": "ایران و آمریکا هنوز «دور» از پیشرفت در بن بست تنگه هرمز هستند"
+    "Iran, US still ‘far’ from breakthrough amid Strait of Hormuz impasse": "ایران و آمریکا هنوز «دور» از پیشرفت در بن بست تنگه هرمز هستند",
+    "IDF reservist killed, nine wounded by explosive in southern Lebanon amid truce": "نیروی ذخیره ارتش اسرائیل کشته و نه نفر زخمی بر اثر انفجار در جنوب لبنان در جریان آتش بس",
+    "Zelensky condemns US extension of Russian sanctions waiver": "زلنسکی تمدید معافیت تحریم های روسیه توسط آمریکا را محکوم کرد",
+    "Arson attempt hits London synagogue; Iran-linked group claims attack on Jewish-tied building": "تلاش برای آتش سوزی عمدی کنیسه لندن را هدف قرار داد؛ گروه مرتبط با ایران ادعای حمله به ساختمانی مرتبط با یهودیان را بر عهده دارد",
+    "Displaced Lebanese families return home despite Israeli attacks": "خانواده های آواره لبنانی با وجود حملات اسرائیل به خانه بازگشتند",
+    "Allies back Starmer as Mandelson’s Epstein link leaves UK leader fighting for his job": "متحدان از استارمر حمایت می کنند، چرا که ارتباط ماندلسون با اپستین باعث می شود رهبر بریتانیا برای جایگاهش بجنگد",
+    "LIVESTREAM: Reading of the Declaration of Independence at the Kotel - Sponsored Content": "پخش زنده: خوانش اعلامیه استقلال در کتل - محتوای حمایت شده"
   }
 }

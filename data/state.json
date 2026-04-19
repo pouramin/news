@@ -1793,7 +1793,10 @@
     "0a2327291e326c56ae2af8db",
     "b05b38e1d56cafda901d7bc5",
     "ff51122ed1e20af5855b7e28",
-    "d4b2595614f50900e1e32561"
+    "d4b2595614f50900e1e32561",
+    "5e6879b3f70666a57f0d38ce",
+    "846d849f4599d3530f5190d1",
+    "06c2e944f116cb699b2abb5f"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3589,7 +3592,10 @@
     "35063dd9710ccfbe79394ee3",
     "1a6e9222e2d1ad327541da2c",
     "9e7e8d61ac2f8c34d41eb476",
-    "d2e99a9fc1b6bd5faeceffee"
+    "d2e99a9fc1b6bd5faeceffee",
+    "7fac0e132222821f756bbe3f",
+    "c3037536852ccb6376d77ce3",
+    "dd17749686ccbc27b0152f76"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3662,8 +3668,8 @@
     "730f98b14ecc7fa84f9391d8",
     "e328a997ac27c8f6b2504dd2"
   ],
-  "last_digest_hash": "ed4df682536ea8a32022bffb220a0c1a262b3522fcdaa3370385f1c43f023de2",
-  "last_run_iso": "2026-04-19T19:06:10.530768+00:00",
+  "last_digest_hash": "c10b70effbc9069ec7545bc8550cdc18d920722e53ec31f4c47347a807a84eb4",
+  "last_run_iso": "2026-04-19T19:51:37.927233+00:00",
   "last_breaking_run_iso": "2026-04-19T13:23:18.841818+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -5459,6 +5465,9 @@
     "Iran and Israel: From friends to enemies": "ایران و اسرائیل: از دوستان تا دشمنان",
     "Israeli attacks on healthcare across Iran, Lebanon and Gaza": "حملات اسرائیل به مراقبت های بهداشتی در سراسر ایران، لبنان و غزه",
     "Culture Minister Miki Zohar questioned by police in Histadrut corruption probe": "وزیر فرهنگ، میکی زوهار، توسط پلیس در پرونده فساد هستدروت مورد بازجویی قرار گرفت",
-    "Israel wins 3 medals in European Judo Championships, including gold for Raz Hershko": "اسرائیل ۳ مدال در مسابقات جودوی اروپا کسب کرده است که شامل طلای راز هرشکو می شود"
+    "Israel wins 3 medals in European Judo Championships, including gold for Raz Hershko": "اسرائیل ۳ مدال در مسابقات جودوی اروپا کسب کرده است که شامل طلای راز هرشکو می شود",
+    "Did the US misjudge Iran? A military strategist answers": "آیا آمریکا ایران را اشتباه قضاوت کرد؟ یک استراتژیست نظامی پاسخ می دهد",
+    "Israeli ministers celebrate re-establishment of Sa-Nur West Bank settlement": "وزرای اسرائیلی بازتأسیس شهرک سا-نور در کرانه باختری را جشن گرفتند",
+    "Charges against PM’s top aides could be dropped as prosecution fails to extradite Einhorn": "اتهامات علیه دستیاران ارشد نخست وزیر ممکن است به دلیل عدم استرداد اینهورن توسط دادستان، کنار گذاشته شود"
   }
 }

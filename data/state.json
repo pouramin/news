@@ -1817,7 +1817,12 @@
     "2421906a1504df04587f78a6",
     "1e0016d540adc57c72e41683",
     "4c91a4c16fc6470f08fc1a95",
-    "1d94e70a2463dd970095ab94"
+    "1d94e70a2463dd970095ab94",
+    "5a020df5d628b98dbce7adc1",
+    "e7046f357de5cc2e94976659",
+    "4b22659b4812ad2c42542e84",
+    "5a6b65d64a5c1a872ef0e2a2",
+    "632be1ba5b37112e385db1ec"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3637,7 +3642,12 @@
     "5fc43943eaf938110547d9d9",
     "686b7460b21264de5df86c1f",
     "ef4cd448e1e4e7e6200d312a",
-    "d2fce673de7797a1c6205bbb"
+    "d2fce673de7797a1c6205bbb",
+    "a265c374b213de69545b273a",
+    "56de8b4fc842dab579bf53d2",
+    "95ef27b9cfb3e5d30df27312",
+    "cb566c5d748e79fe5c72ac13",
+    "78367746c0783b6bc188a268"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3710,8 +3720,8 @@
     "730f98b14ecc7fa84f9391d8",
     "e328a997ac27c8f6b2504dd2"
   ],
-  "last_digest_hash": "e73fd978f82b396aad040d435dec620a94fcbfbd012c25ebce4b0fe29cde3b16",
-  "last_run_iso": "2026-04-20T03:48:52.914828+00:00",
+  "last_digest_hash": "2000b2386f5570c4f263374c3ea60ed11ebb48ed64e72cc9ad97e7abc0fcd83b",
+  "last_run_iso": "2026-04-20T06:25:44.922777+00:00",
   "last_breaking_run_iso": "2026-04-19T13:23:18.841818+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
@@ -5531,6 +5541,11 @@
     "Iran war live: Tehran slams US ‘piracy’ after ship seizure, vows response": "جنگ ایران زنده: تهران پس از توقیف کشتی ها، «دزدی دریایی» آمریکا را محکوم کرد و وعده واکنش داد",
     "Louisiana father kills 7 of his children plus another child in shooting at house — police": "پدری در لوئیزیانا هفت فرزندش و یک کودک دیگر را در تیراندازی به خانه کشت — پلیس",
     "Outrage after photo shows Israeli soldier smashing Jesus statue in Lebanon": "خشم پس از عکسی که نشان می دهد سرباز اسرائیلی مجسمه عیسی را در لبنان می شکند",
-    "Report: IDF proceeding with demolition of south Lebanese towns despite ceasefire": "گزارش: ارتش اسرائیل با وجود آتش بس به تخریب شهرهای جنوب لبنان ادامه می دهد"
+    "Report: IDF proceeding with demolition of south Lebanese towns despite ceasefire": "گزارش: ارتش اسرائیل با وجود آتش بس به تخریب شهرهای جنوب لبنان ادامه می دهد",
+    "North Korea again tests cluster munitions in launch observed by Kim and his daughter": "کره شمالی بار دیگر مهمات خوشه ای را در پرتاب مشاهده شده توسط کیم و دخترش آزمایش می کند",
+    "British PM to face angry MPs calling for his resignation amid Mandelson-Epstein scandal": "نخست وزیر بریتانیا در پی رسوایی ماندلسون-اپستین با نمایندگان خشمگین که خواستار استعفای او هستند روبرو خواهد شد",
+    "To stay or to go? No good options for Lebanon’s displaced": "می خواهی بمانی یا بروی؟ گزینه های خوبی برای آوارگان لبنان وجود ندارد",
+    "Outrage after Israeli soldier desecrates statue of Jesus Christ in Lebanon": "خشم پس از بی احترامی به مجسمه عیسی مسیح توسط سرباز اسرائیلی در لبنان",
+    "As barbed wire blocks kids from class, Palestinians stage ‘Freedom School’": "در حالی که سیم خاردار مانع ورود کودکان به کلاس می شود، فلسطینی ها «مدرسه آزادی» را برگزار می کنند"
   }
 }

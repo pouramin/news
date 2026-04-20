@@ -1829,7 +1829,21 @@
     "fd26f60e2d1fde633ff07d90",
     "97da0335f3a0f0c2e048e37d",
     "a500c589aaff1e9a3b9c3186",
-    "5de64897b881357b3f101d5c"
+    "5de64897b881357b3f101d5c",
+    "f8c08df46cf2d61b036943f1",
+    "c8a692592eebb3083a1d31af",
+    "d83d470317339abd3a1999a8",
+    "3f5c416286e8544d255be84d",
+    "2e502d699cd507cc14f4057e",
+    "9a2bc23414dbcb46ce8f3c22",
+    "9e32d53b434fb1657cb10644",
+    "eff915a1202c23a53024604b",
+    "01c8aec94c1b195f223d344e",
+    "fb2824a90a682648e06e98c2",
+    "71701960533127672acb6132",
+    "9e0285b62abb5b94053d8f8a",
+    "11780fda748b949f72ea3775",
+    "9a17a01844e8c15e8461dd2e"
   ],
   "sent_signatures": [
     "85355039f939a43705e14ed1",
@@ -3661,7 +3675,21 @@
     "88b2b58d85ea198444249f2d",
     "f075726cf02af71af0835304",
     "773cb6c2bf588ad9ce80f3d1",
-    "1ed9fbf90068014c6087abce"
+    "1ed9fbf90068014c6087abce",
+    "71d2d3cfc37266b35dad0fb6",
+    "b3bb0b113f286864c07441c2",
+    "e1294ddc344d1ce12ec5582a",
+    "72df8b83864415c6e240c265",
+    "f207e374883fb333a707f4d3",
+    "9e062fae8fe776417c0d4dec",
+    "46ed11ad70033a4bc7dc5742",
+    "ff3f4b152a5ea731cc27557b",
+    "18dd59dd6f97da7f50fdfbd0",
+    "4799c907ffe51ce842f52fc1",
+    "b90b363a0885aef138b51329",
+    "4dc79249f5fbed10ddce350c",
+    "e6cfc5e9e81cd05fd871a2f6",
+    "a24e50c4d7cf2fe12706b35c"
   ],
   "breaking_ids": [
     "f360408c303bb4df05f4b65d",
@@ -3732,11 +3760,12 @@
     "be892ed1f75b95a63a790411",
     "2178e3e9b2293e9b162aa629",
     "730f98b14ecc7fa84f9391d8",
-    "e328a997ac27c8f6b2504dd2"
+    "e328a997ac27c8f6b2504dd2",
+    "f8c08df46cf2d61b036943f1"
   ],
-  "last_digest_hash": "88f45cc3b32649ea500966bfcc7b68786706206170f8f105bd4dfed948f592bc",
-  "last_run_iso": "2026-04-20T09:16:56.254477+00:00",
-  "last_breaking_run_iso": "2026-04-19T13:23:18.841818+00:00",
+  "last_digest_hash": "7ebb0099a60e259e4f690b4637c391775bead7261c20fc04cf0e388ea1d89f01",
+  "last_run_iso": "2026-04-20T11:39:38.079301+00:00",
+  "last_breaking_run_iso": "2026-04-20T11:39:38.079301+00:00",
   "translator_cache": {
     "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report": "12 US troops wounded, 2 seriously, in Iranian attack on Saudi base — report",
     "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel": "Joining war, Yemen’s Iran-backed Houthis launch missile attack on southern Israel",
@@ -5567,6 +5596,20 @@
     "The Strokes highlight destroyed Gaza and Iran universities at Coachella": "نکات برجسته استروکز دانشگاه های غزه و ایران را در کوچلا نابود کرد",
     "Iran says no talks with US for now, casting doubt over Pakistan efforts": "ایران اعلام کرده فعلا هیچ مذاکره ای با آمریکا انجام نشده است و این موضوع تردیدهایی درباره تلاش های پاکستان ایجاد کرده است",
     "Palestinian children protest against siege on their school": "کودکان فلسطینی علیه محاصره مدرسه شان اعتراض می کنند",
-    "New drought-resistant wheat variety named after October 7 victim": "رقم جدید گندم مقاوم به خشکسالی به نام قربانی ۷ اکتبر نامگذاری شده است"
+    "New drought-resistant wheat variety named after October 7 victim": "رقم جدید گندم مقاوم به خشکسالی به نام قربانی ۷ اکتبر نامگذاری شده است",
+    "Israel announces exposure of Iranian terror network targeting Israelis abroad": "اسرائیل افشای شبکه تروریستی ایرانی را که اسرائیلی های خارج را هدف قرار داده اعلام کرد",
+    "Second round in Islamabad: Who are the main US-Iran negotiators?": "دور دوم در اسلام آباد: مذاکره کنندگان اصلی آمریکا و ایران چه کسانی هستند؟",
+    "Two young men set to be charged with spying for Iran": "دو جوان به اتهام جاسوسی برای ایران متهم شدند",
+    "Iran ‘is our war,’ says UK lawmaker Greg Smith — contrary to PM Starmer’s claims": "گرگ اسمیت، نماینده بریتانیا، می گوید ایران «جنگ ماست» — برخلاف ادعاهای نخست وزیر استارمر",
+    "US captures Iranian ship Touska amid mediation efforts: All we know": "آمریکا کشتی ایرانی توسکا را در میان تلاش های میانجی گری تصرف کرد: همه آنچه می دانیم",
+    "Free webinar: Managing your Israeli property remotely in uncertain times - Sponsored Content": "وبینار رایگان: مدیریت ملک اسرائیلی شما به صورت از راه دور در زمان های نامطمئن - محتوای حمایت شده",
+    "The 3.00 squeeze: Why the surging shekel is a threat to Israel’s economy": "فشار ۳.۰۰: چرا افزایش شکل تهدیدی برای اقتصاد اسرائیل است",
+    "Radical settler group to stage march by Gaza border to ‘renew Jewish hold on Gaza Strip’": "گروه شهرک نشین رادیکال راهپیمایی را در نزدیکی مرز غزه برگزار خواهد کرد تا «تسلط یهودیان بر نوار غزه را تجدید کند»",
+    "This Yom HaZikaron, keep their memory alive through a Chumash with their stories - Sponsored Content": "در این یوم هازیکارون، یاد آن ها را از طریق یک چومش با داستان هایشان زنده نگه دارید - محتوای حمایت شده",
+    "Iranian woman arrested in US for allegedly trafficking arms to Sudan": "زن ایرانی در آمریکا به اتهام قاچاق اسلحه به سودان بازداشت شد",
+    "UK arrests 2 teens as ‘thugs for hire’ after latest arson attack on London synagogue": "بریتانیا دو نوجوان را به عنوان «اراذل اجاره ای» پس از آخرین حمله آتش سوزی به کنیسه لندن بازداشت کرد",
+    "The EU must not wait till Israel starts executing Palestinians": "اتحادیه اروپا نباید منتظر بماند تا اسرائیل شروع به اعدام فلسطینی ها کند",
+    "Despite cost of living hikes, Israelis are eating more beef, veal": "با وجود افزایش هزینه های زندگی، اسرائیلی ها بیشتر گوشت گاو و گوشت گوساله می خورند",
+    "Remembering Daniel – with Rabbi Doron Perez - Sponsored Content": "یادآوری دانیال – با خاخام دورون پرز – محتوای حمایت شده"
   }
 }
